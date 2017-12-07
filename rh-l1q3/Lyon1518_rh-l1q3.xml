@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber I, Quaestio 3</title>
+        <author>Robert Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2017-12-07">December 12, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>A Sentences Commentary Text Archive Project</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="Lyon1518">Lyon 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-12-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text type="diplomatic" xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="28-r"/><cb ed="#L" n="a"/> 
+      </div>
+    </front>
+    <body>
+      <div xml:id="rh-l1q3">
+        <head xml:id="rh-l1q3-Hd1e93">Quaestio 3</head>
+        <p xml:id="rh-l1q3-d1e96">
+          <lb ed="#L"/>Quaeritur ulterius 
+          <lb ed="#L"/><sic>rius</sic> utrum viator teneatur frui 
+          <lb ed="#L"/>solo deo;
+        </p>
+        <p xml:id="rh-l1q3-d1e107">
+          Et videtur quod non: quia 
+          <lb ed="#L"/>homo potest meritoriae nolle frui 
+          <lb ed="#L"/>deo, ergo etc. Consequentia 
+          <lb ed="#L"/>videtur bona: quia per actum repugnantem ali<lb ed="#L"/>cui 
+          actui cui homo tenetur: non potest necessitari
+          <lb ed="#L"/>Antecedens probatur: quia ponitur quod sortes videat pla<lb ed="#L"/>tonem 
+          in extrema necessitate: et quo eum possit 
+          iuvare si apponat diligentiam maximam. quo 
+          <lb ed="#L"/>posito arguitur sic. sortes potest meritorie vel<lb ed="#L"/>le 
+          iuvare platonem; immo tenetur ad hoc: ergo po<lb ed="#L"/>test 
+          meritorie non velle frui deo. Consequen<lb ed="#L"/>tia 
+          patet: quia non potest iuvare platonem nisi di<lb ed="#L"/>mittat 
+          fruitionem dei: quia non potest eum iuvare 
+          nisi dimittat cogitationem deo deo: et per consequens 
+          <lb ed="#L"/>fruitionem. 
+        </p>
+        <p xml:id="rh-l1q3-d1e136">
+          Potest dici ad istud quod in tali casu 
+          <lb ed="#L"/>concedendum est quod sortes potest dimittere frui
+          ...
+        </p>
+        <!-- jump to 36v -->
+        <p xml:id="rh-l1q3-d1e144">
+          <pb ed="#L" n="36-v"/>
+          <cb ed="#L" n="a"/>
+          Secunda conclusio est ista. homo potest 
+          <lb ed="#L"/>licite et meritorie frui quacumque creatura 
+          <lb ed="#L"/>Probatur sic. videat Petrus christum et Iacobum: 
+          et existimet Iacobus. esse christum. et stante isto er<lb ed="#L"/>rore 
+          invincibili in petro volo quod Petrus velit 
+          Iacobum esse deum: et diligat eum super omnia. iste fruitur
+          <cb ed="#L" n="b"/>
+          <lb ed="#L"/>creatura: et tamen meritorie: quia ignorantia sua 
+          <lb ed="#L"/>est invincibilis in hoc scilicet quod credi quod Iacobus 
+          <lb ed="#L"/>sit christus: eo fruitur. potest etiam esse error invin<lb ed="#L"/>cibilis 
+          in aliquo quod diabolus sit deus: si transfi<lb ed="#L"/>guraret 
+          se. sic de quacumque creatura argui po<lb ed="#L"/>test. 
+        </p>
+        <!-- skip -->
+        <p xml:id="rh-l1q3-d1e175">
+          Sexta conclusio. sic posset esse per erro<lb ed="#L"/>rem 
+          invincibilem intellectus: quod Petrus eadem 
+          <lb ed="#L"/>re fruatur meritorie quam odit. Ponatur quod 
+          <lb ed="#L"/>Petrus diligat christum summe super omnia, et 
+          <lb ed="#L"/>tamen numquam viderit christum, nec sciat discer<lb ed="#L"/>nere 
+          christum ab alio. pono similiter quod sum<lb ed="#L"/>me 
+          odiat Judam de praecepto dei; quia prodidit et 
+          <lb ed="#L"/>tradidit christum, nesciat tamen discernere quis 
+          <lb ed="#L"/>sit Judas. quae posito occurrat sibi Judas: et 
+          <lb ed="#L"/>credat Petrus ipsum esse christum, tunc arguitur 
+          <lb ed="#L"/>sic. Istum meritorie diligit super omnia, iste est 
+          <lb ed="#L"/>Judas, ergo Judam meritorie diligit super omnia: 
+          <lb ed="#L"/>sed maxime odit Judam per casum: ergo eundem 
+          <lb ed="#L"/>maxime odit et maxime diligit simul et se<lb ed="#L"/>mel. 
+          et utrumque meritorie, quia odium Jude est 
+          <lb ed="#L"/>sibi praeceptum a deo. Nec est oc inconveniens 
+          <lb ed="#L"/>idem apprehendere per diversas intentiones: et 
+          <lb ed="#L"/>ignoratur quod intentiones illae sint eiusdem rei: 
+          <lb ed="#L"/>sicut in praecedent conclusione dictum est. 
+        </p>
+      </div>  
+    </body>
+  </text>
+</TEI>

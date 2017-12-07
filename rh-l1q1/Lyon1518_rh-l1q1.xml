@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Librum I, Quaestio 1</title>
+        <title>Liber I, Quaestio 1</title>
         <author>Robert Holcot</author>
         <editor>Jeffrey C. Witt</editor>
       </titleStmt>
@@ -1250,8 +1250,8 @@
           <lb ed="#L"/>credendi. Unde <ref xml:id="rh-l1q1-Rd1e6386"><name ref="#Augustine">Augustinus</name> super Ioan. homilia 
           <lb ed="#L"/><num>xxix</num></ref>. <quote xml:id="rh-l1q1-Qd1e6395">Credere in deum est credendo amare: 
           <lb ed="#L"/>credendo in eum ire: credendo ei adhaerere: 
-          <lb ed="#L"/>eius membris incorporari.</quote> Item <ref xml:id="rh-l1q1-Rd1e6402"><name ref="#Lombard">Lombard</name> 
-          <lb ed="#L"/>senten. libro <num>iii</num></ref> <quote xml:id="rh-l1q1-Qd1e6411">dilectio opus fidei dicitur</quote>. Similiter potest 
+            <lb ed="#L"/>eius membris incorporari.</quote> Item <ref xml:id="rh-l1q1-Rd1e6402" corresp="#rh-l1q1-Qd1e6411"><name ref="#Lombard">Lombard</name> 
+            <lb ed="#L"/>senten. libro <num>iii</num></ref> <quote xml:id="rh-l1q1-Qd1e6411" source="http://scta.info/resource/pl-l3d23c4-d1e128">dilectio opus fidei dicitur</quote>. Similiter potest 
           <lb ed="#L"/>dici quod velle assentire vel acceptare assensum 
           <lb ed="#L"/>vel gaudere de assensu est meritorium. quia omne quod 
           <lb ed="#L"/>est meritum: essentialiter est actus voluntatis quae 
@@ -1476,7 +1476,8 @@
           subtili: ad cuius fidem explicitam non omnes 
           <lb ed="#L"/>tenentur. et per consequens si adhaereat illi: habens tamen prom<lb ed="#L"/>ptum 
           animum credendi ea sola quae ecclesia credit 
-          <lb ed="#L"/>talis non est haereticus nec infidelis. Unde <name>Vin<lb ed="#L"/>centius</name> 
+          <lb ed="#L"/>talis non est haereticus nec infidelis.
+          Unde <name>Vin<lb ed="#L"/>centius</name> 
           in secunda parte speculi historialis nar<lb ed="#L"/>rat 
           allegando helinandum epistolam de quodam episcopo 
           <lb ed="#L"/>Asiae qui decebatur Papias: qui fuit auctor hae<lb ed="#L"/>reticorum 
