@@ -51,7 +51,8 @@
     <body>
       <div xml:id="rh-l1q1">
         <head xml:id="rh-l1q1-Hd1e3494">Quaestio 1</head>
-        <p xml:id="rh-l1q1-d1e3497"><pb ed="#L" n="1-r"/><cb ed="#L" n="a"/><lb ed="#L"/>Utrum qui<lb ed="#L"/>libet 
+        <p xml:id="rh-l1q1-d1e3497">
+          <lb ed="#L" n="9"/>Utrum qui<lb ed="#L"/>libet 
           viator exi<lb ed="#L"/>stens in gratia 
           <lb ed="#L"/>assentiendo arti<lb ed="#L"/>cuis 
           <lb ed="#L"/>fidei me<lb ed="#L"/>reatur 
@@ -117,7 +118,7 @@
           se ad moriendum pro fide ecclesiae: quod opus 
           <lb ed="#L"/>sit a. plato vero habeat minimum motum contri<lb ed="#L"/>tionis 
           qui sufficit ad deletionem culpae: qui 
-          motus sit b. tunc arguitur sic. Plato plus mere<lb ed="#L"/>bitur 
+          <lb ed="#L"/>motus sit b. tunc arguitur sic. Plato plus mere<lb ed="#L"/>bitur 
           per b quam sortes per a. igitur plato plus mere<lb ed="#L"/>bitur 
           per actum minus bonum quam sortes per actum 
           <lb ed="#L"/>multo meliorem. Consequentia patet: quia a est 
@@ -154,7 +155,7 @@
           dato quod istum actum novum non fecisset: 
           <lb ed="#L"/>et per consequens frustra fecisset istum novum actum: si 
           <lb ed="#L"/>eidem nullum novum praemium corresponderet. sed 
-          <lb ed="#L"/>sorti antequam eliceret actum a: debebatur aeterni<pb ed="#L" n="1-v"/><cb ed="#L" n="a"/>tas 
+          <lb ed="#L"/>sorti antequam eliceret actum a: debebatur aeterni<pb ed="#L" n="1-v"/><cb ed="#L" n="a"/><lb ed="#L"/>tas 
           visionis et fruitionois divinae essentiae: et 
           etiam securitas et omnia quae sunt de essentia bea<lb ed="#L"/>titudinis. 
           ergo per nullum istorum nec per omnia simul 
@@ -169,9 +170,10 @@
           actum ita meritorium <pc type="virgula">/</pc> sicut faceret committen<lb ed="#L"/>do 
           peccatum mortale et penitendo. et similiter quod im<lb ed="#L"/>possibile 
           est hominem facere opus melius quam est 
-          <lb ed="#L"/>suum primum opus meritorium: quantumcumque sit re<lb ed="#L"/>missum.</p>
-        
-        <p xml:id="rh-l1q1-d1e3830">Et confirmo istam rationem: et probo quod 
+          <lb ed="#L"/>suum primum opus meritorium: quantumcumque sit re<lb ed="#L"/>missum.
+        </p>
+        <p xml:id="rh-l1q1-d1e3830">
+          Et confirmo istam rationem: et probo quod 
           <lb ed="#L"/>minimus actus contritionis est magis meritorius 
           <lb ed="#L"/>quam quicumque actus martyrii in duplo saltem. 
           <lb ed="#L"/>Sint sortes et plato sicut prius: sortes opti<lb ed="#L"/>mus 
@@ -375,7 +377,7 @@
           nisi ei ad sit perseverantia finalis.</p>
         <!-- end of principal arguments -->
         <p xml:id="rh-l1q1-d1e4300">Ad op<lb ed="#L"/>positum 
-          quaestionis est illud <ref xml:id="rh-l1q1-Rd1e4304"><title ref="#hebr">ad hebraeos</title> <num>xi</num></ref>. <quote xml:id="rh-l1q1-Qd1e4311" ana="#hebr11_33">San<lb ed="#L"/>cti 
+          quaestionis est illud <ref xml:id="rh-l1q1-Rd1e4304"><title ref="#hebr">ad hebraeos</title> <num>xi</num></ref>. <quote xml:id="rh-l1q1-Qd1e4311" source="http://scta.info/resource/hebr11_33">San<lb ed="#L"/>cti 
           per diem vicerunt regna: operati sunt iustitiam 
           adepti sunt repromissiones.</quote> sed adipisci re<lb ed="#L"/>promissiones 
           est mereri vitam aeternam. ergo 
@@ -630,7 +632,7 @@
         <p xml:id="rh-l1q1-d1e4895">Septimo specialiter contra hoc quod dicitur quod ratio<lb ed="#L"/>nes 
           et miracula causant tantum opinionem in 
           <lb ed="#L"/>non affectatis. contra. assensus in articulos fi<lb ed="#L"/>dei 
-          est in daemonibus: quia <quote xml:id="rh-l1q1-Qd1e4903" ana="#iac2_19">daemones credunt et 
+          est in daemonibus: quia <quote xml:id="rh-l1q1-Qd1e4903" source="http://scta.info/resource/iac2_19">daemones credunt et 
           <lb ed="#L"/>contremiscunt.</quote> <ref xml:id="rh-l1q1-Rd1e4908"><title ref="#iac">Iaco</title> ii</ref> quaero ergo utrum ille 
           <lb ed="#L"/>assensus causat ex evidentia rei: et hoc est 
           <lb ed="#L"/>impossibile: quia illa evidentia foret ex visione 
@@ -1033,8 +1035,8 @@
         <p xml:id="rh-l1q1-d1e5822">Primo quia si non: deus irrationabiliter prae<lb ed="#L"/>ciperet 
           homini quod crederet: et irrationabiliter pu<lb ed="#L"/>niret 
           eum si non crederet. sed utrumque facit deus 
-          <lb ed="#L"/><ref xml:id="rh-l1q1-Rd1e5829"><title ref="#mc">Marci</title> ultimo</ref>. <quote xml:id="rh-l1q1-Qd1e5834" ana="#mc16_16">Qui crediderit et baptiza<lb ed="#L"/>tus 
-            <unclear>fuerit</unclear>: salvus erit</quote>. quantum ad primum. <quote xml:id="rh-l1q1-Qd1e5842" ana="#mc16_16">Qui non crediderit: condemnabitur</quote> quantum 
+          <lb ed="#L"/><ref xml:id="rh-l1q1-Rd1e5829"><title ref="#mc">Marci</title> ultimo</ref>. <quote xml:id="rh-l1q1-Qd1e5834" source="http://scta.info/resource/mc16_16">Qui crediderit et baptiza<lb ed="#L"/>tus 
+            <unclear>fuerit</unclear>: salvus erit</quote>. quantum ad primum. <quote xml:id="rh-l1q1-Qd1e5842" source="http://scta.info/resource/mc16_16">Qui non crediderit: condemnabitur</quote> quantum 
           <lb ed="#L"/>ad secundum.</p>
         <!-- break is a little ambiguous in text -->
         <p xml:id="rh-l1q1-d1e5851">Praeterea <ref xml:id="rh-l1q1-Rd1e5853"><name ref="#Augustine">Augustinus</name> <title>de fide 
@@ -1243,7 +1245,8 @@
           <lb ed="#L"/>modo accipitur credere strictissime pro assen<lb ed="#L"/>tire 
           revelato a deo et testimonio per mira<lb ed="#L"/>cula: 
           et velle vivere et operari secundum ea sic crede<lb ed="#L"/>re 
-          includit tam actus voluntatis quam intelle<lb ed="#L"/>ctus. Et istud solum credere est meritorium: 
+          includit tam actus voluntatis quam intelle<lb ed="#L"/>ctus. 
+          Et istud solum credere est meritorium: 
           <lb ed="#L"/>loquendo de meritorio stricte: et secundo 
           <lb ed="#L"/>modo secundae distinctionis. et isto modo loqui<lb ed="#L"/>tur 
           <name ref="#Augustine">Augustinus</name> de fide in multis locis: et de actu 
@@ -1443,10 +1446,11 @@
           quae est fides operans per dilectionem: fie<lb ed="#L"/>ret 
           in nolentibus. et hoc est impossibile maxime 
           <lb ed="#L"/>per compulsionem corporalem: quia iste terminus fides 
-          <lb ed="#L"/>sic acceptus connotat actum liberum voluntatis.</p>
-        
-        <p xml:id="rh-l1q1-d1e6909">Ad tertium argumentum. quando infertur quod si sic: tunc cre<lb ed="#L"/>dere 
-          non foret virtuosum nec meritorium: stri<cb ed="#L" n="b"/>cte 
+          <lb ed="#L"/>sic acceptus connotat actum liberum voluntatis.
+        </p>
+        <p xml:id="rh-l1q1-d1e6909">
+          <lb ed="#L"/>Ad tertium argumentum. quando infertur quod si sic: tunc cre<lb ed="#L"/>dere 
+          non foret virtuosum nec meritorium: stri<cb ed="#L" n="b"/><lb ed="#L"/>cte 
           loquendo de meritorio: sicut schola mo<lb ed="#L"/>derna 
           loquitur: nihil formaliter vocans merito<lb ed="#L"/>rium 
           nisi actum liberum voluntatis: est tamen merei<lb ed="#L"/>torium 
@@ -1455,15 +1459,17 @@
           <lb ed="#L"/>ab institutore legis. et quando dicitur quod non est virtuo<lb ed="#L"/>sum 
           credere: dico quod est virtuosum denomi<lb ed="#L"/>native 
           a virtute intelligibili. Et enim credere 
-          <lb ed="#L"/>opus sapientiae vel prudentiae.</p>
-        
-        <p xml:id="rh-l1q1-d1e6933">Ad quartum 
+          <lb ed="#L"/>opus sapientiae vel prudentiae
+        </p>
+        <p xml:id="rh-l1q1-d1e6933">
+          Ad quartum 
           <lb ed="#L"/>argumentum quando arguitur quod si sic: infidelitas non 
           <lb ed="#L"/>foret peccatum nec haeresis: quia assensus ad op<lb ed="#L"/>posita 
           articulorum posset causari in homine ve<lb ed="#L"/>lit 
-          nolit per aliquod sophisma.</p>
-        
-        <p xml:id="rh-l1q1-d1e6945">Ad istum potest 
+          nolit per aliquod sophisma.
+        </p>
+        <p xml:id="rh-l1q1-d1e6945">
+          Ad istum potest 
           <lb ed="#L"/>dici quod infidelitas est nolle credere quae ecclesia 
           <lb ed="#L"/>credit: vel nolle vivere secundum fidem id est secundum praece<lb ed="#L"/>pta 
           fidei. unde odire fidem mores et ritum christi<lb ed="#L"/>anorum 
@@ -1493,8 +1499,8 @@
           similiter <name>beatus Cyprianus</name> de haereticis 
           <lb ed="#L"/>rebaptizandis erravit. isti ergo errores prae<lb ed="#L"/>dictis 
           sanctis non imputantur: quia non ex pertina<lb ed="#L"/>cia: 
-          sed ex simplicitate erraverunt.</p>
-        
+          sed ex simplicitate erraverunt.
+        </p>
         <p xml:id="rh-l1q1-d1e7023">Ad pri<lb ed="#L"/>mum 
           argumentum secundi dubii: quando arguitur quod si ar<lb ed="#L"/>ticuli 
           fidei essent contra rationem naturalem: se<lb ed="#L"/>queretur 
@@ -1508,7 +1514,8 @@
           demonstratio concludens oppositum fidei <pc type="virgula">/</pc> 
           <lb ed="#L"/>etiam si nesciatur solvi ab aliquo homine scientifice 
           <pb ed="#L" n="7-r"/>
-          <cb ed="#L" n="a"/>est credenda sophistica. et hoc vult <name ref="#Anselm">Anselmus</name></p>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L"/>est credenda sophistica. et hoc vult <name ref="#Anselm">Anselmus</name></p>
         
         <p xml:id="rh-l1q1-d1e7059">Ad secundum concedo quod fides perficit naturam 
           <lb ed="#L"/>immo dico quod fides est instituta in praesenti po<lb ed="#L"/>tius 
@@ -1908,8 +1915,7 @@
           ante de vita aeterna. Et si arguitur quod deus 
           <lb ed="#L"/>tunc praemiat irrationabiliter: non valet: quia nihil 
           <lb ed="#L"/>potest dici fieri irrationabiliter a deo. Unde <ref xml:id="rh-l1q1-Rd1e7983"><name ref="#Anselm">Anselmus</name> 
-          <lb ed="#L"/>libro <num>i</num> <title ref="#Anselm_CurDeusHomo">cur deus homo</title> capitulo <num>viii</num></ref> Sufficere nobis 
-          <lb ed="#L"/>debet 
+          <lb ed="#L"/>libro <num>i</num> <title ref="#Anselm_CurDeusHomo">cur deus homo</title> capitulo <num>viii</num></ref> Sufficere nobis debet 
           <lb ed="#L"/>ad rationem voluntas dei: cum aliquid facit: licet 
           <lb ed="#L"/>non videamus cur velit. voluntas namque dei 
           <lb ed="#L"/>numquam est irrationabilis. concedo similiter quod peccator 
@@ -1925,9 +1931,10 @@
           est concedenda: ut mihi pro nunc videtur: quod 
           <lb ed="#L"/>contritio meritoria peccatoris est duple boni<lb ed="#L"/>tatis 
           ad quemcumque alium bonum actum: immo 
-          <lb ed="#L"/>maioris bonitatis.</p>
-        
-        <p xml:id="rh-l1q1-d1e8035">Ad tertium principa<lb ed="#L"/>le 
+          <lb ed="#L"/>maioris bonitatis.
+        </p>
+        <p xml:id="rh-l1q1-d1e8035">
+          Ad tertium principa<lb ed="#L"/>le 
           patet idem: excepto hoc quod accipit in princi<lb ed="#L"/>pio 
           unum falsum. videlicet quod aliquis actus mo<lb ed="#L"/>ralis 
           possit esse maioris bonitatis moralis 
@@ -1935,9 +1942,10 @@
           maiorem bonitatem moralem in actu: actu scilicet 
           <lb ed="#L"/>dignum esse maiori praemio: distinguendo contra prae<lb ed="#L"/>mium 
           correspondens actui primo meritorio: 
-          <lb ed="#L"/>sicut ad secundum dictum est.</p>
-        
-        <p xml:id="rh-l1q1-d1e8055">Ad quartum prin<lb ed="#L"/>cipale 
+          <lb ed="#L"/>sicut ad secundum dictum est.
+        </p>
+        <p xml:id="rh-l1q1-d1e8055">
+          Ad quartum prin<lb ed="#L"/>cipale 
           quando arguitur: aut est dare summum gra<lb ed="#L"/>dum 
           meriti possibilem viatori sorti vel non etc. 
           <lb ed="#L"/>Ad istud potest faciliter dici quod non est dare 
@@ -2080,7 +2088,7 @@
             <lb ed="#L"/>capitulo <num>xvi</num></ref> Dico quod illud verbum allegatum est argu<lb ed="#L"/>mentum 
           discipuli: et non determinatio <name ref="#Lombard">magistri</name>. 
           <lb ed="#L"/>unde non habendo respectum ad auctoritatem: sed 
-          <lb ed="#L"/>ponderando propositionem quae infertur pro inconvenienti: 
+          <lb ed="#L"/>ponderando propositionem quae infertur pro incon<lb ed="#L"/>venienti: 
           videlicet quod homo posset mereri per fidem 
           <lb ed="#L"/>falsam: concedo eam. homo enim volendo credere 
           <lb ed="#L"/>certam propositionem quae praecipit esset credenda: 
@@ -2093,7 +2101,7 @@
           <lb ed="#L"/>suum interficiendum: et se filium interfecturum. 
           <lb ed="#L"/>Similiter David volendo aedificare templum credi<lb ed="#L"/>dit 
           quod hoc esset facturus: quia propheta dixit si<lb ed="#L"/>bi. 
-          <quote xml:id="rh-l1q1-Qd1e8411" ana="#IIsam7_3">Omne quod est in corde tuo vade et fac: quia dominus 
+          <quote xml:id="rh-l1q1-Qd1e8411" source="http://scta.info/resource/IIsam7_3">Omne quod est in corde tuo vade et fac: quia dominus 
             <lb ed="#L"/>tecum est</quote> <ref xml:id="rh-l1q1-Rd1e8417"><title ref="#IIreg">ii Reg<!-- incorrect ; is actually II sam 7:3 --></title> vii</ref> Et forte discipuli qui fu<lb ed="#L"/>gerunt: 
           nec in morte christi praesentes fuerunt: 
           <lb ed="#L"/>crediderunt istum articulum: christus morietur 
