@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -55,29 +52,33 @@
         <p xml:id="rh-l1q1-d1e3497">
           <lb ed="#L" n="9"/>Utrum qui<lb ed="#L"/>libet 
           viator exi<lb ed="#L"/>stens in gratia 
-          <lb ed="#L"/>assentiendo arti<lb ed="#L"/>cuis 
-          <lb ed="#L"/>fidei me<lb ed="#L"/>reatur 
-          vitam eter<lb ed="#L"/>nam.</p> 
-        
-        <p xml:id="rh-l1q1-d1e3518">Et argui<lb ed="#L"/>tur 
-        quod non: quia si sic: sequeretur 
+          <lb ed="#L"/>assentiendo arti<lb ed="#L"/>culis 
+          fidei me<lb ed="#L"/>reatur 
+          vitam eter<lb ed="#L"/>nam.
+        </p> 
+        <div xml:id="rh-l1q1-Dd1e115" type="rationes-principales">
+        <p xml:id="rh-l1q1-d1e3518">
+          Et argui<lb ed="#L"/>tur 
+          quod non: quia si 
+          <lb ed="#L"/>sic: sequeretur 
           <lb ed="#L"/>ista conclusio: 
           <lb ed="#L"/>posito possibili: quod in casu idem viator simul 
           <lb ed="#L"/>et semel peccaret mortaliter et mereretur. consequens 
           <lb ed="#L"/>est falsum: quia si sic: simul et semel haberet 
           <lb ed="#L"/>gratiam et careret gratia. quod includit contra<lb ed="#L"/>dictionem. 
           Consequentiam probo sic: supposi<lb ed="#L"/>to 
-        quod deus praecipiat <name>sorti</name> quod credat hanc propositionem 
+          quod deus praecipiat <name>sorti</name> quod credat hanc propositionem 
           <lb ed="#L"/>esse veram. <name>sortes</name> damnabitur. et simul cum 
           <lb ed="#L"/>hoc quod sortes obediat ei. quo fact: tunc ar<lb ed="#L"/>guitur 
-        sic. <name>Sortes</name> credit se damnari propter 
+          sic. <name>Sortes</name> credit se damnari propter 
           <lb ed="#L"/>acutoritatem dei praecpientis. igitur <name>sortes</name> me<lb ed="#L"/>retur 
-        per conclusionem. et iterum: <name>sortes</name> credit se 
+          per conclusionem. et iterum: <name>sortes</name> credit se 
           <lb ed="#L"/>damnari: ergo desperat. et per consequens peccat 
           <lb ed="#L"/>mortaliter: ergo simul et semel peccat morta<lb ed="#L"/>liter 
-        et meretur.</p>
-        
-        <p xml:id="rh-l1q1-d1e3571">Secundo sic. Si quaestio foret 
+          et meretur.
+        </p>
+        <p xml:id="rh-l1q1-d1e3571">
+          Secundo sic. Si quaestio foret 
           <lb ed="#L"/>vera: sequeretur quod aliquis viator plus posset 
           <lb ed="#L"/>mereri de praemio: quam deus posset sibi dare. 
           <lb ed="#L"/>Probatio. Pono aliquem adultum accedentem 
@@ -85,7 +86,7 @@
           <lb ed="#L"/>primum actum credendi quem ipse habet in gra<lb ed="#L"/>tia: 
           et sit <c>a</c>. tunc arguitur sic. si quaestio esset ve<lb ed="#L"/>ra: 
           haec foret concedenda: <name>sorti</name> pro a debetur vi<lb ed="#L"/>ta 
-        eterna. consequens est falsum. nam si <name>sortes</name> pro a 
+          eterna. consequens est falsum. nam si <name>sortes</name> pro a 
           <lb ed="#L"/>meruerit vitam eternam: ergo per actum duplae 
           <lb ed="#L"/>bonitatis ad a posset mereri duplum praemium 
           <lb ed="#L"/>correspondens ipsa <c>a</c>. sed pramium correspondens ipsi 
@@ -94,20 +95,21 @@
           <lb ed="#L"/>includit contradictionem. Quod autem praemium correspon<lb ed="#L"/>dens 
           ipsi a sit infinitum patet: quia est praemium aeter<lb ed="#L"/>num 
           et vita aeterna. Si dicatur ad ista quod <name>sor<lb ed="#L"/>tes</name> 
-        non potest postea quam habitui a: habere actum 
+          non potest postea quam habitui a: habere actum 
           <lb ed="#L"/>in duplo meliorem <c>a</c>. hoc est omnino irrationa<lb ed="#L"/>bile. 
           quod probo: quia certum est quod potest habere ali<lb ed="#L"/>quem 
-        actum aequalem ipsi <c>a</c>: et tunc sequeretur 
+          actum aequalem ipsi <c>a</c>: et tunc sequeretur 
           <cb ed="#L" n="b"/> <!-- La1r b -->
-           <lb ed="#L"/>vel quod ille actus non praemiabitur ad condignum: quia 
+          <lb ed="#L"/>vel quod ille actus non praemiabitur ad condignum: quia 
           <lb ed="#L"/>non tantum quantum a: vel quod ille praemiandus re<lb ed="#L"/>cipiet 
           praemium duplum ad illud quod meruit per 
           <lb ed="#L"/>a. consequens est falsum: quia deus non potest aliquod da<lb ed="#L"/>re 
           praemium quod sit duple bonitatis ad vitam 
-          <lb ed="#L"/>aeternam. ergo nec ipse sortes potest hoc recipe<lb ed="#L"/>re.</p>
-        
-        <p xml:id="rh-l1q1-d1e3665">Tertio si quaestio foret vera: sequeretur 
-          <lb ed="#L"/>sit conclusio: quod aliquis viator plus praemiabitur 
+          <lb ed="#L"/>aeternam. ergo nec ipse sortes potest hoc recipe<lb ed="#L"/>re.
+        </p>
+        <p xml:id="rh-l1q1-d1e3665">
+          Tertio si quaestio foret vera: sequeretur 
+          <lb ed="#L"/>ista conclusio: quod aliquis viator plus praemiabitur 
           <lb ed="#L"/>pro actu minoris meriti et minoris bonitatis 
           <lb ed="#L"/>moralis <pc type="virgula">/</pc> quam alius pro actu maioris meriti. 
           <lb ed="#L"/>Nam capio sortem et platonem: et sit sortes opti<lb ed="#L"/>mus 
@@ -157,8 +159,8 @@
           <lb ed="#L"/>et per consequens frustra fecisset istum novum actum: si 
           <lb ed="#L"/>eidem nullum novum praemium corresponderet. sed 
           <lb ed="#L"/>sorti antequam eliceret actum a: debebatur aeterni<pb ed="#L" n="1-v"/><cb ed="#L" n="a"/><lb ed="#L"/>tas 
-          visionis et fruitionois divinae essentiae: et 
-          etiam securitas et omnia quae sunt de essentia bea<lb ed="#L"/>titudinis. 
+          visionis et fruitionis divinae essentiae: et 
+          <lb ed="#L"/>etiam securitas et omnia quae sunt de essentia bea<lb ed="#L"/>titudinis. 
           ergo per nullum istorum nec per omnia simul 
           <lb ed="#L"/>potest iuste praemiari pro isto novo actu: sed nihil 
           <lb ed="#L"/>pertinens ad beatitudinem est melius quam ista: ergo 
@@ -191,8 +193,8 @@
           <lb ed="#L"/>liberatio a pena aeterna: quantum malum est obli<lb ed="#L"/>gatio 
           ad penam aeternam. sed certum est quod hoc est 
           <lb ed="#L"/>malum infinitum. igitur illud est bonum infinitum. 
-          <lb ed="#L"/>igitur plato meretur duo bona infinita.</p>
-        
+          <lb ed="#L"/>igitur plato meretur duo bona infinita.
+        </p>
         <p xml:id="rh-l1q1-d1e3869">Et con<lb ed="#L"/>firmatur illud: 
           quia si plato fuisset semper inno<lb ed="#L"/>cens: 
           non meruisset per primum opus bonum nisi 
@@ -200,8 +202,8 @@
           <lb ed="#L"/>bonorum. igitur plus meretur modo propter peccatum 
           <lb ed="#L"/>praecedens: quam si illud peccatum non praecessisset. igitur 
           <lb ed="#L"/>videtur mirabile quod peccatum debet esse causa 
-          <lb ed="#L"/>maioris praemii.</p>
-        
+          <lb ed="#L"/>maioris praemii.
+        </p>
         <p xml:id="rh-l1q1-d1e3887">Quarto ad principale. si 
           <lb ed="#L"/>aliquis assentiendo articulis fidei meretur: 
           <lb ed="#L"/>quaero utrum est dare summum gradum meriti sor<lb ed="#L"/>tio 
@@ -299,7 +301,7 @@
           fidelis simul tenetur ad omnes: aut non. si 
           <lb ed="#L"/>sic: ergo quaelibet vetula tenetur scire totam scri<lb ed="#L"/>pturam. 
           si non: contra. quilibet tenetur vitare haeresim. 
-          sed oppositum cuiuslibet articulis est heresis 
+          <lb ed="#L"/>sed oppositum cuiuslibet articulis est heresis 
           <lb ed="#L"/>ergo quilibet tenetur nosse oppositum cuiuslibet 
           <lb ed="#L"/>artiucli: quia quod ignoratur <pc type="virgula">/</pc> non vitatur. Confir<lb ed="#L"/>matur 
           ista ratio. quia si sufficit vetulae credere sic<lb ed="#L"/>ut 
@@ -356,7 +358,8 @@
             <lb ed="#L"/>ad petrum</title></ref>: ergo nullus articulus firmius alio 
           <lb ed="#L"/>credi debet: sed omnes aequaliter et firmissime.</p>
         
-        <p xml:id="rh-l1q1-d1e4252">Octavo ad principale arguo sic. nullus 
+        <p xml:id="rh-l1q1-d1e4252">
+          <lb ed="#L"/>Octavo ad principale arguo sic. nullus 
           <lb ed="#L"/>actus credendi est meritorius vitae aeternae: ni<lb ed="#L"/>si 
           ei adsit perseverantia finalis: sed nullum actum 
           <lb ed="#L"/>credendi concomitatur quamdiu homo vivit perseveran<lb ed="#L"/>tia 
@@ -371,21 +374,26 @@
           <lb ed="#L"/>instanti post b potest peccare mortaliter. ergo 
           <lb ed="#L"/>in quolibet instanti post b haec est possibilis: 
           <lb ed="#L"/>iste numquam habuit perseverantiam finalem. et per 
-          <lb ed="#L"/>consequens haec non fuit vera iste in a habuit perseverantiam 
+          <lb ed="#L"/>consequens haec non fuit vera iste in a habuit perse<lb ed="#L"/>verantiam 
           finalem. Maior probatur. videlicet ista 
           <lb ed="#L"/>nullus actus est meritorius vitae aeternae nisi 
           <lb ed="#L"/>fit cum perseverantia finali: quia nulli viatori da<lb ed="#L"/>bitur 
           vita aeterna nisi fit cum perseverantia finali 
           <lb ed="#L"/>ergo nullus actus est meritorius vitae aeter<lb ed="#L"/>nae 
-          nisi ei ad sit perseverantia finalis.</p>
-        <!-- end of principal arguments -->
-        <p xml:id="rh-l1q1-d1e4300">Ad op<lb ed="#L"/>positum 
+          nisi ei ad sit perseverantia finalis.
+        </p>
+        <p xml:id="rh-l1q1-d1e4300">
+          Ad op<lb ed="#L"/>positum 
           quaestionis est illud <ref xml:id="rh-l1q1-Rd1e4304"><title ref="#hebr">ad hebraeos</title> <num>xi</num></ref>. <quote xml:id="rh-l1q1-Qd1e4311" source="http://scta.info/resource/hebr11_33">San<lb ed="#L"/>cti 
-          per diem vicerunt regna: operati sunt iustitiam 
-          adepti sunt repromissiones.</quote> sed adipisci re<lb ed="#L"/>promissiones 
+          per fidem vicerunt regna: operati sunt iustitiam 
+          <lb ed="#L"/>adepti sunt repromissiones.</quote> sed adipisci re<lb ed="#L"/>promissiones 
           est mereri vitam aeternam. ergo 
           <lb ed="#L"/>sancti per fidem meruerunt credendo articulis fi<lb ed="#L"/>dei 
-          vitam aeternam.</p>
+          vitam aeternam.
+        </p>
+        </div>
+        <div xml:id="rh-l1q1-Dd1e941">
+          <head xml:id="rh-l1q1-Hd1e943">Divisio quqestionis</head>
         <!-- divisio quaestionis -->
         <p xml:id="rh-l1q1-d1e4326">In ista quaestione sunt se<lb ed="#L"/>ptem 
           facienda. Primo videndum est utrum actus fidei 
@@ -399,8 +407,12 @@
           <lb ed="#L"/>ad formam quaestionis. Sexto solventur quaedam dubia
           <pb ed="#L" n="2-v"/>
           <cb ed="#L" n="a"/>
-          <lb ed="#L"/>Septimo dicetur ad rationes principales.</p>
-        
+          <lb ed="#L"/>Septimo dicetur ad rationes principales.
+        </p>
+        </div>
+        <div xml:id="rh-l1q1-Dd1e978">
+          <head xml:id="rh-l1q1-Hd1e980">Articuls 1</head>
+          <head xml:id="rh-l1q1-Hd1e983" type="question-title">An credere articulis fidei sit in libera potestate hominum</head>
         <!-- article 1 -->
         <p xml:id="rh-l1q1-d1e4358">Est ergo 
           <lb ed="#L"/>primus articulus: an credere articulis fidei 
@@ -423,13 +435,14 @@
           possit per suum imperium causare assensum 
           <lb ed="#L"/>in intellectu: respectu alicuius propositionis si<lb ed="#L"/>bi 
           dubiae sicut ante imperium propter praemium 
-          <lb ed="#L"/>vitae aeternae:</p> 
-        
+          <lb ed="#L"/>vitae aeternae:
+        </p> 
         <p xml:id="rh-l1q1-d1e4406">Et ad istum intellectum teneo in 
           <lb ed="#L"/>hoc articulo partem negativam: videlicet quod cre<lb ed="#L"/>dere 
           articulis fidei: vel quamcumque propositio<lb ed="#L"/>nem: 
           non est in hominis libera potestate. istud probo per 
-          <lb ed="#L"/>tres rationes.</p>
+          <lb ed="#L"/>tres rationes.
+        </p>
         
         <p xml:id="rh-l1q1-d1e4417">Primo sic. non est in potestate hominis 
           <lb ed="#L"/>opinari libere unam propositionem sibi dubiam. 
@@ -496,9 +509,11 @@
           vere ductu naturalis rationis: et quibus 
           <lb ed="#L"/>est diffinitum assentire: ergo potest assentire qui<lb ed="#L"/>buscumque 
           aliis propositionibus in quibus apparet mi<lb ed="#L"/>nor 
-          difficultas vel inevidentia.</p>
-        
-        <p xml:id="rh-l1q1-d1e4570">Tertio arguo sic. non est in potestate hominis quod appareat sic 
+          difficultas vel inevidentia.
+        </p>
+        <p xml:id="rh-l1q1-d1e4570">
+          Tertio ar<lb ed="#L"/>guo 
+          sic. non est in potestate hominis quod appareat sic 
           <lb ed="#L"/>esse ex parte rei sicut totaliter per propositionem de<lb ed="#L"/>notatur. 
           ergo non est in potestate hominis quod proposi<lb ed="#L"/>tio 
           appareat sibi vera: nec per consequens quod 
@@ -714,18 +729,24 @@
           possem. et tunc illud gaudium libere pos<lb ed="#L"/>sem 
           in meipso causare. consequens falsum: 
           <lb ed="#L"/>sicut quilibet experitur.</p>
-        
+        </div>
+        <div xml:id="rh-l1q1-Dd1e1730">
+          <head xml:id="rh-l1q1-Hd1e1732">Articulus 2</head>
+          <head xml:id="rh-l1q1-Hd1e1735" type="question-title">Utrum sit in potestate hominis quod actus suus sit meritorius vel demeritorius</head>
         <!-- article 2 -->
-        <p xml:id="rh-l1q1-d1e5094">De secundo arti<lb ed="#L"/>culo: 
+        <p xml:id="rh-l1q1-d1e5094">
+          De secundo arti<lb ed="#L"/>culo: 
           videlicet utrum sit in potestate homi<lb ed="#L"/>nis 
-          quod actus suus sit meritorius vel deme<lb ed="#L"/>ritorius.</p>
-        
-        <p xml:id="rh-l1q1-d1e5103">Dico istam conclusionem: quod non est 
+          quod actus suus sit meritorius vel deme<lb ed="#L"/>ritorius.
+        </p>
+        <p xml:id="rh-l1q1-d1e5103">
+          Dico istam conclusionem: quod non est 
           <lb ed="#L"/>in potestate voluntatis creatae quod actus su<lb ed="#L"/>us 
           sit meritorius alicuius boni: vel deme<lb ed="#L"/>ritorius 
-          ut ei correspondeat aliqua pena.</p>
-        
-        <p xml:id="rh-l1q1-d1e5112">Haec conclusio sic apparet: omne meritum vel 
+          ut ei correspondeat aliqua pena.
+        </p>
+        <p xml:id="rh-l1q1-d1e5112">
+          <lb ed="#L"/>Haec conclusio sic apparet: omne meritum vel 
           <lb ed="#L"/>demeritum est ex hoc quod actus creaturae est 
           <lb ed="#L"/>conformis vel difformis legi divinae: ideo enim 
           <lb ed="#L"/>homo meretur: quia facit sicut deus vult eum 
@@ -736,9 +757,10 @@
           <lb ed="#L"/>enim deus permittere hominem sine lege sibi 
           <lb ed="#L"/>data et sine praeceptis vel consiliis; sicut permit<lb ed="#L"/>tit 
           bestias: si voluntati suae placeret. ergo non 
-          <lb ed="#L"/>est in potestate hominis etc.</p>
-        
-        <p xml:id="rh-l1q1-d1e5142">Secundo sic. Et est qua<lb ed="#L"/>si 
+          <lb ed="#L"/>est in potestate hominis etc.
+        </p>
+        <p xml:id="rh-l1q1-d1e5142">
+          Secundo sic. Et est qua<lb ed="#L"/>si 
           eiusdem virtutis: omnis actus volunta<lb ed="#L"/>tis 
           creatae ideo est meritorius si est merito<lb ed="#L"/>rius: 
           quia deus illum acceptat. sed non est 
@@ -748,9 +770,10 @@
           <lb ed="#L"/>sit meritorius. et eodem modo contingit ar<lb ed="#L"/>guere 
           de demeritorio. quia nullus actus de<lb ed="#L"/>meritorius 
           vel malus dicitur: nisi quia reproba<lb ed="#L"/>tur 
-          a deo.</p>
-        
-        <p xml:id="rh-l1q1-d1e5166">Tertio patet hoc idem de meri<lb ed="#L"/>torio: 
+          a deo.
+        </p>
+        <p xml:id="rh-l1q1-d1e5166">
+          Tertio patet hoc idem de meri<lb ed="#L"/>torio: 
           quia nullus actus est meritorius vitae 
           <lb ed="#L"/>aeternae <pc type="virgula">/</pc> nisi sit actus liberi arbitrii: et quod sit 
           <lb ed="#L"/>in gratia: sed non est in potestate liberi ar<lb ed="#L"/>bitrii 
@@ -769,7 +792,15 @@
           gratiam: et per consequens quod nunquam mere<lb ed="#L"/>retur. 
           talis ergo non haberet in sua potesta<lb ed="#L"/>te 
           mereri et demereri: sed forte neutrum: vel 
-          <lb ed="#L"/>saltem nullo modo mereri. ergo etc.</p>
+          <lb ed="#L"/>saltem nullo modo mereri. ergo etc.
+        </p>
+        </div>
+        <div xml:id="rh-l1q1-Dd1e1864">
+          <head xml:id="rh-l1q1-Hd1e1866">Articulus 3</head>
+          <head xml:id="rh-l1q1-Hd1e1869" type="question-title">
+            An deus possit sine causa rationabili 
+            causare assensum vel dissensum in eadem creatura ipsa non coagente
+          </head>
         
         <!-- article 3 -->
         <p xml:id="rh-l1q1-d1e5219">Tertius 
@@ -834,10 +865,13 @@
           haec ille. Ex quo patet quod iudicare est 
           <lb ed="#L"/>agere secundum eum. ergo assentire et dissentire intel<lb ed="#L"/>lectus 
           non possunt esse ex eo quod recipit 
-          <lb ed="#L"/>nisi etiam simul agat eum.</p>
-        
-        <!-- article 4 -->
-        <p xml:id="rh-l1q1-d1e5375">Quartus arti<lb ed="#L"/>culus 
+          <lb ed="#L"/>nisi etiam simul agat eum.
+        </p>
+        </div>
+        <div xml:id="rh-l1q1-Dd1e2031">
+          <head xml:id="rh-l1q1-Hd1e2033">Articulus 4</head>
+          <head xml:id="rh-l1q1-Hd1e2036" type="question-title">Utrum posset homo mereri vel demereri sine usu liberi arbitrii</head>
+          <p xml:id="rh-l1q1-d1e5375">Quartus arti<lb ed="#L"/>culus 
           est videre utrum posset homo mereri 
           <lb ed="#L"/>vel demereri sine usu liberi arbitrii.</p>
         
@@ -895,12 +929,15 @@
           <lb ed="#L"/>vel quod velit aliquid: potest ne iste venire contra 
           <lb ed="#L"/>hoc iudicium vel illud praeceptum: si sic: patet pro<lb ed="#L"/>positum.</p>
           
-          <p xml:id="rh-l1q1-d1e5511"><!-- this note seems like part of the 1518 edition rather than the Holcot text --> Nota quod iste articulus est diminutus 
-            <lb ed="#L"/>et incompletus: sed nusquam est reperire perfectum</p>
-        
-        <!-- article 5 -->
-        
-        <p xml:id="rh-l1q1-d1e5519">Quintus articulus est respondere ad for<lb ed="#L"/>mam 
+          <p xml:id="rh-l1q1-d1e5511">
+            <!-- this note seems like part of the 1518 edition rather than the Holcot text --> Nota quod iste articulus est diminutus 
+            <lb ed="#L"/>et incompletus: sed nusquam est reperire perfectum
+          </p>
+        </div>
+        <div xml:id="rh-l1q1-Dd1e2182">
+          <head xml:id="rh-l1q1-Hd1e2184">Articulus 5</head>
+          <p xml:id="rh-l1q1-d1e5519">
+            <lb ed="#L"/>Quintus articulus est respondere ad for<lb ed="#L"/>mam 
           quaestionis: ubi sciendum est quod quaestio de 
           <lb ed="#L"/>forma potest habere tres sensus. potest enim esse 
           <lb ed="#L"/>conditionalis: vel causalis: vel temporalis: propter 
@@ -1028,22 +1065,31 @@
           tamquam dignum praemio. ideo tamquam praeci<lb ed="#L"/>pua 
           causa concedendum est quod ipse meretur. sic 
           <lb ed="#L"/>ergo patet ad formam quaestionis.</p>
+        </div>
+        <div xml:id="rh-l1q1-Dd1e2476">
+          <head xml:id="rh-l1q1-Hd1e2478">Articulus 6</head>
         <!-- article 6 -->
         <p xml:id="rh-l1q1-d1e5809">Sextus ar<lb ed="#L"/>ticulus 
-          est solvere quaedam dubia circa prae<lb ed="#L"/>dicta. 
+          est solvere quaedam dubia circa prae<lb ed="#L"/>dicta.
+        </p>
+        <p xml:id="rh-l1q1-d1e2490">
           Primo dubitatur de conclusione pri<lb ed="#L"/>mi 
           articuli: quae est quod non est in libera potesta<lb ed="#L"/>te 
           voluntatis humanae credere articulos fi<lb ed="#L"/>dei. 
-          hoc enim videtur falsum propter multa.</p>
-        
-        <p xml:id="rh-l1q1-d1e5822">Primo quia si non: deus irrationabiliter prae<lb ed="#L"/>ciperet 
+          hoc enim videtur falsum propter multa.
+        </p>
+        <p xml:id="rh-l1q1-d1e5822">
+          <lb ed="#L"/>Primo quia si non: deus irrationabiliter prae<lb ed="#L"/>ciperet 
           homini quod crederet: et irrationabiliter pu<lb ed="#L"/>niret 
           eum si non crederet. sed utrumque facit deus 
           <lb ed="#L"/><ref xml:id="rh-l1q1-Rd1e5829"><title ref="#mc">Marci</title> ultimo</ref>. <quote xml:id="rh-l1q1-Qd1e5834" source="http://scta.info/resource/mc16_16">Qui crediderit et baptiza<lb ed="#L"/>tus 
-            <unclear>fuerit</unclear>: salvus erit</quote>. quantum ad primum. <quote xml:id="rh-l1q1-Qd1e5842" source="http://scta.info/resource/mc16_16">Qui non crediderit: condemnabitur</quote> quantum 
-          <lb ed="#L"/>ad secundum.</p>
+          <unclear>fuerit</unclear>: saluus erit</quote>. quantum ad primum. 
+          <lb ed="#L"/><quote xml:id="rh-l1q1-Qd1e5842" source="http://scta.info/resource/mc16_16">Qui non crediderit: condemnabitur</quote> quantum 
+          <lb ed="#L"/>ad secundum.
+        </p>
         <!-- break is a little ambiguous in text -->
-        <p xml:id="rh-l1q1-d1e5851">Praeterea <ref xml:id="rh-l1q1-Rd1e5853"><name ref="#Augustine">Augustinus</name> <title>de fide 
+        <p xml:id="rh-l1q1-d1e5851">
+          Praeterea <ref xml:id="rh-l1q1-Rd1e5853"><name ref="#Augustine">Augustinus</name> <title>de fide 
           <lb ed="#L"/>ad Petrum</title></ref> frequenter in multis capitulis sic 
           <lb ed="#L"/>incipit. Firmissime tene et nullatenus dubi<lb ed="#L"/>ta. 
           sed hoc frustra praecipitur secundum praedicta. Nam 
@@ -1058,22 +1104,25 @@
           xxvi</ref>. Intrare quisquam ecclesiam potest 
           <lb ed="#L"/>nolens: accedere altare potest nolens: accipere 
           <lb ed="#L"/>sacramentum potest nolens: credere non potest nisi 
-          <lb ed="#L"/>volens.</p>
-        
-        <p xml:id="rh-l1q1-d1e5902">Praeterea si non sit in libera po<lb ed="#L"/>testate 
+          <lb ed="#L"/>volens.
+        </p>
+        <p xml:id="rh-l1q1-d1e5902">
+          Praeterea si non sit in libera po<lb ed="#L"/>testate 
           voluntatis assentire articulis: nec est 
-          <lb ed="#L"/>virtuosum nec meritorium huiusmodi eis assenti<lb ed="#L"/>re.</p>
-        
-        <p xml:id="rh-l1q1-d1e5911">Praeterea tunc nec infidelitas nec hae<lb ed="#L"/>resis 
+          <lb ed="#L"/>virtuosum nec meritorium huiusmodi eis assenti<lb ed="#L"/>re.
+        </p>
+        <p xml:id="rh-l1q1-d1e5911">
+          Praeterea tunc nec infidelitas nec hae<lb ed="#L"/>resis 
           foret peccatum: posito quod aliquis nesciens 
           <lb ed="#L"/>solvere sophisma factum contra fidem <pc type="virgula">/</pc> assentiret 
           <lb ed="#L"/>conclusioni. Consequentia patet: quia qua ratione 
           <lb ed="#L"/>unum argumentum necessitat intellectum ad as<lb ed="#L"/>sentiendum 
           articulis: eandem ratione una alia ratio 
-          <lb ed="#L"/>necessitat ad oppositum si nequeat solvi.</p>
-        
+          <lb ed="#L"/>necessitat ad oppositum si nequeat solvi.
+        </p>
         <!-- second dubium -->
-        <p xml:id="rh-l1q1-d1e5932">Secundo dubitatur de eo quod in eodem articulo 
+        <p xml:id="rh-l1q1-d1e5932">
+          <lb ed="#L"/>Secundo dubitatur de eo quod in eodem articulo 
           <lb ed="#L"/>dictum est: quod ea quae fides praedicat <pc type="virgula">/</pc> sunt contra rationem 
           <lb ed="#L"/>naturalem: et non solum supra rationem naturalem 
           <cb ed="#L" n="b"/>
@@ -1236,9 +1285,10 @@
             <lb ed="#L"/>est aliqua cum assensione cogitare.</quote> In diffi<lb ed="#L"/>nitione 
           nihil ponitur ad libertatem pertinens 
           <lb ed="#L"/>Item <ref xml:id="rh-l1q1-Rd1e6319"><name ref="#HughOfStVictor">hugo</name> libro primo Senten. capitulo <num>ix</num></ref> <quote xml:id="rh-l1q1-Qd1e6326">fides 
-            <lb ed="#L"/>est perceptio veritatis cuiuscumque rei cum assen<lb ed="#L"/>sione.</quote></p>
-        
-        <p xml:id="rh-l1q1-d1e6334"><lb ed="#L"/>Alio modo accipitur credere magis stri<lb ed="#L"/>cte: 
+          <lb ed="#L"/>est perceptio veritatis cuiuscumque rei cum assen<lb ed="#L"/>sione.</quote>
+        </p>
+        <p xml:id="rh-l1q1-d1e6334">
+          Alio modo accipitur credere magis stri<lb ed="#L"/>cte: 
           pro assentire propositionibus de quarum ve<lb ed="#L"/>ritate 
           non constat nisi per testimonium alienum: et 
           <lb ed="#L"/>sic dicimur credere ea quae non videmus neque per 
@@ -1563,9 +1613,11 @@
           <lb ed="#L"/>dico quod non sponte: sic quod ideo credam <pc type="virgula">/</pc> quia praecise 
           <lb ed="#L"/>volo: sed necessitatus: quia credo articulos fi<lb ed="#L"/>dei 
           a deo revelatos: et per miracula sufficien<lb ed="#L"/>ter 
-          probatos.</p>
+          probatos.
+        </p>
         
-        <p xml:id="rh-l1q1-d1e7151">Sed contra. aute credis articu<lb ed="#L"/>los 
+        <p xml:id="rh-l1q1-d1e7151">
+          Sed contra. aute credis articu<lb ed="#L"/>los 
           fidei a deo revelatos et per miracula con<lb ed="#L"/>firmatos: 
           aut vero credis tales articulos 
           <lb ed="#L"/>sponte: et quia vis eligis credere magis istos 
@@ -1797,9 +1849,10 @@
           <lb ed="#L"/>liberum arbitrium sufficiunt ad servandum recti<lb ed="#L"/>tudinem: 
           ideo quicquid ad hanc operationem requiritur 
           <lb ed="#L"/>est in potestate voluntatis: quia si voluntas dis<lb ed="#L"/>ponat 
-          se: deus infundit gratiam et acceptat.</p>
-        
-        <p xml:id="rh-l1q1-d1e7716">Sed contra istud. nihil quod ex libera volun<lb ed="#L"/>tate 
+          se: deus infundit gratiam et acceptat.
+        </p>
+        <p xml:id="rh-l1q1-d1e7716">
+          <lb ed="#L"/>Sed contra istud. nihil quod ex libera volun<lb ed="#L"/>tate 
           alterius dependet: est in mea potestate sim<lb ed="#L"/>pliciter 
           et absolute loquendo: sed solum ut nunc 
           <lb ed="#L"/>et ex conditione: immo eoipso quod tale quid de<lb ed="#L"/>pendet 
@@ -2135,8 +2188,9 @@
           in hoc facto.</p>
         
         <p xml:id="rh-l1q1-d1e8483">Ad sextum principa<pb ed="#L" n="9-v"/><cb ed="#L" n="a"/><lb ed="#L"/>le 
-          quando arguitur sic. si homo tenetur credere articul<lb ed="#L"/>os 
-          fidei: aut quilibet tenetur ad omnes explicite. 
+          quando arguitur sic. si homo tenetur credere articu<lb ed="#L"/>los 
+          fidei: aut quilibet tenetur ad omnes explicite.
+          <lb ed="#L"/>dico quod non. sed ad quosdam tenetur homo explicite:
           <lb ed="#L"/>sicut ad articulum trinitatis et incarnationis <pc type="virgula">/</pc> 
           <lb ed="#L"/>passionis <pc type="virgula">/</pc> et resurrectionis <pc type="virgula">/</pc> et huiusmodi: et alios 
           <lb ed="#L"/>non. Et cum arguitur contra quilibet homo tenetur vita<lb ed="#L"/>re 
@@ -2172,15 +2226,18 @@
           in quo talis vetula tenetur errare: et me<lb ed="#L"/>retur 
           volendo credere errorem. Nam conscientia sua po<lb ed="#L"/>test 
           sibi dictare quod tenetur ei obedire et crede<lb ed="#L"/>re: 
-          et tunc simplicitas et ignorantia eam excu<lb ed="#L"/>sant.</p>  
-        
-        <p xml:id="rh-l1q1-d1e8582">Et ulterius ad argumentum: concedo quod ipsa 
+          et tunc simplicitas et ignorantia eam excu<lb ed="#L"/>sant.
+        </p>  
+        <p xml:id="rh-l1q1-d1e8582">
+          Et ulterius ad argumentum: concedo quod ipsa 
           <lb ed="#L"/>potest adipisci meritum debitum marytri: si ipsa 
           <lb ed="#L"/>interficitur pro tali errore quem ipsa credit erran<lb ed="#L"/>do 
           esse articulum fidei: quia error talis est ei in<lb ed="#L"/>vincibilis: 
-          et ideo non diminuit de merito.</p>
+          et ideo non diminuit de merito.
+        </p>
         
-        <p xml:id="rh-l1q1-d1e8593">Ad septimum principale quando arguitur. si tenetur 
+        <p xml:id="rh-l1q1-d1e8593">
+          <lb ed="#L"/>Ad septimum principale quando arguitur. si tenetur 
           <lb ed="#L"/>credere articulos fidei: vel ergo aequali firmitate 
           <lb ed="#L"/>debet credere omnes: aut aliquos minori firmita<lb ed="#L"/>te: 
           et alios maiori. si aequaliter omnes: ergo tenetur 
@@ -2266,6 +2323,7 @@
           <lb ed="#L"/>Unde dicimus: iste habet perseverantiam: hoc est iste per<lb ed="#L"/>severat: 
           et ideo una propositio accipitur pro alia: 
           <lb ed="#L"/>et sic est vera. Et haec de prima quaestione.</p>
+        </div>
       </div>  
     </body>
   </text>
