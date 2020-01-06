@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber I, Quaestio 5 [Lyon 1518 Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber I, Quaestio 5 [Lyon 1518 Transcription]</title>
+          <date when="2020-01-06">January 06, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="Lyon1518">Lyon 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-01-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="42-v"/>
+        <cb ed="#L" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rh-l1q5">
+        <head>Quaestio 5</head>
+        <head type="question-title">Utrum aliqua res simpliciter simplex sit in genere</head>
+        <p>
+          <lb ed="#L" n="4"/>QUeritur utrum  
+          <lb ed="#L" n="5"/>aliqua res simpliciter simplex sit  
+          <lb ed="#L" n="6"/>in genere:
+        </p>
+        <div type="rationes-principales">
+          <head>Rationes principales</head>
+          <p>
+            Quod non: probatur. nam  
+          <lb ed="#L" n="7"/>sequitur: deus non est in genere:  
+          <lb ed="#L" n="8"/>ergo nulla res simpliciter simplex est in  
+          <lb ed="#L" n="9"/>genere. consequentia patet: quia omnis creatu 
+          <lb ed="#L" n="10"/>ra vel est composita: vel alteri componibilis:  
+          <lb ed="#L" n="11"/>ergo nulla res talis est simpliciter simplex.  
+          <lb ed="#L" n="12"/>quia deus nec est compositus: nec alteri componibi 
+          <lb ed="#L" n="13"/>lis antecedens probatur: quod deus non sit in genere: post 
+          <lb ed="#L" n="14"/>to quod nulla creatura siti nisi tantum unus ange 
+          <lb ed="#L" n="15"/>lus: quo sit a. hoc posito: haec est vera. deus et  
+          <lb ed="#L" n="16"/>a sunt in genere substantiae: sed deus est tres  
+          <lb ed="#L" n="17"/>persone: ergo tres persone et a sunt in ge- 
+          <lb ed="#L" n="18"/>nere substantiae. ergo quatuor personaesunt in  
+          <lb ed="#L" n="19"/>genere substantiae. tunc sic. Quatuor persone 
+          <lb ed="#L" n="20"/>iunt in genere substantiae: sed non sunt in ge 
+          <lb ed="#L" n="21"/>nere substantiae nisi deus et a. ergo deus et a  
+          <lb ed="#L" n="22"/>sunt quatuor substantiae: sed a non est nisi 
+          <lb ed="#L" n="23"/>vna substantia: ergo deus est tres substantiae.  
+          <lb ed="#L" n="24"/>prima consequentia videlicet quod quatuor personae sunt  
+          <lb ed="#L" n="25"/>in genere substantie: ergo quatuor substan 
+          <lb ed="#L" n="26"/>tiae sunt in genere substantiae. probatur per Au 
+          <lb ed="#L" n="27"/>inus vii de triria cacit. vi ubi arguit sic. siessentia  
+          <lb ed="#L" n="28"/>foret spens: et tres personae individua: tres per 
+          <lb ed="#L" n="29"/>sonae forent tres substantiae: sicut tres homines  
+          <lb ed="#L" n="30"/>sunt tria animalia. Et allegat magister primo  
+          <lb ed="#L" n="31"/>sententiarum dist. xix c. ix ergo eadem ratione  
+          <lb ed="#L" n="32"/>si quatuor personae sunt individua in ge- 
+          <lb ed="#L" n="33"/>nere substantiae: exgo quatuor personae erunt 
+          <lb ed="#L" n="34"/>quatuor substantiae. sed vltimum consequens  
+          <lb ed="#L" n="35"/>est falsum: scilicet deus est tres persone: quia sic  
+          <lb ed="#L" n="36"/>deus esset tres dii.
+          </p>
+          <p>
+            Praeterea si deus esset  
+          <lb ed="#L" n="37"/>in genere: vel illud genus esset ens: vel ali- 
+          <lb ed="#L" n="38"/>ud ab ente cone deo et creaturis. sed ens non  
+          <lb ed="#L" n="39"/>potest esse genus: quia omne genus separat  
+          <lb ed="#L" n="40"/>illud cuius est genus ab aliquo altero. hoc  
+          <lb ed="#L" n="41"/>patet. vii physicorum. quia omne genus posi 
+          <lb ed="#L" n="42"/>tum in diffinitione separat diffinitum ab 
+          <lb ed="#L" n="43"/>aliquo. Similiter tertio metaphysicae. ens  
+          <lb ed="#L" n="44"/>non est genus: quia omne genus vere negatur  
+          <lb ed="#L" n="45"/>ab aliqua differentia: sicut intelligit Aristotele 
+          <lb ed="#L" n="46"/>nec aliud ab ente est genus deo et creaturis  
+          <lb ed="#L" n="47"/>cone. igitur etc. Si dicatur quod substantia est ganus- 
+          <lb ed="#L" n="48"/>dei. Sed contra Anselmum mouo xxvii. constat igitur  
+          <lb ed="#L" n="49"/>quod substantia ista nullo communi tractatu  
+          <lb ed="#L" n="50"/>iubstantiarum includitur. ergo nec ens neque  
+          <lb ed="#L" n="51"/>substantia potest esse genus dei.
+          </p>
+          <p>
+            Praeterea  
+          <lb ed="#L" n="52"/>quecumque sunt in genere: habent certam propo- 
+          <!--084.xml-->
+          <cb ed="#L" n="b"/><!--42vb-->
+          <lb ed="#L" n="53"/>tionem perfectionis inter se: sed deus in infini 
+          <lb ed="#L" n="54"/>tum excedit in perfectione omne aliud a deo. ergo  
+          <lb ed="#L" n="55"/>non est in genere.
+          </p>
+          <p>
+            Praeterea quae se totis dif 
+          <lb ed="#L" n="56"/>ferunt: in nullo. conueniunt: maximen si summe 
+          <lb ed="#L" n="57"/>differant: deus et cieatura sunt huiusmodi. igitur  
+          <lb ed="#L" n="58"/>etc Minor patet: quia plus differt deus a crea 
+          <lb ed="#L" n="59"/>tura quam creatura differat a creatura: ergo  
+          <lb ed="#L" n="60"/>si sit dare aliquam summe differentia: illa erunt  
+          <lb ed="#L" n="61"/>deus et creatura. Confirmatur istud per modum  
+          <lb ed="#L" n="62"/>loquendi Dionu. de dititionm non. quod deus non est sub- 
+          <lb ed="#L" n="63"/>stantia: sed super substantiam etc.
+          </p>
+          <p>
+            Praeterea nihil  
+          <lb ed="#L" n="64"/>conicans in noile solo cum aliis est in eodem genere 
+          <lb ed="#L" n="65"/>um illis: sed deo non convenit nisi solum nomen 
+          <lb ed="#L" n="66"/>cum creaturis. igitur. Minor patet. monolo.  
+          <lb ed="#L" n="67"/>xxvi in fine. si illi substantiae sit cum aliis coni- 
+          <lb ed="#L" n="68"/>catio nominis: esset valde proculdubio intelligen 
+          <lb ed="#L" n="69"/>da diversa significatio.
+          </p>
+          <p>
+            Praeterea omne quod  
+          <lb ed="#L" n="70"/>est in genere: est in aliquam eius specie: sed esse in specie 
+          <lb ed="#L" n="71"/>repugnat deo. quod si deus habet aliquem conceptum  
+          <lb ed="#L" n="72"/>pecificum de eo praedicabilem: sit ille a. Et argui 
+          <lb ed="#L" n="73"/>tur sic. plus conuenit cum conceptu cuiuslibet sub  
+          <lb ed="#L" n="74"/>stantiae: et cum quilibet creatura: quam cum deo. ergo non  
+          <lb ed="#L" n="75"/>praedicatur in quid de deo: et si praedicatur in quid de 
+          <lb ed="#L" n="76"/>deo: magis praedicatur creatura inquid de deo.  
+          <lb ed="#L" n="77"/>et si hoc: ergo non est conceptus specificus dei: quia con- 
+          <lb ed="#L" n="78"/>stat quod deus non est eiusdem speciei cum aliquam crea 
+          <lb ed="#L" n="79"/>tura: excepta conicatione idiomatum: de qua ni 
+          <lb ed="#L" n="80"/>hil ad praesens.
+          </p>
+          <p>
+            Praeterea si sic: deus posset dif 
+          <lb ed="#L" n="81"/>finiri. consequens est falsum. quia vel per se: vel per ad-n 
+          <lb ed="#L" n="82"/>ditum. non per se: quia non habet principia intrinseca:  
+          <lb ed="#L" n="83"/>quod tamen requiritur. viii metaphter. Oportet diffini 
+          <lb ed="#L" n="84"/>tionem esse oronem logam: quo significet aliquid de 
+          <lb ed="#L" n="85"/>aliquo. genus autem sumit ab vna realitate et  
+          <lb ed="#L" n="86"/>differentia ab alia: sed in deo non est realitas  
+          <lb ed="#L" n="87"/>quia tunc foret copositus. Nec diffinitur deus per ad  
+          <lb ed="#L" n="88"/>ditum: quia omne tale est dependens ab eo per quod  
+          <lb ed="#L" n="89"/>diffinitur.
+          </p>
+          <p>
+            Praeterea Auicenna. octa metaphater 
+          <lb ed="#L" n="90"/>sice suae capitulo quarto. Deus non est in ge- 
+          <lb ed="#L" n="91"/>nere. quia genus est pars speciei. vnde omnis  
+          <lb ed="#L" n="92"/>spens est composita. vnde ibidem probat Auicen.  
+          <lb ed="#L" n="93"/>istam conclusionem sic. Si necesse est esse habet ge 
+          <lb ed="#L" n="94"/>nus: igitur intentio generis vel est ex se necesse  
+          <lb ed="#L" n="95"/>vel non. si sic: non cessabit quousque sit ibi dif 
+          <lb ed="#L" n="96"/>ferentia: et tunc non foret genius. si non: ergo necesse 
+          <lb ed="#L" n="97"/>est esse constitutum per illud quod non e necesse  
+          <lb ed="#L" n="98"/>esse.
+          </p>
+          <p>
+            Praeterea si deus significaretur aliquo  
+          <lb ed="#L" n="99"/>conceptu generis: ergo sibi corresponderet  
+          <lb ed="#L" n="100"/>aliquis conceptus specificus . consequens est fal 
+          <lb ed="#L" n="101"/>sum: quia species praedicatur de pluribus dif- 
+          <lb ed="#L" n="102"/>ferentibus solo numero. ergo essent multi  
+          <lb ed="#L" n="103"/>dii eiusdem speciei. Praeterea. Auicen. viii.  
+          <lb ed="#L" n="104"/>metaphy suae in fine. Manifestum est non  
+          <lb ed="#L" n="105"/>bis quod primus non habet genus: nec quantita- 
+          <!--085.xml-->
+          <pb ed="#L" n="43-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>tem: nec qualitatem: quando: nec ubi: nec simsie: nec  
+          <lb ed="#L" n="2"/>genus: nec contrarium: qui est altissimus glorio  
+          <lb ed="#L" n="3"/>ius.
+          </p>
+          <p>
+            Item ix Meta . c. xvii. Manifestum  
+          <lb ed="#L" n="4"/>est nobis quod vnitas habet principium quod neces- 
+          <lb ed="#L" n="5"/>se est esse: non conceptum sub genere: neque sub dif 
+          <lb ed="#L" n="6"/>finitione: neque sub demonstratione ex prarte quali 
+          <lb ed="#L" n="7"/>tatis: neque est sibi sile nec conicans.
+          </p>
+          <p>
+            Ad op 
+          <lb ed="#L" n="8"/>positum est commentator x. Metaphysica commento x.  
+          <lb ed="#L" n="9"/>ubi dicit esse primum in genere substantiae et me- 
+          <lb ed="#L" n="10"/>rum et perfectissimum est primus motor: qui est prin 
+          <lb ed="#L" n="11"/>cipium sicut forma et finis.
+          </p>
+          <p>
+            Praeterea in par- 
+          <lb ed="#L" n="12"/>dicamentis dicitur substantia est genus generali  
+          <lb ed="#L" n="13"/>simum: quia non habet supra se aliquod genus. et ista  
+          <lb ed="#L" n="14"/>substantia dividitur in corpoream et in incorporea  
+          <lb ed="#L" n="15"/>continet quidem incorporeumdeum et angelum et anima 
+          <lb ed="#L" n="16"/>et demones.
+          </p>
+        </div>
+        <div>
+          <head>Responsio</head>
+          <p>
+            hic videndum est qualis est conce 
+          <lb ed="#L" n="17"/>ptus generis. et dicit Ockam quod omnis conceptus ge 
+          <lb ed="#L" n="18"/>neris est praedicabilis in quid de pluribus diffe 
+          <lb ed="#L" n="19"/>rentibus plusquem solo numero: habentibus cer- 
+          <lb ed="#L" n="20"/>tam proportione perfectionis inter se: quorum nul- 
+          <lb ed="#L" n="21"/>lus est pars essentialis alterius per se. Per prae- 
+          <lb ed="#L" n="22"/>mum distinguitur a conceptu denominativo. per se- 
+          <lb ed="#L" n="23"/>cundum a conceptu specifico. per tertium a conceptu 
+          <lb ed="#L" n="24"/>coni deo et creaturis. per quartum a conceptu coni quoi  
+          <lb ed="#L" n="25"/>praedicatur de parte essentiali: vt illud quod conque 
+          <lb ed="#L" n="26"/>nit angelo et animae.
+          </p>
+          <p>
+            Secundo dicit quod aliquid sim 
+          <lb ed="#L" n="27"/>pliciter simplex: puta angelus: est per se in ge 
+          <lb ed="#L" n="28"/>nere: quia sibi conueniunt istae conditiones. De deo  
+          <lb ed="#L" n="29"/>autem tenet sctuns Thomoa iao i distintione viii quod non est  
+          <lb ed="#L" n="30"/>in genere propter defectum secunde conditionis: tamen  
+          <lb ed="#L" n="31"/>nec eum simplicitas impedit nec incomponibi- 
+          <lb ed="#L" n="32"/>litas. Sed non potest ratione probari. rtio tamen prin- 
+          <lb ed="#L" n="33"/>cipalis secunda est iua. tenet beatus Thomas quod de  
+          <lb ed="#L" n="34"/>repugnat esse in genere praedicamentali ex sua  
+          <lb ed="#L" n="35"/>simplicitate. quia talis est sua simplicitas: quod  
+          <lb ed="#L" n="36"/>sua diffinitio specifica requirit per se pri- 
+          <lb ed="#L" n="37"/>mo modo vel secundo quod partibus diffinitionis  
+          <lb ed="#L" n="38"/>corrundeat eadem res: et hoc non esset verum si  
+          <lb ed="#L" n="39"/>esset in genere. Secundo ex eius necessitate: quia  
+          <lb ed="#L" n="40"/>sua diffinitio specifica requirit quod quaelibet  
+          <lb ed="#L" n="41"/>res in re diffinita corrundens partibus diffi 
+          <lb ed="#L" n="42"/>nitionis sit necesse esse: sed diffinitio speci 
+          <lb ed="#L" n="43"/>fica non requirit sic. Tertio ex eius unitate:  
+          <lb ed="#L" n="44"/>quia eius diffinitio specifica non est nata praedicari 
+          <lb ed="#L" n="45"/>de pluribus differentibus nunero. Quarto ex eis 
+          <lb ed="#L" n="46"/>infinitate: quia eius infinitas plus excedit  
+          <lb ed="#L" n="47"/>omnem creaturam quam substantia albedinem.
+          </p>
+          <p>
+            In 
+          <lb ed="#L" n="48"/>sta quaestione faciam quatuor. Primo ponam quas 
+          <lb ed="#L" n="49"/>dam distinctiones. Secundo quasdam conclusio  
+          <lb ed="#L" n="50"/>nes. Tertio soluam quaedam dubia. Quarto di 
+          <lb ed="#L" n="51"/>cam ad rationes principales.
+          </p>
+          <!-- article 1 ?? -->
+          <p>
+          Prima di 
+          <lb ed="#L" n="52"/>stinctio est ista. quod aliquid potest dici simpliciter 
+          <lb ed="#L" n="53"/>simplex dupliter. Uno modo quod ex nullis re 
+          <!--085.xml-->
+          <cb ed="#L" n="b"/><!--43rb-->
+          <lb ed="#L" n="54"/>bus componitur. Secundo modo quia nec ex rebus  
+          <lb ed="#L" n="55"/>componitur: nec est alicui rei componibile.
+          </p>
+          <p>
+            Se  
+          <lb ed="#L" n="56"/>cunda distinctio est quod aliquid dicitur esse in gnre 
+          <lb ed="#L" n="57"/>dupliter. Uno modo sicut pars alicuius coordina- 
+          <lb ed="#L" n="58"/>tionis praedicamentalis: et sic nihil est in genere 
+          <lb ed="#L" n="59"/>nisi vox vel conceptus. quia coordinationes prae 
+          <lb ed="#L" n="60"/>dicamentales non sunt nisi de signis praedica 
+          <lb ed="#L" n="61"/>bilibus. Alio modo dicitur aliquid esse in genere: quia 
+          <lb ed="#L" n="62"/>principaliter significatur per conceptum vel vocem.  
+          <lb ed="#L" n="63"/>et sic dicitur quod sortes est in genere substantiae: et color 
+          <lb ed="#L" n="64"/>in genere qualitatis.
+          </p>
+          <!--article 2 ?? -->
+          <p>
+            Secundo pono quatuor conclu 
+          <lb ed="#L" n="65"/>siones. Prima est quod aliquam creatura est sim 
+          <lb ed="#L" n="66"/>plciter simplex primo mo loquendo: quia videlicet  
+          <lb ed="#L" n="67"/>ex nullis rebus componitur. Probatur. quia capio 
+          <lb ed="#L" n="68"/>angelum: quaero vtrum est compositus ex materia 
+          <lb ed="#L" n="69"/>et forma an non: si sic: quaero de sua forma an 
+          <lb ed="#L" n="70"/>est simpliciter simplex an non: si non: erit processus  
+          <lb ed="#L" n="71"/>in infinitum in compositione. vel dabitur aliquid  
+          <lb ed="#L" n="72"/>incompositum. quod est propositum.
+          </p>
+          <p>
+            Sciendum quod  
+          <lb ed="#L" n="73"/>ista ratio probat quod est dare alquid simpliciter sim- 
+          <lb ed="#L" n="74"/>plex per negationem omnis compositionis ex partibus  
+          <lb ed="#L" n="75"/>qualitatis alterius rationis: sicut sunt potentia et  
+          <lb ed="#L" n="76"/>actus: materia et forma. sed si diceretur quod aliquo  
+          <lb ed="#L" n="77"/>res creata componitur ex partibus eiusdem rationis  
+          <lb ed="#L" n="78"/>vel extensis: sicut calor et lux: vel non extensis  
+          <lb ed="#L" n="79"/>sicut anima et angelus: vt aliqui volunt: diceretur tunc  
+          <lb ed="#L" n="80"/>quod ista ratio contra eos non concludit: sed omne composi- 
+          <lb ed="#L" n="81"/>tum est divisibile in componibilia in infinitum:
+          </p>
+          <p>
+          <lb ed="#L" n="82"/>Sed contra istud dictum potest argui: quia sic pos- 
+          <lb ed="#L" n="83"/>set deus causare unum actum sucessive. sic quoam  
+          <lb ed="#L" n="84"/>hodie inciperet causare unam partem: et ad  
+          <lb ed="#L" n="85"/>mille annos postea foret iste complete cau- 
+          <lb ed="#L" n="86"/>satus: et in toto tempore intermedio continue fo 
+          <lb ed="#L" n="87"/>ret in causari. quod non videtur verum. forte tamen hoc  
+          <lb ed="#L" n="88"/>ipsi concederent. Item si puncta forent res: foret  
+          <lb ed="#L" n="89"/>aliqua creatura simpliciter simplex primo modo.
+          </p>
+          <p>
+          <lb ed="#L" n="90"/>Secunda conclusio est ista. solus deus est simpliciter sim 
+          <lb ed="#L" n="91"/>plex secundo modo. hoc probatur: quia omnis creatura est  
+          <lb ed="#L" n="92"/>alteri componibilis. probo: quia vel est suba vel 
+          <lb ed="#L" n="93"/>est accus. si accss: patet. si suba: potest substare  
+          <lb ed="#L" n="94"/>accidenti. deus autem nullo modo est componibilis
+          </p>
+          <p>
+          <lb ed="#L" n="95"/>Praeterea si esset talis creatura: hoc ma- 
+          <lb ed="#L" n="96"/>xime videretur de angelo. sed angelus recipit  
+          <lb ed="#L" n="97"/>suas affectiones et intentiones. vnd Augustinus vi de  
+          <lb ed="#L" n="98"/>tri c. xvii. Nihil simplex mutabile est. omnis  
+          <lb ed="#L" n="99"/>creatura mutabilis e. nulla igitur creatura  
+          <lb ed="#L" n="100"/>est simplex. Uidetur autem quod ista ratio debeat in 
+          <lb ed="#L" n="101"/>telligi de simplicitate quae excludit cum alio con 
+          <lb ed="#L" n="102"/>ponibilitatem. vnde in eodem citulo dicit quod ideo anima 
+          <lb ed="#L" n="103"/>non est simplex: quia aliud est cupiditas: aliud  
+          <lb ed="#L" n="104"/>timor: aliud tristitia. Ex his patet quod diffinitio  
+          <lb ed="#L" n="105"/>puncti non est bene data prio Euclidis. Pun- 
+          <lb ed="#L" n="106"/>ctus est cuius pars non est etc. ita est deus et ange- 
+          <!--086.xml-->
+          <pb ed="#L" n="43-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>lus et anima. Sed sic deberet dici: quod pesencius est res  
+          <lb ed="#L" n="2"/>positionem habens: cuius non est pars.
+          </p>
+          <p>
+            Tertia conclusio 
+          <lb ed="#L" n="3"/>est: quod deus est in genere secundo modo secunde distincti  
+          <lb ed="#L" n="4"/>onis. Quod probo sic: omnis conceptus praedicabiur de  
+          <lb ed="#L" n="5"/>deo et angelo: est conceptus genris: quia non sunt  
+          <lb ed="#L" n="6"/>eiusdem spenei. Constat: ergo non est conceptus speie 
+          <lb ed="#L" n="7"/>nec diffinitionis: sed conceptus substantiae praedicatur  
+          <lb ed="#L" n="8"/>inquid de deo et angelo: et similiter suba incorpe 
+          <lb ed="#L" n="9"/>rea. cuius probatio est: quia ad quaestionem factam pr quied  
+          <lb ed="#L" n="10"/>de deo convenienter respondetur quod est suba: vel res  
+          <lb ed="#L" n="11"/>per se subsistens: et suba incorporea. vel est in  
+          <lb ed="#L" n="12"/>genere substantiae. nec hoc reprignat eius infin 
+          <lb ed="#L" n="13"/>tati. Nam si esset unum lignum infinitum: non ideo  
+          <lb ed="#L" n="14"/>minus foret individuum de genere substantiae. nec  
+          <lb ed="#L" n="15"/>repugnat ei quod necesse est esse: quia si corpus  
+          <lb ed="#L" n="16"/>celeste foret necesse esse: sicut quidam philosoi posue- 
+          <lb ed="#L" n="17"/>runt: non ideo negaretur esse in guere substan- 
+          <lb ed="#L" n="18"/>tiae. nec repugnat eius simplicitati : quia ange- 
+          <lb ed="#L" n="19"/>lus est in genere: et tamen conceditur quod est simplex omi 
+          <lb ed="#L" n="20"/>no per carentiam quaerumcumque partium integralium  
+          <lb ed="#L" n="21"/>nec derogat eius perfectioni: quod habeat conce- 
+          <lb ed="#L" n="22"/>ptum conem in anima mea sibi et aliis: plus quam de 
+          <lb ed="#L" n="23"/>rogat eidem quod hoc nonem ens significat eum  
+          <lb ed="#L" n="24"/>ommuniter cum aliis: nec requiritur quod sit proportio fi- 
+          <lb ed="#L" n="25"/>nita inter omnia extrema in genere perfectionis.
+          </p>
+          <p>
+          <lb ed="#L" n="26"/>Quarta conclusio est: quod proprie loquendo primo  
+          <lb ed="#L" n="27"/>modo de esse in gener: soli conceptus et voces vel 
+          <lb ed="#L" n="28"/>saltem signa ad placitum instituta sunt in genere- 
+          <lb ed="#L" n="29"/>hoc patet: quia tantum ista incomplexa ponutur i ge- 
+          <lb ed="#L" n="30"/>nere qua sunt partes propositionum: sed huiusmodi non  
+          <lb ed="#L" n="31"/>sunt nisi signa vel conceptus vel voces. ergo patet  
+          <lb ed="#L" n="32"/>maior: quia ola ista nata sunt esse subiecta et  
+          <lb ed="#L" n="33"/>praedicata: et solum ista quae sunt termini cathe 
+          <lb ed="#L" n="34"/>goreumatici: sunt ordinabilia in genere. ergo
+          </p>
+          <p>
+          <lb ed="#L" n="35"/>Sed contra ista sunt quadam dubia: quorum primum  
+          <lb ed="#L" n="36"/>est. vtrum simplicitas sit perfectio. videtur quod sic  
+          <lb ed="#L" n="37"/>quia pro magna perfectsone attribuitur deo et an 
+          <lb ed="#L" n="38"/>relo. similiter suum oppositum est imperfectio. ergo haec  
+          <lb ed="#L" n="39"/>est perfeciio Secundum dubium est an partes sub  
+          <lb ed="#L" n="40"/>stantiae sint in genitrios videtur quod non. quia Ioetius di 
+          <lb ed="#L" n="41"/>cit quod Ar istoetelis relictis extremis scilicet mate  
+          <lb ed="#L" n="42"/>ria et forma: agit hocr subus tantia composita. Si  
+          <lb ed="#L" n="43"/>oppositum videtur ex multis dictis perhi et con- 
+          <lb ed="#L" n="44"/>mentatoris secundo dite anima ter . commeti secundi 
+          <lb ed="#L" n="45"/>Dicimus ergo quod substantia est unum genus  
+          <lb ed="#L" n="46"/>contentivum substantiarum aut quaedam est ma- 
+          <lb ed="#L" n="47"/>teria: et quam est forma. Commentator incipit  
+          <lb ed="#L" n="48"/>dividere genus substantiae: et dividit omnia de quoi  
+          <lb ed="#L" n="49"/>bus dicitur substantia sub tribus modis: quia:  
+          <lb ed="#L" n="50"/>primus est vt sit substantia. secundus aut mate  
+          <lb ed="#L" n="51"/>ria aut forma. tertius illud quod constituitur 
+          <lb ed="#L" n="52"/>ex his. haec est iententia commetatoris: sed plu 
+          <lb ed="#L" n="53"/>ra sunt verba. Item septimo Methaphysi 
+          <!--086.xml-->
+          <cb ed="#L" n="b"/><!--43vb-->
+          <lb ed="#L" n="54"/>ce commento vii habetur eadem sententia. et in  
+          <lb ed="#L" n="55"/>multis aliis locis habetur quod ex non substan- 
+          <lb ed="#L" n="56"/>tiis non fit suba. Ite haec est praedicatio superio  
+          <lb ed="#L" n="57"/>ris de inferiori: anima intellectiva est anima et  
+          <lb ed="#L" n="58"/>haec similiter: anima intellectiva est substantia. Item 
+          <lb ed="#L" n="59"/>pars ligni est lignum. igitur pars ligni est suba.  
+          <lb ed="#L" n="60"/>consequentia patet: quia omnis pars ligni est substantia.  
+          <lb ed="#L" n="61"/>aliter non valeret distinctio de partibus ho- 
+          <lb ed="#L" n="62"/>mogeneis capitulo i de generatione et de augmet 
+          <lb ed="#L" n="63"/>tione. alias corruptione. Tertium dubium quaero 
+          <lb ed="#L" n="64"/>conceptus entis non est conceptus generis: cum sit con- 
+          <lb ed="#L" n="65"/>munis et praedicabilis de deo et creatura.
+          </p>
+          <p>
+          <lb ed="#L" n="66"/>Quarto posset esse dubium an genera ge 
+          <lb ed="#L" n="67"/>neralissima et universaliter omnima ordinabilia in  
+          <lb ed="#L" n="68"/>coordinationibus praedicamentalibus sint vocest  
+          <lb ed="#L" n="69"/>vel conceptus: sicut dicit quarta conalo. Quod non  
+          <lb ed="#L" n="70"/>sint conceptus: probo. omnis concepius mentis est quali 
+          <lb ed="#L" n="71"/>tas: sed suba est genus generalissimum: et est con 
+          <lb ed="#L" n="72"/>cemptus mentis. ergo suba est qualitas . conclusit  
+          <lb ed="#L" n="73"/>falsa: quia sua opposita est immediata. nul- 
+          <lb ed="#L" n="74"/>la substantia est qualitas. primo posteriorum.
+          </p>
+          <p>
+          <lb ed="#L" n="75"/>Secundo: si istae conceptus est qualitas: ergo qualitas  
+          <lb ed="#L" n="76"/>praedicatur in quid de isto conceptu. et iste conceptus  
+          <lb ed="#L" n="77"/>praedicatur in quid de sorte. ergo qualitas pradica 
+          <lb ed="#L" n="78"/>tur in quid de sorte. consequens est falsum.
+          </p>
+          <p>
+            Tertio  
+          <lb ed="#L" n="79"/>tunc tales forent concedende: atal est conceptus.
+          </p>
+          <p>
+          <lb ed="#L" n="80"/>consequens est falsum. 
+            Quarto: si omnia praedicamen 
+          <lb ed="#L" n="81"/>ta sunt conceptus: omnia praedicamenta sunt in ge- 
+          <lb ed="#L" n="82"/>nere qualitatis. consequens est falsum: quia si sic quali 
+          <lb ed="#L" n="83"/>tas foret superius et inferius respectu sui  
+          <lb ed="#L" n="84"/>psius. nam iste concepius demonstrato con 
+          <lb ed="#L" n="85"/>teptu generalissimo in coordinatione qua 
+          <lb ed="#L" n="86"/>litatis: est contractptus. ergo est qualitas: et cer- 
+          <lb ed="#L" n="87"/>tum est quod non omnis qualitas. ergo istae conceptus  
+          <lb ed="#L" n="88"/>qualitas praedicatur de illa et de aliis. ergo est conis  
+          <lb ed="#L" n="89"/>ad illam et ad illas. igitur idem respectu suupsi- 
+          <lb ed="#L" n="90"/>est suprerius et inferius.
+          </p>
+          <p>
+            Quinto. si sic: quod-  
+          <lb ed="#L" n="91"/>libet praedicamentum foret individuum vnius prae 
+          <lb ed="#L" n="92"/>dicamenti. videlicet qualitatis. et sic foret con 
+          <lb ed="#L" n="93"/>cedendum quod quantitas sit quolitas: et quantitas  
+          <lb ed="#L" n="94"/>est in anima: et pari ratione talis substantia est in 
+          <lb ed="#L" n="95"/>anima et multa alia.
+          </p>
+          <p>
+            Sexto si sic: accipio com 
+          <lb ed="#L" n="96"/>ceptum animalis quem tun ponis per se in genere  
+          <lb ed="#L" n="97"/>substantiae: ille conceptus est per se qualitas./  
+          <lb ed="#L" n="98"/>ergo est per se in duobus generibus.
+          </p>
+          <p>
+            Septi- 
+          <lb ed="#L" n="99"/>mo: tunc unum genus generalissimum foret su- 
+          <lb ed="#L" n="100"/>perius ad aliud sicut ad inferius: immo quali 
+          <lb ed="#L" n="101"/>tas foret genus generalissimum omnibus aliis sic.  
+          <lb ed="#L" n="102"/>ergo non foret nisi vnum genus generalissi 
+          <lb ed="#L" n="103"/>mum.
+          </p>
+          <p>
+            Octavo sic: si omne genus genera-  
+          <lb ed="#L" n="104"/>lissimum est qualitas: substantia est genus ge 
+          <lb ed="#L" n="105"/>neralissimum. ergo substantia est qualitas. Item An 
+          <lb ed="#L" n="106"/>selmus de incarnatone verbi vocat istos dia 
+          <!--087.xml-->
+          <pb ed="#L" n="44-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>bolicos hereticos: qui non ponunt universa- 
+          <lb ed="#L" n="2"/>les substantias nisi siatus vocius. et de casu dia 
+          <lb ed="#L" n="3"/>boli dicit quod deus facit omnes naturas substan- 
+          <lb ed="#L" n="4"/>tiales accidentales universales et individu 
+          <lb ed="#L" n="5"/>is.
+          </p>
+          <p>
+            Quintum dubium est quon aliquid simplex  
+          <lb ed="#L" n="6"/>potest esse in genere. et videtur quod non: quia genus  
+          <lb ed="#L" n="7"/>et differentia accipiuntur a distinctis realita- 
+          <lb ed="#L" n="8"/>tibus. ergo omne quod est in genere: est compe 
+          <lb ed="#L" n="9"/>situm ex diversis realitatibus.
+          </p>
+          <p>
+            Confirmatur  
+          <lb ed="#L" n="10"/>per Ioetium in libro divisionum. Senus specie- 
+          <lb ed="#L" n="11"/>bus materia est. nam sicut accepta forma transit  
+          <lb ed="#L" n="12"/>in statum alium: ita genus accepta differentia  
+          <lb ed="#L" n="13"/>transit in speciem.
+          </p>
+          <p>
+            Secundo: quia Anselmus dicit  
+          <lb ed="#L" n="14"/>expresse monolio. xvii quod aliquis dicatur ratio- 
+          <lb ed="#L" n="15"/>nalis: et corpus: et homo: non vno modo vel consi 
+          <lb ed="#L" n="16"/>deratione. hoc est dictum quod secundum aliud est  
+          <lb ed="#L" n="17"/>corpus: et secundum aliud rationalis. et singulum  
+          <lb ed="#L" n="18"/>eorum non est totum hoc quod est homo. ergo secundm eum  
+          <lb ed="#L" n="19"/>homo dicitur corpus secundum unam rationem: et rationa- 
+          <lb ed="#L" n="20"/>lis scum aliam.
+          </p>
+          <p>
+            Tertio: quia quinto metaphysi 
+          <lb ed="#L" n="21"/>ce commentio xxx. Denus est pars formarum 
+          <lb ed="#L" n="22"/>specierum. Forma enim speciei dividitur in ge 
+          <lb ed="#L" n="23"/>nus et differentia. Et commentio xxxiii. Denus  
+          <lb ed="#L" n="24"/>est illud quod recipit differentias et quolitates:  
+          <lb ed="#L" n="25"/>et talis est materia. Item vii metaphysci in  
+          <lb ed="#L" n="26"/>diversis commentis habentur auctoritates  
+          <lb ed="#L" n="27"/>eiusdem virtutis.
+          </p>
+          <p>
+            Ad primum dubium de sim  
+          <lb ed="#L" n="28"/>plicitate. Dico quod loquendo de simplicitate  
+          <lb ed="#L" n="29"/>qua excludit compositionem ex partibus: illa non  
+          <lb ed="#L" n="30"/>est perfectio: ad istum intellectum quod omne simplex  
+          <lb ed="#L" n="31"/>sit perfectius suo composito. hoc patet: quia nec ma 
+          <lb ed="#L" n="32"/>teria est perfectior composito: nec forma nec  
+          <lb ed="#L" n="33"/>accidens subiecto. Sed si loquamur de sim 
+          <lb ed="#L" n="34"/>plicitate quae excludit non solum compositionem 
+          <lb ed="#L" n="35"/>ex his: sed etiam componibilitatem: sic est perfe 
+          <lb ed="#L" n="36"/>ctius. et sic attribuitur deo: vt dictum est contra. lu 
+          <lb ed="#L" n="37"/>sione secunda. Nec sequitur: suum oppositum est  
+          <lb ed="#L" n="38"/>imperfectio: ergo est perfectio. vocandoperfectio 
+          <lb ed="#L" n="39"/>nem illud quod est simpliciter melius ipsum quod  
+          <lb ed="#L" n="40"/>non ipsum. Quod autem deus non potest componi cum 
+          <lb ed="#L" n="41"/>alio corpore: videtur: quia forte tunc posset esse  
+          <lb ed="#L" n="42"/>perfectius deo.
+          </p>
+          <p>
+            Ad secundum dubium dico ad prae- 
+          <lb ed="#L" n="43"/>sens quod partes substantiae sunt in genere sub  
+          <lb ed="#L" n="44"/>stantiae. et ideo in descriptione conceptus gene 
+          <lb ed="#L" n="45"/>ris / nec opet ponere quod sit praedicabilis de  
+          <lb ed="#L" n="46"/>pluribus: quorum nullum estpars essentialis  
+          <lb ed="#L" n="47"/>unius per se: nec quod illa plura habeant ad- 
+          <lb ed="#L" n="48"/>inuicem proportionem perfectionis. Contra 
+          <lb ed="#L" n="49"/>anima igitur esset individuum de genere  
+          <lb ed="#L" n="50"/>substantiae: et esset compositum. et sic quodliber  
+          <lb ed="#L" n="51"/>individuum de genere substantiae esset composi 
+          <lb ed="#L" n="52"/>tum ex infinitis individuis. Item tunc ani 
+          <lb ed="#L" n="53"/>ma foret persona: et sicpersona foret pars ho 
+          <!--087.xml-->
+          <cb ed="#L" n="b"/><!--44rb-->
+          <lb ed="#L" n="54"/>minis: et in christo forent duae personae.
+          </p>
+          <p>
+            Ad  
+          <lb ed="#L" n="55"/>primum istorum concedo quod anima est individuum: et  
+          <lb ed="#L" n="56"/>est in genere substantiae: et in genere animae:  
+          <lb ed="#L" n="57"/>quia iste terminus anima praedicat de omai ani- 
+          <lb ed="#L" n="58"/>ma in quid: et anime differunt plusque solo nume- 
+          <lb ed="#L" n="59"/>ro: ideo anima est genus ad eas: quia omnis conraeptus  
+          <lb ed="#L" n="60"/>praedicabilis in quid de pluribus differentibus  
+          <lb ed="#L" n="61"/>plusquam solo numero / et natus est distingue 
+          <lb ed="#L" n="62"/>re ea ab aliis / est conceptus generis. et quando di- 
+          <lb ed="#L" n="63"/>citur: tunc quodlibet individuum in genere  
+          <lb ed="#L" n="64"/>substantiae foret compositum ex infinitis etc con 
+          <lb ed="#L" n="65"/>cedo conclusionem de corporalibus individuis  
+          <lb ed="#L" n="66"/>quia certum est quod omne tale potest dividi in in- 
+          <lb ed="#L" n="67"/>finitum: et non nisi in substantias qui sunt suae  
+          <lb ed="#L" n="68"/>partes. ergo etc.
+          </p>
+          <p>
+            Ad illud de persona / dico 
+          <lb ed="#L" n="69"/>quod si persona est rationalis naturae incommuus- 
+          <lb ed="#L" n="70"/>nicabilis substantia: et lby inconicabilis excli- 
+          <lb ed="#L" n="71"/>dit conicabilitatem non solum per praedicationem: sec  
+          <lb ed="#L" n="72"/>per unionem forme ad materiam: sicut communiter di 
+          <lb ed="#L" n="73"/>citur: tunc anima non est persona. si autem descriptio 
+          <lb ed="#L" n="74"/>foret rationalis naturae individua substan- 
+          <lb ed="#L" n="75"/>tia: ad virtutem vocis loquendo / posset conce 
+          <lb ed="#L" n="76"/>di quod anima est persona tam coniuncta quam separa  
+          <lb ed="#L" n="77"/>ta.
+          </p>
+          <p>
+            Ad rationem secundi dubii quod relictis  
+          <lb ed="#L" n="78"/>etc verum est. quia positio extrema accipit sub  
+          <lb ed="#L" n="79"/>stantias compositas: quia manifestiores.
+          </p>
+          <p>
+            Ad  
+          <lb ed="#L" n="80"/>tertium dubium dico quod conceptus generis de  
+          <lb ed="#L" n="81"/>ipsum quod est in genere: aliquo modo distin 
+          <lb ed="#L" n="82"/>guere ab aliquo alio. Unde ideo ponitur con- 
+          <lb ed="#L" n="83"/>ceptus generis in diffinitione: vt eius di- 
+          <lb ed="#L" n="84"/>stinctio innotescat saltem ab aliquo.
+          </p>
+          <p>
+            Ad  
+          <lb ed="#L" n="85"/>quartum dubium dico quod omnia praedicamenta sunt  
+          <lb ed="#L" n="86"/>in genere qualitatis: loquendo de praedi 
+          <lb ed="#L" n="87"/>camentis qua sunt conceptus vel voces. nam praedi- 
+          <lb ed="#L" n="88"/>camenta sunt signa comnia instituta: vel na- 
+          <lb ed="#L" n="89"/>turaliter signa sicut conceptus: vel ad placitum  
+          <lb ed="#L" n="90"/>icut voces: sed qua ratione voces sunt ad pla 
+          <lb ed="#L" n="91"/>citum institute ad significandum res: possent  
+          <lb ed="#L" n="92"/>lapides institui si placeret omnibus ad signifi 
+          <lb ed="#L" n="93"/>candum: et tunc omnia ista forent in genere substan 
+          <lb ed="#L" n="94"/>tiae. Sciendum tamen quod conceptus positi in coordi 
+          <lb ed="#L" n="95"/>natione praedicametali / dupliter possunt sup- 
+          <lb ed="#L" n="96"/>ponere: vel pro se: et sic vocatur suppositio sim 
+          <lb ed="#L" n="97"/>plex. vel pro suis significatis: et sic vocatur sup 
+          <lb ed="#L" n="98"/>positio personalis. et secundum has diversas sup- 
+          <lb ed="#L" n="99"/>positiones soluuntur argumenta facta.
+          </p>
+          <p>
+            Ad 
+          <lb ed="#L" n="100"/>primum quanodicitur omne genus generalissimum est quali 
+          <lb ed="#L" n="101"/>tas etc. hic non est fallacia consequentis: quia medi 
+          <lb ed="#L" n="102"/>terminus non variatur. dicendum tamen quod dif 
+          <lb ed="#L" n="103"/>cursus nihil valet. nam licet non sit variatio 
+          <lb ed="#L" n="104"/>medii: est tamen variatio minoris extremitatis  
+          <lb ed="#L" n="105"/>quia iste terminus substantia in minori suppotest  
+          <lb ed="#L" n="106"/>simpliciter: et in conlusione forte personaliter. Uel di 
+          <!--088.xml-->
+          <pb ed="#L" n="44-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>cendum quod conclusio est distinguenda: eo quod sub- 
+          <lb ed="#L" n="2"/>iectum potest supponere simpliciter vel personaliter.
+          </p>
+          <p>
+          <lb ed="#L" n="3"/>Sed contra. ista distinctio non debet dari nisi vbi 
+          <lb ed="#L" n="4"/>terminus primae intentionis suppouit respe 
+          <lb ed="#L" n="5"/>ctu termini secunde intentionis. sicut hic: antia  
+          <lb ed="#L" n="6"/>est genus. vel homo est spens. potest dici quod sic: quaa  
+          <lb ed="#L" n="7"/>quando videlicet terminus prime intentionis suppo 
+          <lb ed="#L" n="8"/>nit respectu praedicati termini commnis ad secum 
+          <lb ed="#L" n="9"/>das intentiones: sicut sunt isti termini conce 
+          <lb ed="#L" n="10"/>ptus / qualitas / signum / et huiusmoni et quando dicitur quod sua  
+          <lb ed="#L" n="11"/>opposita est immediata: sicut ista / nullum animal 
+          <lb ed="#L" n="12"/>est genus. non contradicit isti / animal est genus. quia utra 
+          <lb ed="#L" n="13"/>uam est vera. nec sequitur est immediata: ergo est fal 
+          <lb ed="#L" n="14"/>sa: vt dicunt aliqui.
+          </p>
+          <p>
+            Ad secundum quando dicitur si ille conce 
+          <lb ed="#L" n="15"/>ptus est qualitas: ergo qualitas praedicabitur in quid de isto  
+          <lb ed="#L" n="16"/>conceptu. consequentia non valet. sed tamen consequens est verum.  
+          <lb ed="#L" n="17"/>et quand diciur: qualitas praedicatur in quid de sorte. consequentia  
+          <lb ed="#L" n="18"/>non valet: quia iste conceptus quae est genus in coordi 
+          <lb ed="#L" n="19"/>natione substantiae: praedicatur de substantia in 
+          <lb ed="#L" n="20"/>quid: quando supponit personaliter: sed quando subiicitur re- 
+          <lb ed="#L" n="21"/>spectu istius termini qualitas tantum: accipitur sim- 
+          <lb ed="#L" n="22"/>pliciter.
+          </p>
+          <p>
+            Ad tertium quando dicitur quod tunc tales fo- 
+          <lb ed="#L" n="23"/>ret concedende: animal est conceptus: homo est qualitas.  
+          <lb ed="#L" n="24"/>Dico quod multe propositiones sunt distinguende  
+          <lb ed="#L" n="25"/>vel non distinguede secundum usum volentium loqui:  
+          <lb ed="#L" n="26"/>vel simpliciter negande. Unde animal secundum suppositio  
+          <lb ed="#L" n="27"/>nem pesonalem: hoc est res pro qua supponit per 
+          <lb ed="#L" n="28"/>sonaliter iste terminus animal: non est conceptus: sed  
+          <lb ed="#L" n="29"/>quando supponit simpliciter: vel habet suppositionem  
+          <lb ed="#L" n="30"/>simplicem: tunc est conceptus. Eodem modo homo est  
+          <lb ed="#L" n="31"/>qualitas quando supponit simpliciter.
+          </p>
+          <p>
+            Ad  
+          <lb ed="#L" n="32"/>quartum quando dicitur / si omnia praedicamenta 
+          <lb ed="#L" n="33"/>sunt conceptus: omnia praedicamenta erunt  
+          <lb ed="#L" n="34"/>in genere qualitatis : concedo consequentiam: et con 
+          <lb ed="#L" n="35"/>ceditur antecens accipiendo quodlibet praedica 
+          <lb ed="#L" n="36"/>mentum ut habet suppositionem simplicem 
+          <lb ed="#L" n="37"/>et non personalem. Et quando ulterius dicitur 
+          <lb ed="#L" n="38"/>ergo praedicamentum qualitatis est superius- 
+          <lb ed="#L" n="39"/>ad omne praedicamentum: et per consequens 
+          <lb ed="#L" n="40"/>ad seipsum. dico quod nullum est inconveniens quod  
+          <lb ed="#L" n="41"/>idem sit superius ad seipsum. tamen dico quod habet  
+          <lb ed="#L" n="42"/>diversam suppositionem. Unde qualitas  
+          <lb ed="#L" n="43"/>est praedicamentum. quando habet suppositionem  
+          <lb ed="#L" n="44"/>personalem: est superius ad seipsum habens sup 
+          <lb ed="#L" n="45"/>positionem simplicem: quia vt habet suppositionem  
+          <lb ed="#L" n="46"/>simplicem: est quadam qualitas mentis vel in- 
+          <lb ed="#L" n="47"/>tentio quae est in genere qualitatis.
+          </p>
+          <p>
+            Ad  
+          <lb ed="#L" n="48"/>quintum quando dicitur: tunc quodlibet praedica 
+          <lb ed="#L" n="49"/>mentum foret individuum vnius praedicamenti.  
+          <lb ed="#L" n="50"/>conceditur quando supponit simpliciter: non  
+          <lb ed="#L" n="51"/>autem quando supponit personaliter: et secundum sup 
+          <lb ed="#L" n="52"/>positionem simplicem conceditur quod quantitas  
+          <lb ed="#L" n="53"/>est qualitas: et quod quantitas est in anima. Et sim 
+          <!--088.xml-->
+          <cb ed="#L" n="b"/><!--44vb-->
+          <lb ed="#L" n="54"/>liter quod substantia est in anima: et quod animal ratio 
+          <lb ed="#L" n="55"/>nale est in anima: quia quando isti termini supponunt 
+          <lb ed="#L" n="56"/>simpliciter: supponunt pro intentione quae est  
+          <lb ed="#L" n="57"/>in anima. Et similiter est dicendum ad sextum quod  
+          <lb ed="#L" n="58"/>istae conceptus qui secundum personalem supposi  
+          <lb ed="#L" n="59"/>tionem est per se in genere substantiae: secundum  
+          <lb ed="#L" n="60"/>suppositionem simplicem est in genere quali 
+          <lb ed="#L" n="61"/>tatis per se.
+          </p>
+          <p>
+            Ad septimum dicitur quod vnum genus  
+          <lb ed="#L" n="62"/>generalissimum non est inferius ad aliud ge 
+          <lb ed="#L" n="63"/>nus generalissimum simpliciter loquendo. nisi quia  
+          <lb ed="#L" n="64"/>istae terminus de quo personaliter supponente 
+          <lb ed="#L" n="65"/>praedicatur genus generalissimum suppsionens  
+          <lb ed="#L" n="66"/>simpliciter: est inferius ad qualitatem quae est ge- 
+          <lb ed="#L" n="67"/>nus generalissimum.
+          </p>
+          <p>
+            Ad octavum dicitur quod  
+          <lb ed="#L" n="68"/>discursus non valet: quia minor terminus acci 
+          <lb ed="#L" n="69"/>pitur diversimode in minori propositione  
+          <lb ed="#L" n="70"/>et in conclusione: et secundum diversam suppositio  
+          <lb ed="#L" n="71"/>nem. quia conclusio est vera quando istae termi 
+          <lb ed="#L" n="72"/>nus substantia habet suppositionem simpli-  
+          <lb ed="#L" n="73"/>tem. maior autem de virtute sermonis est fal- 
+          <lb ed="#L" n="74"/>sa: aequiualet tamen vni propositioni vere. sicut  
+          <lb ed="#L" n="75"/>sic dicendo: omne genus generalissimum est qua  
+          <lb ed="#L" n="76"/>litas. hoc est / omnis terminus de quo praedicatur  
+          <lb ed="#L" n="77"/>istae terminus genus generalissimum. sicut sic  
+          <lb ed="#L" n="78"/>dicendo: substantia est genus generalissi- 
+          <lb ed="#L" n="79"/>mum: quando habet suppositionem simplicem: est  
+          <lb ed="#L" n="80"/>in genere qualitatis. quia tunc supponit pro in- 
+          <lb ed="#L" n="81"/>tentione quadam qua est qualitas.
+          </p>
+          <p>
+            Ad nonum  
+          <lb ed="#L" n="82"/>de hoc quod dicit Anselmus de incarnation 
+          <lb ed="#L" n="83"/>etc debet intelligi quod vniversales substan- 
+          <lb ed="#L" n="84"/>tiae non sunt sic siatus vocis: sed solum habeant  
+          <lb ed="#L" n="85"/>suppositionem simplicem: et non personalem. quia non  
+          <lb ed="#L" n="86"/>sunt nisi conceptus vel voces supponentes 
+          <lb ed="#L" n="87"/>personaliter praedicabiles de aliis. vel potest di- 
+          <lb ed="#L" n="88"/>ci quod Anselmus vocat universales substan- 
+          <lb ed="#L" n="89"/>tias illas que habent insiuentiam generalem  
+          <lb ed="#L" n="90"/>in ista inferiora: sicut sunt corpora celestia.  
+          <lb ed="#L" n="91"/>Ad aliud dubium dicitur quod illud quod est simplex  
+          <lb ed="#L" n="92"/>est in genere. tamen sciendum quia conceptuum qui 
+          <lb ed="#L" n="93"/>sunt in genere: quidam significant composita 
+          <lb ed="#L" n="94"/>ex diversis partibus vel rebus: et tales sunt pro 
+          <lb ed="#L" n="95"/>prie diffinibiles. Alia sunt quao non componum 
+          <lb ed="#L" n="96"/>tur ex diversis rebus sicut simplicia: et illi 
+          <lb ed="#L" n="97"/>conceptus non sunt proprie diffinibiles signifi 
+          <lb ed="#L" n="98"/>cantes talia simplicia: quia differentia quae est pars  
+          <lb ed="#L" n="99"/>diffinitionis / exprimit partem rei. et quia talia  
+          <lb ed="#L" n="100"/>simplicia non habent partes: ideo proprie non  
+          <lb ed="#L" n="101"/>sunt diffinibilia. Tunc ad argumentum dicir 
+          <lb ed="#L" n="102"/>quod consequentia non valet: genus et differentia accipium  
+          <lb ed="#L" n="103"/>tur a distinctis realitatibus: ergo omne quod  
+          <lb ed="#L" n="104"/>est in genere etc. quia non omne quod est  
+          <lb ed="#L" n="105"/>in genere / est diffinibile propriae. Et ad illam  
+          <lb ed="#L" n="106"/>Socti auctoritatem: genus est speciebus ma- 
+          <!--089.xml-->
+          <pb ed="#L" n="45-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>teria. falsa est de vi vocis: sed debet intelli 
+          <lb ed="#L" n="2"/>gi quod in diffinitione propria speciei genus  
+          <lb ed="#L" n="3"/>se habet per modum maxerie. quia differentia 
+          <lb ed="#L" n="4"/>ad constituendum speciem additur ipsi ge- 
+          <lb ed="#L" n="5"/>neri: sicut forma materie additur ad constitu 
+          <lb ed="#L" n="6"/>endum compositum in esse.
+          </p>
+          <p>
+            Ad illud Ansel- 
+          <lb ed="#L" n="7"/>mi monolio. xvii dicitur quod ipse loquitur de  
+          <lb ed="#L" n="8"/>compositis que habent diffinitionem et sunt  
+          <lb ed="#L" n="9"/>in genere.
+          </p>
+          <p>
+            Ad illud quinto Metaphy 
+          <lb ed="#L" n="10"/>sice dicendum quod istae propositiones sunt fal- 
+          <lb ed="#L" n="11"/>se de virtute sermonis: sed debent intelli 
+          <lb ed="#L" n="12"/>gi pro aliis quibus aequivalent. Unde haec  
+          <lb ed="#L" n="13"/>est falsa: genus est pars specierum. sed aequi 
+          <lb ed="#L" n="14"/>valet huic vere propositioni: genus est pars  
+          <lb ed="#L" n="15"/>diffinitionis speciei. vel genus ponitur in 
+          <lb ed="#L" n="16"/>diffinitione speciei. Et haec forma speciei di 
+          <lb ed="#L" n="17"/>viditur in genus et differentiam : hoc est dif 
+          <lb ed="#L" n="18"/>finitio speciei constituitur ex genere et diffe 
+          <lb ed="#L" n="19"/>rentia: vel habet genus et differentiam in con- 
+          <lb ed="#L" n="20"/>stitutione sui. Et similiter genus recipit  
+          <lb ed="#L" n="21"/>differentiam et qualitates: non quod sit aliqua  
+          <lb ed="#L" n="22"/>res extra: sicut si sit subiectum aliquod: sed quia  
+          <lb ed="#L" n="23"/>generi in diffinitione propria additur diffe 
+          <lb ed="#L" n="24"/>rentia: ac si materie adderetur forma: et aliae 
+          <lb ed="#L" n="25"/>differentiae accidentales quando non habe 
+          <lb ed="#L" n="26"/>mus differentias proprias / adduntur gene 
+          <lb ed="#L" n="27"/>ri loco differentiae proprie ad exprimendum  
+          <lb ed="#L" n="28"/>speciem quae per eam diffinitur. patet. Et  
+          <lb ed="#L" n="29"/>sic consequenter patet quid dicendum sit  
+          <lb ed="#L" n="30"/>ad quaestionem et ad argumenta principa 
+          <lb ed="#L" n="31"/>lia et haec de questionibus primi libri
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

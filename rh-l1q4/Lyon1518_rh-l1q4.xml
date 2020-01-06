@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber I, Quaestio 4 [Lyon 1518 Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber I, Quaestio 4 [Lyon 1518 Transcription]</title>
+          <date when="2020-01-06">January 06, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="Lyon1518">Lyon 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-01-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="40-v"/>
+        <cb ed="#L" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rh-l1q4">
+        <head xml:id="rh-l1q4-Hd1e97">Quaestio 4</head>
+        <head xml:id="rh-l1q4-Hd1e100" type="question-title">Utrum deus sit tres personae distinctae</head>
+        <p xml:id="rh-l1q4-d1e103">
+          <lb ed="#L" n="23"/>QUeritur utrum  
+          <lb ed="#L" n="24"/>deus sit tres personae distinctae:
+        </p>
+        <div xml:id="rh-l1q4-Dd1e110" type="rationes-principales">
+          <head xml:id="rh-l1q4-Hd1e112">Rationes principales</head>
+          <p xml:id="rh-l1q4-d1e115">
+          <lb ed="#L" n="25"/>Uidetur quod non: quia tres persone 
+          <lb ed="#L" n="26"/>sunt tres dii: igitur unus deus non  
+          <lb ed="#L" n="27"/>iu ecenu est tres personae. consequentia patet. Ante 
+          <lb ed="#L" n="28"/>cedens probo. quia ista consequentia est bona. unum est ta- 
+          <lb ed="#L" n="29"/>le quo maius cogitari non potest. igitur unum est  
+          <lb ed="#L" n="30"/>deus. et eadem ratione ista consequentia erit bona. tria sunt  
+          <lb ed="#L" n="31"/>talia: quorum qualibet maius excogitari non potest.  
+          <lb ed="#L" n="32"/>probatur. quia vel pater est illud quo maius etc. vl 
+          <lb ed="#L" n="33"/>non. si non: non est deus. si sic: pari ratione filius et  
+          <lb ed="#L" n="34"/>puensictus.
+          </p>
+          <p xml:id="rh-l1q4-d1e139">
+            Praeterea si tres personae distin- 
+          <lb ed="#L" n="35"/>guuntur: quaero utrum finste an infinitae: Si fi 
+          <lb ed="#L" n="36"/>nitae: igitur duo finita sunt in deo. et vltra: igi 
+          <lb ed="#L" n="37"/>tur aliquod finitum est in deo: et omne quod est in 
+          <lb ed="#L" n="38"/>deo: est deus: igitur aliquod finitum est deus. Si  
+          <lb ed="#L" n="39"/>infinitae: ergo non magis differunt deus et dia 
+          <lb ed="#L" n="40"/>bolus quam pater et filius: nec homo et asinus  
+          <lb ed="#L" n="41"/>magis differunt quam pater et filius. et similiter sequi- 
+          <lb ed="#L" n="42"/>tur quod summe diversae res forent vna res. Se 
+          <lb ed="#L" n="43"/>cundo dato quod differant infinitae: sequitur quod  
+          <lb ed="#L" n="44"/>tantummodo differunt sicut differrent si per im 
+          <lb ed="#L" n="45"/>possibile distinguerentur. et per consequens sequitur quod  
+          <lb ed="#L" n="46"/>forent diversi dii data tanta diversitate: ista  
+          <lb ed="#L" n="47"/>igitur nec differunt finitae nec infinitae. Prae 
+          <lb ed="#L" n="48"/>terea deus et trinitas sunt omni modo idem  
+          <lb ed="#L" n="49"/>quo simpliciter est melius esse idem quam non idem:  
+          <lb ed="#L" n="50"/>sed esse idem essentialiter et personaliter est sim- 
+          <lb ed="#L" n="51"/>pliciter melius quam non esse sic idem: igitur deus  
+          <lb ed="#L" n="52"/>et trinitas sunt idem essentialiter. maior pa 
+          <!--080.xml-->
+          <cb ed="#L" n="b"/><!--40vb-->
+          <lb ed="#L" n="53"/>tet per Anselmum prosolu xv. Tu es itaque  
+          <lb ed="#L" n="54"/>iustus verax et beatus: et quicquid est melius 
+          <lb ed="#L" n="55"/>esse quam non esse. minor patet etiam. quia quicquid  
+          <lb ed="#L" n="56"/>convenit patri: est melius simpliciter ipsum  
+          <lb ed="#L" n="57"/>quam non ipsum. igitur etc. Praeterea si vn- 
+          <lb ed="#L" n="58"/>deus est tres persone: deus erit composi- 
+          <lb ed="#L" n="59"/>situs ex tribus distinctis rebus. patet: quia ome 
+          <lb ed="#L" n="60"/>constituens distinguiitur a constituto: sed pa 
+          <lb ed="#L" n="61"/>ter constituitur per paternitatem: et pater  
+          <lb ed="#L" n="62"/>est essentia. igitur sunt quatuor res in divi- 
+          <lb ed="#L" n="63"/>nis. Quod autem constituatur per paternitatem: patet per  
+          <lb ed="#L" n="64"/>conem modum loquendi doctorum: et per sctmeTmho 
+          <lb ed="#L" n="65"/>mam in scripto suo locis diversis super primum  
+          <lb ed="#L" n="66"/>ententiarum ubi dicit quod aliqua proprietas consti 
+          <lb ed="#L" n="67"/>tuit personam: et aliquo est personalis: et tamen non consti 
+          <lb ed="#L" n="68"/>tuit: sicut patet per magistrum primo sententiarum  
+          <lb ed="#L" n="69"/>Praeterea essentia divina generat. igitur  
+          <lb ed="#L" n="70"/>generat alium deum. igitur sunt duo dii: quod est impos- 
+          <lb ed="#L" n="71"/>sibile. Antecedes primum probatur: quia lrguitur sic  
+          <lb ed="#L" n="72"/>hic pater generat: hic pater est haec essentia  
+          <lb ed="#L" n="73"/>divina. igit haec essentia divina generat. est  
+          <lb ed="#L" n="74"/>enim syllogismus expositorius. Item filius est  
+          <lb ed="#L" n="75"/>genitus de substantia patris: quaero quam habi 
+          <lb ed="#L" n="76"/>tudinem dicit liber de: non formale: nec materia  
+          <lb ed="#L" n="77"/>lem: ergo efficietem: igitur substantia patris ge 
+          <lb ed="#L" n="78"/>nerat filium Item essentia est pater. igitur est pa 
+          <lb ed="#L" n="79"/>ter filii. igitur generauit filium Item substan.-  
+          <lb ed="#L" n="80"/>tia patris est substantia filii: sed filius est ge- 
+          <lb ed="#L" n="81"/>nitus de substantia paris: igitur filius est ge- 
+          <lb ed="#L" n="82"/>nitus de substantia filii: igitur filius est genitu:  
+          <lb ed="#L" n="83"/>ex se. Praeterea essentia divina est res ge 
+          <lb ed="#L" n="84"/>nerans: igitur essentia divina est generans. consequentia  
+          <lb ed="#L" n="85"/>patet a termino sumpto cum determinatione  
+          <lb ed="#L" n="86"/>qui non est diminuens nec distrahens: ad termi 
+          <lb ed="#L" n="87"/>num sumptum absolute. Praeterea nullum in 
+          <lb ed="#L" n="88"/>communicabile tribus personis / est conicabile 
+          <lb ed="#L" n="89"/>tribus personis: pater est incommunicabilis  
+          <lb ed="#L" n="90"/>essentia est communicabilis: igitur pater non  
+          <lb ed="#L" n="91"/>est essentia. Maior patet: quia unum opposito- 
+          <lb ed="#L" n="92"/>rum remouetur a reliquo. et discursus patet:  
+          <lb ed="#L" n="93"/>quia regulatur per dici de nullo. Praeterea  
+          <lb ed="#L" n="94"/>ista consequentia est bona: nullus homo est non homo-  
+          <lb ed="#L" n="95"/>igifriste homo non est non homo: demonstrato  
+          <lb ed="#L" n="96"/>christo et vltra. igitur iste homo non est essen- 
+          <lb ed="#L" n="97"/>tia divina. haec consequentia patet: quia essentia divina 
+          <lb ed="#L" n="98"/>non est homo. et tamen sequitur sic quod est non homo  
+          <lb ed="#L" n="99"/>Nam si essentia diuina esset homo: essentia di 
+          <lb ed="#L" n="100"/>vina esset aliquis homo: et non nisi filius dei  
+          <lb ed="#L" n="101"/>ergo essentia divina esset genita. et similiter  
+          <lb ed="#L" n="102"/>haberet corpus: et haberet matrem. quod  
+          <lb ed="#L" n="103"/>est falsum. Praeterea si sic: duo contradictoria 
+          <lb ed="#L" n="104"/>forent simul vera scilicet ista deus generat deum:  
+          <lb ed="#L" n="105"/>et deus non generat deum. prima pars patet  
+          <!--081.xml-->
+          <pb ed="#L" n="41-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>primo sententia di iiii. Secundo patet. nam sequitur for 
+          <lb ed="#L" n="2"/>maliter: filius non generat deum: igitur deus non  
+          <lb ed="#L" n="3"/>generat deum. Similiter sequitur formaliter. essen- 
+          <lb ed="#L" n="4"/>tia divina non generat: ergo deus non gene  
+          <lb ed="#L" n="5"/>rat. vel sub hac forma. haec res non generat  
+          <lb ed="#L" n="6"/>demonstrata divinitate: ergo deus non ge 
+          <lb ed="#L" n="7"/>nerat. consequentia patet: quia eadem res demonstratur in 
+          <lb ed="#L" n="8"/>subiecto antecedentis qpuod qua supponit sub 
+          <lb ed="#L" n="9"/>iectum consequentis: et relique partes conuertutur.
+          </p>
+          <p xml:id="rh-l1q4-d1e329">
+          <lb ed="#L" n="10"/>Praeterea illud quod est filius et filius conues 
+          <lb ed="#L" n="11"/>tuntur: sed pater est illud quod est filius: ergo  
+          <lb ed="#L" n="12"/>pater est filius. Maior patet: quia mutuo se in- 
+          <lb ed="#L" n="13"/>ferunt. Similiter arguitur sub hac forma. omnie quod est  
+          <lb ed="#L" n="14"/>filius: est non pater: essentia divina est silius:  
+          <lb ed="#L" n="15"/>ergo ipsa est non pater. ergo non est pater.
+          </p>
+          <p xml:id="rh-l1q4-d1e345">
+          <lb ed="#L" n="16"/>Praeterea si sic: spuessanctus procederet a  
+          <lb ed="#L" n="17"/>patre et filio. consequens est falsum. quia vel est aequel 
+          <lb ed="#L" n="18"/>ter ab vtroque. et hoc non: quia tunc non foret nisi  
+          <lb ed="#L" n="19"/>unus patet consequentia. vii. Metaphysica commentio xxxi ubi  
+          <lb ed="#L" n="20"/>habet pro inconvenienti quod vnum actu secundum quod vnum  
+          <lb ed="#L" n="21"/>generetur a duobus agentibus aequaliter vel inequa  
+          <lb ed="#L" n="22"/>liter. et si hoc alterum istorum non esset deus.
+          </p>
+          <p xml:id="rh-l1q4-d1e364">
+          <lb ed="#L" n="23"/>Item tunc procederet temporaliter a pare et filio. vl 
+          <lb ed="#L" n="24"/>ergo eadem processione procedit temporaliter et aeter  
+          <lb ed="#L" n="25"/>naliter: vel alia et alia. si eade: ergo cum vro 
+          <lb ed="#L" n="26"/>cedat temporaliter a se: procederet aeternaliter a se. 
+          <lb ed="#L" n="27"/>si alia et alia: ergo est mutabilis. Item si procedat  
+          <lb ed="#L" n="28"/>a patre et filio: ergo pater et filius vel sunt  
+          <lb ed="#L" n="29"/>unum principium spussancti: vel duo. si duo:  
+          <lb ed="#L" n="30"/>igitur duo dii. si unum principium: ergo vna par- 
+          <lb ed="#L" n="31"/>iona.
+          </p>
+          <p xml:id="rh-l1q4-d1e386">
+            Praeterea si sic: ergo trinitas perio  
+          <lb ed="#L" n="32"/>narum staret cum summa simplicitate. consequens est 
+          <lb ed="#L" n="33"/>falsum. quia si sic: pari ratione si essent quatuor  
+          <lb ed="#L" n="34"/>personae: et per consequens infinitae: starent cum summa sim  
+          <lb ed="#L" n="35"/>plicitate.
+          </p>
+          <p xml:id="rh-l1q4-d1e397">
+            Item tunc pater haberet filium: et  
+          <lb ed="#L" n="36"/>per consequens hoc eet melius prima quam non habere filium:  
+          <lb ed="#L" n="37"/>qui aliter non eompeteret deo: sed hoc non competit  
+          <lb ed="#L" n="38"/>filio: ergo aliqua perfectio competit pari quae 
+          <lb ed="#L" n="39"/>non competit filio.
+          </p>
+          <p xml:id="rh-l1q4-d1e408">
+            Confirmatur istud: demon- 
+          <lb ed="#L" n="40"/>stratis istis duobus habere filium et non habere filium:  
+          <lb ed="#L" n="41"/>quaero quod est melius: et patet deductio quod pa 
+          <lb ed="#L" n="42"/>ter et filius non sunt aequales. Confirmatur ratio 
+          <lb ed="#L" n="43"/>quia posse generare est melius quam non generare: igi 
+          <lb ed="#L" n="44"/>tur conuenit summe essentiae. consequentia patet: quia ne 
+          <lb ed="#L" n="45"/>cesse est vt supsma natura sit quicquid melius 
+          <lb ed="#L" n="46"/>omnino est ipsum quod non ipsum: ergo essentia diui 
+          <lb ed="#L" n="47"/>na potest gnare. antecedens patet: quia nihil attribuitur 
+          <lb ed="#L" n="48"/>deo nisi quod est melius ipsum quam non ipsum.
+          </p>
+          <p xml:id="rh-l1q4-d1e430">
+            Prae 
+          <lb ed="#L" n="49"/>terea filius generatur ab aliquo ente: ergo ab 
+          <lb ed="#L" n="50"/>aliqua substantia vel accidente: quia omne ens est  
+          <lb ed="#L" n="51"/>substantia vel accidens. sed a nullo accidente  
+          <lb ed="#L" n="52"/>ergo ab aliqua substantia. sed a nulla crea 
+          <lb ed="#L" n="53"/>tura: ergo a substantia divina. ergo silius ge 
+          <!--081.xml-->
+          <cb ed="#L" n="b"/><!--41rb-->
+          <lb ed="#L" n="54"/>neratur ab essentia divina: igitur essentia diui 
+          <lb ed="#L" n="55"/>na generat.
+          </p>
+          <p xml:id="rh-l1q4-d1e453">
+            Praeterea haec est vera: trini- 
+          <lb ed="#L" n="56"/>tas est vnus deus: ergo trinitas est vnitas. sed non  
+          <lb ed="#L" n="57"/>est pater neque filius neque spuessctus: ergo est quae  
+          <lb ed="#L" n="58"/>ta res in divinis:
+          </p>
+          <p xml:id="rh-l1q4-d1e463">
+            Praeterea vnitas perso  
+          <lb ed="#L" n="59"/>nalis est maior quam unitas trinitatis. igit tri 
+          <lb ed="#L" n="60"/>nitas non est summe vna. Antecedens patet: quia illi rer 
+          <lb ed="#L" n="61"/>repugnat pluralitas aliquo quam alia permit 
+          <lb ed="#L" n="62"/>tit etc.
+          </p>
+          <p xml:id="rh-l1q4-d1e474">
+            Praeterea rationes ideales sunt essen  
+          <lb ed="#L" n="63"/>tia divina: sed ista differunt realiter: et non par- 
+          <lb ed="#L" n="64"/>sonaliter. ergo sut plures essentiae divinae. 
+          <lb ed="#L" n="65"/>Maior patet per Augustinum lxxxiii qui xvi et minor  
+          <lb ed="#L" n="66"/>etiam: vbi dicit sic. Sunt naque ideme quaedam prin- 
+          <lb ed="#L" n="67"/>cipales forme vel rationes rerum stabiles atquod  
+          <lb ed="#L" n="68"/>immutabiles: quo ipse forme temporales non sunt:  
+          <lb ed="#L" n="69"/>ac per hoc aeterne.
+          </p>
+          <p xml:id="rh-l1q4-d1e492">
+            Ad oppositum est prima canon.  
+          <lb ed="#L" n="70"/>Iiom capitulo v Eres sunt qui testi. etc.
+          </p>
+        </div>
+        <div xml:id="rh-l1q4-Dd1e498">
+          <head xml:id="rh-l1q4-Hd1e500">Responsio</head>
+          <p xml:id="rh-l1q4-d1e503">
+            Ad istam  
+          <lb ed="#L" n="71"/>questionem dico quod sic. quia haec est fides catho 
+          <lb ed="#L" n="72"/>lica sctis patribus reuelata sicut in diuer  
+          <lb ed="#L" n="73"/>sis symbolis satis patet. quia hoc probare facul 
+          <lb ed="#L" n="74"/>tatem habuenane rationis excedit: et ideo non solum  
+          <lb ed="#L" n="75"/>praesumptuosum: sed et fatuum est ad illa proban 
+          <lb ed="#L" n="76"/>da niti. et ideo in praesenti quaestione dico cum hila- 
+          <lb ed="#L" n="77"/>rio: sicut dicit et allegat magister primo sen 
+          <lb ed="#L" n="78"/>ten dit xxxiii capitulo v in fine. Corma fidei cer 
+          <lb ed="#L" n="79"/>ta est. non igitur aliquid addendum est: sed modus  
+          <lb ed="#L" n="80"/>constituendus audacie. quicquid ultra quaeritur:  
+          <lb ed="#L" n="81"/>non intelligitur. Qualiter tamen ad articulos fi- 
+          <lb ed="#L" n="82"/>dei se habeat vel se debeat habere studens ca 
+          <lb ed="#L" n="83"/>tholicus: docet Anselmus de incarnatione verbi 
+          <lb ed="#L" n="84"/>cito post principium. Nefanda (inquit) teme- 
+          <lb ed="#L" n="85"/>ritate audent quidam disputare contra ea quae chri 
+          <lb ed="#L" n="86"/>stiana fides consitetur: quando illud in intellectu  
+          <lb ed="#L" n="87"/>capre nequeunt: sed potius inflati supbia iudi- 
+          <lb ed="#L" n="88"/>cant nullatenus esse posse quod nequeunt in 
+          <lb ed="#L" n="89"/>telligere: quam humili sapientia fateantur esse  
+          <lb ed="#L" n="90"/>multa posse quae ipsi non valent comprehende 
+          <lb ed="#L" n="91"/>re. Et ideo docet infra quod catholicus debet hu- 
+          <lb ed="#L" n="92"/>militer quaerere rationem quodo sit. si potest intel 
+          <lb ed="#L" n="93"/>ligere: deo gratias agat. si non potest: non im- 
+          <lb ed="#L" n="94"/>mittat cornua ad ventilandum: sed submit  
+          <lb ed="#L" n="95"/>tat caput ad venerandum. haec ille
+          </p>
+        </div>
+        <div xml:id="rh-l1q4-Dd1e562">
+          <head xml:id="rh-l1q4-Hd1e564">Responsio ad rationes principales</head>
+          <p xml:id="rh-l1q4-d1e567">
+            Ad  
+          <lb ed="#L" n="96"/>primum principale quando dicitur tres personae sunt tres 
+          <lb ed="#L" n="97"/>vii: ergo vnus deus non est tres personae. Potest  
+          <lb ed="#L" n="98"/>dici quod nec anecens est verum: nec consequentia valet for 
+          <lb ed="#L" n="99"/>maliter: sed tantum gratia materie tenet. Quod non  
+          <lb ed="#L" n="100"/>sit formalis patet. nam non sequitur: tria ligna sut  
+          <lb ed="#L" n="101"/>tres substantiae: ergo vnum lignum non est tres  
+          <lb ed="#L" n="102"/>substantie: nam antecedens est verum: et consequens falsum:  
+          <lb ed="#L" n="103"/>tenendo quod totum sit suae partes. Similiter  
+          <lb ed="#L" n="104"/>antecedens istius est falsum scilicet tres personae 
+          <lb ed="#L" n="105"/>sunt tres dii. Et ad probationem quando dicitur haec.  
+          <lb ed="#L" n="106"/>consequentia est bona. vnum est tale quo maius etc.  
+          <!--082.xml-->
+          <pb ed="#L" n="41-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>igitur illud unum est deus: et tria sunt talia: er- 
+          <lb ed="#L" n="2"/>go tres dii. nego istam consequentiam. causa est: quia non  
+          <lb ed="#L" n="3"/>men quod dicitur ad se et absolute: non potest praedica 
+          <lb ed="#L" n="4"/>ri in plurali de personis. sed sequitur: tria sunt ta 
+          <lb ed="#L" n="5"/>lia quorum quodlibet etc. igitur illa tria sunt  
+          <lb ed="#L" n="6"/>unus deus. magis tamen convenienter dicerentur  
+          <lb ed="#L" n="7"/>tres personae quod alia tria.
+          </p>
+          <p xml:id="rh-l1q4-d1e615">
+            Sed contra hoc argui 
+          <lb ed="#L" n="8"/>tur sic. ista sunt quibus maiora excogitari  
+          <lb ed="#L" n="9"/>non possunt: ergo ista sunt dii. consequentia probatur per modum  
+          <lb ed="#L" n="10"/>arguendi Anselmus. proolils ii et contra insipientem. quia  
+          <lb ed="#L" n="11"/>vel illa quibus matora cogitari non possunt: sunt  
+          <lb ed="#L" n="12"/>in intellectu tantum: vel in itellectu et in re. Si  
+          <lb ed="#L" n="13"/>secundum: ergo talia sunt dii. Si primum: ergo maiora 
+          <lb ed="#L" n="14"/>eis cogitari possunt. ergo illa quibus maiora cogi- 
+          <lb ed="#L" n="15"/>tari possunt: sunt illa quibus maiora cogitari non 
+          <lb ed="#L" n="16"/>possunt.
+          </p>
+          <p xml:id="rh-l1q4-d1e637">
+            Ad istud dicitur quod forma arguendi Anselmus 
+          <lb ed="#L" n="17"/>non valet in singulari: sed multo minus valicet im 
+          <lb ed="#L" n="18"/>plurali. nam antecedens consequents facte est ver modo de fir- 
+          <lb ed="#L" n="19"/>cto: et consequens est falsum. Nam demonstrata qua  
+          <lb ed="#L" n="20"/>cumque creatura et deo: haec est vera: ista sunt quo  
+          <lb ed="#L" n="21"/>bus maiora excogitari non possunt: quia si esset da 
+          <lb ed="#L" n="22"/>re aliquam cogitabilia maiora istis: eet dare co 
+          <lb ed="#L" n="23"/>gitabile maius deo. consequens est falsum. sicut demon 
+          <lb ed="#L" n="24"/>stratis duobus corperibus: quiam unum est finitum et  
+          <lb ed="#L" n="25"/>alud infinitum: si per possibile vel impossibile:  
+          <lb ed="#L" n="26"/>haec esset vera istis non est dare maiora. quia si sic:  
+          <lb ed="#L" n="27"/>vtroque istorum esset dare maius. et sic aliqua infi 
+          <lb ed="#L" n="28"/>nito esset dare maius. et ideo consequentia facta non val 
+          <lb ed="#L" n="29"/>Si autem arguatur demonstratis personis divi- 
+          <lb ed="#L" n="30"/>nis: ista sunt quibus maiora etc. ergo sunt dii.
+          </p>
+          <p xml:id="rh-l1q4-d1e670">
+          <lb ed="#L" n="31"/>Dici potest quod consequentia non valet: quia sunt vnus deus  
+          <lb ed="#L" n="32"/>tantum: et non sunt qudam distincta essentialiter. et  
+          <lb ed="#L" n="33"/>do non sunt plures dii. Uel aliter potest dici quod  
+          <lb ed="#L" n="34"/>antecedens si exponitur ad sanum intellectum et conem: est  
+          <lb ed="#L" n="35"/>falsum. videlicet: illa sunt quadam magna quibus  
+          <lb ed="#L" n="36"/>maiora etc. quia sunt vnum magnum: et non quaedam  
+          <lb ed="#L" n="37"/>magna.
+          </p>
+          <p xml:id="rh-l1q4-d1e689">
+            Contra. sunt bone personae: ergo sunt  
+          <lb ed="#L" n="38"/>magne persone. conseqentia patet per Augustinum In iis qua non  
+          <lb ed="#L" n="39"/>mole magna sunt: hoc est maius quod melius. ergo  
+          <lb ed="#L" n="40"/>in eisdem ho est magnum: quod est bonum. Prae- 
+          <lb ed="#L" n="41"/>terea dicimus quodm sunt tres personae coeterne et  
+          <lb ed="#L" n="42"/>coaequales: ergo sunt tres magne personae et bo 
+          <lb ed="#L" n="43"/>ne: quia non comequales nisi in magnitudinem 
+          <lb ed="#L" n="44"/>quae est bonicas.
+          </p>
+          <p xml:id="rh-l1q4-d1e707">
+            Praeterea videtur quod in sym- 
+          <lb ed="#L" n="45"/>bolo est contradictio: quia Athana. dic quod non sut 
+          <lb ed="#L" n="46"/>tres aeterni: sed unus aeternus. et cito post  
+          <lb ed="#L" n="47"/>subdit quod sunt tres personae cotterne. sed se- 
+          <lb ed="#L" n="48"/>quitur:sunt coeterne: ergo sunt aeterne.
+          </p>
+          <p xml:id="rh-l1q4-d1e718">
+            Ad hoc  
+          <lb ed="#L" n="49"/>argumenta non est opus respondere: quia omnia possunt 
+          <lb ed="#L" n="50"/>solui per solutiones praecedentes et per connota- 
+          <lb ed="#L" n="51"/>tiones: vt patet cuilibet consideranti.
+          </p>
+          <p xml:id="rh-l1q4-d1e727">
+            Ad sed  
+          <lb ed="#L" n="52"/>cundum principale quand dicitur aut distinguuntur  
+          <lb ed="#L" n="53"/>infinitae aut finitae etc. Primo dico ad ma- 
+          <!--082.xml-->
+          <cb ed="#L" n="b"/><!--41vb-->
+          <lb ed="#L" n="54"/>teriam argumenti: quod posset dici quod vater  
+          <lb ed="#L" n="55"/>distinguitur a filio distinctione infinita: quia  
+          <lb ed="#L" n="56"/>seipso qui est infinitus.
+          </p>
+          <p xml:id="rh-l1q4-d1e746">
+            Similiter ista distinctio 
+          <lb ed="#L" n="57"/>est essentia divina: et per consequens infinita. et tunc  
+          <lb ed="#L" n="58"/>posset negari illa consequentia: pater et filius distinguum  
+          <lb ed="#L" n="59"/>tur distinctione infinita: ergo distinguuntur infi 
+          <lb ed="#L" n="60"/>nitae vel in infinitum. sicut non sequitur. distin- 
+          <lb ed="#L" n="61"/>guuntur distinctione quae est essentia divina. 
+          <lb ed="#L" n="62"/>ergo distinguuntur essentialiter.
+          </p>
+          <p xml:id="rh-l1q4-d1e762">
+            Solet dici 
+          <lb ed="#L" n="63"/>a doctoribus quod distinctio personalis est mi 
+          <lb ed="#L" n="64"/>nima: nec est comparabilis alicui distinctio 
+          <lb ed="#L" n="65"/>ni inter creaturas vel inter res distinctas  
+          <lb ed="#L" n="66"/>essentialiter. et ideo in infinitum minus distinguum  
+          <lb ed="#L" n="67"/>tur pater et filius quam sortes et plato. sicut in infi 
+          <lb ed="#L" n="68"/>nitu minor est linea quam superficies: vel saltem  
+          <lb ed="#L" n="69"/>punctus quam linea. Et tunc ad formam argumen 
+          <lb ed="#L" n="70"/>ti potest dici quod nec distinguuntur finitae nec in 
+          <lb ed="#L" n="71"/>finits scilicet non finitae: quia distinguuntur indivisi  
+          <lb ed="#L" n="72"/>biliter.
+          </p>
+          <p xml:id="rh-l1q4-d1e787">
+            Contra. aut distinguuntur magis  
+          <lb ed="#L" n="73"/>quam sortes et plato: aut minus vel aequaliter. Si  
+          <lb ed="#L" n="74"/>minus vel aequaliter: ergo finitae. Dico quod minus. et  
+          <lb ed="#L" n="75"/>nego vltra. ergo finitae.
+          </p>
+          <p xml:id="rh-l1q4-d1e796">
+            Contra si illa quae ma- 
+          <lb ed="#L" n="76"/>gits distinguuntur: distinguuntur tantum fnite:et  
+          <lb ed="#L" n="77"/>illa quae minus distinguuntur: distinguuntur fi 
+          <lb ed="#L" n="78"/>nitae. Negatur consequentia de illis qui in infinitum mi- 
+          <lb ed="#L" n="79"/>nus distinguuntur.
+          </p>
+          <p xml:id="rh-l1q4-d1e807">
+            Ad tertium principale 
+          <lb ed="#L" n="80"/>quando arguitur. deus et trinitas sunt oino idem etc  
+          <lb ed="#L" n="81"/>Potest dici negando minorem: et concedendo ma 
+          <lb ed="#L" n="82"/>iorem. Et ad probationem quando accipitur: quicquid 
+          <lb ed="#L" n="83"/>conuenit patri: est melius simpliciter ipsum  
+          <lb ed="#L" n="84"/>quod non ipsum. Dico quod non: immo Anselmum dicit  
+          <lb ed="#L" n="85"/>oppositum. Sed dicit: quicquid convenit prae 
+          <lb ed="#L" n="86"/>ter relationem: melius est ipsum quam non ipsum.
+          </p>
+          <p xml:id="rh-l1q4-d1e825">
+          <lb ed="#L" n="87"/>Ad quartum quando dicitur sic. Deus est tres per  
+          <lb ed="#L" n="88"/>sonae: igitur deus est compositus etc. nego con 
+          <lb ed="#L" n="89"/>sequentiam. Et ad probationem: omne con 
+          <lb ed="#L" n="90"/>stituens distinguitur a constituto: concedo. sed  
+          <lb ed="#L" n="91"/>negatur minor: quia cum probatur per conei mo- 
+          <lb ed="#L" n="92"/>dum loquendi: Dico quod doctores in multis  
+          <lb ed="#L" n="93"/>loquuntur ex proposito metaphoricae: et secundum  
+          <lb ed="#L" n="94"/>nostrum modum intelligendi qui est imperfe 
+          <lb ed="#L" n="95"/>ctus de divinis. Unde nolunt dicere quod bene  
+          <lb ed="#L" n="96"/>sentiunt quod pater si constitutus per aliud: sed  
+          <lb ed="#L" n="97"/>si essentia et panternitas essent duae res in pa 
+          <lb ed="#L" n="98"/>tre: vt materia et forma in creaturis: tunc  
+          <lb ed="#L" n="99"/>paternitas constitueret patrem : hoc est per pa 
+          <lb ed="#L" n="100"/>ternitatem foret illud compositum formaliter pa- 
+          <lb ed="#L" n="101"/>ter. Similiter nihil est ibi elicitivum operatio 
+          <lb ed="#L" n="102"/>nis nisi persona.
+          </p>
+          <p xml:id="rh-l1q4-d1e862">
+            Ad quintum quando accipitur  
+          <lb ed="#L" n="103"/>essentia divina generat: ergo generat alium deum pro 
+          <lb ed="#L" n="104"/>Nego antecedeis. et cum arguitur per syllo  
+          <lb ed="#L" n="105"/>gismum expositorium: potest dici quod nunquam est  
+          <lb ed="#L" n="106"/>iyllogismiis expositorius ubi demonstra- 
+          <!--083.xml-->
+          <pb ed="#L" n="42-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>tur res qui est vna et tres. et ideo de forma sic  
+          <lb ed="#L" n="2"/>non est bonus syllogismus scilicet expositorius: hic  
+          <lb ed="#L" n="3"/>deus creat: hic deus est trinitas: ergo tri- 
+          <lb ed="#L" n="4"/>nitas creat: licet omnes propositiones sint ve 
+          <lb ed="#L" n="5"/>re. Similiter non est inconveniens quod logica natu 
+          <lb ed="#L" n="6"/>ralis defciat in iis quae fidei sunt. Et ideo  
+          <lb ed="#L" n="7"/>sicut fides est supra physicam naturalem: po 
+          <lb ed="#L" n="8"/>nens res produci per creationem: ad quam pahilo  
+          <lb ed="#L" n="9"/>soprhia naturalis non attingit. ita moralis  
+          <lb ed="#L" n="10"/>doctrina fidei ponit quadam principia: quae sci 
+          <lb ed="#L" n="11"/>entia moralis non concedit.
+          </p>
+          <p xml:id="rh-l1q4-d1e904">
+            Eodem modo rationa 
+          <lb ed="#L" n="12"/>lis logica fidei alia debet esse a logica na- 
+          <lb ed="#L" n="13"/>turali. Dicit enim commentator. ii. Metaphy 
+          <lb ed="#L" n="14"/>sice commento xv. quod quadam logica est universalis  
+          <lb ed="#L" n="15"/>omnibus scientiis: et quidam propria unicuique scien 
+          <lb ed="#L" n="16"/>tiae. et si hoc est verum a multo fortiori opor 
+          <lb ed="#L" n="17"/>tet ponere unam logicam fidei. et similiter alia logi 
+          <lb ed="#L" n="18"/>ca vtitur obligatus certa specie obligationis  
+          <lb ed="#L" n="19"/>et alia libere respondens secundum qualitatem pro 
+          <lb ed="#L" n="20"/>positionum: modo praehilosophi non viderunt  
+          <lb ed="#L" n="21"/>aliquam rem esse vna et tres: ideo de ea in su 
+          <lb ed="#L" n="22"/>is regulis mentionem non fecerunt. Sunt igitul  
+          <lb ed="#L" n="23"/>in logica fidei tales regule: quod omne absolutum  
+          <lb ed="#L" n="24"/>ontdicatur in singulari de tribus: et non in plura  
+          <lb ed="#L" n="25"/>li. Alia quod vnitas tenet suum consequens:  
+          <lb ed="#L" n="26"/>ubi non obuiat relationis oppositum: et ideo  
+          <lb ed="#L" n="27"/>concessis praemissis dispositis in modo et in fi 
+          <lb ed="#L" n="28"/>gura negatur conclusio. quia in conclusione obui- 
+          <lb ed="#L" n="29"/>at relationis oppositio. sicut si arguitur  
+          <lb ed="#L" n="30"/>sic. haec essentia est pater: haec essentia est silius  
+          <lb ed="#L" n="31"/>ergo filius est pater. et vtraque praemissarum est  
+          <lb ed="#L" n="32"/>vera: et apparet dispositio tertiae figurae.
+          </p>
+          <p xml:id="rh-l1q4-d1e953">
+          <lb ed="#L" n="33"/>Sed quid est dicendum: est ne logica Aristoteles for 
+          <lb ed="#L" n="34"/>malis an non: Dico quod si non vis vocare lo- 
+          <lb ed="#L" n="35"/>gicam formalem nisi illam quae tenet in cin materia  
+          <lb ed="#L" n="36"/>sicut dicit commentator i physicorum commento  
+          <lb ed="#L" n="37"/>xxv. sermo concludens per se debet concludere in  
+          <lb ed="#L" n="38"/>omni materia: tunc patet quod non. Si vis vocarelo 
+          <lb ed="#L" n="39"/>gicam formalem: illam qua per naturalem inquisitio  
+          <lb ed="#L" n="40"/>nem in rebus a nobis sensibiliter notis non  
+          <lb ed="#L" n="41"/>capit instantiam: dico quod sic.
+          </p>
+          <p xml:id="rh-l1q4-d1e975">
+            Ad sextum prin- 
+          <lb ed="#L" n="42"/>cipale dico quod nihil proprie conicatur in divinis  
+          <lb ed="#L" n="43"/>quia ubi aliquid conicatur: coicatur alteri a se. tamen  
+          <lb ed="#L" n="44"/>dicitur quod essentia divina non conicatur alteri 
+          <lb ed="#L" n="45"/>se: quia est eadem in tribus personis: et est tres per 
+          <lb ed="#L" n="46"/>sonae. et sic accipitur communicabile pro eodem.  
+          <lb ed="#L" n="47"/>similiter haec est falsa. nihil idem tribus est  
+          <lb ed="#L" n="48"/>conicabile. Ad septimum quando dicitur: nullus hom  
+          <lb ed="#L" n="49"/>est non homo. dico quod in argumentis de chri 
+          <lb ed="#L" n="50"/>sto opet habere logicam singularem: quia ibi de 
+          <lb ed="#L" n="51"/>eodem supposito oparest concedi contradictoria 
+          <lb ed="#L" n="52"/>cum specificatione diversarum naturarum. vn 
+          <lb ed="#L" n="53"/>de consequens apud theologos potest distingui.  
+          <!--083.xml-->
+          <cb ed="#L" n="b"/><!--42rb-->
+          <lb ed="#L" n="54"/>iste homo est non homo: demonstrato filio dei: quia  
+          <lb ed="#L" n="55"/>vel intelligitur quod sit non homo secundum naturam hua- 
+          <lb ed="#L" n="56"/>nam: et tunc est falsum. vel secundum divinam: et tunc  
+          <lb ed="#L" n="57"/>est verum. sili logica vtitur magister sententiarum  
+          <lb ed="#L" n="58"/>quando concedit quod idem homo est mortalis et immor- 
+          <lb ed="#L" n="59"/>talis et huiusmodi.
+          </p>
+          <p xml:id="rh-l1q4-d1e1022">
+            Ad octavum quando dicitur quod si sic:  
+          <lb ed="#L" n="60"/>contradictoria forent vera: scilicet ista. deus gene  
+          <lb ed="#L" n="61"/>rat: et deus non generat. nego onam: quia non  
+          <lb ed="#L" n="62"/>sunt contradictoria. quia verificantur pro diuersis  
+          <lb ed="#L" n="63"/>suppositi: sic bene posset dici: si placuisset an 
+          <lb ed="#L" n="64"/>tiquis: vel si sint contradictoria: dicitur quod nega 
+          <lb ed="#L" n="65"/>tiva est falsa scilicet ista. deus non generat. Ad pro 
+          <lb ed="#L" n="66"/>bationem non valet consequentia: filius non generat:  
+          <lb ed="#L" n="67"/>ergo deus non generat. nec ista valet. esentia  
+          <lb ed="#L" n="68"/>divina non generat. ergo etc. quia antecedens est ve 
+          <lb ed="#L" n="69"/>rum et consequens falsum.
+          </p>
+          <p xml:id="rh-l1q4-d1e1046">
+            Ad nonum principale quando  
+          <lb ed="#L" n="70"/>icitur illud quod est filius et filius conuertuntur: haec  
+          <lb ed="#L" n="71"/>potest negari. quia patero est illud quod est filius: et ideo  
+          <lb ed="#L" n="72"/>istae terminus id quod est filius potest verificari de 
+          <lb ed="#L" n="73"/>aliquo de quo non verificatur filius.
+          </p>
+          <p xml:id="rh-l1q4-d1e1057">
+            Ad deci 
+          <lb ed="#L" n="74"/>mum quando dicitur quod tunc spuessictuns procederet a paret  
+          <lb ed="#L" n="75"/>et filio: concedo quod ab vtroque aequaliter proce  
+          <lb ed="#L" n="76"/>dit: et dictum commentatoris non est ad propoisi 
+          <lb ed="#L" n="77"/>tum: quia pater et filius non sunt causae agentes. siced
+          </p>
+          <p xml:id="rh-l1q4-d1e1068">
+          <lb ed="#L" n="78"/>Ad aliam formam dico quod processio tempora 
+          <lb ed="#L" n="79"/>lis non est aeterna. hoc est iste propositiones non  
+          <lb ed="#L" n="80"/>convertuntur: procedit temporaliter: et procedit  
+          <lb ed="#L" n="81"/>aeternaliter etc.
+          </p>
+          <p xml:id="rh-l1q4-d1e1080">
+            Ad aliam dico quod pater et filius  
+            <lb ed="#L" n="82"/>sunt uvnum principium.
+          </p>
+          <p xml:id="rh-l1q4-d1e1085">
+            Ad undecimum conce- 
+          <lb ed="#L" n="83"/>do hanc condtionalem. si essent infinitae perso  
+          <lb ed="#L" n="84"/>ne: starent cum summa simplicitate.
+          </p>
+          <p xml:id="rh-l1q4-d1e1092">
+            Ad  
+          <lb ed="#L" n="85"/>duo decimum neutrum est melius simpliciter  
+          <lb ed="#L" n="86"/>ipsum quam non ipsum: sicut patet de se.
+          </p>
+          <p xml:id="rh-l1q4-d1e1099">
+            Ad  
+          <lb ed="#L" n="87"/>aliud: filius generatur de substantia parseis. haec  
+          <lb ed="#L" n="88"/>debet exponi secundum magistrum id iest a patre quod  
+          <lb ed="#L" n="89"/>est substantia.
+          </p>
+          <p xml:id="rh-l1q4-d1e1108">
+            Ad aliud dico quod trinitas non  
+          <lb ed="#L" n="90"/>est quatuor res: sed est istae tres res. sicut  
+          <lb ed="#L" n="91"/>si lignum dstico compositum esset ex a irs capitulo non sequi  
+          <lb ed="#L" n="92"/>tur destiat non est a nec br. nec c. ergo est quar 
+          <lb ed="#L" n="93"/>ta res distincta ab istis tribus rebus: licet etem  
+          <lb ed="#L" n="94"/>plum non sit omnino conveniens.
+          </p>
+          <p xml:id="rh-l1q4-d1e1121">
+            Ad  
+          <lb ed="#L" n="95"/>aliud cum dicitur: vnitas personalis est ma 
+          <lb ed="#L" n="96"/>ior: nego. Ad probationem: quia sibi repu 
+          <lb ed="#L" n="97"/>gnat pluralitas aliqua: conceditur: sed non  
+          <lb ed="#L" n="98"/>illa quae stat cum summa simplicitate.
+          </p>
+          <p xml:id="rh-l1q4-d1e1133">
+            Ad  
+          <lb ed="#L" n="99"/>aliud: ideales rationes sunt essentia divi 
+          <lb ed="#L" n="100"/>na etc. dico quod idea est essentia divina: et  
+          <lb ed="#L" n="101"/>est tamtum vna. et sic tantum loquitur Augustinum ad onden  
+          <lb ed="#L" n="102"/>dum deum habere cognitionem omnim: et exponem 
+          <lb ed="#L" n="103"/>de sunt propositiones suae omnes. Unde dicunt 
+          <lb ed="#L" n="104"/>quaidam quod nulla contradictoria de quibus loquitur  
+          <lb ed="#L" n="105"/>Aristoteles vificantur de pare et filio: quia ipse intelli 
+          <lb ed="#L" n="106"/>git de talibus ubi negativa negat esentiam  
+          <!--084.xml-->
+          <pb ed="#L" n="42-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>affirmatam in alia. et sic haec est falsa: filius est  
+          <lb ed="#L" n="2"/>non pater. si neget essentiam: vera autem est si  
+          <lb ed="#L" n="3"/>negetu solam relationem.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

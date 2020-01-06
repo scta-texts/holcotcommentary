@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -27,7 +27,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
           guidelines for a diplomatic edition.
@@ -45,7 +45,8 @@
   <text type="diplomatic" xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#L" n="1-r"/><cb ed="#L" n="a"/> 
+        <pb ed="#L" n="1-r"/>
+        <cb ed="#L" n="a"/> 
       </div>
     </front>
     <body>
@@ -215,7 +216,8 @@
           finita sive activa sive passiva habet suum 
           <lb ed="#L"/>terminum: sicut declaratur id est de caelo versus fi<lb ed="#L"/>nem. 
           Si dicatur quod sit dare maximum gradum 
-          <cb ed="#L" n="b"/><lb ed="#L"/>meriti quem sortes potest habere in hac vi<lb ed="#L"/>ta: 
+          <cb ed="#L" n="b"/><!--1vb-->
+          <lb ed="#L"/>meriti quem sortes potest habere in hac vi<lb ed="#L"/>ta: 
           fit ille a. et pono quod sortes habuit a gra<lb ed="#L"/>dum. 
           conservet igitur deus post gradum <choice><sic>acquisi<lb ed="#L"/>situm</sic><corr>acquisi<lb ed="#L"/>tum</corr></choice> 
           a meriti vitam sortis: quaero an potest me<lb ed="#L"/>reri 
@@ -274,7 +276,8 @@
           <lb ed="#L"/>velle aliquem credere illud quod est falsum: et ca<lb ed="#L"/>sare 
           in illo fidem et adhaesionem ad illud falsum: est 
           <pb ed="#L" n="2-r"/>
-          <lb ed="#L" n="a"/><lb ed="#L"/>ipsum fallere: sed christus praedicavit et docuit nos 
+          <cb ed="#L" n="a"/>
+          <lb ed="#L"/>ipsum fallere: sed christus praedicavit et docuit nos 
           <lb ed="#L"/>credere istud: resurrectio erit: et voluit nos 
           <lb ed="#L"/>istud credere: ergo haec est necessaria: chri<lb ed="#L"/>stus 
           libere creavit in hominibus talem fidem: sed haec 
@@ -331,7 +334,7 @@
           assentiam propositioni quam credo pos<lb ed="#L"/>se 
           esse falsam: sicut propositioni quam scio num<lb ed="#L"/>quam 
           posse esse falsam. Consequentia patet: quia si 
-          <cb ed="#L" n="b"/>
+          <cb ed="#L" n="b"/><!--2rb-->
           <lb ed="#L"/>omnibus articulis teneor assentire aequali cer<lb ed="#L"/>titudine: 
           ergo tanta certitudine teneor assen<lb ed="#L"/>tire 
           isti <pc type="virgula">/</pc> resurrectio erit: sicut isti <pc type="virgula">/</pc> christus 
@@ -456,7 +459,8 @@
           <lb ed="#L"/>connexionis illius ad aliam propositionem quam 
           <lb ed="#L"/>credit esse veram: vel propter testimonium ali<lb ed="#L"/>quorum 
           quibus rationabiliter debet credere: vel propter 
-          <cb ed="#L" n="b"/>notitiam aliquam intuitivam novam in eo: vel quia 
+          <cb ed="#L" n="b"/><!--2vb-->
+          <lb ed="#L"/>notitiam aliquam intuitivam novam in eo: vel quia 
           <lb ed="#L"/>aliquo modo aliter sibi apparet de significa<lb ed="#L"/>to 
           illius propositionis quam ante apparuit.</p>
         
@@ -576,7 +580,7 @@
           fidei non sunt contra rationem naturalem <pc type="virgula">/</pc> arguitur 
           <lb ed="#L"/>sic. Ratio naturalis dictat oppositum esse 
           <lb ed="#L"/>verum. Unde et <unclear>philosophi</unclear> concludunt quod impossibile 
-          <cb ed="#L" n="b"/>
+          <cb ed="#L" n="b"/><!--3rb-->
           <lb ed="#L"/>est mulierem concipere sine viro et huiusmodi. et 
           <lb ed="#L"/>ideo est quod actus credendi est meritorius. igitur 
           <lb ed="#L"/>non sunt solum supra vel iuxta: sed contra rationem 
@@ -695,7 +699,7 @@
           isti propositioni: cras ero ita beatus sicut 
           <lb ed="#L"/>est modo <name>sanctus Petrus</name>. certum est quod istam fi<lb ed="#L"/>dem 
           consequetur aliquod: gaudium. tunc vel illud 
-          <cb ed="#L" n="b"/>
+          <cb ed="#L" n="b"/><!--3vb-->
           <lb ed="#L"/>esset maximum quod possum habere: vel non. si 
           <lb ed="#L"/>sic: habetur propositum: quod possum quando 
           <lb ed="#L"/>placet mihi <pc type="virgula">/</pc> causare in me maximum gau<lb ed="#L"/>dium 
@@ -813,10 +817,10 @@
           intellectus creati est eius actio: videtur ma<lb ed="#L"/>nifesta: 
           quia iudicare est agere: secundum quod potest ha<lb ed="#L"/>beri 
           a <ref xml:id="rh-l1q1-Rd1e5319"><name ref="#Averroes">commentatore</name> secundo <title>de anima</title> commento 
-            <lb ed="#L"/><num>cxlix</num></ref> ubi loquitur de iudicio sensus commu<lb ed="#L"/>nis: 
+          <lb ed="#L"/><num>cxlix</num></ref> ubi loquitur de iudicio sensus commu<lb ed="#L"/>nis: 
           et dicit sic. Iudicium enim dignius est at<lb ed="#L"/>tribui 
           isti potentiae secundum quod est actus: quam secundum 
-          <cb ed="#L" n="b"/>
+          <cb ed="#L" n="b"/><!--4rb-->
           <lb ed="#L"/>quod est potentia: quemadmodum motio 
           <lb ed="#L"/>eius passiva de sensibus dignior est attri<lb ed="#L"/>bui 
           ei secundum quod est recipiens: quam secundum quod est agens 
@@ -949,7 +953,7 @@
         <p xml:id="rh-l1q1-d1e5628">Primo ar<lb ed="#L"/>guitur 
           sub hac forma. nullus libere assen<lb ed="#L"/>tit 
           articulis fidei: ergo nullus assentiendo
-          <cb ed="#L" n="b"/>
+          <cb ed="#L" n="b"/><!--4vb-->
           <lb ed="#L"/>articulis fidei meretur: accipiendo mereri 
           <lb ed="#L"/>stricte: et expondendo gerundium per si vel per quia 
           <lb ed="#L"/>Antecedens istius consequentiae probatum est in pri<lb ed="#L"/>mo 
@@ -1141,7 +1145,8 @@
           <lb ed="#L"/>enim oportet dicere quod actus credendi non est me<lb ed="#L"/>ritorius: 
           quia non est in potestate voluntatis.
           <pb ed="#L" n="5-v"/>
-          <cb ed="#L" n="a"/>et contra hoc sunt assertiones diversorum docto<lb ed="#L"/>rum. 
+          <cb ed="#L" n="a"/>
+          <lb ed="#L"/>et contra hoc sunt assertiones diversorum docto<lb ed="#L"/>rum. 
           Vel oportet dicere quod actus credendi sit me<lb ed="#L"/>ritorius 
           et in potestate voluntatis. Et circa hoc 
           <lb ed="#L"/>sunt rationes quas feci in primo articulo quae<lb ed="#L"/>stionis 
@@ -2190,7 +2195,8 @@
           <lb ed="#L"/>teneor ita firmiter credere quod haec est vera con<lb ed="#L"/>tingens 
           tamen: resurrectio erit: sicut quod haec est 
           <lb ed="#L"/>necessaria: christus resurrexit. Et concedo quod 
-          <cb ed="#L" n="b"/><lb ed="#L"/>credo hanc esse ita veram: resurrectio erit: sicut 
+          <cb ed="#L" n="b"/>
+          <lb ed="#L"/>credo hanc esse ita veram: resurrectio erit: sicut 
           <lb ed="#L"/>hanc <pc type="virgula">/</pc> christus resurrexit. et tamen credo quod potest esse 
           <lb ed="#L"/>falsa: et numquam fuisse vera. Et proprie loquendo potest 
           <lb ed="#L"/>dici quod nulla propositio potest esse alia verior: 
