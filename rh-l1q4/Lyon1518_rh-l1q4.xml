@@ -51,10 +51,12 @@
       <div xml:id="rh-l1q4">
         <head xml:id="rh-l1q4-Hd1e97">Quaestio 4</head>
         <head xml:id="rh-l1q4-Hd1e100" type="question-title">Utrum deus sit tres personae distinctae</head>
-        <p xml:id="rh-l1q4-d1e103">
-          <lb ed="#L" n="23"/>QUeritur utrum  
-          <lb ed="#L" n="24"/>deus sit tres personae distinctae:
-        </p>
+        <div xml:id="rh-l1q4-Dd1e103">
+          <p xml:id="rh-l1q4-d1e103">
+            <lb ed="#L" n="23"/>QUeritur utrum  
+            <lb ed="#L" n="24"/>deus sit tres personae distinctae:
+          </p>
+        </div>
         <div xml:id="rh-l1q4-Dd1e110" type="rationes-principales">
           <head xml:id="rh-l1q4-Hd1e112">Rationes principales</head>
           <p xml:id="rh-l1q4-d1e115">

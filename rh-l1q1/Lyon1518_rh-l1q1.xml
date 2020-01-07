@@ -49,13 +49,15 @@
     <body>
       <div xml:id="rh-l1q1">
         <head xml:id="rh-l1q1-Hd1e3494">Quaestio 1</head>
-        <p xml:id="rh-l1q1-d1e3497">
+        <div xml:id="rh-l1q1-Dd1e97">
+          <p xml:id="rh-l1q1-d1e3497">
           <lb ed="#L" n="9"/>Utrum qui<lb ed="#L"/>libet 
           viator exi<lb ed="#L"/>stens in gratia 
           <lb ed="#L"/>assentiendo arti<lb ed="#L"/>culis 
           fidei me<lb ed="#L"/>reatur 
           vitam eter<lb ed="#L"/>nam.
         </p> 
+        </div>
         <div xml:id="rh-l1q1-Dd1e115" type="rationes-principales">
         <p xml:id="rh-l1q1-d1e3518">
           Et argui<lb ed="#L"/>tur 

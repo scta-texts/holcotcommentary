@@ -51,15 +51,17 @@
       <div xml:id="rh-l1q2">
         <head xml:id="rh-l1q2-Hd1e97">Quaestio 2</head>
         <head xml:id="rh-l1q2-Hd1e100" type="question-title">Utrum voluntas creata in utendo et fruendo sit libera libertate contradictionis</head>
-        <div xml:id="rh-l1q2-Dd1e103" type="rationes-principales">
-          <head xml:id="rh-l1q2-Hd1e105">Rationes principales</head>
-        <p xml:id="rh-l1q2-d1e108">
+        <div xml:id="rh-l1q2-Dd1e101">
+          <p xml:id="rh-l1q2-d1e108">
           <lb ed="#L" n="86"/>Circa distinctio 
           <lb ed="#L" n="87"/>nem primam in qua agitur de frui  
           <lb ed="#L" n="88"/>et uti: quaeritur utrum voluntas  
           <lb ed="#L" n="89"/>creata in utendo et fruendo sit  
           <lb ed="#L" n="90"/>libera libertate contradictionis
         </p>
+        </div>
+        <div xml:id="rh-l1q2-Dd1e103" type="rationes-principales">
+          <head xml:id="rh-l1q2-Hd1e105">Rationes principales</head>
         <p xml:id="rh-l1q2-d1e121">
           <lb ed="#L" n="91"/>Quod non : quia sic : sequeretur quod voluntas creata  
           <lb ed="#L" n="92"/>posset libere velle et libere non velle liberta 

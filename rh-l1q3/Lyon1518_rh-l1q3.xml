@@ -51,11 +51,13 @@
       <div xml:id="rh-l1q3">
         <head xml:id="rh-l1q3-Hd1e97">Quaestio 3</head>
         <head xml:id="rh-l1q3-Hd1e100" type="question-title">Utrum viator teneatur frui solo deo</head>
-        <p xml:id="rh-l1q3-d1e96">
+        <div xml:id="rh-l1q3-Dd1e103">
+          <p xml:id="rh-l1q3-d1e96">
           <lb ed="#L" n="59"/>QUeritur ulterius 
           <lb ed="#L" n="60"/><sic>rius</sic> utrum viator teneatur frui 
           <lb ed="#L" n="61"/>solo deo:
         </p>
+        </div>
         <div xml:id="rh-l1q3-Dd1e114" type="rationes-principales">
           <head xml:id="rh-l1q3-Hd1e116">Rationes principales</head>
           <p xml:id="rh-l1q3-d1e107">
