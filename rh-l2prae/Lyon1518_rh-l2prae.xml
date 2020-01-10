@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 2, Praeambulum [Lyon 1518 Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 2, Praeambulum [Lyon 1518 Transcription]</title>
+          <date when="2020-01-10">January 10, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="Lyon1518">Lyon 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-01-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="45-r"/>
+        <cb ed="#L" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rh-l2prae">
+        <head xml:id="rh-l2prae-Hd1e97">Praeambulum </head>
+        <p xml:id="rh-l2prae-d1e100"><!--089.xml-->  
+          <lb ed="#L" n="32"/><pc type="#pilcrow"/>Sequuntur questiones eiusdem  
+          <lb ed="#L" n="33"/>in secundum librum sententiarum. 
+          <lb ed="#L" n="34"/>us ergo Eiusdem magistri oberti holkot vi- 
+          <lb ed="#L" n="35"/>ri longe argutissimi circa secundum sen- 
+          <lb ed="#L" n="36"/>tentiarum incipitur disquisitio: pro cuius de 
+          <lb ed="#L" n="37"/>claratione praemittit sic.
+        </p>
+        <p xml:id="rh-l2prae-d1e118">
+          <lb ed="#L" n="38"/>Distinctione prima secun 
+          <lb ed="#L" n="39"/>di libri sententiarum agit magister de crea- 
+          <lb ed="#L" n="40"/>tione hominis: et dicit hominem ideo creatum  
+          <lb ed="#L" n="41"/>a deo ut deo serviret et deo frueretur. Uer- 
+          <lb ed="#L" n="42"/>sus autem finem primi libri agit magister de 
+          <lb ed="#L" n="43"/>gubernatione divina quaefit specialiter cir- 
+          <lb ed="#L" n="44"/>ca naturam rationalem per praedestinatio  
+          <lb ed="#L" n="45"/>nem et prescientiam: ideo continuando quo- 
+          <lb ed="#L" n="46"/>dammodo finem primi libri cum principio 
+          <lb ed="#L" n="47"/>secundi quaero istam questionem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
