@@ -752,15 +752,18 @@
             <lb ed="#L" n="49"/>cet. sed sequitur: dixit falsum: ergo non propoheta 
             <lb ed="#L" n="50"/>uit per diffinitionem proprhetiae: quae includit dictum  
             <lb ed="#L" n="51"/>prophete esse verum immo secundum isam proprhetie diffi 
-            <lb ed="#L" n="52"/>nitio est impossibilis: ergo etc. Praeterea  
+            <lb ed="#L" n="52"/>nitio est impossibilis: ergo etc.
+          </p>
+          <p xml:id="rh-l2q2-d1e1452">
+            Praeterea  
             <lb ed="#L" n="53"/>apia arguit sic ad probandum resurrectionem 
             <!--118.xml-->
             <cb ed="#L" n="b"/><!--59vb-->
-            <lb ed="#L" n="54"/>Si mortui non resurgent: ergo nec christus resur 
-            <lb ed="#L" n="55"/>rexit. i. Corum xv. Et dicit Augustinus de doctrina 
-            <lb ed="#L" n="56"/>christiana libro ii capitulo xxi hoc est circa finem. quod con 
-            <lb ed="#L" n="57"/>nexiones apli sunt bone: licet habeantur sententias  
-            <lb ed="#L" n="58"/>falsas. Consequens est impossibile: ergo et antecedens:  
+            <lb ed="#L" n="54"/><quote xml:id="rh-l2q2-Qd1e1462" source="http://scta.info/resource/Icor15_16">Si mortui non resurgent: ergo nec christus resur 
+            <lb ed="#L" n="55"/>rexit</quote>. i. Corum xv. Et dicit <ref xml:id="rh-l2q2-Rd1e1468" corresp="#rh-l2q2-Qd1e1473">Augustinus de doctrina 
+            <lb ed="#L" n="56"/>christiana libro ii capitulo xxi hoc est circa finem</ref>. quod <quote xml:id="rh-l2q2-Qd1e1473" source="http://scta.info/resource/addc-l2-d1e542">con 
+            <lb ed="#L" n="57"/>nexiones apostoli sunt bonae: licet habeantur sententias  
+            <lb ed="#L" n="58"/>falsas</quote>. Consequens est impossibile: ergo et antecedens:  
             <lb ed="#L" n="59"/>quia si antecedens sit contingens: consequentia non valet. Uel 
             <lb ed="#L" n="60"/>opiet dicere quod deus posset vno modo facere quod  
             <lb ed="#L" n="61"/>christus numquam resurrexit a mortuis: consequens fal 
@@ -927,12 +930,12 @@
             <lb ed="#L" n="81"/>falsum. similiter si liceret sibi orare pro seipso casu 
             <lb ed="#L" n="82"/>posito: sic liceret ecclie orare pro hominibus de quie 
             <lb ed="#L" n="83"/>vus ipsa esset certa quod damnarentur. consequens falsum  
-            <lb ed="#L" n="84"/>et contra Augustinum libro xxi de civiat dei capitulo xxiiii ubi dicit  
-            <lb ed="#L" n="85"/>Denique si de aliquibus ita certa esset ecclesia 
-            <lb ed="#L" n="86"/>ut qui sint il scilicet damnandi etiam non nosset: qui 
+            <lb ed="#L" n="84"/>et contra <ref xml:id="rh-l2q2-Rd1e1805" corresp="#rh-l2q2-Qd1e1809">Augustinum libro xxi de civiat dei capitulo xxiiii</ref> ubi dicit  
+            <lb ed="#L" n="85"/><quote xml:id="rh-l2q2-Qd1e1809" source="http://scta.info/resource/adcd-l21-d1e3606">Denique si de aliquibus ita certa esset ecclesia 
+            <lb ed="#L" n="86"/>ut qui sint illi scilicet damnandi etiam non nosset: qui 
             <lb ed="#L" n="87"/>licet adhuc in hac vita sint constituti: tamen praede 
-            <lb ed="#L" n="88"/>stinati sut in ignem aeternum ire cum diabolo: tam  
-            <lb ed="#L" n="89"/>pro eis non oraret quam nec pro ipso. Ex hac aucto  
+            <lb ed="#L" n="88"/>stinati sunt in ignem aeternum ire cum diabolo: tam  
+            <lb ed="#L" n="89"/>pro eis non oraret quam nec pro ipso</quote>. Ex hac aucto  
             <lb ed="#L" n="90"/>ritate arguitur quod reuelatum non est contingens  
             <lb ed="#L" n="91"/>post reuelationem. quia si sic: dato quod reuelatum  
             <lb ed="#L" n="92"/>foret eccsie de sortes. quod est damnandus: et tamen adhuc  
@@ -1340,22 +1343,22 @@
             <lb ed="#L" n="86"/>non est: igitur etc.
           </p>
           <p xml:id="rh-l2q2-d1e2617">
-            Praeterea Augustinus xi de ciii capitulo 
-            <lb ed="#L" n="87"/>x Deus non aliquid nesciens fecit. quod nec de quali 
-            <lb ed="#L" n="88"/>bet homine artificae recte dici potest. Porro si sci- 
+            Praeterea <ref xml:id="rh-l2q2-Rd1e2635" corresp="#rh-l2q2-Qd1e2640">Augustinus xi de ciii capitulo 
+            <lb ed="#L" n="87"/>x</ref> <quote xml:id="rh-l2q2-Qd1e2640" source="http://scta.info/resource/adcd-l11-d1e1584">Deus non aliquid nesciens fecit. quod nec de quali 
+            <lb ed="#L" n="88"/>bet homine artifice recte dici potest. Porro si sci- 
             <lb ed="#L" n="89"/>ens fecit omnia: ea vtique fecit quo noverat. Ex quo  
             <lb ed="#L" n="90"/>inquit Augustinus Occurrit animo quiddam mirum: sed  
             <lb ed="#L" n="91"/>tamen verum: quod iste mundus nobis notus esse  
             <lb ed="#L" n="92"/>non posset nisi esset: deo autem nisi notus esset  
-            <lb ed="#L" n="93"/>esse non posset.
+            <lb ed="#L" n="93"/>esse non posset</quote>.
           </p>
           <p xml:id="rh-l2q2-d1e2635">
-            Item xv de trinitate capitulo xiii. Uni 
+            Item <ref xml:id="rh-l2q2-Rd1e2659" corresp="#rh-l2q2-Qd1e2662">xv de trinitate capitulo xiii</ref>. <quote xml:id="rh-l2q2-Qd1e2662" source="http://scta.info/resource/adt-l15-d1e1842">Uni 
             <lb ed="#L" n="94"/>versas creaturas suas et spiritales et corpora 
             <lb ed="#L" n="95"/>les non quia sunt ideo novit: sed ideo sunt qua  
             <lb ed="#L" n="96"/>nouit. Non enim nesciuit quo fuerat creaturus: quia  
             <lb ed="#L" n="97"/>ergo scivit: creauit: non quia creauit / scivit: nec  
-            <lb ed="#L" n="98"/>aliter sciuit creata quod creanda.
+            <lb ed="#L" n="98"/>aliter sciuit creata quod creanda</quote>.
           </p>
           <p xml:id="rh-l2q2-d1e2648">
             Praeterea. Da 
@@ -1988,10 +1991,10 @@
             </p>
             <p xml:id="rh-l2q2-d1e3865">
               Confirmatur ista  
-            <lb ed="#L" n="42"/>atio per diffinitionem signi: quam dat beatus Augustinu  
-            <lb ed="#L" n="43"/>ii d doc. christiana c. i. Signum est res per spes 
+              <lb ed="#L" n="42"/>atio per diffinitionem signi: quam dat <ref xml:id="rh-l2q2-Rd1e3897" corresp="#rh-l2q2-Qd1e3902">beatus Augustinu  
+              <lb ed="#L" n="43"/>ii d doc. christiana c. i</ref>. <quote xml:id="rh-l2q2-Qd1e3902" source="http://scta.info/resource/addc-l2-d1e110">Signum est res per spes 
             <lb ed="#L" n="44"/>quam ingerit sensibus / aliquid aliud ex se faciens  
-            <lb ed="#L" n="45"/>in cognitionem venire. sed prolatum a sorte non  
+            <lb ed="#L" n="45"/>in cognitionem venire</quote>. sed prolatum a sorte non  
             <lb ed="#L" n="46"/>ingerit seipsum sensui: quia non auditur: nec facit  
             <lb ed="#L" n="47"/>aliquid in cognitionem venire alicuius hominis: ergo  
             <lb ed="#L" n="48"/>non est signu. et vltra: ergo non significant ter  
@@ -3509,13 +3512,13 @@
           <p xml:id="rh-l2q2-d1e6853">
             Quantum ad primum: sciendum quod cum ti- 
             <lb ed="#L" n="55"/>more et reverentia etiam opet exprimere illa quam  
-            <lb ed="#L" n="56"/>vera sut / quando loquimur de deo. Unde Augustin c x de  
-            <lb ed="#L" n="57"/>civi dei capitulo xxiii. Liberis verbis loquuntur philosoph 
+            <lb ed="#L" n="56"/>vera sut / quando loquimur de deo. Unde <ref xml:id="rh-l2q2-Rd1e6892" corresp="#rh-l2q2-Qd1e6897">Augustin c x de  
+            <lb ed="#L" n="57"/>civi dei capitulo xxiii</ref>. <quote xml:id="rh-l2q2-Qd1e6897" source="http://scta.info/resource/adcd-l10-d1e1477">Liberis verbis loquuntur philosoph 
             <lb ed="#L" n="58"/>nec in rebus ad intelligendum difficillimis offen 
             <lb ed="#L" n="59"/>sionem religiosarum aurium partimescunt. Nobis  
             <lb ed="#L" n="60"/>autem ad certam regulam loqui fas est: ne verborum li- 
             <lb ed="#L" n="61"/>centia etiam de rebus quae his significantur impiam  
-            <lb ed="#L" n="62"/>giguat opinionem. haec ille. Et ideo qui in ista  
+            <lb ed="#L" n="62"/>giguat opinionem</quote>. haec ille. Et ideo qui in ista  
             <lb ed="#L" n="63"/>materia dico: sine partinacia / investigationis  
             <lb ed="#L" n="64"/>grstia dico. et licet nulla rationem haberem ad concordam  
             <lb ed="#L" n="65"/>dum cum rerum contingentia divinam praescientiam et  
@@ -3528,17 +3531,17 @@
             <lb ed="#L" n="72"/>dicit quod quando rationem habemus cui scriptura re- 
             <lb ed="#L" n="73"/>pugnat: quamuis nobis ista ratio videatur inex- 
             <lb ed="#L" n="74"/>pugnabilis: nulla tamen veritate fulciri creden 
-            <lb ed="#L" n="75"/>da est. Et Augustinus v de civitate dei capitulo x disputans ct  
+            <lb ed="#L" n="75"/>da est. Et <ref xml:id="rh-l2q2-Rd1e6939" corresp="#rh-l2q2-Qd1e6946">Augustinus v de civitate dei capitulo x</ref> disputans ct  
             <lb ed="#L" n="76"/>pinionem Ciceronis: qui negauit praescientiam  
-            <lb ed="#L" n="77"/>dei: dicit. Nullo modo cogimur aut retenta prae 
+            <lb ed="#L" n="77"/>dei: dicit. <quote xml:id="rh-l2q2-Qd1e6946" source="http://scta.info/resource/adcd-l5-d1e715">Nullo modo cogimur aut retenta prae 
             <lb ed="#L" n="78"/>scientia dei tollere voluntatis arbitrium: aut  
             <lb ed="#L" n="79"/>retento voluntatis arbitrio deum: quod nefas est  
-            <lb ed="#L" n="80"/>negare praescium futuorum : sed vtrumque conplectimur  
+            <lb ed="#L" n="80"/>negare praescium futurorum : sed vtrumque conplectimur  
             <lb ed="#L" n="81"/>vtrumque fideliter et veraciter confitemur. Illud vt  
             <lb ed="#L" n="82"/>bne credamus: hoc ut bene vivamus. Male autem vi 
             <lb ed="#L" n="83"/>vitur: si non de deo bene creditur. vnde absit a nobis  
             <lb ed="#L" n="84"/>negare eius praescientiam vt liberi esse velimus: quo ad  
-            <lb ed="#L" n="85"/>iuuante liberi erimus. Item Augustinui ad Uolusia- 
+            <lb ed="#L" n="85"/>iuuante liberi erimus</quote>. Item Augustinui ad Uolusia- 
             <lb ed="#L" n="86"/>num. Dicamus deum aliquid posse: quod nos fa 
             <lb ed="#L" n="87"/>teamur investigare non posse. Et Anselmus. de qui- 
             <lb ed="#L" n="88"/>stione illa dicit quod multa debemus fateri deum  
@@ -3705,7 +3708,7 @@
             <lb ed="#L" n="17"/>ludit Augustinus historie de rege Achab iii N etg- 
             <lb ed="#L" n="18"/>ci. xxii. Et de spum qui dicit. Egrediar: et ero spus  
             <lb ed="#L" n="19"/>mendax. Et sequitur. Decipies: et prevalebis:  
-            <lb ed="#L" n="20"/>egredere. Ubi manifestum est secundum Augutinum quod deus  
+            <lb ed="#L" n="20"/>egredere. Ubi manifestum est secundum Augustinum quod deus  
             <lb ed="#L" n="21"/>dixit malo angelo vt deciperet regen. Similiter 
             <lb ed="#L" n="22"/>christus voluit nasci de virgine ut decipeet  
             <lb ed="#L" n="23"/>diabolumn: eius nativitatem secundum sectuons occultans  
@@ -4284,9 +4287,9 @@
             <lb ed="#L" n="62"/>ter persuadere veritatem eiusdem quod christus docuit  
             <lb ed="#L" n="63"/>hoc esse credendum. Unde est talis consequentia. si mor- 
             <lb ed="#L" n="64"/>tui non resurgunst id est si mortui resurgere non  
-            <lb ed="#L" n="65"/>possunt: ergo nec christus. consequentia est bona: licet antectedens  
-            <lb ed="#L" n="66"/>sit impossibile: sicut dicit Augustinum libro ii de do- 
-            <lb ed="#L" n="67"/>ctri. christiana. Ad consequentiam hichec iii sid etig.  
+            <lb ed="#L" n="65"/>possunt: ergo nec christus. consequentia est bona: licet antecedens  
+            <lb ed="#L" n="66"/>sit impossibile: sicut dicit <ref>Augustinum libro ii de do- 
+            <lb ed="#L" n="67"/>ctri. christiana</ref>. Ad consequentiam hichec iii sid etig.  
             <lb ed="#L" n="68"/>xxii. Si reuersus fueris in pace etc. conditio- 
             <lb ed="#L" n="69"/>nalis est vera: antecedens fuit contingens: et consequens similiter
           </p>

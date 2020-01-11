@@ -185,9 +185,9 @@
           <lb ed="#L" n="55"/>deum frustra orat sive petunt: ex quo prius vi 
           <lb ed="#L" n="56"/>dent hoc faliendum. Si secundum: igitur desiderant  
           <lb ed="#L" n="57"/>aliquid fieri circa nos: de quo dubitant an de 
-          <lb ed="#L" n="58"/>beat fieri: igitur non sunt beati. Nam beatus est  
-          <lb ed="#L" n="59"/>qui habet quicquid vult: et nihil male vult secundum  
-          <lb ed="#L" n="60"/>Augustinus xiii de tritia capitulo v Similiter si petunt fie 
+            <lb ed="#L" n="58"/>beat fieri: igitur non sunt beati. <quote xml:id="rh-l1q3-Qd1e374" source="http://scta.info/resource/adt-l13-d1e1428">Nam beatus est  
+          <lb ed="#L" n="59"/>qui habet quicquid vult: et nihil male vult secundum</quote>  
+            <lb ed="#L" n="60"/><ref xml:id="rh-l1q3-Rd1e380" corresp="#rh-l1q3-Qd1e374">Augustinus xiii de tritia capitulo v</ref> Similiter si petunt fie 
           <lb ed="#L" n="61"/>ri illud de quo nesciunt an deus decreuerit  
           <lb ed="#L" n="62"/>hoc faciendum: igitur exponunt se periculo in  
           <lb ed="#L" n="63"/>petendo illud de quo nesciunt an deo place 
@@ -232,10 +232,10 @@
           <lb ed="#L" n="93"/>non immediate et principue in deo: sed in habere deum
           </p>
           <p xml:id="rh-l1q3-d1e457">
-          <lb ed="#L" n="94"/>Confirmatur ista ratio per Augustinum xiii de triniao capitulo v 
-          <lb ed="#L" n="95"/>Omnes homines beati esse volunt: illudque vnum  
+          <lb ed="#L" n="94"/>Confirmatur ista ratio per <ref xml:id="rh-l1q3-Rd1e469" corresp="#rh-l1q3-Qd1e478"><name>Augustinum</name> xiii <title>de trinitate</title> capitulo v</ref> 
+          <lb ed="#L" n="95"/><quote xml:id="rh-l1q3-Qd1e478" source="http://scta.info/resource/adt-l13-d1e1428">Omnes homines beati esse volunt: illudque vnum  
           <lb ed="#L" n="96"/>ardentissimo amore appetunt: et propter hoc ce 
-          <lb ed="#L" n="97"/>tera quacumque appetunt. sed esse beatum non est  
+          <lb ed="#L" n="97"/>tera quacumque appetunt</quote>. sed esse beatum non est  
           <lb ed="#L" n="98"/>deus: ergo aliuda deo ardentissimo amore di 
           <lb ed="#L" n="99"/>ligitur. igitur super omnia et propter illud omnia alia.
           </p>
@@ -317,9 +317,9 @@
           <lb ed="#L" n="53"/>potest totum appetitum satiare: quia ad hoc fa 
           <!--057.xml-->
           <cb ed="#L" n="b"/><!--29rb-->
-          <lb ed="#L" n="54"/>cti sumus. Unde Augustinus primo confessionun 
-          <lb ed="#L" n="55"/>ca i Fecisti nos dicene ad te: et inquietum es- 
-          <lb ed="#L" n="56"/>cor nostrum donec requiescat in te etc.Ante 
+          <lb ed="#L" n="54"/>cti sumus. Unde <ref xml:id="rh-l1q3-Rd1e646" corresp="#h-l1q3-Qd1e651">Augustinus primo confessionum 
+          <lb ed="#L" n="55"/>ca i</ref> <quote xml:id="rh-l1q3-Qd1e651" source="http://scta.info/resource/aconf-l1-d1e102">Fecisti nos dicene ad te: et inquietum es- 
+          <lb ed="#L" n="56"/>cor nostrum donec requiescat in te</quote> etc. Ante 
           <lb ed="#L" n="57"/>cedens probatur primo: quia mens nostra est virti  
           <lb ed="#L" n="58"/>tis et capacitatis finitae. ergo per finitum  
           <lb ed="#L" n="59"/>potest satiari. Secundo sic. sicut deus excedit ca  
@@ -637,11 +637,11 @@
           <lb ed="#L" n="94"/>voluntate. et hoc est diligere aliquid propter  
           <lb ed="#L" n="95"/>finem vltimum. et iste actus voluntatis vocatur  
           <lb ed="#L" n="96"/>apud theologos frui: stricte et proprie capien- 
-          <lb ed="#L" n="97"/>do hoc verbum frui. Unde Augustinus primo de do 
-          <lb ed="#L" n="98"/>ctrina christia capitulo xxxviii. Dicimus nos ea re 
-          <lb ed="#L" n="99"/>frui quam diligimus propter se. Et infra. Si in  
-          <lb ed="#L" n="100"/>haeresi permanseris fine in ea ponens letitiae tue- 
-          <lb ed="#L" n="101"/>tunc vere et propriae frui dicendus es.
+          <lb ed="#L" n="97"/>do hoc verbum frui. Unde <ref xml:id="rh-l1q3-Rd1e1290" corresp="#h-l1q3-Qd1e1295">Augustinus primo de do 
+          <lb ed="#L" n="98"/>ctrina christia capitulo xxxviii</ref>. <quote xml:id="rh-l1q3-Qd1e1295" source="http://scta.info/resource/addc-l1-d1e476">Dicimus nos ea re 
+          <lb ed="#L" n="99"/>frui quam diligimus propter se</quote>. Et <ref xml:id="rh-l1q3-Rd1e1301" corresp="#rh-l1q3-Qd1e1304">infra</ref>. <quote xml:id="rh-l1q3-Qd1e1304" source="http://scta.info/resource/addc-l1-d1e503">Si in  
+          <lb ed="#L" n="100"/>haeresi permanseris fine in ea ponens laetitiae tuae
+          <lb ed="#L" n="101"/>tunc vere et proprie frui dicendus es</quote>.
           </p>
           <p xml:id="rh-l1q3-d1e1277">
             Caeter 
@@ -688,13 +688,13 @@
           </p>
           <p xml:id="rh-l1q3-d1e1358">
             Sed contra 
-          <lb ed="#L" n="23"/>istam opinionem potest argui ex dictis beati  
-          <lb ed="#L" n="24"/>Augustinus primo de doctrina christi cac. vi ubi in  
+            <lb ed="#L" n="23"/>istam opinionem potest argui ex dictis <ref xml:id="rh-l1q3-Rd1e1397" corresp="#rh-l1q3-Qd1e1416">beati  
+          <lb ed="#L" n="24"/><name>Augustinus</name> primo <title>de doctrina christi</title> capitulo vi</ref> ubi in  
           <lb ed="#L" n="25"/>quirit quomodo deus diligat nos: et quaerit  
           <lb ed="#L" n="26"/>vtrum deus fruatur nobis an vtatur nobis de  
           <lb ed="#L" n="27"/>terminat quod vtitur nobis. et in arguendo acci- 
-          <lb ed="#L" n="28"/>pit sic. Si enim nec fruitur nec utitu: non invenio  
-          <lb ed="#L" n="29"/>quo diligat nos. haec est ratio per quam probatquod  
+          <lb ed="#L" n="28"/>pit sic. <quote xml:id="rh-l1q3-Qd1e1416" source="http://scta.info/resource/addc-l1-d1e476">Si enim nec fruitur nec utitur: non invenio  
+          <lb ed="#L" n="29"/>quo diligat nos</quote>. haec est ratio per quam probatquod  
           <lb ed="#L" n="30"/>utitur nobis. et si ratio sua valeat: videtur quod  
           <lb ed="#L" n="31"/>omnis amor sit fruitio vel usus. ideo hoc conce 
           <lb ed="#L" n="32"/>do.
@@ -2635,12 +2635,12 @@
           <p xml:id="rh-l1q3-d1e5159">
             Ad  
           <lb ed="#L" n="51"/>primum istorum dicitur quod homo non potest velle simpliciter 
-          <lb ed="#L" n="52"/>incognitum. Unde Augustini in detrini. Nullus inquit 
-          <lb ed="#L" n="53"/>studiosus rem prorsus incognitam potest velle  
+          <lb ed="#L" n="52"/>incognitum. Unde <ref xml:id="rh-l1q3-Rd1e5208">Augustini in de trini.</ref> <quote xml:id="rh-l1q3-Qd1e5211" type="paraphrase" source="http://scta.info/resource/adt-l10-d1e1128">Nullus inquit 
+          <lb ed="#L" n="53"/>studiosus rem prorsus incognitam potest velle</quote>  
           <!--074.xml-->
           <cb ed="#L" n="b"/><!--37vb-->
-          <lb ed="#L" n="54"/>et alibi dicit. Inuisa possumus diligere: in  
-          <lb ed="#L" n="55"/>cognita autem nequaque. vnde quando ipse dicit in  
+          <lb ed="#L" n="54"/>et alibi dicit. <quote xml:id="rh-l1q3-Qd1e5224">Inuisa possumus diligere: in  
+          <lb ed="#L" n="55"/>cognita autem nequaque</quote>. vnde quando ipse dicit in  
           <lb ed="#L" n="56"/>libro de trinitate Ab eo quod est in memoria. non vult  
           <lb ed="#L" n="57"/>dicere nisi quod ipsum auertere nihil aliud est  
           <lb ed="#L" n="58"/>nisi non inde cogitare: sed velle auertere est  

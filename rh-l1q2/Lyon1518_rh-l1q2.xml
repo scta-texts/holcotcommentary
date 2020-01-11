@@ -215,9 +215,9 @@
         </p>
         <p xml:id="rh-l1q2-d1e425">
           Praeterea. 	 
-          <lb ed="#L" n="2"/>hoc est de mente beati Augustini in de trinitate quod ad  
-          <lb ed="#L" n="3"/>formandum actum cognitionis requiritur volun 
-          <lb ed="#L" n="4"/>tas copulans parentem cum prole : quia aliter non es- 
+          <lb ed="#L" n="2"/>hoc est de mente <ref xml:id="rh-l1q2-Rd1e432" corresp="#rh-l1q2-Qd1e437">beati Augustini in de trinitate</ref> quod ad  
+          <lb ed="#L" n="3"/>formandum actum cognitionis requiritur <quote xml:id="rh-l1q2-Qd1e437" source="http://scta.info/resource/adt-l11-d1e1273">volun 
+          <lb ed="#L" n="4"/>tas copulans parentem cum prole</quote>: quia aliter non es- 
           <lb ed="#L" n="5"/>set trinitas in illa productione. ergo non potest esse  
           <lb ed="#L" n="6"/>actualis cognitio: nisi sit voluntas copulans  
           <lb ed="#L" n="7"/>secundum eum. Patet ergo haec consequentia. voluntas creata  
@@ -988,8 +988,8 @@
         <p xml:id="rh-l1q2-d1e1954">
           Confirmatur: quia quandocumque animal videt  
           <lb ed="#L" n="88"/>voluntas copulat virtutem visiua cum obiecto:  
-          <lb ed="#L" n="89"/>quia aliter animal non videret. sicut dicit Augustinus  
-          <lb ed="#L" n="90"/>ii de trinitate per totum Et ii de libero arbitrio capitulo viii Sed  
+          <lb ed="#L" n="89"/>quia aliter animal non videret. sicut dicit <ref xml:id="rh-l1q2-Rd1e1969">Augustinus  
+          <lb ed="#L" n="90"/>ii de trinitate</ref> per totum Et ii de libero arbitrio capitulo viii Sed  
           <lb ed="#L" n="91"/>voluntas non compulat aliqua nisi per actum suum:  
           <lb ed="#L" n="92"/>ergo quandocumque animal videt: habet actum  
           <lb ed="#L" n="93"/>suum. Et ita si visio fit in instanti: volitio erit  
@@ -1170,10 +1170,10 @@
           <lb ed="#L" n="15"/>usus: et non instrumentum. ergo illa volitio quest est  
           <lb ed="#L" n="16"/>necessario in volente: non est libera: nec est vo- 
           <lb ed="#L" n="17"/>litio dicenda secundum eum. Iterum. si sic: voluntas potest  
-          <lb ed="#L" n="18"/>nolle beatitudinem. consequens falsum et contra Augustinum xiii 
-          <lb ed="#L" n="19"/>de trinitate quod pro verissimo certissimoque possumus  
-          <lb ed="#L" n="20"/>dicere beate viuere omnes homines velle capitulo viii ix  
-          <lb ed="#L" n="21"/>et x per totum
+          <lb ed="#L" n="18"/>nolle beatitudinem. consequens falsum et contra <ref xml:id="rh-l1q2-Rd1e2329" corresp="#rh-l1q2-Qd1e2335">Augustinum xiii 
+          <lb ed="#L" n="19"/>de trinitate</ref> quod <quote xml:id="rh-l1q2-Qd1e2335" source="http://scta.info/resource/adt-l13-d1e1422">pro verissimo certissimoque possumus  
+          <lb ed="#L" n="20"/>dicere beate viuere omnes homines velle</quote> <ref xml:id="rh-l1q2-Rd1e2340">capitulo viii ix  
+          <lb ed="#L" n="21"/>et x per totum</ref>
         </p>
         <p xml:id="rh-l1q2-d1e2325">
           Item decimotertio arguitur ad  
@@ -3825,11 +3825,11 @@
           <lb ed="#L" n="32"/>possit recordari. Et concedo quod quicumque vult re 
           <lb ed="#L" n="33"/>cordari / iam recordatur: sed forte confuse. et per il- 
           <lb ed="#L" n="34"/>lam recordationem confusam appetit recorda 
-          <lb ed="#L" n="35"/>ri de re distinctae. Et hoc innuit Augustinus x de  
-          <lb ed="#L" n="36"/>trini. c. i. dicens. Omnis amor studentis animi:  
+          <lb ed="#L" n="35"/>ri de re distinctae. Et hoc innuit <ref xml:id="rh-l1q2-Rd1e7523"><nname>Augustinus</nname> x <title>de  
+          <lb ed="#L" n="36"/>trini.</title> c. i.</ref> dicens. <quote xml:id="rh-l1q2-Qd1e7533" source="http://scta.info/resource/adt-l10-d1e1125">Omnis amor studentis animi:  
           <lb ed="#L" n="37"/>hoc est volentis scire quod nescit: non est amor 
           <lb ed="#L" n="38"/>eius rei quam nescit: sed eius quam scit: propter quam  
-          <lb ed="#L" n="39"/>vult scire quod nescit.
+          <lb ed="#L" n="39"/>vult scire quod nescit</quote>.
           </p>
           <p xml:id="rh-l1q2-d1e7513">
             Ad tertiam quando arguitur:  
@@ -3846,8 +3846,8 @@
           </p>
           <p xml:id="rh-l1q2-d1e7534">
             Ad argumenta ista re- 
-          <lb ed="#L" n="47"/>spondet Augustinus xi de trintia capitulo vii de ma 
-          <lb ed="#L" n="48"/>gnis. Et dico cum eo ad illa et ad similia / quod  
+          <lb ed="#L" n="47"/>spondet <ref xml:id="rh-l1q2-Rd1e7568">Augustinus xi de trintia capitulo vii de ma 
+          <lb ed="#L" n="48"/>gnis</ref>. Et dico cum eo ad illa et ad similia / quod  
           <lb ed="#L" n="49"/>volo me scire quod nescio in particulari. et  
           <lb ed="#L" n="50"/>tamen non sequitur: ergo volo: quod nescio. quia 
           <lb ed="#L" n="51"/>pene scio quid est scire quod nesciio id est quicquid  
@@ -4837,18 +4837,18 @@
           </p>
           <p xml:id="rh-l1q2-d1e9427">
             Confir
-          <lb ed="#L" n="47"/>matur ista ratio per beatum Augustinum viii de confes ubi vl 
+          <lb ed="#L" n="47"/>matur ista ratio per beatum <ref xml:id="rh-l1q2-Rd1e9463" corresp="#rh-l1q2-Qd1e9475">Augustinum viii de confes</ref> ubi vl 
           <lb ed="#L" n="48"/>detur dicere quod in malis hominibus ex consuetu- 
           <lb ed="#L" n="49"/>dine parversa vivendi generatur unus habitus:  
           <lb ed="#L" n="50"/>qui necessitat hominem ad male vitioseque vi- 
-          <lb ed="#L" n="51"/>uendum. dicit enim sic. Velle meum tenebat ini- 
+            <lb ed="#L" n="51"/>uendum. dicit enim sic. <quote xml:id="rh-l1q2-Qd1e9475" source="http://scta.info/resource/aconf-l8-d1e141">Velle meum tenebat ini- 
           <lb ed="#L" n="52"/>micus: et inde mihi catenam fecerat: et con 
           <lb ed="#L" n="53"/>strinxerat me. Quippe ex voluntate parversa 
           <!--054.xml-->
           <cb ed="#L" n="b"/><!-- 27vb--> 
           <lb ed="#L" n="54"/>facta est libido: et dum seruitur libidini: facta 
           <lb ed="#L" n="55"/>est consuetudo. et dum consuetudini non resistitur:  
-          <lb ed="#L" n="56"/>facta est necessitas. haec ille Et nota quo- 
+          <lb ed="#L" n="56"/>facta est necessitas</quote>. haec ille Et nota quo- 
           <lb ed="#L" n="57"/>modo dicitur in principio auctoritatis. Uel 
           <lb ed="#L" n="58"/>le meum tenebat inimicus. Et post panca.  
           <lb ed="#L" n="59"/>Uoluntas autem noua quae mihi esse ceperat  
@@ -4939,9 +4939,9 @@
           <lb ed="#L" n="24"/>no quod gaudet de dolore quando dolet: sed post 
           <lb ed="#L" n="25"/>quam doluit quando non dolet: habet tamen memoriam re- 
           <lb ed="#L" n="26"/>cetem doloris et cognitionem de dolore. sicui 
-          <lb ed="#L" n="27"/>dicit beatus Augustinus x confessionum. Retatum me 
-          <lb ed="#L" n="28"/>fuisse reminiscor non letus: et tristitiam meam  
-          <lb ed="#L" n="29"/>recordor non tristis etc Quia tamen ista in bre- 
+          <lb ed="#L" n="27"/>dicit <ref xml:id="rh-l1q2-Rd1e9678" corresp="#rh-l1q2-Qd1e9682">beatus Augustinus x confessionum</ref>. <quote xml:id="rh-l1q2-Qd1e9682" source="http://scta.info/resource/aconf-l10-d1e208">Laetatum me 
+          <lb ed="#L" n="28"/>fuisse reminiscor non laetus: et tristitiam meam  
+          <lb ed="#L" n="29"/>recordor non tristis</quote> etc Quia tamen ista in bre- 
           <lb ed="#L" n="30"/>vi valde tempore fiunt: vr homini ac si simul gau  
           <lb ed="#L" n="31"/>deret et doleret: delectaretur et tristaret propr 
           <lb ed="#L" n="32"/>imperfectionem temporis. Tunc ad formam qua sic  
