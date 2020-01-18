@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?> <!-- this needs to be changed to the diplomatic schema when it gets created -->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Librum IV, Quaestio 1</title>
-        <author>Robert Holcot</author>
-        <editor></editor>
+        <title>Liber 4, Quaestio 1 [Lyon 1518 Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <date when="2016-07-20">July 20, 2016</date>
+          <title>Liber 4, Quaestio 1 [Lyon 1518 Transcription]</title>
+          <date when="2020-01-18">January 18, 2020</date>
         </edition>
       </editionStmt>
       <publicationStmt>
-        <authority>A Sentences Commentary Text Archive Project</authority>
+        <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -28,31 +25,1635 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/diplomatic.rng"/>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
       <editorialDecl>
-        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
       </editorialDecl>
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2015-07-18" status="draft" n="0.0.0-dev">
-          <p>Created file for the first time.</p>
+        <change when="2020-01-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
         </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text type="diplomatic" xml:lang="la">
+  <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <!-- <pb ed="#B" n="13v"/><cb ed="#B" n="a"/> -->
+        <pb ed="#L" n="100-v"/>
+        <cb ed="#L" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="rh-l4q1">
-        <head>Librum IV, Quaestio 1</head>
-        <head type="questionTitle">Utrum baptismus rite susceptus conferat gratiam baptizatio</head>
-        <p><!-- begin transcription here --></p>
+        <head xml:id="rh-l4q1-Hd1e97">Quaestio 1</head>
+        <div xml:id="rh-l4q1-Dd1e100">
+        <p xml:id="rh-l4q1-d1e102">
+          <!--200.xml-->
+          <pb ed="#L" n="100-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>CIrca quartum li 
+          <lb ed="#L" n="2"/>brum quaeritur utrum haptismus ritae  
+          <lb ed="#L" n="3"/>susceptus conferat graram bapti  
+          <lb ed="#L" n="4"/>ato:
+        </p>
       </div>
+      <div xml:id="rh-l4q1-Dd1e121" type="rationes-principales">
+        <p xml:id="rh-l4q1-d1e123">
+          Uidetur quod non: quia si sic: se 
+          <lb ed="#L" n="5"/>quaeretur quod paruulus haptiatus  
+          <lb ed="#L" n="6"/>et adultus etiam baptinatus: qua personaliter meru 
+          <lb ed="#L" n="7"/>it: aequaliter praemiaretur de lege statuta. consequens est  
+          <lb ed="#L" n="8"/>falsum: quia nullum praemium debetur paruulo nisi  
+          <lb ed="#L" n="9"/>propter meritum christi: cuius particeps futurus est  
+          <lb ed="#L" n="10"/>per susceptionem sacramenti: sed meritum passionis  
+          <lb ed="#L" n="11"/>christi aequele est omnibus in christo renatis: ergo tantum  
+          <lb ed="#L" n="12"/>prticipabit de eo adultus quae meruit: sicut par 
+          <lb ed="#L" n="13"/>vulus qui numquam meruit. et pter hoc alieund habet de  
+          <lb ed="#L" n="14"/>merito suo personali per casum argumenti. ergo  
+          <lb ed="#L" n="15"/>si aequaliter praemiaretur: sequitur quod inaequaliter boni 
+          <lb ed="#L" n="16"/>aequaliter forent a deo praemiati. consequentiam primam pro- 
+          <lb ed="#L" n="17"/>bo: quia capio gratiam in aliquo pruulo baptieato  
+          <lb ed="#L" n="18"/>existentem: et gratiam aliam in anima adulti: iste gre 
+          <lb ed="#L" n="19"/>sunt eiusdem speciei: ergo sunt compabiles. ex vii 
+          <lb ed="#L" n="20"/>phy ergo manifestum e quod si alfa sit maior: gratia 
+          <lb ed="#L" n="21"/>adulti excedet aliam: quaero igitur utrum in infinitum  
+          <lb ed="#L" n="22"/>an finitae: Si in infinitum: tunc ille adultus in infini 
+          <lb ed="#L" n="23"/>tum esset magis acceptus deo: et sic in infinitum ma 
+          <lb ed="#L" n="24"/>gits praemiandus. si finitae tantum: ergo gratia adulti potest  
+          <lb ed="#L" n="25"/>diminui quiusque foret omnino aequalis gre paruuli.  
+          <lb ed="#L" n="26"/>Pono ergo quod istae adultus peccet: et resipiscat cum  
+          <lb ed="#L" n="27"/>gratia miori quod prius. et iterum peccet: et resipiscat  
+          <lb ed="#L" n="28"/>cum miori gratia quod prius. et sic consequenter: donec aequele  
+          <lb ed="#L" n="29"/>praecise graram heat sicut pruulus: et decedat: et sic  
+          <lb ed="#L" n="30"/>patet propositum. Similiter si gratia adulti non excedat  
+          <lb ed="#L" n="31"/>gratiam paruuli nisi finitae tantum: sit quod in triplo gratia 
+          <lb ed="#L" n="32"/>exempli excedat: tunc capio alium adultum qui mi- 
+          <lb ed="#L" n="33"/>nus meruit praecise in triplo: ergo ille et peruulus  
+          <lb ed="#L" n="34"/>aequaliter praemiabuntur.
+        </p>
+        <p xml:id="rh-l4q1-d1e191">
+          <pc type="#pilcrow"/>Secundo ad principale 
+          <lb ed="#L" n="35"/>si sic: ergo duo pruuli baptiati inaequaliter  
+          <lb ed="#L" n="36"/>praemiarentur de lege statuta. consequens falsum: quia cum 
+          <lb ed="#L" n="37"/>totum praemium sit eis debitum de merito passio- 
+          <lb ed="#L" n="38"/>nis christi: et illud est aqualiter cone vtrique  
+          <lb ed="#L" n="39"/>nulla ur inter eos ponenda differentia praemiorum  
+          <lb ed="#L" n="40"/>et hoc dicit magister libro ii dist xxxii in fine. Aine 
+          <lb ed="#L" n="41"/>ante haptismum a corpore discedentes parem penam  
+          <lb ed="#L" n="42"/>et post baptismum stati aequalem coronam sortiutur
+        </p>
+        <p xml:id="rh-l4q1-d1e213">
+          <lb ed="#L" n="43"/>Consequentiam probo quinque modis. Primo sic:  
+          <lb ed="#L" n="44"/>capio duos pruulos inaequales in naturali 
+          <lb ed="#L" n="45"/>bus: sic quod anima unius sit multo nobilior quam anima 
+          <lb ed="#L" n="46"/>alterius. et arguo sic. sacistrum aequaliter operatur  
+          <lb ed="#L" n="47"/>gratiam in anima utriusque: ergo cum actus activorum sint 
+          <lb ed="#L" n="48"/>in patiente disposito ii de anima sequitur quod in  
+          <lb ed="#L" n="49"/>anima nobiliori plus causatur de gratia.
+        </p>
+        <p xml:id="rh-l4q1-d1e231">
+          Confirma 
+          <lb ed="#L" n="50"/>tur. nam deus sic contulit in angelis in sua prma 
+          <lb ed="#L" n="51"/>creatione gratiam secundum differentia naturalium: ergo  
+          <lb ed="#L" n="52"/>maior patet et minor secundum magistrum libro ii distintio iiii
+        </p>
+        <p xml:id="rh-l4q1-d1e240">
+          <!--200.xml-->
+          <cb ed="#L" n="b"/><!--100vb-->
+          <lb ed="#L" n="53"/>Secundo sic . capio duos peruulos qui simul baptiem  
+          <lb ed="#L" n="54"/>tur et confirmentur: statis unus et non alter decedat  
+          <lb ed="#L" n="55"/>sine merito ulteriori personali: tunc manifestum  
+          <lb ed="#L" n="56"/>est quod si sacra conferant gratiam: ergo ille qui est confirma 
+          <lb ed="#L" n="57"/>tus / maiorem gratiam hemnbit: ergo et maiorem gloriam. 
+          <lb ed="#L" n="58"/>consequentiam probo: quia est magis a deo acceptus.
+        </p>
+        <p xml:id="rh-l4q1-d1e262">
+          Ter 
+          <lb ed="#L" n="59"/>tio probo eandem consequentiam : capio unum pruulum ba 
+          <lb ed="#L" n="60"/>ptieatum a pagano in articulo necessitatis si  
+          <lb ed="#L" n="61"/>ne quacumque solenitate congrua: tantum habitis  
+          <lb ed="#L" n="62"/>illis quae sunt de necessitate et de suba sacri. et  
+          <lb ed="#L" n="63"/>capio unum alium baptinatum cum fide in ecclia  
+          <lb ed="#L" n="64"/>christianorum a viro scto: et cum omnibus circumstan 
+          <lb ed="#L" n="65"/>tiis requisitis ad solennitatem: sicut sunt cate- 
+          <lb ed="#L" n="66"/>chismus: et exorcismus: cereus: chrisma: et huiusmoni.  
+          <lb ed="#L" n="67"/>quaero igitur utrum istis peruulis infundetur aequelis gra 
+          <lb ed="#L" n="68"/>in baptismo an non: si non: habeo propositum. si  
+          <lb ed="#L" n="69"/>sic: ergo frustra fierent omnia talia.
+        </p>
+        <p xml:id="rh-l4q1-d1e288">
+          Quarto sic. ca 
+          <lb ed="#L" n="70"/>pio unum puulum circumcisum: et alium pruulum ba 
+          <lb ed="#L" n="71"/>ptieatum: quarum vfquam est saluatus: quaero vtrum isti  
+          <lb ed="#L" n="72"/>hosuent aequele praemium an non: si sic: ergo tantam gratiam con 
+          <lb ed="#L" n="73"/>tulit circumcisio sicut baptismus consequens falsum et contra  
+          <lb ed="#L" n="74"/>magistrum li iiii vbi dicit quod baptismus est perfectior 
+          <lb ed="#L" n="75"/>quod fuit circumcisio: quia in ea non dabatur gratia ad  
+          <lb ed="#L" n="76"/>bnen operandum nec augmentum gre habite in adul 
+          <lb ed="#L" n="77"/>tis: sed solum peccata dimittebantur. Unde et Abrae 
+          <lb ed="#L" n="78"/>tamen fuit signum: et nihil boniotulit exterius: sicut  
+          <lb ed="#L" n="79"/>icitur in fine illius caplier. si non hount aequele praemium: ergo  
+          <lb ed="#L" n="80"/>nec habuerunt in praesenti aequelem gratiam: ergo dabatur  
+          <lb ed="#L" n="81"/>uni peruulo plus quam alteri: quod est propositum.
+        </p>
+        <p xml:id="rh-l4q1-d1e317">
+          Quin  
+          <lb ed="#L" n="82"/>to patet eadem consequentia: quia peruulus decedens assumetur  
+          <lb ed="#L" n="83"/>ad aequalitatem alicuius ordis agelorum: ergo aequaliter  
+          <lb ed="#L" n="84"/>praemiabitur cum agelo qui actualiter meruit. eo
+        </p>
+        <p xml:id="rh-l4q1-d1e326">
+          Ter- 
+          <lb ed="#L" n="85"/>tio ad princi. si sic: haptismus foret aliqua modo causa 
+          <lb ed="#L" n="86"/>effectiva gre: et sic creatura posset creare . com 
+          <lb ed="#L" n="87"/>sequens falsum consequentia patet: quia vel efficit alquid: vel 
+          <lb ed="#L" n="88"/>nihil. si nihil: ergo non efficit gratiam: ergo non est cau 
+          <lb ed="#L" n="89"/>sa gre. conseqentia patet gratia macerie: quia non est causa mate  
+          <lb ed="#L" n="90"/>rialis nec formalis nec finali: ergo si nullo modo est  
+          <lb ed="#L" n="91"/>ficit: nullo modo causat. si aliquid efficit in anima de 
+          <lb ed="#L" n="92"/>gratia: ergo caust.
+        </p>
+        <p xml:id="rh-l4q1-d1e346">
+          Confirmatur: quia baptismus creat in 
+          <lb ed="#L" n="93"/>anima characterem: ergo caunt veram rem in anima. Confirma 
+          <lb ed="#L" n="94"/>tur: quia vel in sacris noue legis est aliquo virtus infu- 
+          <lb ed="#L" n="95"/>sa vel nulla. si nulla: non videntur nobiliora quam  
+          <lb ed="#L" n="96"/>sactra veteris legis. et consequens est falsum quia comniter 
+          <lb ed="#L" n="97"/>dicitur quod sacra noue legis continent et efficiunt quod  
+          <lb ed="#L" n="98"/>figurant. si sic: ergo in syllabis platis a baptian- 
+          <lb ed="#L" n="99"/>te foret aliqua virtus speruealu. vel ergo tota in qualibet per 
+          <lb ed="#L" n="100"/>te: vel tota in omnibus: et prs in parte. Si primum: ergo pro 
+          <lb ed="#L" n="101"/>lata praema syllaba forme sacramentalis statim  
+          <lb ed="#L" n="102"/>caretur gratia per illam virtutem: quia agit quantum potest: et  
+          <lb ed="#L" n="103"/>statim cessat agere. Similiter ponatur quod sacerdos  
+          <lb ed="#L" n="104"/>incipiat dicere. ETgo te baptivo: et non dicat  
+          <lb ed="#L" n="105"/>plus: sequitur quod bapti atum foret: quia gratia esset.  
+          <!--201.xml-->
+          <pb ed="#L" n="101-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>eausata in anima et per consequens remissio peccati origi- 
+          <lb ed="#L" n="2"/>nalis. consequens falsum quia nec ibi fuit inuocatio tri 
+          <lb ed="#L" n="3"/>nitatis explicita nec implicita: nec forma prae 
+          <lb ed="#L" n="4"/>scripta verborum: igitur nec sacurm baptismi: consequentia  
+          <lb ed="#L" n="5"/>patet per diffinitionem baptismi. Si dicatur quod il- 
+          <lb ed="#L" n="6"/>la virtus habet partem in parte: et successive est sicut sylla  
+          <lb ed="#L" n="7"/>be proferuntur. Contra: tunc numquam foret haec vera  
+          <lb ed="#L" n="8"/>aliqua virtus est in sacris: sicut numquam haec est vera:  
+          <lb ed="#L" n="9"/>aliqua syllaba est: vel aliquam vot est. cum fiant cum mo 
+          <lb ed="#L" n="10"/>tu locali percutientis et percussi. Item quod virtus crea  
+          <lb ed="#L" n="11"/>tiva grare non sit in verbis nec in aliqua forma  
+          <lb ed="#L" n="12"/>probo: quia si sic: incipiat aliquis baptivare: et pro- 
+          <lb ed="#L" n="13"/>lata medietate forme mutet intentionem: et in 
+          <lb ed="#L" n="14"/>tendat non habtivare: sed tantum lavare corpus:  
+          <lb ed="#L" n="15"/>istae vt videtur non est baptinatus: quia intentio mini 
+          <lb ed="#L" n="16"/>stri est de essentia sacramenti. ergo
+        </p>
+        <p xml:id="rh-l4q1-d1e418">
+          Quarto ad prin 
+          <lb ed="#L" n="17"/>ci. arguo sic. pono duos catecuminos pa- 
+          <lb ed="#L" n="18"/>res in intentione et fide et deuotione ad baptis  
+          <lb ed="#L" n="19"/>mum: et sint in eundo versus baptismum: mo- 
+          <lb ed="#L" n="20"/>riatur unus immediate: et alter parueniens ad ba 
+          <lb ed="#L" n="21"/>ptismum haptietur: et baptiatus decedat. quaero  
+          <lb ed="#L" n="22"/>tunc an isti aequaliter praemiabuntur an non: si sic  
+          <lb ed="#L" n="23"/>ergo nihil profuit baptismus baptieato. si non:  
+          <lb ed="#L" n="24"/>contra. fuerunt aequales in meritis per casum et 
+          <lb ed="#L" n="25"/>non stetit per non baptieatum quod non fuit bapti- 
+          <lb ed="#L" n="26"/>tatus: ergo nullo modo debet sibi imputari: nec debet si 
+          <lb ed="#L" n="27"/>bi nocere. er
+        </p>
+        <p xml:id="rh-l4q1-d1e445">
+          <pc type="#pilcrow"/>Quinto ad prits. si sic: ergo baptismus  
+          <lb ed="#L" n="28"/>plus deberet valere adulto quam puulo rationa- 
+          <lb ed="#L" n="29"/>biliter loquendo. consequentia patet: quia adultus veit in  
+          <lb ed="#L" n="30"/>grstria et cum gratia et cum deuotione et cum meritis ad  
+          <lb ed="#L" n="31"/>baptismum. ergo maiorem gratiam potest causare in il 
+          <lb ed="#L" n="32"/>lo quam in pruulo: quia maiorem dispsitionem invenit:  
+          <lb ed="#L" n="33"/>sed consequens est falsum probo: quia multo minus prodest  
+          <lb ed="#L" n="34"/>adulto quam pruulo: quia tantum bonum est illud quod com 
+          <lb ed="#L" n="35"/>fertur pruulo per baptismum: quantum malum foret  
+          <lb ed="#L" n="36"/>illud quod heret pruulus si careret baptismo: sed  
+          <lb ed="#L" n="37"/>illud malum est peius quam malum quod accideret adui 
+          <lb ed="#L" n="38"/>to si non baptifaretur: sed vellet baptiari. pro 
+          <lb ed="#L" n="39"/>bo: quia illud foret carentia visionis divinae in etur  
+          <lb ed="#L" n="40"/>num pro peccato origiali: sed adultus volens bapti  
+          <lb ed="#L" n="41"/>Iari pro ipsa voluntate purgaretur ab originali 
+          <lb ed="#L" n="42"/>probo: quia si sine baptismo decederet: haberet vi 
+          <lb ed="#L" n="43"/>tam eturnam. ergo illud est sibi debitum ante baptismum:  
+          <lb ed="#L" n="44"/>igitur minus sibi confertur per baptismum quam puulo.  
+          <lb ed="#L" n="45"/>Uel si dicatur quod in adulto remittitur tantum peccatum  
+          <lb ed="#L" n="46"/>origiale: hoc non potest esse: quia ante fuit dignus vita 
+          <lb ed="#L" n="47"/>etfrna: sicut patuit de Cortr actur x. et libro iiii dis iiii 
+          <lb ed="#L" n="48"/>ci. l v ibi quod vero invisi.
+        </p>
+        <p xml:id="rh-l4q1-d1e495">
+          Sexto ad princi. tunc ba 
+          <lb ed="#L" n="49"/>ptismus ausferret cuspam et penam satisfactivam  
+          <lb ed="#L" n="50"/>pro peccatis praecedentibus: sicut conitur dicitur. consequens falsum quia  
+          <lb ed="#L" n="51"/>tunc remaneret aliquid impunitum: et per consequens ali- 
+          <lb ed="#L" n="52"/>quid deordiatum in regno dei. contra Anselmus. i. cur deus  
+          <lb ed="#L" n="53"/>homo c xv. consequentia patet. Sint duo peccatores quorum  
+          <!--201.xml-->
+          <cb ed="#L" n="b"/><!--101rb-->
+          <lb ed="#L" n="54"/>unus sit multo peior alio: veniant ad baptis  
+          <lb ed="#L" n="55"/>mum cum aequeli contritione. vterque rencipiet veniam  
+          <lb ed="#L" n="56"/>peccatorum: et qui ad culpam et quo ad penam totam sa 
+          <lb ed="#L" n="57"/>tisfactivam: ergo peccata istorum non aequaliter puniuntur
+        </p>
+        <p xml:id="rh-l4q1-d1e522">
+          <lb ed="#L" n="58"/><pc type="#pilcrow"/>Septimo sic. tunc baptismus contulisset gram  
+          <lb ed="#L" n="59"/>aime christi consequens falsum emt: quia tunc anima christi profe 
+          <lb ed="#L" n="60"/>cisset in gratia.
+        </p>
+        <p xml:id="rh-l4q1-d1e532">
+          <pc type="#pilcrow"/>Octavo sic. si intentio ministri 
+          <lb ed="#L" n="61"/>baptitantis requiratur ad baptismum: sicut communiter- 
+          <lb ed="#L" n="62"/>tenetur: sequuntur multa inconvenientia. Primo quia  
+          <lb ed="#L" n="63"/>non constaret homini an esset baptiratus an non: quia  
+          <lb ed="#L" n="64"/>nescit vtrum baptitans ipsum habuit intentionem- 
+          <lb ed="#L" n="65"/>baptinandi an non. et per consequens talis peccaret ex- 
+          <lb ed="#L" n="66"/>ponendo se ordibus. Item tunc sacerdos distra 
+          <lb ed="#L" n="67"/>ctus vel ebrius: et puer ludens cum aliis: et bapti- 
+          <lb ed="#L" n="68"/>ans eos ludendo: non haptiaret. consequens est falsum  
+          <lb ed="#L" n="69"/>r Nono sic. ponatur quod nullus sit credens in ec 
+          <lb ed="#L" n="70"/>clesia militante: et quod paganus accipiendo pruu 
+          <lb ed="#L" n="71"/>lum suum intendat facere sicut ecclia militans con- 
+          <lb ed="#L" n="72"/>sueuit: et dicat formam sacri cum intentione debita 
+          <lb ed="#L" n="73"/>quaeritur an sit baptinatus an non: et viter quod sic: quia pro 
+          <lb ed="#L" n="74"/>fert formam: et ae mafia debita: et malitia mini 
+          <lb ed="#L" n="75"/>stri non obstat. ergo etc. Sed quod non: onditur per Augustinum  
+          <lb ed="#L" n="76"/>et allegatur a mgro in hoc iiii distitione iii. inpsum. et in de- 
+          <lb ed="#L" n="77"/>cre i quia i detrahae. In duobus consistit sacrm  
+          <lb ed="#L" n="78"/>baptisciliet in verbo et elemento. Et parum ante. Unde 
+          <lb ed="#L" n="79"/>est haec tanta virtus aqum: ut corpus tangat et cor ab 
+          <lb ed="#L" n="80"/>luat: nisi faciente verbo: non quia diciur: sed quia creditur.  
+          <lb ed="#L" n="81"/>ergo si mister baptians dicat formam: et intendat  
+          <lb ed="#L" n="82"/>baptiare: et non credit: nec aliquis alius: nihil  
+          <lb ed="#L" n="83"/>fit.
+        </p>
+        <p xml:id="rh-l4q1-d1e587">
+          Confirmatur per ilunioi iiii sententiarum disi u peruulus  
+          <lb ed="#L" n="84"/>sine fide etc. Ite dicitur quod impossibile est fide vlum  
+          <lb ed="#L" n="85"/>deficere in ecclia militante. secundum illud Ioan. vl 
+          <lb ed="#L" n="86"/>Ecce ego vobiscum sum etc. Contra: possibile est  
+          <lb ed="#L" n="87"/>totam eccliam consistere in tribus personis: et ma 
+          <lb ed="#L" n="88"/>nifestum est quod ille tres apostatare a fide: similiter 
+          <lb ed="#L" n="89"/>possunt interfici. similiter congregatio Iudeorum fuit ali 
+          <lb ed="#L" n="90"/>quando ecclia: et iam est totaliter mutata: ergo casus ar 
+          <lb ed="#L" n="91"/>gumenti est possibilis.
+        </p>
+        <p xml:id="rh-l4q1-d1e607">
+          Decimo: tunc aliquis pos 
+          <lb ed="#L" n="92"/>set meritorie baptiare seipsum: quia sit i deuo  
+          <lb ed="#L" n="93"/>tione ad baptismum: et sit in periclo vt occidatur ab 
+          <lb ed="#L" n="94"/>hostibus: ur quod debet seipsum baptirare. consequens est fal 
+          <lb ed="#L" n="95"/>sum: quia non prtet hcuare formam.
+        </p>
+        <p xml:id="rh-l4q1-d1e619">
+          Ad oppositum quaestio- 
+          <lb ed="#L" n="96"/>est magister iiii sentiae di um capc. vlti. Et fides ecclie 
+          <lb ed="#L" n="97"/>vlis.
+        </p>
+      </div>
+      <div xml:id="rh-l4q1-Dd1e627">
+        <head xml:id="rh-l4q1-Hd1e629">Diviso textus</head>
+        <p xml:id="rh-l4q1-d1e632">
+          Ad quaestionem dicendum est quod sic. Ad maiore 
+          <lb ed="#L" n="98"/>istius sacri notitiam facienda sunt octo. primo vl 
+          <lb ed="#L" n="99"/>dendum est breviter quo sut de essentia sacri. secundo  
+          <lb ed="#L" n="100"/>quae sutet de eius forma tertio quasit debita mam. quar  
+          <lb ed="#L" n="101"/>to quid requiritur a parte recipientis. quinto quis sit conue 
+          <lb ed="#L" n="102"/>niens mister sacri. sexto quis sit effectus bapti 
+          <lb ed="#L" n="103"/>mi. septimo soluentur quadam dubia. octavo dicetur  
+          <lb ed="#L" n="104"/>ad rationes.
+        </p>
+      </div>
+      <div xml:id="rh-l4q1-Dd1e651">
+        <head xml:id="rh-l4q1-Hd1e653">Articulus 1</head>
+        <p xml:id="rh-l4q1-d1e656">
+          <pc type="#pilcrow"/>Circa primum nota quod de esentia cu 
+          <lb ed="#L" n="105"/>iuscumque sacri sut tria: materia forma et perso 
+          <lb ed="#L" n="106"/>na mistrans cum intentione: ita quod si aliquid istorum 
+          <!--202.xml-->
+          <pb ed="#L" n="101-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>defuerit: non est sacistrum. Forma consistit in ver 
+          <lb ed="#L" n="2"/>bis materia in rebus: secundum congruentiam diversorum 
+          <lb ed="#L" n="3"/>sacorum: sicut patebit infra. In hoc autem sacfo ba 
+          <lb ed="#L" n="4"/>ptismi sut de esse forma verborum praescripta. Egco  
+          <lb ed="#L" n="5"/>te haptivo in nomine paris et fi et spusscti etc.  
+          <lb ed="#L" n="6"/>Materia aquae nalis qui est esementum. sict dicetur  
+          <lb ed="#L" n="7"/>infra. Item minister intendens: fides propa vel aliae  
+          <lb ed="#L" n="8"/>na: immersio et prolatio ab uno. secundum secatum Thomas  
+          <lb ed="#L" n="9"/>et alios communiter.
+        </p>
+      </div>
+      <div xml:id="rh-l4q1-Dd1e693">
+        <head xml:id="rh-l4q1-Hd1e695">Articulus 2</head>
+        <p xml:id="rh-l4q1-d1e698">
+          Secundo specialiter notandum est de  
+          <lb ed="#L" n="10"/>f orma: quae est illa qua ponitur extra de bap. et eius effe 
+          <lb ed="#L" n="11"/>ctu. si quis. vbi Alexander papa di. si quis pueru  
+          <lb ed="#L" n="12"/>ter in aquam immerserit in nole pa. et ticun et licut tantum: et  
+          <lb ed="#L" n="13"/>uon dixerit: ego te baptio in non plato et lic et sed  
+          <lb ed="#L" n="14"/>non est puer baptieatus. Ego tamen et amen non sute  
+          <lb ed="#L" n="15"/>de sba seum eentia: sed de evidentia. quod manife 
+          <lb ed="#L" n="16"/>stum est de amen: quia nec in dicta forma Alexander  
+          <lb ed="#L" n="17"/>sec replicauit. nec in euamgelio ponitur mat vl 
+          <lb ed="#L" n="18"/>ubi dicitur. Euntes docete omnes gentes: haptihvan- 
+          <lb ed="#L" n="19"/>tes eos in non plaro et pic et si Et e nontandum quod insta 
+          <lb ed="#L" n="20"/>forma quatuor includuntu. scilicet iuocatio trinita- 
+          <lb ed="#L" n="21"/>tis sub hoc sensu. in non pto etc secundo expressio actus  
+          <lb ed="#L" n="22"/>exerciti baptieantis: dicendo baptio. tertio  
+          <lb ed="#L" n="23"/>specificatio personae baptiantis: ego: et illa est  
+          <lb ed="#L" n="24"/>ex instionne ecclie. et licet omittatur: sacrtum confertur 
+          <lb ed="#L" n="25"/>sed omittens ex industria gravitur peccat. quiato est  
+          <lb ed="#L" n="26"/>specificatio persone haptiate: cum dicitur te. hoc autem  
+          <lb ed="#L" n="27"/>forma debet proferri tota ab vno: et non vna me- 
+          <lb ed="#L" n="28"/>dietas ab vno: et alia ab alio. similiter qui profert ver 
+          <lb ed="#L" n="29"/>ba debet immergere: non quod vnus proferat verba: et  
+          <lb ed="#L" n="30"/>alius immergat: sicut faciunt quadam vetule: quia sacra 
+          <lb ed="#L" n="31"/>ecclesiastica sut vnitatis: et dividi non ount de  
+          <lb ed="#L" n="32"/>conse dis ii. quia passus. Requiritur etiam in ista for 
+          <lb ed="#L" n="33"/>ma significatio completa: ita quod si fiat muta  
+          <lb ed="#L" n="34"/>tio circa significationem vel modum significam  
+          <lb ed="#L" n="35"/>di: non est haptinatus. vnde si diceretur sic: ergo te ba 
+          <lb ed="#L" n="36"/>ptio in noine genitoris et geniti et flamins al- 
+          <lb ed="#L" n="37"/>ni secundum doctores non foret baptigatus: quia ista  
+          <lb ed="#L" n="38"/>nomina quamuis supponunt pro personis principaliter ian 
+          <lb ed="#L" n="39"/>significant notiones. nec debet vllo niodo bapti  
+          <lb ed="#L" n="40"/>gari in nomine trinitatis vel christi: licet aliquando lice 
+          <lb ed="#L" n="41"/>ret ad promulgationem fidei: vt nomen christi  
+          <lb ed="#L" n="42"/>amabile redderetur. et hac de causa olim in nomine 
+          <lb ed="#L" n="43"/>christi haptimabatur. unde de conse dist iiii a quaedam  
+          <lb ed="#L" n="44"/>habetur sic. hi profecto si in nomine scten trinitat  
+          <lb ed="#L" n="45"/>vel tamtum in nomine christi: sicut in actibus aplorum legius  
+          <lb ed="#L" n="46"/>baptirati sunt: rebaptiari non debent. licet nunc  
+          <lb ed="#L" n="47"/>non sic in nomine christi baptietur: nec etiam in non  
+          <lb ed="#L" n="48"/>mine trinitatis. Unde de verbo ad verbum debent  
+          <lb ed="#L" n="49"/>sacerdotes docere in suo vulgari formam ha 
+          <lb ed="#L" n="50"/>ptieandi praedictam. et licet contigat aliquando quod vetu 
+          <lb ed="#L" n="51"/>la dixerit totam formam in suo vulgari: et post 
+          <lb ed="#L" n="52"/>ea subiumgat in nomine patris et filii et spuessan 
+          <lb ed="#L" n="53"/>cti: nihil nocet. doceantur tamen omino quod tantum se 
+          <!--202.xml-->
+          <cb ed="#L" n="b"/><!--101vb-->
+          <lb ed="#L" n="54"/>mel proferant verba: et nullo modo pluries
+        </p>
+        <p xml:id="rh-l4q1-d1e804">
+          <lb ed="#L" n="55"/>Circa mutationem istius forme vocalis. Ego  
+          <lb ed="#L" n="56"/>te baptizo etc. est sciendum quod potest fieri muta- 
+          <lb ed="#L" n="57"/>tio tribus modis: quia vel circa subam oratio- 
+          <lb ed="#L" n="58"/>nis prolate: vel circa quantitatem: vel circa ordi 
+          <lb ed="#L" n="59"/>nem virborum.
+        </p>
+        <p xml:id="rh-l4q1-d1e817">
+          Si circa subiectam orationis prolate: hoc  
+          <lb ed="#L" n="60"/>contingit dupliter: vel quia tota substantia oronis  
+          <lb ed="#L" n="61"/>vocal mutatur: et tunc vel manet eadem signifi 
+          <lb ed="#L" n="62"/>catio vocum polatarum: et hoc non nocet: quia in  
+          <lb ed="#L" n="63"/>omni lingua potest baptizari. vel non manet: sed  
+          <lb ed="#L" n="64"/>mutat significatio: et talis obest sacro. vt si  
+          <lb ed="#L" n="65"/>dicatur in nomine genitoris vel trinitatis. Si autem  
+          <lb ed="#L" n="66"/>siat mutatio circa partem: puta circa unum vir- 
+          <lb ed="#L" n="67"/>bum vel duo : hoc potest esse dupliciter. vel quod non ma 
+          <lb ed="#L" n="68"/>net eadem significatio nequam secundum institutionem 
+          <lb ed="#L" n="69"/>primariam nequam secundum transsumptionem; neque per  
+          <lb ed="#L" n="70"/>accommodationem usus. et tunc nihil fit. vel fit  
+          <lb ed="#L" n="71"/>talis mutatio corrumpendo aliquod verbum: sic quod  
+          <lb ed="#L" n="72"/>recedit a significatione secundum primariam institutio  
+          <lb ed="#L" n="73"/>nem: non tamen secundum accommodationem vsus eorum- 
+          <lb ed="#L" n="74"/>dem vocabulorum maxime apud simplices: et  
+          <lb ed="#L" n="75"/>est haptismus. Unde Tacharias papa repu- 
+          <lb ed="#L" n="76"/>tauit baptigatum eum qui a quodam sacerdote  
+          <lb ed="#L" n="77"/>ignorante latine loqui haptiatus fuit sub  
+          <lb ed="#L" n="78"/>hac forma. In nomine patria et filia et spiritua 
+          <lb ed="#L" n="79"/>lancta. sicut habetur de consecra. dist. iiii. c. re- 
+          <lb ed="#L" n="80"/>tulerunt. Sic igitur primo modo contigit fieri  
+          <lb ed="#L" n="81"/>mutationem circa sbam forme vocalis.
+        </p>
+        <p xml:id="rh-l4q1-d1e867">
+          Se- 
+          <lb ed="#L" n="82"/>cundo modo fit mutatio circa quantitatem ver- 
+          <lb ed="#L" n="83"/>borum: et hoc dupliter. addendo vel diminuendo  
+          <lb ed="#L" n="84"/>Si addendo: vel fit cum intentione mutandi for 
+          <lb ed="#L" n="85"/>mam ecclie: et tunc nihil fit : vel introducendi 
+          <lb ed="#L" n="86"/>errorem: sicut fecit Arrius sic dicendo. In nomine 
+          <lb ed="#L" n="87"/>parseis maioris et filu minoris etc et sic etiam ni 
+          <lb ed="#L" n="88"/>hil fit. Si tamen addit aliquid ex simplicitate et  
+          <lb ed="#L" n="89"/>deuotione: non impedit: vt si dicatur. Ego te ba 
+          <lb ed="#L" n="90"/>ptivo in nomine paris etc et beate virginis ma 
+          <lb ed="#L" n="91"/>tris dei. melius tamen est ne introducatur no- 
+          <lb ed="#L" n="92"/>va forma: a tali deuotione abstivere pro tunc  
+          <lb ed="#L" n="93"/>sed si ex simplicitate fiat: non impedit. Si autem  
+          <lb ed="#L" n="94"/>diminuendo fiat mutatio: dicendum est quod aut  
+          <lb ed="#L" n="95"/>voluntarie aut involuntarie. si voluntarie: impe 
+          <lb ed="#L" n="96"/>dit vt dictum est. si invite: quia baptisans moritur  
+          <lb ed="#L" n="97"/>vel impeditur ante prolationem completam: et tunc pie 
+          <lb ed="#L" n="98"/>creditur quod summus sacerdos supplet: et est ba 
+          <lb ed="#L" n="99"/>ptieatus. et si statim moriat: salvatur: et gau  
+          <lb ed="#L" n="100"/>debit eccliastica sepultura. sinautem viuat: debet  
+          <lb ed="#L" n="101"/>sub conditione rebaptivari.
+        </p>
+        <p xml:id="rh-l4q1-d1e914">
+          Tertio principa 
+          <lb ed="#L" n="102"/>liter mutatur forma secundum ordinem verborum: et hoc  
+          <lb ed="#L" n="103"/>dupliter. quia vel transponendo vel interponendo  
+          <lb ed="#L" n="104"/>Si fiat transpositio: vel fit ex simplicitate: et  
+          <lb ed="#L" n="105"/>tunc non nocet: vel ex malitia: quia non intendit  
+          <lb ed="#L" n="106"/>servare formam ecclie: tunc impedit. Si fiat in- 
+          <!--203.xml-->
+          <pb ed="#L" n="102-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>terponendo quadam alia: dicendum est quam vel fit  
+          <lb ed="#L" n="2"/>magna interpositio vel modica. Si modica 
+          <lb ed="#L" n="3"/>sicut sternutatio vel tussis: et tunc non nocet sic  
+          <lb ed="#L" n="4"/>ut interpositio proprii nominis quod tunc imponitur  
+          <lb ed="#L" n="5"/>paruulo: nec obest nec prodest sacro. Si est  
+          <lb ed="#L" n="6"/>magna: ita quod si vsus loquindi intentio: et actio 
+          <lb ed="#L" n="7"/>plationis non deberet iudicari unum: tunc non est 
+          <lb ed="#L" n="8"/>baptismus. Sic igitur in forma fit mutatio tri 
+          <lb ed="#L" n="9"/>bus modis generaliter: et sex modis spaliter: scilicet  
+          <lb ed="#L" n="10"/>subtrahendo: addendo: interponendo: tran- 
+          <lb ed="#L" n="11"/>ponendo: commutando: corrumpendo.
+        </p>
+      </div>
+      <div xml:id="rh-l4q1-Dd1e959">
+        <head xml:id="rh-l4q1-Hd1e961">Articulus 3</head>
+        <p xml:id="rh-l4q1-d1e964">
+          Tertio  
+          <lb ed="#L" n="12"/>circa materiam istius sacri est sciendum quod ipsa 
+          <lb ed="#L" n="13"/>aqua namlis est materia. sicut patet Ioan. iii. Ni 
+          <lb ed="#L" n="14"/>si quis renatus fuerit ex aqua et spusancto: no  
+          <lb ed="#L" n="15"/>potest etc.
+        </p>
+        <p xml:id="rh-l4q1-d1e975">
+          Contra: aqua semper mixta est partibes  
+          <lb ed="#L" n="16"/>erreis. vnde Aristoteles ii meteororum. Omins va 
+          <lb ed="#L" n="17"/>por est duo vapores: ergo nunquam fit baptis  
+          <lb ed="#L" n="18"/>mus nisi in aqua mixta. igitur non in aqua ele 
+          <lb ed="#L" n="19"/>mentari.
+        </p>
+        <p xml:id="rh-l4q1-d1e986">
+          Item aqua rosacea est eiusdem speciei 
+          <lb ed="#L" n="20"/>cum elemetari: igit etc. Antecedens patet: quia vtriusque  
+          <lb ed="#L" n="21"/>sunt eadem accidentia sicut frigiditas: hum-  
+          <lb ed="#L" n="22"/>ditas et perspicuitas.
+        </p>
+        <p xml:id="rh-l4q1-d1e995">
+          Item quod aqua simpliciter non  
+          <lb ed="#L" n="23"/>sit materia huius sacri ur: quiaqua quae siuxit de  
+          <lb ed="#L" n="24"/>latere christi qua significabat materiam hui 
+          <lb ed="#L" n="25"/>sacramenti: non fuitipurum elementum: quia tale non  
+          <lb ed="#L" n="26"/>invenitur faciliter in corporihus mixtis: quia ele 
+          <lb ed="#L" n="27"/>menta non sunt in mixtis.
+        </p>
+        <p xml:id="rh-l4q1-d1e1009">
+          Item aer fuisset ma 
+          <lb ed="#L" n="28"/>teria convenientior: quia communior ut videtur. Di 
+          <lb ed="#L" n="29"/>ci potest quod baptisimus est ablutio corporalis ho 
+          <lb ed="#L" n="30"/>minis non renati nec renitentis: facta in aquam  
+          <lb ed="#L" n="31"/>ab aliquo simul proferenre verba debita: et debi 
+          <lb ed="#L" n="32"/>tam intentionem habente. Ex qua diffinitione  
+          <lb ed="#L" n="33"/>patet quod aqua per multas convenientias ad sacra 
+          <lb ed="#L" n="34"/>mentum et eius effectum est materia conveniens  
+          <lb ed="#L" n="35"/>sacramenti. Primo ratione diaphaneitatis  
+          <lb ed="#L" n="36"/>habet aliquid de lumine. Secundo ratione humi- 
+          <lb ed="#L" n="37"/>ditatis habet vim ablutivam. Teitio ratione frig 
+          <lb ed="#L" n="38"/>ditatis habet vim infrigiditativam. Quarto secundum  
+          <lb ed="#L" n="39"/>Aristoteles vii de animalibus. aqua maxime conve 
+          <lb ed="#L" n="40"/>nit generationi et augmentationi animalium et  
+          <lb ed="#L" n="41"/>plantarum. Quinto est conior et conuenientio:  
+          <lb ed="#L" n="42"/>omnibus: et de facili potest haberi. Significat quam  
+          <lb ed="#L" n="43"/>illuminationem per fidem ex primo: mundatio  
+          <lb ed="#L" n="44"/>nem a peccato ex secundo: extinctionem fomitis  
+          <lb ed="#L" n="45"/>ex tertio: regnationem speriueralem et grare colla- 
+          <lb ed="#L" n="46"/>tionem ex quarto: et concernit necessitate baptis:  
+          <lb ed="#L" n="47"/>mi ex quanto.
+        </p>
+        <p xml:id="rh-l4q1-d1e1055">
+          Ad primum dicendum quod mixtio ac 
+          <lb ed="#L" n="48"/>cipitur dupliciter. vno modo propriae: et illa tollit specites  
+          <lb ed="#L" n="49"/>miscibilis: sicut est in vira mixtione. Alio modo 
+          <lb ed="#L" n="50"/>dicitur mixtio large quaedam confusio vel iuxtapo- 
+          <lb ed="#L" n="51"/>sitio partium aliquarum: quand cilicet partes diuerse 
+          <lb ed="#L" n="52"/>diversarum rerum manentium in suis spebus iu 
+          <lb ed="#L" n="53"/>xta ponutur. Ubi aqua miscetur primo modo:  
+          <!--203.xml-->
+          <cb ed="#L" n="b"/><!--102rb-->
+          <lb ed="#L" n="54"/>non potest fieri baptismus: quia non est aqua pu 
+          <lb ed="#L" n="55"/>ra. secundo modo potest: et ideo licet aqua commenis sit mi- 
+          <lb ed="#L" n="56"/>xta partibus terre vel aeris: nihilominus  
+          <lb ed="#L" n="57"/>manet vna spens aque. Unde in aqua ma- 
+          <lb ed="#L" n="58"/>ris potest fieri baptismus: licet eius salsedo de 
+          <lb ed="#L" n="59"/>clarat eam mixtam cum partibus terrestribus secundum  
+          <lb ed="#L" n="60"/>Aristoteles ii. Maeteororum. Similiter in litivio quod fit  
+          <lb ed="#L" n="61"/>per transitum aque per cineres. Similiter in thermis  
+          <lb ed="#L" n="62"/>balneis et aquis sulphureis: sed non in vrina:  
+          <lb ed="#L" n="63"/>quae est colamentum sanguinis: nec in cerui- 
+          <lb ed="#L" n="64"/>sia bona principue quae bene nutrit. nam in istis  
+          <lb ed="#L" n="65"/>non manet aqua in specie sua.
+        </p>
+        <p xml:id="rh-l4q1-d1e1102">
+          Ad secundum di 
+          <lb ed="#L" n="66"/>cendum quod aqua rosacea non est eiusdem specieio  
+          <lb ed="#L" n="67"/>cum aqua elementari: sicut per actionem distin- 
+          <lb ed="#L" n="68"/>ctam secundum speem patet: quia dato quod ille qualita:  
+          <lb ed="#L" n="69"/>tes sint in vtraque eiusdem speciei: non tamen omnes  
+          <lb ed="#L" n="70"/>aliae. sicut operationes distinctae secundum speciet  
+          <lb ed="#L" n="71"/>manifestant.
+        </p>
+        <p xml:id="rh-l4q1-d1e1118">
+          Ad tertium dicant quidam quod ad  
+          <lb ed="#L" n="72"/>quae siuxit etc. fuit elementum: et miraculose re 
+          <lb ed="#L" n="73"/>soluta in ita brevi tempore: quia vulnerati non solent  
+          <lb ed="#L" n="74"/>emittere aquam de vulneribus nisi post lon 
+          <lb ed="#L" n="75"/>gam resolutionem et alterationem eorum.
+        </p>
+        <p xml:id="rh-l4q1-d1e1129">
+          Ad  
+          <lb ed="#L" n="76"/>quartum dicitur quod bene potuisset sive posset sic fi 
+          <lb ed="#L" n="77"/>isse institutus haptismus si christo placuisset:  
+          <lb ed="#L" n="78"/>sed non est elementum sic resistens tactui nec ita 
+          <lb ed="#L" n="79"/>ensibile sicut aqui. vt dicit Alber.
+        </p>
+      </div>
+      <div xml:id="rh-l4q1-Dd1e1141">
+        <head xml:id="rh-l4q1-Hd1e1143">Articulus 4</head>
+        <p xml:id="rh-l4q1-d1e1146">
+          <pc type="#pilcrow"/>Quarto  
+          <lb ed="#L" n="80"/>videndum est quid requiritur a parte recipientis sa 
+          <lb ed="#L" n="81"/>cistrum baptismi. vnde dicendum est vel haptiand- 
+          <lb ed="#L" n="82"/>est paruulus vel adultus. Si peruulus: nihil  
+          <lb ed="#L" n="83"/>requiritur nisi quod sit natus et divisus a osre to- 
+          <lb ed="#L" n="84"/>taliter vel in parte. Quod ideo dico: quod libcet regu 
+          <lb ed="#L" n="85"/>lariter expectari debeat totalis egressio de 
+          <lb ed="#L" n="86"/>vtero: in articulo tamen necessitatis ubi times 
+          <lb ed="#L" n="87"/>mors parueri: si caput appeat: aspgendum est  
+          <lb ed="#L" n="88"/>aqui: quia caput est principalis pars hominis in qua sut  
+          <lb ed="#L" n="89"/>omnes sensus. si vero manus vel prs pus exeat  
+          <lb ed="#L" n="90"/>secundum quosdam non debet baptiari: nihil tamen nocet  
+          <lb ed="#L" n="91"/>si aspgatur cum debita forma verborum. quia mise  
+          <lb ed="#L" n="92"/>ricordia dei non est in necessitatearet anda. si 
+          <lb ed="#L" n="93"/>vero postea plenarie nascatur: potest haptinari 
+          <lb ed="#L" n="94"/>sub conditione sic. Si non es haptibatus: ego te 
+          <lb ed="#L" n="95"/>haptio etc. Sctificati vero in vtero haptia.  
+          <lb ed="#L" n="96"/>ri debent quando sunt nati propter characterem et  
+          <lb ed="#L" n="97"/>praeceptum eccliae. Item puer non debet intus hoc est in.  
+          <lb ed="#L" n="98"/>vtero totus existens haptiari: nec mter debet bapti 
+          <lb ed="#L" n="99"/>cari proptur puerum: quod si fiat: non tmu est baptira  
+          <lb ed="#L" n="100"/>tus. de conse dit iiii. Qui in mrnis. et c. si ad  
+          <lb ed="#L" n="101"/>mris corpus. Unde si mlier gravida conuertere  
+          <lb ed="#L" n="102"/>tur ad fidem et baptaret: nihilominus puer  
+          <lb ed="#L" n="103"/>postea natus debet bapt:ari. Si vero haptiand- 
+          <lb ed="#L" n="104"/>sit aduitus: vel est furiosus stultus: vel sa- 
+          <lb ed="#L" n="105"/>ne mestis. Si stultus vel perpetuae fu- 
+          <lb ed="#L" n="106"/>riosus: idem iadicium est de tali et de parm  
+          <!--204.xml-->
+          <pb ed="#L" n="102-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>nulo. Unde in eis nec requiritur intentio nec  
+          <lb ed="#L" n="2"/>fides propria si vero habeat lucida interualla:  
+          <lb ed="#L" n="3"/>tunc requiritur quod aliquando intenderit baptivar 
+          <lb ed="#L" n="4"/>Et ideo amentes et dormientes si ante amentiam  
+          <lb ed="#L" n="5"/>vel somnum contrarium voluntatem huerint: non reci 
+          <lb ed="#L" n="6"/>piunt sactum: si in somno vel furia baptietur.  
+          <lb ed="#L" n="7"/>Si vero ante innotuerit eorum voluntas: possunt in  
+          <lb ed="#L" n="8"/>articulo necessitatis baptitari: etiam si furi 
+          <lb ed="#L" n="9"/>bundus tunc contradicat. si autem non sit articulus ne- 
+          <lb ed="#L" n="10"/>cessitatis: debet in furiosis expectari lucidum in- 
+          <lb ed="#L" n="11"/>tervallum. Si vero adultus haptiandus sit sane 
+          <lb ed="#L" n="12"/>mentis: requiritur in eo intentio et fides et volun 
+          <lb ed="#L" n="13"/>tas suscipiendi sacstrm absoluta vel conditiona 
+          <lb ed="#L" n="14"/>ta. vnde si quis omnino cogeretur ita quod simplciter esset  
+          <lb ed="#L" n="15"/>coactio: nihil fieret. Si tamen voluntarium est mi- 
+          <lb ed="#L" n="16"/>xtum: vel si voluntatem henat mixtam: sicut si per me 
+          <lb ed="#L" n="17"/>tropolitanum induceretur: tunc recipit sacrtm:  
+          <lb ed="#L" n="18"/>sed non rem sacti. eruo
+        </p>
+      </div>
+      <div xml:id="rh-l4q1-Dd1e1256">
+        <head xml:id="rh-l4q1-Hd1e1258">Articulus 5</head>
+        <p xml:id="rh-l4q1-d1e1261">
+          Quinto videndum est quis sit mi- 
+          <lb ed="#L" n="19"/>nister conveniens huius sacri. Dicendum est quod re- 
+          <lb ed="#L" n="20"/>guliter et ex casum necessitatis solus sacerdos  
+          <lb ed="#L" n="21"/>debet baptiare: et licet praesente aepo potest sacerdos  
+          <lb ed="#L" n="22"/>baptivare: quia est de officio suo: tamen praesente praesbyu 
+          <lb ed="#L" n="23"/>tero clericus haptivare non debet: nec laicus praesente  
+          <lb ed="#L" n="24"/>clerico: nec multer praesente viro. tamen in articulo  
+          <lb ed="#L" n="25"/>vecessitatis potest baptiare omnis homo: bonus vel 
+          <lb ed="#L" n="26"/>malus: fidelis vel infidelis: dummodo habeat in 
+          <lb ed="#L" n="27"/>tentionem faciendi sict ecclesia consueuit facere:  
+          <lb ed="#L" n="28"/>si etiam nihil credat. de virtute sacri potest in ar 
+          <lb ed="#L" n="29"/>ticulo necessitatis baptivare tam mlierquam vit 
+          <lb ed="#L" n="30"/>indifferenter. sicut patet de conse distintione iiii. mulier.
+        </p>
+        <p xml:id="rh-l4q1-d1e1290">
+          <lb ed="#L" n="31"/>Sciendum est tamen quod a malo ministro hoc  
+          <lb ed="#L" n="32"/>ab heretico: exconicato vel suspenso: simonia  
+          <lb ed="#L" n="33"/>co: fornicatore notorio: non debent recipi sa- 
+          <lb ed="#L" n="34"/>cra: nisi morte interveniente baptismus et  
+          <lb ed="#L" n="35"/>conio distintione xxxii. nullus. et c. sequi. und angelus ma 
+          <lb ed="#L" n="36"/>lus baptirare non potest. si bonus faceret: et eco  
+          <lb ed="#L" n="37"/>clesie constaret: non foret rebaptieandum. quia ille  
+          <lb ed="#L" n="38"/>nullum officium sibi vsurparet sine diuina ap pro 
+          <lb ed="#L" n="39"/>batione. erg
+        </p>
+      </div>
+      <div xml:id="rh-l4q1-Dd1e1313">
+        <head xml:id="rh-l4q1-Hd1e1315">Articulus 6</head>
+        <p xml:id="rh-l4q1-d1e1318">
+          Sexto dicendum breviter de effectu  
+          <lb ed="#L" n="40"/>baptismi qui est multiplex. deletio peccati origi 
+          <lb ed="#L" n="41"/>nalis: et actualis insimul absolutio si insit- 
+          <lb ed="#L" n="42"/>infusio grte de nouo vel augmentum praecedentis:  
+          <lb ed="#L" n="43"/>remissio pene satisfactorie: ipssio characte  
+          <lb ed="#L" n="44"/>ris de remissione exterioris satisfactorie pe 
+          <lb ed="#L" n="45"/>ne habetur de conse distitione iiii capitulo iiii quod vero omnis exte  
+          <lb ed="#L" n="46"/>rior satisfactio. et allegat magister li iiii dit u.  
+        </p>
+      </div>
+      <div xml:id="rh-l4q1-Dd1e1337">
+        <head xml:id="rh-l4q1-Hd1e1339">Articulus 7</head>
+        <p xml:id="rh-l4q1-d1e1342">
+          <lb ed="#L" n="47"/><pc type="#pilcrow"/>Septimus arti. quaestionis est soluere quedam  
+          <lb ed="#L" n="48"/>dubia circa baptismum secundum qua sdam casus possi 
+          <lb ed="#L" n="49"/>biles.
+        </p>
+        <p xml:id="rh-l4q1-d1e1352">
+          Primo pono quod inveniatur pruulus expo 
+          <lb ed="#L" n="50"/>situs in publico: nescitur a quo vel a quibus  
+          <lb ed="#L" n="51"/>nec invenitur signum vel testimonium aliquod de 
+          <lb ed="#L" n="52"/>baptismo: utrum sit baptieandus an non: Dico 
+          <lb ed="#L" n="53"/>quod iste casus ponitur de conse distitioneiiii puulos.  
+          <!--204.xml-->
+          <cb ed="#L" n="b"/><!--102vb-->
+          <lb ed="#L" n="54"/>et c. seui. quia non est certum non esse baptieatum. ideo  
+          <lb ed="#L" n="55"/>propter reverentiam sacri: et ad priudicium irre- 
+          <lb ed="#L" n="56"/>gularitatis quod incurrit pruulus si bis bapti  
+          <lb ed="#L" n="57"/>garetur: haptiandus est sub conditione. ex de  
+          <lb ed="#L" n="58"/>baptismo et eius effectu. de quibus. ubi dicitur sic. de  
+          <lb ed="#L" n="59"/>quibus dubium est an baptiati fuerint: ha 
+          <lb ed="#L" n="60"/>ptientur his verbis praemissis. Si baptieatus es 
+          <lb ed="#L" n="61"/>non te rebaptio. si vero baptitatus non es: ego  
+          <lb ed="#L" n="62"/>te baptio in nomine pa. et fi et iliceu amen.
+        </p>
+        <p xml:id="rh-l4q1-d1e1388">
+          Secundo  
+          <lb ed="#L" n="63"/>sic pono quod aliquis deferat puerum versus ec  
+          <lb ed="#L" n="64"/>clesiam ad haptiandum: et transiens pontem vi- 
+          <lb ed="#L" n="65"/>deat evidenter quod puer morietur antequam perue 
+          <lb ed="#L" n="66"/>nerit ad finem pontis: et pons est altus: quo 
+          <lb ed="#L" n="67"/>posito ille proicit pruerum in aquam cum intetio 
+          <lb ed="#L" n="68"/>ne baptivandi: proferens verba quae sunt de for- 
+          <lb ed="#L" n="69"/>mam: casu contingente praeuer euadat. quaeritur an  
+          <lb ed="#L" n="70"/>debeat reputari baptinatus: videt quod sic: quia  
+          <lb ed="#L" n="71"/>ibi fuit forma debita et intentio cum materia:  
+          <lb ed="#L" n="72"/>et omnia requisita in articlo necessitatis. Paiter quod  
+          <lb ed="#L" n="73"/>non est baptieatus: quia baptismus est ablutio:  
+          <lb ed="#L" n="74"/>ubi primo cooperitur totum vel pars: et postea disco  
+          <lb ed="#L" n="75"/>operit. proptur primum repsuntat christi sepulturam.  
+          <lb ed="#L" n="76"/>propaitur secundum eius resurrectionem. actus autem prouicien 
+          <lb ed="#L" n="77"/>tis in casu isto non fuit ordinatus ex sui natu 
+          <lb ed="#L" n="78"/>ra vt pauer ablueretur hoc est mergeretur: sed re- 
+          <lb ed="#L" n="79"/>levaretur. et ideo si a casu contingat quod per proicientem  
+          <lb ed="#L" n="80"/>vel per alium liberetur: non est baptiatus. saltem pro 
+          <lb ed="#L" n="81"/>pter dubium potest baptiari sub conditione. et si  
+          <lb ed="#L" n="82"/>morietur: credo quod salvaretur: approbante deo 
+          <lb ed="#L" n="83"/>quod factum est ab homine quantumcumque imperfecte.
+        </p>
+        <p xml:id="rh-l4q1-d1e1436">
+          <lb ed="#L" n="84"/>Tertio pono quod aliquis haibens puerum stet sup 
+          <lb ed="#L" n="85"/>puteum profundum: et paeuer est in periculo mortis:  
+          <lb ed="#L" n="86"/>et ipe non habeat vas aptum nisi factum de vir  
+          <lb ed="#L" n="87"/>gits sive calathum vel cribrum et chordam aptam.  
+          <lb ed="#L" n="88"/>pono quod ponat puerum in cribro vel calatho 
+          <lb ed="#L" n="89"/>et icum chorda dimittat eum in aquam: et extra- 
+          <lb ed="#L" n="90"/>hat: proferens verba cum intentione haprihandi.  
+          <lb ed="#L" n="91"/>quo posito quaeritur an praver sit haptiatus an 
+          <lb ed="#L" n="92"/>non: vr quod non: quia nullus eum immersit: nec immedi 
+          <lb ed="#L" n="93"/>ate tangit intingendo. Dicendum est quod sic:ua 
+          <lb ed="#L" n="94"/>mnia fiunt quae de necessitate sut saluti. nec opet 
+          <lb ed="#L" n="95"/>quod in tali casu tangatur immediate ab aliquo si tamen  
+          <lb ed="#L" n="96"/>casus esset positus quod haberet panum aliquem: et  
+          <lb ed="#L" n="97"/>tunc aqua posset expremi pamno super puerum cum for 
+          <lb ed="#L" n="98"/>ma verborum: quia immersio non est de necessita- 
+          <lb ed="#L" n="99"/>te sacri: sed sufficit in casu quod aspergatur: nec  
+          <lb ed="#L" n="100"/>refert vtrum multum an parum infundatur de aqua  
+          <lb ed="#L" n="101"/>de conse di iiii. nec quemquam. Unde deponen 
+          <lb ed="#L" n="102"/>do ipsum vas potest extrahi tanta aqua quae 
+          <lb ed="#L" n="103"/>sufficeret ad aspergendum.
+        </p>
+        <p xml:id="rh-l4q1-d1e1483">
+          Quarto pono ca 
+          <lb ed="#L" n="104"/>sum istum. henat aliquis pagani paruulum vel 
+          <lb ed="#L" n="105"/>Iudei vel alterius infidelis in custodia: sit  
+          <lb ed="#L" n="106"/>puer in periculo mortis et intuitu salutis anime 
+          <!--205.xml-->
+          <pb ed="#L" n="103-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>morituri baptizetur sub tali forma conditio- 
+          <lb ed="#L" n="2"/>nali. Ego te baptio si pate tuus consenserit. in 
+          <lb ed="#L" n="3"/>nomine parris etc quo facto puer moritur. isto ca 
+          <lb ed="#L" n="4"/>su posito quaero an fuit haptiatus an non. Si  
+          <lb ed="#L" n="5"/>non: contra licet addere ad formam verborum sicut di- 
+          <lb ed="#L" n="6"/>ctum fuit in secundo articulo quaestionis illud quod non  
+          <lb ed="#L" n="7"/>corrumpit formam dummodo non fiat causa introdu- 
+          <lb ed="#L" n="8"/>cendi nouum ritum: sed illa conditio interposita 
+          <lb ed="#L" n="9"/>non corrumpit formam manifestum est. Similiter for 
+          <lb ed="#L" n="10"/>ma sacramenti admittit conditionem: sicut patr 
+          <lb ed="#L" n="11"/>in dubiis an sint haptiati secundum eundem casum  
+          <lb ed="#L" n="12"/>supius allegatum. ex de baptismo et eius effe 
+          <lb ed="#L" n="13"/>ctu. de quibus dubium est.
+        </p>
+        <p xml:id="rh-l4q1-d1e1527">
+          Similiter conditio est ho- 
+          <lb ed="#L" n="14"/>nestam et non impossibilis: quia stant simul quod istae sit  
+          <lb ed="#L" n="15"/>baptiatus et pri hoc placeat. Similiter confirma 
+          <lb ed="#L" n="16"/>tur: quia baptismus est magis necessarium sactrm  
+          <lb ed="#L" n="17"/>et nobilius quam mrimoni: sed si contractus mri- 
+          <lb ed="#L" n="18"/>monialis fiat sub conditione turpi vel impos- 
+          <lb ed="#L" n="19"/>sibili: conditio debet reisci et pro mrimonio iudi- 
+          <lb ed="#L" n="20"/>cari. sicut patet ex de conditioibus appositis in  
+          <lb ed="#L" n="21"/>deiponsationibus vel aliis contractibus. si condi- 
+          <lb ed="#L" n="22"/>tiones in fine illius capli: vbi dicitur sic. Conditio 
+          <lb ed="#L" n="23"/>nes in fine appositae mrimonio si turpes aut  
+          <lb ed="#L" n="24"/>impossibiles fuerint: propter eius favorem debent  
+          <lb ed="#L" n="25"/>pro non adiectis haberi. igitur a multo fortio- 
+          <lb ed="#L" n="26"/>ri conditio apposita in proposito non impediet ba 
+          <lb ed="#L" n="27"/>ptismum. Si concedatur quod puer est haptiatus.  
+          <lb ed="#L" n="28"/>Contra. ergo anima pueri est in celo. sed non fuit ba 
+          <lb ed="#L" n="29"/>ptievatus nisi sub conditione quod parri placeret: et  
+          <lb ed="#L" n="30"/>puero mortuo pater potest libere consentire et  
+          <lb ed="#L" n="31"/>dissentire. igitur in potestate paris est facere quod pu 
+          <lb ed="#L" n="32"/>er numquam fuit haptiatus. et per consequens quod numquam ha 
+          <lb ed="#L" n="33"/>buit gratiam: nec anima eius videret deum. consequens est  
+          <lb ed="#L" n="34"/>impossibile. Nam hoc est necessaria anima eius frue- 
+          <lb ed="#L" n="35"/>batur deo.
+        </p>
+        <p xml:id="rh-l4q1-d1e1577">
+          Ad hoc dicendum est quod quocumque  
+          <lb ed="#L" n="36"/>pater se habeat postea puer non est baptieatus  
+          <lb ed="#L" n="37"/>quia conditione conpleta praever transit de foro eccle 
+          <lb ed="#L" n="38"/>siae militantis. vnde licet postmodum patr consense- 
+          <lb ed="#L" n="39"/>rit: non est tamen tunc temporis capax sacri. et ideo si aliquam  
+          <lb ed="#L" n="40"/>conditio debet apponi in haptismo opet: quod sit con- 
+          <lb ed="#L" n="41"/>ditio talis qui stet cum esse pueri de foro eccle 
+          <lb ed="#L" n="42"/>sie militantis.
+        </p>
+        <p xml:id="rh-l4q1-d1e1595">
+          Sed contra hanc responsionem arguitur sic  
+          <lb ed="#L" n="43"/>ex de sentem. excom a nobn ii quod mortui in sententia  
+          <lb ed="#L" n="44"/>excom. ligantur post morte: et a sententia quam incur 
+          <lb ed="#L" n="45"/>rerunt viventes absoluuntur post mortem.
+        </p>
+        <p xml:id="rh-l4q1-d1e1604">
+          Di- 
+          <lb ed="#L" n="46"/>cendum est quod aliud est iniurisdictionibus et scris  
+          <lb ed="#L" n="47"/>quia nemo ordinatur vel baptinatur vel confirma 
+          <lb ed="#L" n="48"/>tur post mortem: sed propter facta praecedentia  
+          <lb ed="#L" n="49"/>quibus homines meruerunt in vita potest hoc eis  
+          <lb ed="#L" n="50"/>fieri post mortem.
+        </p>
+        <p xml:id="rh-l4q1-d1e1617">
+          Aliter potest dici ad casum 
+          <lb ed="#L" n="51"/>quod nullum sacum recipit conditionem nisi de prae 
+          <lb ed="#L" n="52"/>senti propter certitudinem quam saciurm requirit  
+          <lb ed="#L" n="53"/>et ideo puer in casu nto non foret haptixatus  
+          <!--205.xml-->
+          <cb ed="#L" n="b"/><!--103rb-->
+          <lb ed="#L" n="54"/>mihi autem absolute videtur dicendum quod puet 
+          <lb ed="#L" n="55"/>non est baptinatus: quia conditio adiecta repu- 
+          <lb ed="#L" n="56"/>gnat significationi forme sacramentalis.  
+          <lb ed="#L" n="57"/>Nam cum dicitur ego te baptio etc. denotatur quod ita  
+          <lb ed="#L" n="58"/>sit quod in hoc tempore praesenti baptizat eum et confe 
+          <lb ed="#L" n="59"/>rat ei sacrum. cum autem adiungitur illa conditio. si  
+          <lb ed="#L" n="60"/>pti tuo cras placuerit: illa conditio interi- 
+          <lb ed="#L" n="61"/>mit significationem actus exerciti significa 
+          <lb ed="#L" n="62"/>ti prius: quia ideo est mutatio forme quantum  
+          <lb ed="#L" n="63"/>ad significationem quae semper impedit sacitm. sic- 
+          <lb ed="#L" n="64"/>ut articulo secundo dictum fuit.
+        </p>
+        <p xml:id="rh-l4q1-d1e1656">
+          Quinto pono  
+          <lb ed="#L" n="65"/>quod sint duo ceci sacerdotes Ioannes et Pe 
+          <lb ed="#L" n="66"/>trus et baptient unum simul et semel cum for 
+          <lb ed="#L" n="67"/>ma et intentione debita: sic dicendo. ego ie ba 
+          <lb ed="#L" n="68"/>ptito: si nullus alius modo te baptirat. quo posi 
+          <lb ed="#L" n="69"/>to quaeritur utrum iste pauer est baptiatus an non:  
+          <lb ed="#L" n="70"/>si sic: vel a Ioanne vel a Petro vel ab vtroque  
+          <lb ed="#L" n="71"/>Si ab vtroque. sequuntur multa inconvenien- 
+          <lb ed="#L" n="72"/>tia primo quod baptixatus est irregularis nec 
+          <lb ed="#L" n="73"/>potest ad ordines promoueri. sicut patet de consec.  
+          <lb ed="#L" n="74"/>ititione iiii. qui bis. et tunc haberet duos characteres  
+          <lb ed="#L" n="75"/>quia per factum unius reciperet unum characterem. et  
+          <lb ed="#L" n="76"/>pari ratione per factum alterius reciperet alium. Ter 
+          <lb ed="#L" n="77"/>tio quia talis reciperet graram duplam: et si a tri- 
+          <lb ed="#L" n="78"/>bus triplam: et si a centu centuplam. Si dicatur quod  
+          <lb ed="#L" n="79"/>causatur in eo tantum unus character a duobus.  
+          <lb ed="#L" n="80"/>Contra. tantum causat iste quantum ille similiter tunc  
+          <lb ed="#L" n="81"/>idem indivisibile est totaliter a duobus: sic  
+          <lb ed="#L" n="82"/>quod vtrumque est illius causa totalis. similiter neu- 
+          <lb ed="#L" n="83"/>ter scit de alio per casum. igitur non intendit  
+          <lb ed="#L" n="84"/>causare idem. Similiter verba qui dicuntur ab vno  
+          <lb ed="#L" n="85"/>non sunt minoris efficacie quam verba alterius:  
+          <lb ed="#L" n="86"/>quae si dicantur a Ioanne. pari ratione a Pe 
+          <lb ed="#L" n="87"/>tro manifestum est ex casu. Si dicatur quod hapti 
+          <lb ed="#L" n="88"/>Iatus non est. Contra: conditio est licita:  
+          <lb ed="#L" n="89"/>nec corrumpit formam et vterque profert formam  
+          <lb ed="#L" n="90"/>debitam ergo. Quod conditio illa sit licita patet ex de  
+          <lb ed="#L" n="91"/>baptis. capitulo de quibus. vel deponatur conditio: et pro 
+          <lb ed="#L" n="92"/>fert vterque absolute formam dicendo. Ego  
+          <lb ed="#L" n="93"/>baptio te.
+        </p>
+        <p xml:id="rh-l4q1-d1e1721">
+          Ad istud dicendum est et primo  
+          <lb ed="#L" n="94"/>ad primum casum quod talis conditio est corrum 
+          <lb ed="#L" n="95"/>ptiva significationis forme in tali casu et vi 
+          <lb ed="#L" n="96"/>nunc. et ideo est contrarii effectui haptismi: et non  
+          <lb ed="#L" n="97"/>tenet saciuem quamuis conditio sit impleta sicut est  
+          <lb ed="#L" n="98"/>de matrimonio. Si dicatur contraho tecum si 
+          <lb ed="#L" n="99"/>semper velis esse adultera. sicut patet ex de condi 
+          <lb ed="#L" n="100"/>tionibus appositis. Si conditiones et ita 
+          <lb ed="#L" n="101"/>generaliter dicendum est ad omnia insolubilia  
+          <lb ed="#L" n="102"/>que fieri possunt in casibus iuris.
+        </p>
+        <p xml:id="rh-l4q1-d1e1743">
+          Ad istum  
+          <lb ed="#L" n="103"/>casum est dicendum quod paeuer est baptiatus.  
+          <lb ed="#L" n="104"/>Et ad rationes in contrarium dicendum est ac  
+          <lb ed="#L" n="105"/>primam quod haptiatus non est irregularis  
+          <lb ed="#L" n="106"/>quia non est iteratio sacramenti prius dati secundum:  
+          <!--206.xml-->
+          <pb ed="#L" n="103-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>intentionem illius capituli. de consecra. dsti iiii 
+          <lb ed="#L" n="2"/>qui bis. Similiter canon ille est poena iuris  
+          <lb ed="#L" n="3"/>et non debet extendi.
+        </p>
+        <p xml:id="rh-l4q1-d1e1767">
+          Ad secundum dico quod non im- 
+          <lb ed="#L" n="4"/>primitur nisi unus character a deo: nec ma 
+          <lb ed="#L" n="5"/>ior gratia datur quam si unus baptiraret. ista enim 
+          <lb ed="#L" n="6"/>verba non sunt causae effective characteris to 
+          <lb ed="#L" n="7"/>tales et perfecte: sed tantum dispositive. et non est  
+          <lb ed="#L" n="8"/>inconveniens quod vnus effectus sit dispositive a  
+          <lb ed="#L" n="9"/>duobus: maxime quando agens principale est agens 
+          <lb ed="#L" n="10"/>voluntarium.
+        </p>
+        <p xml:id="rh-l4q1-d1e1785">
+          Si autem casus mutaretur: quod duo  
+          <lb ed="#L" n="11"/>intendant simpliter simul et semel unum baptia  
+          <lb ed="#L" n="12"/>re: deberet vterque dicere sub hac forma: ego  
+          <lb ed="#L" n="13"/>te baptio. non sic in plurali: nos baptiamus 
+          <lb ed="#L" n="14"/>et simul deberet incipere et simul finire:u 
+          <lb ed="#L" n="15"/>alias foret secundum aliquis iteratio interpretativa. 
+          <lb ed="#L" n="16"/>si tamen dicerent in plurali ex simplicitate bapt  
+          <lb ed="#L" n="17"/>eantes: foret baptieatus.
+        </p>
+        <p xml:id="rh-l4q1-d1e1803">
+          Sexto pono casum  
+          <lb ed="#L" n="18"/>de manco et muto: et quaero an talis sit baptia  
+          <lb ed="#L" n="19"/>tus an non: posito quod muius immergat: et man 
+          <lb ed="#L" n="20"/>cus verba debite proferat: Uidet quod puer quem  
+          <lb ed="#L" n="21"/>intendunt haptipare: non est habtivatus. Tum quia  
+          <lb ed="#L" n="22"/>proferens exprimeret actum esse ab eo a quo non  
+          <lb ed="#L" n="23"/>est: et diceret falsum. Tum quia derogaret effi 
+          <lb ed="#L" n="24"/>cacie sacramenti: quia sacramenta eccliastica 
+          <lb ed="#L" n="25"/>sunt sacra unitatis: utdictum est. et dividi non  
+          <lb ed="#L" n="26"/>debent. de conse distintione iii quia passus. Sed contra videtur  
+          <lb ed="#L" n="27"/>quod sic: quia Mat. vlti dicitur. Ite docete omnes gen- 
+          <lb ed="#L" n="28"/>tes baptieantes eos. non dicit ut quilibet vnum  
+          <lb ed="#L" n="29"/>baptivaret. Secundo quia in consecratione eucha 
+          <lb ed="#L" n="30"/>ristiae et consecratione epri et in extrema vnctio 
+          <lb ed="#L" n="31"/>ne quod fit ab vno imperfecte: potest suppleri ab 
+          <lb ed="#L" n="32"/>alio. igitur a multo fortiori in sacramento ne- 
+          <lb ed="#L" n="33"/>cessitatis cuiusmodi est baptismus de sacro  
+          <lb ed="#L" n="34"/>eucharistiae patet: quia in canone. vii qui i nihil contr 
+          <lb ed="#L" n="35"/>ibi dicitur quod missa ab aliquo inchoata ab alio 
+          <lb ed="#L" n="36"/>perficiatur: si necessitate primus praeventus fuae 
+          <lb ed="#L" n="37"/>rit: dicitur hic quod non secundum apparatum distintione xxiii c. qui- 
+          <lb ed="#L" n="38"/>rundam. quod duo imperfecta sacramenta non consti 
+          <lb ed="#L" n="39"/>tuunt unum perfectum. et hoc ideo quia sacra eo  
+          <lb ed="#L" n="40"/>clesie sunt sacramenta vnitatis: sicut pau 
+          <lb ed="#L" n="41"/>lo ante allegatum est. Et hoc est generaliter  
+          <lb ed="#L" n="42"/>verum in omni sacramentor: quod ea qua sunt de ne 
+          <lb ed="#L" n="43"/>cessitate sacramenti non dividiuntur: sicut idem  
+          <lb ed="#L" n="44"/>apparatus dicit de daptismo. sed illud quod  
+          <lb ed="#L" n="45"/>est solennitatis: bene dividitur. et sic soluitur  
+          <lb ed="#L" n="46"/>illud quod est adiectum in arguendo. Secundo quod  
+          <lb ed="#L" n="47"/>sic per illud. vii qui i nihil contra. quia loquitur 
+          <lb ed="#L" n="48"/>de his quae pertinent ad solennitatem sacramen 
+          <lb ed="#L" n="49"/>ti. Unde in consecratione eucharistiae si vn- 
+          <lb ed="#L" n="50"/>infirmitate preuentus tantum vel passio-  
+          <lb ed="#L" n="51"/>ne dixisset illa duo verba hoc est: non debe- 
+          <lb ed="#L" n="52"/>ret alius prosequi sic dicendo: corpus meum 
+          <lb ed="#L" n="53"/>sed deberet reincipere et dicere totam formam  
+          <!--206.xml-->
+          <cb ed="#L" n="b"/><!--103vb-->
+          <lb ed="#L" n="54"/>et similiter est dicendum de ipso eodem infir- 
+          <lb ed="#L" n="55"/>mo: si passio ab eo in toto transiret. Et istud  
+          <lb ed="#L" n="56"/>confirmatur per istud capitulum quorundam distintione 
+          <lb ed="#L" n="57"/>xxiii vbi sic habetur. Quorundam clericorum  
+          <lb ed="#L" n="58"/>dum vnus ad praesb uterium duo ad levitarum  
+          <lb ed="#L" n="59"/>ministerium sacrarentur: eps dolore detentus  
+          <lb ed="#L" n="60"/>fertur manum suam tantum imposuisse super eos:  
+          <lb ed="#L" n="61"/>et praesb vter quidam contra ecclesiasticum ordi 
+          <lb ed="#L" n="62"/>nem benedictionem dedisse: sed quia iam eps ille  
+          <lb ed="#L" n="63"/>examini divino relictus humano iudicio  
+          <lb ed="#L" n="64"/>accusari non potest: hai qui supersunt gradum sa 
+          <lb ed="#L" n="65"/>cerdotii vel levitici ordinis quem peruerse  
+          <lb ed="#L" n="66"/>adepti sunt amittant.
+        </p>
+        <p xml:id="rh-l4q1-d1e1918">
+          Confirmatur haec  
+          <lb ed="#L" n="67"/>responsio ad casum: quia exprimere actum esse  
+          <lb ed="#L" n="68"/>ab eo qui non baptiauit videtur derogare ef 
+          <lb ed="#L" n="69"/>ficacie sacramenti: melius tamen esset quod man- 
+          <lb ed="#L" n="70"/>cus aspergeret cum aqua.
+        </p>
+        <p xml:id="rh-l4q1-d1e1929">
+          Septimo pono  
+          <lb ed="#L" n="71"/>quod aliquis haptiat cum forma debita et ma 
+          <lb ed="#L" n="72"/>teria debita: sed non facit signum crucis: quae 
+          <lb ed="#L" n="73"/>ritur an baptiaret: Dicitur quod sic: quia est ibi  
+          <lb ed="#L" n="74"/>forma: materia: et intentio ministri quod non  
+          <lb ed="#L" n="75"/>icitur de consecra distintione v. numquid. Ad hoc respsioto 
+          <lb ed="#L" n="76"/>det glossa ordinaria ibidem dicens quod loqui 
+          <lb ed="#L" n="77"/>tur de cogruentia: non de necessitate sacra- 
+          <lb ed="#L" n="78"/>menti. vn vere baptirat.
+        </p>
+        <p xml:id="rh-l4q1-d1e1949">
+          Octavo pono quod  
+          <lb ed="#L" n="79"/>sacerdos non vult haptivare puerum paruuium  
+          <lb ed="#L" n="80"/>meum in extrema necessitate: nisi detur sibi  
+          <lb ed="#L" n="81"/>pro baptismo pecunia aut quid aliud. Dicendum  
+          <lb ed="#L" n="82"/>quod nihil debet dari sacerdoti pro baptismo  
+          <lb ed="#L" n="83"/>lactali vel poenitentia i qiuia i daptinandis. Sed ita  
+          <lb ed="#L" n="84"/>est faciendum ac si nullus sacerdos praesens esset.
+        </p>
+        <p xml:id="rh-l4q1-d1e1965">
+          <lb ed="#L" n="85"/>Nono ponatur quod deus ponatur animam damna- 
+          <lb ed="#L" n="86"/>tam in corpore paruuli baptitandi. similiter  
+          <lb ed="#L" n="87"/>ponatur aniam damnati in corpore generato prop 
+          <lb ed="#L" n="88"/>gatione comni: sicut imponit animam de nouo crea  
+          <lb ed="#L" n="89"/>tam. tunc ista anima habebit remissionem peccato  
+          <lb ed="#L" n="90"/>rum commissorum et totius pene debite: et stati mo 
+          <lb ed="#L" n="91"/>riatur. igitur salvabitur: quia tota poena est sibi re 
+          <lb ed="#L" n="92"/>missa. Similiter ista anima habebit duos chara 
+          <lb ed="#L" n="93"/>cteres. Similiter resuscitet deus corpus pauli et con 
+          <lb ed="#L" n="94"/>iungendo ei animam Petri: nunquid deberet  
+          <lb ed="#L" n="95"/>baptivari: dicitur quod sic: quia iste homo numquam fuit  
+          <lb ed="#L" n="96"/>haptiatus. Dicendum quod non: si constaret quod  
+          <lb ed="#L" n="97"/>baptiatus est in remedium contra peccatum  
+          <lb ed="#L" n="98"/>Item creet deus unum hominem de nouo total  
+          <lb ed="#L" n="99"/>ter: iste non debet baptiari totaliter . Probo 
+          <lb ed="#L" n="100"/>quia non potest renasili. de consecra dii. iiii qui in 
+          <lb ed="#L" n="101"/>maternis. Qui natus non est adhuc secundum  
+          <lb ed="#L" n="102"/>Adam: secundum christum renasci non potest. nec re- 
+          <lb ed="#L" n="103"/>generatio in eum dici potest: quem generatio 
+          <lb ed="#L" n="104"/>non praecessit. Contra: igitur damnabitur neces  
+          <lb ed="#L" n="105"/>ario. Ioannes iii nisi quis renatus fuerit etc. Dicem 
+          <lb ed="#L" n="106"/>dum est quod sacramenta sunt instituta pr con 
+          <!--207.xml-->
+          <pb ed="#L" n="104-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>muni propagatione hominim. isti autem casus sust 
+          <lb ed="#L" n="2"/>singulares: nec deus sacris suam virtutem al- 
+          <lb ed="#L" n="3"/>ligauit: quin sine eis operari possit: et eorum er- 
+          <lb ed="#L" n="4"/>fectum suspendere sicut placet sibi: nec de talibest  
+          <lb ed="#L" n="5"/>casibus possumus definire: sed est in eis implo- 
+          <lb ed="#L" n="6"/>randum divinum oraculum: sicut dicit Augustinus de  
+          <lb ed="#L" n="7"/>unico baptismo.
+        </p>
+        <p xml:id="rh-l4q1-d1e2037">
+          Decimo pono quod aliquis 
+          <lb ed="#L" n="8"/>non baptivatus ordinetur in sacerdotem: credat  
+          <lb ed="#L" n="9"/>tamen se fuisse baptinatum. qui casus ponitur: ex 
+          <lb ed="#L" n="10"/>de praesb vtero non baptiato capitu. aplicam. Et quod  
+          <lb ed="#L" n="11"/>ro an talis damnabitur propterea quod gerit offi- 
+          <lb ed="#L" n="12"/>tia sacerdotalia: an non: Et videtur quod non: quia  
+          <lb ed="#L" n="13"/>per ignorantiam invincibilem excusat: necur vi- 
+          <lb ed="#L" n="14"/>detur debuisse netere baptismum: quia aliter quili- 
+          <lb ed="#L" n="15"/>bet deberet hoc petere quantumcumque baptieatus  
+          <lb ed="#L" n="16"/>Tnde contra. dvidetur contra illud Augustinus de consese distintio eiii. cate  
+          <lb ed="#L" n="17"/>cuminum. vbi dicitur. Catecuminum quamuis in bo 
+          <lb ed="#L" n="18"/>nis operibus defunctum: vitam habere non cre 
+          <lb ed="#L" n="19"/>dimus: excepto duntaxat nisi mart vrii com 
+          <lb ed="#L" n="20"/>pleat sacrm. sed iste non fuit martur. igitur etc.  
+          <lb ed="#L" n="21"/>Si dicatur sicut dicit magiter di iiii c. sunt et ali 
+          <lb ed="#L" n="22"/>circa medium: quod auentas debet intelligi de tali  
+          <lb ed="#L" n="23"/>qui sciuit se esse catecuminum: et non petut ba 
+          <lb ed="#L" n="24"/>ptismum vel contempsit. Contra. tenetur face 
+          <lb ed="#L" n="25"/>cere: et scit se teneri: et non petit: igitur peccat  
+          <lb ed="#L" n="26"/>mortaliter. Item in alio casu quam in mart vrio 
+          <lb ed="#L" n="27"/>potest catecuminus salvari: igitur exceptio Au 
+          <lb ed="#L" n="28"/>gustini non est conveniens. Dicendum quod sic in  
+          <lb ed="#L" n="29"/>via salutis. ad illud Augustinus dicendum est quod in  
+          <lb ed="#L" n="30"/>telligit de catecumino qui propter defectum fi 
+          <lb ed="#L" n="31"/>dei baptiari non petit. et de tali non presuppo 
+          <lb ed="#L" n="32"/>nit ecclesia quod sufficienter voluit vnquam in vl 
+          <lb ed="#L" n="33"/>ta baptiari: sed de illo qui offert se martvrio- 
+          <lb ed="#L" n="34"/>quantumcumque apparuerit insufficiens an vel 
+          <lb ed="#L" n="35"/>negligens in petendo baptismam: satis praesumi 
+          <lb ed="#L" n="36"/>tur quod baptiari voluisset si vixisset qui pro fi- 
+          <lb ed="#L" n="37"/>de morit. Et quando arguitur. iste tenebatur petere  
+          <lb ed="#L" n="38"/>et non petiit. verum est quod in casu argumenti non  
+          <lb ed="#L" n="39"/>tenebatur ille sacerdos petere: quia putauit se 
+          <lb ed="#L" n="40"/>baptieatum. si tamen ponamus casum de alio ca 
+          <lb ed="#L" n="41"/>tecumino qui non petiit baptismum: potest dici quod  
+          <lb ed="#L" n="42"/>peccat mortaliter: si nec petit pro nunc nec pro 
+          <lb ed="#L" n="43"/>alio tempore. Similiter petitio potest exponi per desi 
+          <lb ed="#L" n="44"/>derium petendi. dato enim quod catecuminus sit  
+          <lb ed="#L" n="45"/>in deserto ubi nullum videt: non tenetur petere  
+          <lb ed="#L" n="46"/>tenetur tantum velle: vel habere desiderium petendi. et  
+          <lb ed="#L" n="47"/>de tali catecumino est vera illa exceptiva 
+          <lb ed="#L" n="48"/>Augustinus quod damnabitur: vel quod marturii compleat sa 
+          <lb ed="#L" n="49"/>crm. Sed quid est de his dicendum qua praesbvter iste  
+          <lb ed="#L" n="50"/>gessit: nunquid decepit animas: Dicendum quod non.  
+          <lb ed="#L" n="51"/>quia dum bona fide credit se ordinatum: rata  
+          <lb ed="#L" n="52"/>sunt omnia quae gessit per gratiam summi sacerdotis  
+          <lb ed="#L" n="53"/>et sic patet quod ad virtutem vocis loquindoc potest conse 
+          <!--207.xml-->
+          <cb ed="#L" n="b"/><!--104rb-->
+          <lb ed="#L" n="54"/>rarem coipus christi et si sit epss: conferre ordi- 
+          <lb ed="#L" n="55"/>nes et confirmare et sic facere quae ad solos epos  
+          <lb ed="#L" n="56"/>vel sacerdotes partinent de iure. Sed melius dicem 
+          <lb ed="#L" n="57"/>dum est quod tali non consecrat: sed deus etc. Item eoundr ca 
+          <lb ed="#L" n="58"/>su reteto de praesb utero non baptiato: hoc exce 
+          <lb ed="#L" n="59"/>pto quod superuiuat: et constat postea legitime quod  
+          <lb ed="#L" n="60"/>non fuit baptitatus: quaero quid debet de eo fieri: Di 
+          <lb ed="#L" n="61"/>cendum quod iste casus ponitur ex de praesbvtero  
+          <lb ed="#L" n="62"/>non baptieato capitulo veniens. vbi respondet dicens pa 
+          <lb ed="#L" n="63"/>pa ad casum: quod cum probatum fuerit legitime  
+          <lb ed="#L" n="64"/>quod non extitit baptiratus: debet baptiari et or  
+          <lb ed="#L" n="65"/>dinari ad singulos ordines de nouo: quia ba 
+          <lb ed="#L" n="66"/>ptismo non recepto non potest aliud recipi sa- 
+          <lb ed="#L" n="67"/>crm: eo quod baptismus sit omnim sacforum funda 
+          <lb ed="#L" n="68"/>mentum et ianva dstitione iii. solicitudo. nec talis  
+          <lb ed="#L" n="69"/>irregularis esset: quia quod nescitur esse factum: non  
+          <lb ed="#L" n="70"/>prisupponitur iterari.
+        </p>
+        <p xml:id="rh-l4q1-d1e2182">
+          Undecimo pono iuxta 
+          <lb ed="#L" n="71"/>casum praecedentem quod aliquis adultus asserat se 
+          <lb ed="#L" n="72"/>baptiatum: nec habeat super hoc testimonium 
+          <lb ed="#L" n="73"/>quaeritur an credendum sit dicto suo: videtur quod  
+          <lb ed="#L" n="74"/>sic: quia de conse distinion iiii. c. placuit dicitur placuit de 
+          <lb ed="#L" n="75"/>infantibus quoties non inveniuntur certissi 
+          <lb ed="#L" n="76"/>mi testes: qui eos baptiratos esse sine du- 
+          <lb ed="#L" n="77"/>bitatione testentur: neque ipsi sunt per etatem  
+          <lb ed="#L" n="78"/>idonei de traditis sibi sacris respondere: absque  
+          <lb ed="#L" n="79"/>vllo serupulo eos esse baptieandos. ergo a contrario 
+          <lb ed="#L" n="80"/>sensu si paratus est respondere de sacris sibi tra 
+          <lb ed="#L" n="81"/>ditis: sibi credendum est. Sed contra hoc arguitur:  
+          <lb ed="#L" n="82"/>quia de ordinibus non est credendum alicui de 
+          <lb ed="#L" n="83"/>se. sicut patet dist xcviii afros. Dici potest quod in  
+          <lb ed="#L" n="84"/>casu debet sibi credi: et in casu non: quia quantum  
+          <lb ed="#L" n="85"/>ad conicationem sacforum: et conuictum conem de 
+          <lb ed="#L" n="86"/>bet sibi credi qdui catholice de fide respon- 
+          <lb ed="#L" n="87"/>dendo asserit imne esse christianum. et hoc uni- 
+          <lb ed="#L" n="88"/>versaliter in omni casu: nisi cederet in priu- 
+          <lb ed="#L" n="89"/>dicium alterius. Unde ad edificationem ba 
+          <lb ed="#L" n="90"/>ptismi et ecclesie consecrationem sufficit testi- 
+          <lb ed="#L" n="91"/>nonium vnius: licet non sit ita in ordinibus. sic  
+          <lb ed="#L" n="92"/>ut dicitur de conse dione iiii. c. placuit. Si autem in 
+          <lb ed="#L" n="93"/>forma iudicii agatur contra tale. sicut si est sacer- 
+          <lb ed="#L" n="94"/>dos: et agatur iudicialiter ad eius depositi  
+          <lb ed="#L" n="95"/>onem: obisciendo quod non est baptiratus: vel 
+          <lb ed="#L" n="96"/>agatur ad diuortium si contrarit cum aliqua. in hoc  
+          <lb ed="#L" n="97"/>casu non sufficit testimonium singularis perso- 
+          <lb ed="#L" n="98"/>ne. Similiter si alicui relinquantur ex testa- 
+          <lb ed="#L" n="99"/>mento decem si fuerit christianus: certe tunc  
+          <lb ed="#L" n="100"/>opet hoc probari per plures testes: et non suf  
+          <lb ed="#L" n="101"/>ficit testimonium singularis persone: alio quin 
+          <lb ed="#L" n="102"/>fieret praeiudicium heredibus. De his qui u  
+          <lb ed="#L" n="103"/>infantia inter christianos sunt conversati et  
+          <lb ed="#L" n="104"/>de christianis geniti: praesumendum est quod sunt  
+          <lb ed="#L" n="105"/>baptirati: nisi doceatur oppositum evidenter.  
+          <lb ed="#L" n="106"/>ex de praest vtero non haptiratruo capitulo veniens
+        </p>
+        <p xml:id="rh-l4q1-d1e2264">
+          <!--208.xml-->
+          <pb ed="#L" n="104-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>Duo decimo pono alium catecuminum marte- 
+          <lb ed="#L" n="2"/>riatum et miraculose resuscitatum: quaero an dir 
+          <lb ed="#L" n="3"/>baptifari an non: quod non: quia iniuriam facit mar 
+          <lb ed="#L" n="4"/>tvri qui orat pro marture: sed baptiaus solen- 
+          <lb ed="#L" n="5"/>niter dicit orones et exorcismos. Contra. san 
+          <lb ed="#L" n="6"/>ctificati in vtero baptiari debent etiam si con 
+          <lb ed="#L" n="7"/>staret de eorum sctificatioe: vt recipiant chara 
+          <lb ed="#L" n="8"/>cterem: sed haptismus est sacrm necessitatis vbi  
+          <lb ed="#L" n="9"/>potest haberi: sed iste numquam habuit. igitur. Dicen- 
+          <lb ed="#L" n="10"/>dum quod sic propter praeceptum ecclesse et generalem  
+          <lb ed="#L" n="11"/>ordinatione christi Ioannes iii nisi quis renat:  
+          <lb ed="#L" n="12"/>etc
+        </p>
+        <p xml:id="rh-l4q1-d1e2299">
+          Decimotertio pono quod aliquis intendat  
+          <lb ed="#L" n="13"/>baptiare masculum: et baptixat iuuenculam:  
+          <lb ed="#L" n="14"/>quaero vtrum illa sit baptirata an non: videtur quod  
+          <lb ed="#L" n="15"/>non: quia non intendit eam baptiare: nullam em  
+          <lb ed="#L" n="16"/>intendit baptivare mulierem. ergo non inten- 
+          <lb ed="#L" n="17"/>dit baptiare istam. Item sit aliquis sacerdos ce 
+          <lb ed="#L" n="18"/>cus et habeat duos catecuminos Ioannem 
+          <lb ed="#L" n="19"/>et Guilhelmum: et intendat ex aliqua causa bapt  
+          <lb ed="#L" n="20"/>gare Ioannes hodie et Guili. cras: quo posito con- 
+          <lb ed="#L" n="21"/>ueniant inter se quod decipiantur sacerdotem: ita  
+          <lb ed="#L" n="22"/>quod Auilo velit baptiari hodie. Quaeritur an 
+          <lb ed="#L" n="23"/>Duil. est baptigatus an non: et videtur quod non:  
+          <lb ed="#L" n="24"/>quia ita defuit intentio baptirantis: quia inten- 
+          <lb ed="#L" n="25"/>tio sua non fuit haptirare Guilhelmum nisi  
+          <lb ed="#L" n="26"/>usque cras. contrarium huius apparet: quia furti- 
+          <lb ed="#L" n="27"/>ue ordinatus recepit ordines. vt patet exm de ec  
+          <lb ed="#L" n="28"/>qui furtive ordines recipit capitulo vl Sed ita re 
+          <lb ed="#L" n="29"/>quiritur ibi intentio sicut in baptismo: quia in 
+          <lb ed="#L" n="30"/>tentio ministri requiritur in omni sacro. Ad istud  
+          <lb ed="#L" n="31"/>potest dici quod non requiritur intentio distincta perso  
+          <lb ed="#L" n="32"/>ne ad baptismum: sed sufficit quod intendat ba 
+          <lb ed="#L" n="33"/>ptivare: et non est necesse quod intendat baptia  
+          <lb ed="#L" n="34"/>re istum vel illum: puta Ioannes vel Auilhel. Si tamen  
+          <lb ed="#L" n="35"/>hoc facto apud istos sit dubium: fiat sicut dicitur 
+          <lb ed="#L" n="36"/>in dubiis. ex de baptismoru capitulo de quibus du- 
+          <lb ed="#L" n="37"/>bium est etc.
+        </p>
+        <p xml:id="rh-l4q1-d1e2356">
+          Decimoquarto pono aliquem si 
+          <lb ed="#L" n="38"/>moniace baptiFatum scienter. quaeritur nunquic  
+          <lb ed="#L" n="39"/>baptismus ille sibi posset valere: arguitur quod  
+          <lb ed="#L" n="40"/>non: quia non potest salubriter poenitere de simo- 
+          <lb ed="#L" n="41"/>nia commissa. igitur nunquam valebit sibi ille ba 
+          <lb ed="#L" n="42"/>ptismus. Antecedens probatur: quia in simoniace ac- 
+          <lb ed="#L" n="43"/>cepto non potest esse poenitentia: nisi renuntietur ret 
+          <lb ed="#L" n="44"/>sic accepte. vel eius executioni i quia ii si quis  
+          <lb ed="#L" n="45"/>epss praebendas. sed si istae in isto casu sic re- 
+          <lb ed="#L" n="46"/>nuntiet suae christianitati vel vitae. christia- 
+          <lb ed="#L" n="47"/>ne: quia sic vivere est executio sacri. et sic apo- 
+          <lb ed="#L" n="48"/>statat ex professione sacri. et per consequens non vere  
+          <lb ed="#L" n="49"/>poenitet. Contra. tunc talis necessario damnabi 
+          <lb ed="#L" n="50"/>tur. consequens est falsum: quia sicut dicitur de pen 
+          <lb ed="#L" n="51"/>dist iii talis etiam si ad summum quis perueni 
+          <lb ed="#L" n="52"/>at malorum: et inde tamen velit reuerti ad verita  
+          <lb ed="#L" n="53"/>tis viam suscipit etc. Dicendum quod haptismur  
+          <!--208.xml-->
+          <cb ed="#L" n="b"/><!--104vb-->
+          <lb ed="#L" n="54"/>sic receptus potest per poenitentiam sibi valere: sicut  
+          <lb ed="#L" n="55"/>aliis rite accipientibus. Et ad argu. quando dicitur  
+          <lb ed="#L" n="56"/>quod in simoniace accepto opet renuntiare rei 
+          <lb ed="#L" n="57"/>vel eius executioni. Dicendum est quod opet re- 
+          <lb ed="#L" n="58"/>nuntiare solummodo quando res talis et eius exe 
+          <lb ed="#L" n="59"/>cutio non est necessaria ad salutem: sed partinens  
+          <lb ed="#L" n="60"/>ad opera suprerogationis: quo non est de sacfo  
+          <lb ed="#L" n="61"/>baptismi: nec de eius executione.
+        </p>
+        <p xml:id="rh-l4q1-d1e2416">
+          Decimo  
+          <lb ed="#L" n="62"/>quinto pono casum iuxta narrationes mu 
+          <lb ed="#L" n="63"/>lierum: sive dicant verum siue falsum. Narrant  
+          <lb ed="#L" n="64"/>enim quod quidam spuns quandoque paueros earum aufe 
+          <lb ed="#L" n="65"/>runt: et alios deteriores loco eorum reponunt.  
+          <lb ed="#L" n="66"/>istoeasu posito: quaeritur numquid puer talis de- 
+          <lb ed="#L" n="67"/>beat rebaptivari an non: quod sic: quia forte est  
+          <lb ed="#L" n="68"/>unus puer ablatus aliunde de alia patria. et  
+          <lb ed="#L" n="69"/>dubium est an sit baptiratus an non. vn vide 
+          <lb ed="#L" n="70"/>fur ibi faciendum secundum consilium illud ex de ba 
+          <lb ed="#L" n="71"/>ptismoru capitulo de quibus dubium. Contra. probabile 
+          <lb ed="#L" n="72"/>est quod angelus malus assumit effigien pueri  
+          <lb ed="#L" n="73"/>ad tempus: quia tales pueri aliquando mirabiliter dispa 
+          <lb ed="#L" n="74"/>rent: et faciunt quaedam non naturalia hominibus.  
+          <lb ed="#L" n="75"/>vnde videtur mihi quod baptigari duent sub conditio 
+          <lb ed="#L" n="76"/>ne duplici sic. Si non es baptitatus et capax  
+          <lb ed="#L" n="77"/>sis baptismi: ego te baptiro etc.
+        </p>
+        <p xml:id="rh-l4q1-d1e2453">
+          Decimosex 
+          <lb ed="#L" n="78"/>to pono casum conem de monstro habente  
+          <lb ed="#L" n="79"/>duo capita. quaeritur nunquid debet baptigari vt  
+          <lb ed="#L" n="80"/>unus homo an vt duo: Dicendum est quod vel est cer- 
+          <lb ed="#L" n="81"/>tum ibi esse duas animas rationales: vel non est cer 
+          <lb ed="#L" n="82"/>tum si vero sunt duo capita et duo pectora et  
+          <lb ed="#L" n="83"/>duo colla: tunc erunt etiam per consequens duo cor- 
+          <lb ed="#L" n="84"/>da: et sic baptiandi sunt vt ouo. et licet secundum  
+          <lb ed="#L" n="85"/>quosdam possint simul hapttari. sic. Ego ba 
+          <lb ed="#L" n="86"/>ptigo vos etc. tutius tamen est eos haptiare sigil 
+          <lb ed="#L" n="87"/>latim. Si vero sic qdubitatur: quia forte non sunt  
+          <lb ed="#L" n="88"/>duo capita bene disticta: vel duae ceruices bene  
+          <lb ed="#L" n="89"/>fundate in eadem nuca. tunc primo baptiandus  
+          <lb ed="#L" n="90"/>est vnus. et deinde illo baptirato: potest alter  
+          <lb ed="#L" n="91"/>sub conditione baptiFari: dicendo. si non es ba 
+          <lb ed="#L" n="92"/>ptieatus: ego te etc. sicut dicitur in summa confessorum  
+          <lb ed="#L" n="93"/>et imponitur scto Thomas in quadam quaestione de quodli- 
+          <lb ed="#L" n="94"/>betis: sed puta quod non est dictum suum: tamen satis  
+          <lb ed="#L" n="95"/>bene dicitur.
+        </p>
+      </div>
+      <div xml:id="rh-l4q1-Dd1e2497">
+        <head xml:id="rh-l4q1-Hd1e2499">Articulus 8</head>
+        <p xml:id="rh-l4q1-d1e2502">
+          Octavo restat respondere ad rationes
+        </p>
+        <p xml:id="rh-l4q1-d1e2505">
+          <lb ed="#L" n="96"/>Ad primam quando arguitur: quia si baptismus rite  
+          <lb ed="#L" n="97"/>susceptus conferat gratiam: sequitur quod paruulus 
+          <lb ed="#L" n="98"/>baptiatus qui nunquam meruit: et adultus ba 
+          <lb ed="#L" n="99"/>ptitatus qui meruit etc. Dicendum quod licet consequens  
+          <lb ed="#L" n="100"/>non sit impossibile: tamen bene potest dici ad argu- 
+          <lb ed="#L" n="101"/>mentum negando consequentiam. Ad probationem autem  
+          <lb ed="#L" n="102"/>quando arguitur . capio gratiam paruuli haptitati:  
+          <lb ed="#L" n="103"/>et gratiam. lini adulti qui meruit. iste gratiae  
+          <lb ed="#L" n="104"/>sunt eiusdem speciei: igit comparabiles etc conce- 
+          <lb ed="#L" n="105"/>do quod istae gre suut comparabiles. et quando ar- 
+          <lb ed="#L" n="106"/>guitur. igit gratia adulti potest fieri aequels etc  
+          <!--209.xml-->
+          <pb ed="#L" n="105-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>Potest dici quod quaelibet grtra debita merito per  
+          <lb ed="#L" n="2"/>sonali / est maior quam sit grtia quae infunditur in ba 
+          <lb ed="#L" n="3"/>ptismo: et secundum hoc catecuminus maiorem gram  
+          <lb ed="#L" n="4"/>habet ante haptismum per quemcumque actum suum merito  
+          <lb ed="#L" n="5"/>rium gratiae: quod puulus haptivatus. vnde non est possi 
+          <lb ed="#L" n="6"/>bile quod Linus peccet et resipiscat cum miori gri 
+          <lb ed="#L" n="7"/>in duplo / quam fuit gratia prima: et iterum cum mino- 
+          <lb ed="#L" n="8"/>ri in duplo. Nam peccator meretur de congruo iusti  
+          <lb ed="#L" n="9"/>ficationem per motum contritionis. Unde potest concedi 
+          <lb ed="#L" n="10"/>quod est dare minimum actum meritorium qui potest per  
+          <lb ed="#L" n="11"/>se subsistere: et illi corrundet vna gra minima 
+          <lb ed="#L" n="12"/>que datur pro meritis praedictis: licet non sit mini 
+          <lb ed="#L" n="13"/>mus actus meritorius simpliter: quia quilibet pars actus  
+          <lb ed="#L" n="14"/>meritorii est meritoria: et quilibet pars gere est  
+          <lb ed="#L" n="15"/>gratia non potest tamen voluntate viatoris fieri actus  
+          <lb ed="#L" n="16"/>per se existens meritorius minor isto: quia misimus  
+          <lb ed="#L" n="17"/>actus meritorius plus henbit de gra quod paruul  
+          <lb ed="#L" n="18"/>baptivatus. Ideo non est possibile quod Linus ad- 
+          <lb ed="#L" n="19"/>ultus mereretur in duplo minus: et iterum mi 
+          <lb ed="#L" n="20"/>nus in duplo: et sic deueniat ad aequalitatem  
+          <lb ed="#L" n="21"/>gre paruuli: quia status erit in minimo actu 
+          <lb ed="#L" n="22"/>meritorio per se existente.
+        </p>
+        <p xml:id="rh-l4q1-d1e2585">
+          Contra. Nihil ma 
+          <lb ed="#L" n="23"/>gits est in potestate voluntatis quam suus actus. igitur  
+          <lb ed="#L" n="24"/>quocumque dato potest causare minorem vel re- 
+          <lb ed="#L" n="25"/>missiore. Potest dici concedendo: tamen actus ille mi 
+          <lb ed="#L" n="26"/>nor non foret meritum. Unde licet pars huius actus  
+          <lb ed="#L" n="27"/>meritoru sit modo meritum: tamen si quaecumque pars  
+          <lb ed="#L" n="28"/>istius existeret: non foret meritum. Et si esset da- 
+          <lb ed="#L" n="29"/>re minimum ignem qui posset agere ad pedalem 
+          <lb ed="#L" n="30"/>distantiam in lignum certum medio sic disposi- 
+          <lb ed="#L" n="31"/>to: tunc medietas illius si per seilla ibi ponere 
+          <lb ed="#L" n="32"/>tur / non ageret inlignum. et tamen modo agit medie- 
+          <lb ed="#L" n="33"/>tas et medietas medietatis: et in infinitum  
+          <lb ed="#L" n="34"/>minor pars et minor agit in lignum datum: qua 
+          <lb ed="#L" n="35"/>rum nulla si per se existeret / ageret in lignum. 
+          <lb ed="#L" n="36"/>Similiter potest poni exemplum de ligno per se visibi- 
+          <lb ed="#L" n="37"/>li in certa distantia. de ista materia tangetur  
+          <lb ed="#L" n="38"/>plus in quostione de poenitentia.
+        </p>
+        <p xml:id="rh-l4q1-d1e2622">
+          Forte aliter potest 
+          <lb ed="#L" n="39"/>dici ad primum argumentum concedendo conclusic  
+          <lb ed="#L" n="40"/>nem. nam possibile est aliquem catecuminum  
+          <lb ed="#L" n="41"/>mereri tantam gratiam ante haptismum praecise 
+          <lb ed="#L" n="42"/>quanta confertur paruulo in baptismo: et tunc  
+          <lb ed="#L" n="43"/>meretur. Idem potest con edi de pecctore: qui potest ita  
+          <lb ed="#L" n="44"/>remisse et in talibus circumstantiis conteri: quod non  
+          <lb ed="#L" n="45"/>habebit maiorem gratiam quam unus parui: lus habet  
+          <lb ed="#L" n="46"/>in haptismo. et sic patet conclusio argumenti
+        </p>
+        <p xml:id="rh-l4q1-d1e2643">
+          <lb ed="#L" n="47"/>Aliter potest dici quod istae gratiae non sunt compa 
+          <lb ed="#L" n="48"/>rabiles: quia sunt alterius speciei. Unde sicut  
+          <lb ed="#L" n="49"/>dicit sanctus Thomas super quaerto dist. vii 
+          <lb ed="#L" n="50"/>arti. iiii. gratia haptismatis et confirmationis  
+          <lb ed="#L" n="51"/>et gratia virtutum et donorum distinguuntur secundum  
+          <lb ed="#L" n="52"/>speciem: quia ad alios et alios effectus ordinan- 
+          <lb ed="#L" n="53"/>tur: ut sicut in virtutibus moralibus ubi in- 
+          <!--209.xml-->
+          <cb ed="#L" n="b"/><!--105rb-->
+          <lb ed="#L" n="54"/>nenitur specialis difficultas: ibi requiritur  
+          <lb ed="#L" n="55"/>spanlis virtus: sicut in magnis sumptibus requ  
+          <lb ed="#L" n="56"/>ritur magnificentia: et in conibus liberalitas  
+          <lb ed="#L" n="57"/>ita gratia baptismatis proficit in iis qui parti- 
+          <lb ed="#L" n="58"/>nent ad conem statum vite christiane: sed gratia con 
+          <lb ed="#L" n="59"/>firmationis habet proficere in iis qui sunt diffici- 
+          <lb ed="#L" n="60"/>lia in vita christiana: sicut est confiteri nomen 
+          <lb ed="#L" n="61"/>christi coram persecutoribus fidei. et ideo iste duae 
+          <lb ed="#L" n="62"/>gratiae non sunt eiusdem speciei: sicunt ipse dicit  
+          <lb ed="#L" n="63"/>ibidem ad primum et secundum argumentum. Similiter 
+          <lb ed="#L" n="64"/>in responsione duo decima quastionis illius dicit  
+          <lb ed="#L" n="65"/>quod gratia gratum faciens et gratia sacforum di 
+          <lb ed="#L" n="66"/>stinguitur. et sic ille terminus gratia gratum  
+          <lb ed="#L" n="67"/>facies est genus: et eius species sunt gra- 
+          <lb ed="#L" n="68"/>tia haptismatis: gratia confirmationis: et sic  
+          <lb ed="#L" n="69"/>de singulis sacramentis: et ad gratiam virtu- 
+          <lb ed="#L" n="70"/>tum et quamlibet ipso nomine gratia vocamus. et  
+          <lb ed="#L" n="71"/>sic quaelibet istarum est gratum faciens: et tamen 
+          <lb ed="#L" n="72"/>distinguuntur inter se specificae.
+        </p>
+        <p xml:id="rh-l4q1-d1e2707">
+          Arguitur  
+          <lb ed="#L" n="73"/>sic. sit tota latitudo gre quam habet Ainus a 
+          <lb ed="#L" n="74"/>c. et gratia pruuli sit a b. tunc est excessus gre 
+          <lb ed="#L" n="75"/>adulti super gratiam paruuli b c.
+        </p>
+        <p xml:id="rh-l4q1-d1e2716">
+          Potest igitur  
+          <lb ed="#L" n="76"/>dici quod adultus ile potest peccare: et habere mi- 
+          <lb ed="#L" n="77"/>norem gratiam et minorem in intur nitum quam sit a c:  
+          <lb ed="#L" n="78"/>et tamen nunquam habere posset ita modicam  
+          <lb ed="#L" n="79"/>gratiam sicut est a b c. sit igitur quod a b sit subdu  
+          <lb ed="#L" n="80"/>plum ad a c. et licet possit habere subduplum et  
+          <lb ed="#L" n="81"/>subduplum: non tamen subdecuplum: nec ultra 
+          <lb ed="#L" n="82"/>de minoribus partibus ipsius a c. et tamen secundum  
+          <lb ed="#L" n="83"/>infinitas partes proportionabiles b c potest  
+          <lb ed="#L" n="84"/>habere in infinitum minorem gratiam et mino- 
+          <lb ed="#L" n="85"/>rem quam sit a c.
+        </p>
+        <p xml:id="rh-l4q1-d1e2740">
+          Contra. quacumque gratia data 
+          <lb ed="#L" n="86"/>potest habere minorem in subduplo: igitur tan- 
+          <lb ed="#L" n="87"/>dem devenietur ad aequalitatem a b: vel minorem 
+          <lb ed="#L" n="88"/>Potest negari antecedens. vnde licet non sit dare 
+          <lb ed="#L" n="89"/>minimam quam possit habere: quan qualibet ha 
+          <lb ed="#L" n="90"/>bita possit habere minorem: tamen est dare aliquam  
+          <lb ed="#L" n="91"/>cuius non est habere subduplum: et aliqua cuius 
+          <lb ed="#L" n="92"/>non potest haberi subtriplum: et sic de aliis.
+        </p>
+        <p xml:id="rh-l4q1-d1e2758">
+          <lb ed="#L" n="93"/>Ad secundum principale quando arguitur quod si sint  
+          <lb ed="#L" n="94"/>duo qui nunquam meruerunt: inaequaliter praemia 
+          <lb ed="#L" n="95"/>rentur: quod videtur inconveniens: quia nihil habent  
+          <lb ed="#L" n="96"/>nisi per meritum christi: et illud participataequaeli 
+          <lb ed="#L" n="97"/>ter. consequentia probatur per quinquam media. primo per aequali 
+          <lb ed="#L" n="98"/>tate naturalium duorum paruulorum. dicendum. ve 
+          <lb ed="#L" n="99"/>rum est quod conclusio non est impossibilis: quin 
+          <lb ed="#L" n="100"/>deus possit praemiare sicut placet: tamen negatur  
+          <lb ed="#L" n="101"/>consequens et consequentia de lege statuta.
+        </p>
+        <p xml:id="rh-l4q1-d1e2780">
+          Et ad primum 
+          <lb ed="#L" n="102"/>medium posset dici quod omnes pruuli sunt aequa 
+          <lb ed="#L" n="103"/>les in illo quo gratia recipietur immediate.  
+          <lb ed="#L" n="104"/>quia omnes animae rationales sunt aequales in perfectio 
+          <lb ed="#L" n="105"/>ne: licet sint inaequales in dispositione corporum  
+          <lb ed="#L" n="106"/>Sed contra istam responsionem est unus articulus dam- 
+          <!--210.xml-->
+          <pb ed="#L" n="105-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>natus Parisiis: qui est talis. quod inconveniens  
+          <lb ed="#L" n="2"/>est ponere alios intellectus nobiliores aliis.  
+          <lb ed="#L" n="3"/>quia cum ista diversitas non possit esse a parte cor 
+          <lb ed="#L" n="4"/>porum: opaitet quod sit a parte intellectuum vel intelli- 
+          <lb ed="#L" n="5"/>gentiarum. et sic animae nobiles et ignobiles erunt  
+          <lb ed="#L" n="6"/>necessario diversarum specierum sicut intelligen- 
+          <lb ed="#L" n="7"/>tiae. sed hoc est erroneum: quia sic anima christi non 
+          <lb ed="#L" n="8"/>esset nobilior anima Iude. ideo potest dici quod debe- 
+          <lb ed="#L" n="9"/>mus illam determiationem tenere in omnibus: quod  
+          <lb ed="#L" n="10"/>non credo.
+        </p>
+        <p xml:id="rh-l4q1-d1e2822">
+          Respondetur aliter ad argumentum: quando ar- 
+          <lb ed="#L" n="11"/>guitur: sunt inaequales in naturalibus: igitur- 
+          <lb ed="#L" n="12"/>gratia perfectior causatur in perfectiori anima negatur  
+          <lb ed="#L" n="13"/>consequentia. et quando arguitur: sacrtm aequaliter agit: et actus  
+          <lb ed="#L" n="14"/>activorum sunt in patiente disposito. Dico quod 
+          <lb ed="#L" n="15"/>sacturm non agit gratiam nisi metaphorice: sed  
+          <lb ed="#L" n="16"/>deus agit gratia quando sacrum suscipitur libere. et  
+          <lb ed="#L" n="17"/>sic potest causare maiorem vel minorem sicut pla 
+          <lb ed="#L" n="18"/>cet sibi: quicquid sit de nobilitate animae etc.
+        </p>
+        <p xml:id="rh-l4q1-d1e2842">
+          Ad sec 
+          <lb ed="#L" n="19"/>cundum medium quando capitur unus pruulus haptia 
+          <lb ed="#L" n="20"/>tus tantum: et alter baptiatus et confirmaius etc.  
+          <lb ed="#L" n="21"/>Potest dici probabiliter quod ille magis beatificabi  
+          <lb ed="#L" n="22"/>tur qui fuit confirmatus: quia pluribus modis factus est  
+          <lb ed="#L" n="23"/>particeps meriti christi: et si sibi sic placet: quis  
+          <lb ed="#L" n="24"/>est quo ipediat: hoc expresse habetur de conse distintion 
+          <lb ed="#L" n="25"/>v. vt ieiuni. in apparatum super illud verbum con- 
+          <lb ed="#L" n="26"/>firmatione.
+        </p>
+        <p xml:id="rh-l4q1-d1e2862">
+          Aliter potest dici quod licet habeat  
+          <lb ed="#L" n="27"/>duas gras: et alius vnam tantum: altera tamen illarum  
+          <lb ed="#L" n="28"/>duarum puta graria confirmationis non est gratia  
+          <lb ed="#L" n="29"/>uniuoce cum alia: nec reddet habentem dignio 
+          <lb ed="#L" n="30"/>rem u. ta aeterna: sed nata est reddere fortio 
+          <lb ed="#L" n="31"/>rem et constantiorem in confessione fidei: quia ad  
+          <lb ed="#L" n="32"/>illum effectum specialiter ordinatur sacrum confirma- 
+          <lb ed="#L" n="33"/>tionis.
+        </p>
+        <p xml:id="rh-l4q1-d1e2880">
+          Ad tertium quando capitur unus baptia  
+          <lb ed="#L" n="34"/>tus cum debita intentione et solennitate ab  
+          <lb ed="#L" n="35"/>optimo episcopo: et alius a pessimo pagano etc 
+          <lb ed="#L" n="36"/>potest dici quod habebunt aequalem gratia: et aequa 
+          <lb ed="#L" n="37"/>liter sint digni vita aeterna: quia malum mini 
+          <lb ed="#L" n="38"/>stri non derogat susceptioni sacri. sicut pater 
+          <lb ed="#L" n="39"/>de conse d di iiii si inter bonos.
+        </p>
+        <p xml:id="rh-l4q1-d1e2896">
+          Aliter forte di 
+          <lb ed="#L" n="40"/>ci potest quod deus ad praeces unius boni viri pos 
+          <lb ed="#L" n="41"/>set dare uni paruulo plus de praemio aequa  
+          <lb ed="#L" n="42"/>li: quam dat aliis de lege quae nunc est: non quod me 
+          <lb ed="#L" n="43"/>lior sit haptismus boni quam mali: sed quia meli-  
+          <lb ed="#L" n="44"/>or est haptismus cum oratione sancti viri quam  
+          <lb ed="#L" n="45"/>sine.
+        </p>
+        <p xml:id="rh-l4q1-d1e2912">
+          Ad quartum medium quod est de paruu 
+          <lb ed="#L" n="46"/>lo habtieato: et pruulo Iudeorum circumciso etc.  
+          <lb ed="#L" n="47"/>Potest dici quod aequaliter gaudium habebunt. pro 
+          <lb ed="#L" n="48"/>quofacit illud de conse distintione iiii. ex quo institu 
+          <lb ed="#L" n="49"/>ta. vbi dicitur quod exquo instituta est circumcisio in  
+          <lb ed="#L" n="50"/>populo dei: ad sanctificationem purgationis  
+          <lb ed="#L" n="51"/>valebat paruulis originalis veterisque peccati:  
+          <lb ed="#L" n="52"/>sicut et baptismus ex illo valere cepit ad in 
+          <lb ed="#L" n="53"/>nquuatione hominis: ex quo constitutus est. Et  
+          <!--210.xml-->
+          <cb ed="#L" n="b"/><!--105vb-->
+          <lb ed="#L" n="54"/>ad dictum magistri distinctione im capitulo x  vbi dicit quod baptis  
+          <lb ed="#L" n="55"/>matis est maior gratia etc. Dicunt quod istae gre non  
+          <lb ed="#L" n="56"/>sunt eiusdem speciei. in hoc tamen conueniunt: quod aequi- 
+          <lb ed="#L" n="57"/>liter faciunt paruulum dignum vita aeterna: licet 
+          <lb ed="#L" n="58"/>grstra baptismatis sit perfectior quantum ad ali 
+          <lb ed="#L" n="59"/>quos effectus vite moralis: sicut quod viuat par- 
+          <lb ed="#L" n="60"/>fectius ad repmendum concupiscentiam. secundum Thomam 
+          <lb ed="#L" n="61"/>ptt dici perfectius sacrum: quia conicat gram tam mu 
+          <lb ed="#L" n="62"/>lieribus quam viris: quod non potuit crcumcisio.
+        </p>
+        <p xml:id="rh-l4q1-d1e2958">
+          <lb ed="#L" n="63"/>Ad quintum medium quando arguitur quod puulus assu 
+          <lb ed="#L" n="64"/>metur ad aequalitatem aliquorum angelorum: potest 
+          <lb ed="#L" n="65"/>concedi tota conclusio.
+        </p>
+        <p xml:id="rh-l4q1-d1e2967">
+          Ad tertium principale 
+          <lb ed="#L" n="66"/>quando arguitur quod si baptismus foret gratia effectiva 
+          <lb ed="#L" n="67"/>gre: tunc posset creatura causare. potest di- 
+          <lb ed="#L" n="68"/>ci quod aliquid dicitur causa effectiva dupliter: proprie et  
+          <lb ed="#L" n="69"/>metamphorice. sacra enim non sunt efficientes  
+          <lb ed="#L" n="70"/>causae propriae gre: sed solus deus. metaphorice 
+          <lb ed="#L" n="71"/>dicunt merita nostra causae tam gratiae quam augmen 
+          <lb ed="#L" n="72"/>ti grtie: et similiter sacra: quia ad perfectionem sacrorum  
+          <lb ed="#L" n="73"/>deus confert et causat gratiam. Et quando quaeritur an 
+          <lb ed="#L" n="74"/>efficit aliquid in anima an nihil. potest dici quod pro- 
+          <lb ed="#L" n="75"/>prie loquendo nihil efficit in anima: sed meta 
+          <lb ed="#L" n="76"/>prahoricae. Et quando ulterius quaeritur utrum est in sacris  
+          <lb ed="#L" n="77"/>alia virtus infiuta realiter an intentionaliter. Di 
+          <lb ed="#L" n="78"/>citur quod esse in: dicitur multipliciter: propriae et im 
+          <lb ed="#L" n="79"/>proprie. Solum improprie dicitur quod non est ali 
+          <lb ed="#L" n="80"/>ud nisi quod deus in susceptione sactorum super- 
+          <lb ed="#L" n="81"/>naturaliter in anima operatur gratiam. et sic non  
+          <lb ed="#L" n="82"/>sequitur in sacris omnibus antique legis genera- 
+          <lb ed="#L" n="83"/>liter in omni casu. nam sicut dicit magiser: circum- 
+          <lb ed="#L" n="84"/>lisio nihil grtea contulit ipsi Abrae libro iiii dist cilicet  
+          <lb ed="#L" n="85"/>c. x. in fi. Unde Pretii i quia i multi secularium.  
+          <lb ed="#L" n="86"/>hoc de corpore dnei nostri Iesu christi : hoc etiam  
+          <lb ed="#L" n="87"/>de baptismate et chrismate sentiendum est et te 
+          <lb ed="#L" n="88"/>nendum: quia virtus divina secretius operatur in  
+          <lb ed="#L" n="89"/>eis: et divina solummodo haec est virtus sive 
+          <lb ed="#L" n="90"/>potestas non huane efficacie. Et allegatur a ma 
+          <lb ed="#L" n="91"/>gistro in hoc iiii dit xiii c. i ante medinm.
+        </p>
+        <p xml:id="rh-l4q1-d1e3026">
+          <lb ed="#L" n="92"/>Ad quartum principale quando arguitur de duobus  
+          <lb ed="#L" n="93"/>catecuminis exsentibus in aequelibus meritis et  
+          <lb ed="#L" n="94"/>aequali deuotione ad haptismum: quorum alter mo 
+          <lb ed="#L" n="95"/>ritur in via etc. Dico quod aeternaliter et aequa 
+          <lb ed="#L" n="96"/>liter vterque praemiabitur. Et quando arguitur. er 
+          <lb ed="#L" n="97"/>go baptismus non valet. nego consequentiam: quia ex  
+          <lb ed="#L" n="98"/>quo habere non potuit: sed si contepsisset non fuis- 
+          <lb ed="#L" n="99"/>set aequalis deuotionis cum alio baptitato.
+        </p>
+        <p xml:id="rh-l4q1-d1e3046">
+          <lb ed="#L" n="100"/>Ad quintum quando dicitur quod si sic: tunc plus debe- 
+          <lb ed="#L" n="101"/>ret valere in adulto quod in pruulo. Dicitur quod ho  
+          <lb ed="#L" n="102"/>contingit diversimode secundum diversam disposi 
+          <lb ed="#L" n="103"/>tione adulti. Nam potest contingere quod adultus  
+          <lb ed="#L" n="104"/>henat gratiam et fidem et remissionem peccatorum an- 
+          <lb ed="#L" n="105"/>tequam haptiaretur. et certe sibi minus prodest ba 
+          <lb ed="#L" n="106"/>ptismus: quia sine baptismo si non conteneret po 
+          <!--211.xml-->
+          <pb ed="#L" n="106-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>test salvari et salvaretur cum sit iam dignus vita 
+          <lb ed="#L" n="2"/>aeterna. pruulus sine baptismo salvari non 
+          <lb ed="#L" n="3"/>potest. et tunc in casu plus valet baptismus pui 
+          <lb ed="#L" n="4"/>lo quam adulto. Unde quicumque adultus ad baptis  
+          <lb ed="#L" n="5"/>mum accedat non fictus: ipse est dignus vita 
+          <lb ed="#L" n="6"/>aeterna antequam haptigaretur. Si aut aliquis ac  
+          <lb ed="#L" n="7"/>cederet fictus: sibi omnino non prodesset: et ide. 
+          <lb ed="#L" n="8"/>nec magis nec minus paruulo.
+        </p>
+        <p xml:id="rh-l4q1-d1e3088">
+          Ad sextum  
+          <lb ed="#L" n="9"/>quando arguitur quod tunc haptismus deleret penam  
+          <lb ed="#L" n="10"/>atiffactoriam qua debet insligi pro peccatis. Concedo  
+          <lb ed="#L" n="11"/>quod deus delet: et acceptat satisfactionem passio  
+          <lb ed="#L" n="12"/>nis christi pro isto et quando dicitur tunc aliquid mane- 
+          <lb ed="#L" n="13"/>ret deordinatum: quia impunitum: et omne tale est  
+          <lb ed="#L" n="14"/>deordinatum secundum Anselmum Dico quod in adultis quod  
+          <lb ed="#L" n="15"/>non sunt ficti insit contritio pro peccatis. et ita or- 
+          <lb ed="#L" n="16"/>dinatur. Et quando arguitur de duobus: quorum unus con 
+          <lb ed="#L" n="17"/>mittit in cetuplo plura peccata: et tamen in centu 
+          <lb ed="#L" n="18"/>plo minus conteritur: et tamen vterque recipit com- 
+          <lb ed="#L" n="19"/>pletam veniam poene et culpe. Dico quod hoc  
+          <lb ed="#L" n="20"/>est verum. et quando infertur ergo remanet aliquid im 
+          <lb ed="#L" n="21"/>punitum. Potest dici sicut alias dixi: quod deus ordi 
+          <lb ed="#L" n="22"/>nat culpam non solum puniendo sicut Anselmum ibi  
+          <lb ed="#L" n="23"/>nimis stricte loquitur: immo sub bonis circum  
+          <lb ed="#L" n="24"/>stantiis ad honorem suum et suae bonitatis osten 
+          <lb ed="#L" n="25"/>sione culpam remittendo. et sive remittatur sive 
+          <lb ed="#L" n="26"/>puniat: bene eam ordinat.
+        </p>
+        <p xml:id="rh-l4q1-d1e3130">
+          Ad septimum quando ar 
+          <lb ed="#L" n="27"/>guitur. si sic: tunc baptismus contulisset christo 
+          <lb ed="#L" n="28"/>gratiam. nego consequentiam: quia baptismus Ioannis non 
+          <lb ed="#L" n="29"/>conferebat gratiam. sicut patet de consecra distitione iiii 
+          <lb ed="#L" n="30"/>non regenerabantur. Contra Meabiri id diciturm. Fuit in  
+          <lb ed="#L" n="31"/>deserto Ioannes haptieans et praedicans haptis- 
+          <lb ed="#L" n="32"/>mum poenitentiae in remissionem peccatorum. sed  
+          <lb ed="#L" n="33"/>remissio peccatorum non fit nisi per gratiam: igitur  
+          <lb ed="#L" n="34"/>etc Dicendum quod illa auctoritas debet exponi 
+          <lb ed="#L" n="35"/>ut illa duo participia haptinans et praedicans  
+          <lb ed="#L" n="36"/>referantur ad diversa baptismata: quia bapti 
+          <lb ed="#L" n="37"/>Fauit haptismo suo: et praedicauit haptismum  
+          <lb ed="#L" n="38"/>christi Uel ideo dicitur esse in remissionem pec 
+          <lb ed="#L" n="39"/>catorum: quia haptibatis imponebat agere di- 
+          <lb ed="#L" n="40"/>gnos fructus poenitentiae ex quibus sequitur remissio pec 
+          <lb ed="#L" n="41"/>catorum. Unde haptismus suus habuit quandam assi 
+          <lb ed="#L" n="42"/>stentiam ad haptismum christi: sicut dicitur in qpia i des  
+          <lb ed="#L" n="43"/>dit baptismum. vnde nec praeueris dabatur: sed tantum  
+          <lb ed="#L" n="44"/>adultis.
+        </p>
+        <p xml:id="rh-l4q1-d1e3173">
+          Ad octavum quando dicitur quod si intentio mi 
+          <lb ed="#L" n="45"/>nistri requireretur: deberet dubitare quilibet an 
+          <lb ed="#L" n="46"/>esset haptieatus etc. Dicendum quod qui ab infan 
+          <lb ed="#L" n="47"/>tia inter christianos conversatus est: nec de se 
+          <lb ed="#L" n="48"/>nec de alio debet dubitare quin sit baptiea  
+          <lb ed="#L" n="49"/>tus sine magna euidentia ad oppositum: prae- 
+          <lb ed="#L" n="50"/>sumitur enim esse baptibatus quae interchristianos  
+          <lb ed="#L" n="51"/>tamquam fidelis fuerit conversatus: sicut dicitur extra 
+          <lb ed="#L" n="52"/>de praesortero non haptiato citulo veniens. Contra 
+          <lb ed="#L" n="53"/>hanc tame psumptione probatio est admittenda 
+          <!--211.xml-->
+          <cb ed="#L" n="b"/><!--106rb-->
+          <lb ed="#L" n="54"/>si contra talem in foro iudicii agatur: sicut patuit su 
+          <lb ed="#L" n="55"/>perius articulo septimo. casu. xi. Et quando  
+          <lb ed="#L" n="56"/>dicitur quod si intentio requiratur: tunc sacerdos distra 
+          <lb ed="#L" n="57"/>ctus ebrius vel praner ludens non baptivaret  
+          <lb ed="#L" n="58"/>Dicendum quod si foret tanta distractio vel ita ve 
+          <lb ed="#L" n="59"/>haemens ebrietas vel ita ludus iste factus quod  
+          <lb ed="#L" n="60"/>nullo modo intenderet facere quod ecclesia in ba 
+          <lb ed="#L" n="61"/>ptietando facere consueuit: non haptiaret: sed  
+          <lb ed="#L" n="62"/>si cum distractione vel cum aliis quae non im 
+          <lb ed="#L" n="63"/>pedirent staret haec intentio: baptiratus est  
+          <lb ed="#L" n="64"/>Si vero versaretur in dubium ex aliqua cau 
+          <lb ed="#L" n="65"/>sa bona an sit haptixatus an non: potest sine 
+          <lb ed="#L" n="66"/>periculo sub conditione viera baptiari: vt patet  
+          <lb ed="#L" n="67"/>exa de baptismrum capitulo de quibus. Contra pono ali- 
+          <lb ed="#L" n="68"/>quem haptiatum et postea ordinatum in sacerdo  
+          <lb ed="#L" n="69"/>tem et postea negetur: probo postmodum contrarium  
+          <lb ed="#L" n="70"/>n foro iudicii quod non fuit baptiratus: iste debet  
+          <lb ed="#L" n="71"/>baptiari et iterum ordinari secundum casum supra 
+          <lb ed="#L" n="72"/>in hac responsione allegatum. ex de prestb vtero  
+          <lb ed="#L" n="73"/>non baptixatruo capitulo veniens. sit ita quod post ista  
+          <lb ed="#L" n="74"/>veniat alia probatio evidens et sufficiens qua 
+          <lb ed="#L" n="75"/>probatur sufficienter fuisse baptitatus: quaeritur an 
+          <lb ed="#L" n="76"/>sit irregularis: Dicendum est quod sic: quia reba- 
+          <lb ed="#L" n="77"/>ptieatus. igitur efficitur irregularis. de conse distintion 
+          <lb ed="#L" n="78"/>iiii cac. qui bis. vnde opet eum carere executiae  
+          <lb ed="#L" n="79"/>ne officii: nisi cum eo dispensetur.
+        </p>
+        <p xml:id="rh-l4q1-d1e3257">
+          Ad nonum  
+          <lb ed="#L" n="80"/>qando arguitur de fide aliena qua requiritur ad parim  
+          <lb ed="#L" n="81"/>lum baptius andum. Dicendum quod baptiratur ve 
+          <lb ed="#L" n="82"/>in fide ecclesie militantis: vel in virtute visio  
+          <lb ed="#L" n="83"/>nis ecclesie triumprehantis: nec obest infideli- 
+          <lb ed="#L" n="84"/>tas offerentium.
+        </p>
+        <p xml:id="rh-l4q1-d1e3270">
+          Ad decimum quod nullus potest  
+          <lb ed="#L" n="85"/>baptinare seipsum: salvabitur tamen qui hoc in ar 
+          <lb ed="#L" n="86"/>ticulo necessitatis fecerit non propter sacra- 
+          <lb ed="#L" n="87"/>mentum quod recepit: sed propter fidei deuotionem  
+          <lb ed="#L" n="88"/>et si superuixerit: debet ab aliobaptiari: et po- 
+          <lb ed="#L" n="89"/>nitur istae casus expresse de quodam iudeo. exr  
+          <lb ed="#L" n="90"/>de baptis. et eius esftfi capitulo debitum etc.
+        </p>
+      </div>
+    </div>
     </body>
   </text>
 </TEI>

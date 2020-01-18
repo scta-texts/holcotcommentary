@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 4, Quaestio 2 [Lyon 1518 Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 4, Quaestio 2 [Lyon 1518 Transcription]</title>
+          <date when="2020-01-18">January 18, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="Lyon1518">Lyon 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-01-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="106-r"/>
+        <cb ed="#L" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rh-l4q2">
+        <head xml:id="rh-l4q2-Hd1e97">Quaestio 2</head>
+        <head xml:id="rh-l4q2-Hd1e100" type="question-title">Utrum confirmatio sit sacramentum</head>
+        <div xml:id="rh-l4q2-Dd1e103">
+          <p xml:id="rh-l4q2-d1e105">
+            <lb ed="#L" n="91"/>Ueritur vtrum  
+            <lb ed="#L" n="92"/>confirmatio sit sacramer 
+            <lb ed="#L" n="93"/>tum:
+          </p>
+        </div>
+        <div xml:id="rh-l4q2-Dd1e115" type="rationes-principales">
+          <p xml:id="rh-l4q2-d1e117">
+            et videtur quod non.  
+            <lb ed="#L" n="94"/>Quia omne sacramen- 
+            <lb ed="#L" n="95"/>tum est institutum a christo:  
+            <lb ed="#L" n="96"/>ised hoc sacramentum non 
+            <lb ed="#L" n="97"/>est institutum a christo: igitur etc. Mino- 
+            <lb ed="#L" n="98"/>rem probo. quia non legitur in euangelio.
+          </p>
+          <p xml:id="rh-l4q2-d1e130">
+            <lb ed="#L" n="99"/>Item si sic: tunc haberet certam formam  
+            <lb ed="#L" n="100"/>et certam materiam . consequens est falsum.  
+            <lb ed="#L" n="101"/>quia apostoli nulla forma vsi leguntur: et si 
+            <lb ed="#L" n="102"/>ne quacumque materia confirmabant per solam ma 
+            <lb ed="#L" n="103"/>nun impositionem. Actuum. viii. tunc impone- 
+            <lb ed="#L" n="104"/>bant manus super illos etc
+          </p>
+          <p xml:id="rh-l4q2-d1e146">
+            Praeterea si sic: fo 
+            <lb ed="#L" n="105"/>ret sacramentum necessitatis: consequentia probatur 
+            <!--212.xml-->
+            <pb ed="#L" n="106-v"/>
+            <cb ed="#L" n="a"/>
+            <lb ed="#L" n="1"/>per illud Urbani. et ponitur de conse distintione xe capitl i 
+            <lb ed="#L" n="2"/>Omnes fideles per manus impositiones eporum  
+            <lb ed="#L" n="3"/>spiritumsctum post baptismum accipere debent:  
+            <lb ed="#L" n="4"/>ut pleni christiani inveniatur. sed necesse est ad sa 
+            <lb ed="#L" n="5"/>lutem quod homo sit plenus christianus.
+          </p>
+          <p xml:id="rh-l4q2-d1e168">
+            Praeterea  
+            <lb ed="#L" n="6"/>si sic: quilibet confirmatus posset confirmare: et quia  
+            <lb ed="#L" n="7"/>quilibet talis habet characterem confirmationis: potest 
+            <lb ed="#L" n="8"/>consimilem in eo causare.
+          </p>
+          <p xml:id="rh-l4q2-d1e177">
+            Item si sic: eps degra 
+            <lb ed="#L" n="9"/>datus posset confirmare: et posset consicere corpus  
+            <lb ed="#L" n="10"/>christi quia si semel potuit confirmare aut confi 
+            <lb ed="#L" n="11"/>cere corpus christi: semper poterit / ex quo chara 
+            <lb ed="#L" n="12"/>cter manet semper indelebilis.
+          </p>
+          <p xml:id="rh-l4q2-d1e189">
+            Oppositum  
+            <lb ed="#L" n="13"/>tamen habetur de consecraa distintione v per totum
+          </p>
+        </div>
+        <div xml:id="rh-l4q2-Dd1e195">
+          <head xml:id="rh-l4q2-Hd1e197">Responsio</head>
+            <p xml:id="rh-l4q2-d1e200">
+              Ad hanc  
+            <lb ed="#L" n="14"/>questionem dicendum est quod sic. Unde sciendum quod  
+            <lb ed="#L" n="15"/>iex sunt de substantia huius sacramenti: ma 
+            <lb ed="#L" n="16"/>teria et forma ex parte sui: dignitas pontifica 
+            <lb ed="#L" n="17"/>lis et intentio debita ex parte ministri: ex parte  
+            <lb ed="#L" n="18"/>autem confirmati quod habeat deuotionem seu vo- 
+            <lb ed="#L" n="19"/>luntatem: et quod sit baptiatus. quia haptismus est  
+            <lb ed="#L" n="20"/>ianva sacramentorum. distinctione liii solicitudo.  
+            <lb ed="#L" n="21"/>Materia est chrisma: quod est oleum balsama 
+            <lb ed="#L" n="22"/>et mixtura quaedam de oleo et balsamo ab 
+            <lb ed="#L" n="23"/>aepo consecrata. oleum vero debet esse olive 
+            <lb ed="#L" n="24"/>tantum. Forma est ista. Consigno te signo cruci- 
+            <lb ed="#L" n="25"/>Confirmo te chrismate salutis. In nomine pa 
+            <lb ed="#L" n="26"/>iris etc. licet quidam dicant / signo te chrisma- 
+            <lb ed="#L" n="27"/>te sanctificationis.
+          </p>
+        </div>
+        <div xml:id="rh-l4q2-Dd1e235">
+          <head xml:id="rh-l4q2-Hd1e237">Ad rationes principales</head>
+          <p xml:id="rh-l4q2-d1e240">
+            Ad primum dicendum quod  
+            <lb ed="#L" n="28"/>istud sacramentum fuit institutum a christo  
+            <lb ed="#L" n="29"/>Mat xix. ubi praeueris legitur manus imposuisse.  
+            <lb ed="#L" n="30"/>nec obstat quod nec in euangelio legitur / nec in 
+            <lb ed="#L" n="31"/>actibus aplsorum forma vel materia istius sa 
+            <lb ed="#L" n="32"/>cramenti: quia tam forma quam materia quorum 
+            <lb ed="#L" n="33"/>dam quae non sunt de necessitate salutis / occul 
+            <lb ed="#L" n="34"/>tanda erant in ecclesia primitiva propter il  
+            <lb ed="#L" n="35"/>risiones gentilium. Unde Dionvsius in fine 
+            <lb ed="#L" n="36"/>ecclesiastice hierarchie se excusat a determi 
+            <lb ed="#L" n="37"/>natione factorum sacramentalium.
+          </p>
+          <p xml:id="rh-l4q2-d1e264">
+            Per  
+            <lb ed="#L" n="38"/>quod patet ad secundum: tamen apostoli aliquao  
+            <lb ed="#L" n="39"/>forma vtebantur: licet non scribebatur.
+          </p>
+          <p xml:id="rh-l4q2-d1e271">
+            Ad ter 
+            <lb ed="#L" n="40"/>tium dicitur quod necessarium est non ad esse: sed ad  
+            <lb ed="#L" n="41"/>bene esse.
+          </p>
+          <p xml:id="rh-l4q2-d1e278">
+            Ad quartum dicitur quod communiter soli epe 
+            <lb ed="#L" n="42"/>possunt hoc sacramentum conferre: sed simpli- 
+            <lb ed="#L" n="43"/>ci sacerdoti potest committi. vide casum de cot 
+            <lb ed="#L" n="44"/>secra distintione u. manus. cum glos.
+          </p>
+          <p xml:id="rh-l4q2-d1e288">
+            Ad quintum di 
+            <lb ed="#L" n="45"/>cunt quidam quod sic: quia eps degradatus semper est  
+            <lb ed="#L" n="46"/>eps. Nota quare tenetur homo ad confirmatio 
+            <lb ed="#L" n="47"/>nem: quia est sacramentum ad foborandum: et ipse 
+            <lb ed="#L" n="48"/>se significat robore indigere. nec differt vtrum  
+            <lb ed="#L" n="49"/>mulier teneat virum an vir. Item loca unctio- 
+            <lb ed="#L" n="50"/>nis debent ligari panno quousque desiccen- 
+            <lb ed="#L" n="51"/>tur. et postea debet homo esse sub quadam disci- 
+            <lb ed="#L" n="52"/>plinam per septem dies: propter septisormem 
+            <lb ed="#L" n="53"/>grat: amilin. iiilussancti.  
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

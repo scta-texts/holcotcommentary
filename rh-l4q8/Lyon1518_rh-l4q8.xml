@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 4, Quaestio 8 [Lyon 1518 Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 4, Quaestio 8 [Lyon 1518 Transcription]</title>
+          <date when="2020-01-18">January 18, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="Lyon1518">Lyon 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-01-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="120-r"/>
+        <cb ed="#L" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rh-l4q8">
+        <head xml:id="rh-l4q8-Hd1e97">Quaestio 8</head>
+        <head xml:id="rh-l4q8-Hd1e100" type="question-title">Utrum finale praemium boni viatoris sit aeterna beatitudo</head>
+        <div xml:id="rh-l4q8-Dd1e103">
+          <p xml:id="rh-l4q8-d1e105">
+          <lb ed="#L" n="39"/>Ueritur vtrum fi 
+          <lb ed="#L" n="40"/>nale praemium boni viatoris 
+          <lb ed="#L" n="41"/>sit aeterna beatitudo:
+          </p>
+        </div>
+        <div xml:id="rh-l4q8-Dd1e115" type="rationes-principales">
+          <head xml:id="rh-l4q8-Hd1e117">Rationes principales</head>
+          <p xml:id="rh-l4q8-d1e120">
+            Et videtur  
+          <lb ed="#L" n="42"/>quod non: quia si sic: sequeretur quod  
+          <lb ed="#L" n="43"/>praemium boni viatoris foret  
+          <lb ed="#L" n="44"/>guadium infinitum. consequens est falsum: quia po- 
+          <lb ed="#L" n="45"/>tentia finita non est capax alicuius infiniti:  
+          <lb ed="#L" n="46"/>nec etiam cuiuscumque qualitatis infinitae perfe 
+          <lb ed="#L" n="47"/>ctionis consequentiam probo multipliciter. Primo sic.  
+          <lb ed="#L" n="48"/>actus quo distincte cognoscerentur infinita  
+          <lb ed="#L" n="49"/>si essent: esset infinitae perfectionis: sed act  
+          <lb ed="#L" n="50"/>quo distincte cognoscitur deus / est perfectior  
+          <lb ed="#L" n="51"/>quod foret talis actus si esset: quo distincte co 
+          <lb ed="#L" n="52"/>gioscerentur infinitae creature. ergo actus quo 
+          <!--239.xml-->
+          <cb ed="#L" n="b"/><!--120rb-->
+          <lb ed="#L" n="53"/>cognoscitur deus distinctae: est infinitae perfe- 
+          <lb ed="#L" n="54"/>ctionis. Maior patet: quia maioris perfectionis est  
+          <lb ed="#L" n="55"/>cognoscere duas personas creatas quam vnam: et  
+          <lb ed="#L" n="56"/>tres quam duas. ergo infinite perfectionis est co- 
+          <lb ed="#L" n="57"/>gnoscere infinitas distinctae. Minor osten- 
+          <lb ed="#L" n="58"/>ditur: quia actus cognoscendi deum clare videndo  
+          <lb ed="#L" n="59"/>est beatificus: et alius non: ergo multo melior quo- 
+          <lb ed="#L" n="60"/>csique alio non cognoscendi deum. vnde Augustinum us . coment 
+          <lb ed="#L" n="61"/>fiel capitulo iii Qui te novit et alia: non propter il- 
+          <lb ed="#L" n="62"/>la beatior: sed propter solum te beatus.
+          </p>
+          <p xml:id="rh-l4q8-d1e173">
+            Secundo  
+          <lb ed="#L" n="63"/>sic perfectioris obiecti perfectior est cognitio. ii 
+          <lb ed="#L" n="64"/>de anima c. i sed deus infinitae excedit quodcumque  
+          <lb ed="#L" n="65"/>aliud obiectum cognoscibile. ergo eius cognitio 
+          <lb ed="#L" n="66"/>est perfectionis infinitae.
+          </p>
+          <p xml:id="rh-l4q8-d1e184">
+            Tertio sic. Ansel 
+          <lb ed="#L" n="67"/>mus de similibus capitulo lx In beatitudine omnes an  
+          <lb ed="#L" n="68"/>geli et singuli ab omnibus cognoscentur: nec quic 
+          <lb ed="#L" n="69"/>quod omnino latebit. immo dicit quod omnes beati omnia  
+          <lb ed="#L" n="70"/>scient quo deus fecit scienda. Et prosolilis xv. dicit  
+          <lb ed="#L" n="71"/>quod quilibet gaudebit de gaudio alterius non  
+          <lb ed="#L" n="72"/>minus quam de propriolgaudio. pono ergo Petrum 
+          <lb ed="#L" n="73"/>et Paulum duos bions: et sit a gaudium in Pau 
+          <lb ed="#L" n="74"/>lo de quo gaudet Petrus: et sit gaudium illud  
+          <lb ed="#L" n="75"/>b. Tunc sic. Paulus de nouo videt b in Pe 
+          <lb ed="#L" n="76"/>tro ergo plus gaudet quam prius. sit autem c gratia  
+          <lb ed="#L" n="77"/>dus. et istum gradum videt Petrus. ergo plus  
+          <lb ed="#L" n="78"/>guadet quam prius. sit autem per d. et sic isti duo  
+          <lb ed="#L" n="79"/>beati in infinitum sic intendant sua gaudia.  
+          <lb ed="#L" n="80"/>et sic non est dare summum gaudium beati  
+          <lb ed="#L" n="81"/>nec summum gradum beatitudinis.
+          </p>
+          <p xml:id="rh-l4q8-d1e219">
+            Quar 
+          <lb ed="#L" n="82"/>to sub hac forma. si gaudium quod habet beatus de 
+          <lb ed="#L" n="83"/>deo / non sit infinitum intensive sed finitum: sit ta  
+          <lb ed="#L" n="84"/>le gaudium a. et arguitur sic. creatura potest causa 
+          <lb ed="#L" n="85"/>re aliquod gaudium puta b. ergo perfectior cre 
+          <lb ed="#L" n="86"/>atura potest causare perfectius gaudium: ergo cum a 
+          <lb ed="#L" n="87"/>non excedat b in infinitum: et deus potest causa- 
+          <lb ed="#L" n="88"/>re perfectiorem vltra quamcumque creaturam: sequitur  
+          <lb ed="#L" n="89"/>quod erit devenire ad aliquam quae poterit cau  
+          <lb ed="#L" n="90"/>sare gaudium tantum in homine quantum est a. et pro  
+          <lb ed="#L" n="91"/>consequens creatura causabit in homine tantum gaudin  
+          <lb ed="#L" n="92"/>quantum habebit in beatitudine.
+          </p>
+          <p xml:id="rh-l4q8-d1e246">
+            Quinto  
+          <lb ed="#L" n="93"/>sub hac forma. Pettus gaudet de sua visio  
+          <lb ed="#L" n="94"/>ne: sit illud gaudium a. quaero uvtrum gaudet  
+          <lb ed="#L" n="95"/>de a an non: Non potest dici quod non: quia secundum An 
+          <lb ed="#L" n="96"/>selmum capitulo vii de septem beatitudinibus: bea  
+          <lb ed="#L" n="97"/>tus nihil habebit vnde gaudere non debeat  
+          <lb ed="#L" n="98"/>Si sic: quaero utrum gaudet de a per ipsum  
+          <lb ed="#L" n="99"/>a / an per aliud gaudium: Si per aliud: eadem  
+          <lb ed="#L" n="100"/>ratione gaudebit de illo alio per tertium:  
+          <lb ed="#L" n="101"/>de tertio per quartum: et sic in infinitum:  
+          <lb ed="#L" n="102"/>vel erit devenire quod habebit aliquod gaudi 
+          <lb ed="#L" n="103"/>um de quo non gaudebit. ergo in quolibet  
+          <lb ed="#L" n="104"/>beato erunt gaudia infinita.
+          </p>
+          <p xml:id="rh-l4q8-d1e275">
+            Si di- 
+          <lb ed="#L" n="105"/>catur quod beatus talis gaudet per ipsum:  
+          <!--240.xml-->
+          <pb ed="#L" n="120-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>et non per aliud:. Contra hoc arguo: quia tunc se- 
+          <lb ed="#L" n="2"/>quitur quod idem gaudium habebit de deo et de  
+          <lb ed="#L" n="3"/>creatura : quod esset deordinatum. consequentia patet: quia  
+          <lb ed="#L" n="4"/>eodem gaudio formaliter non potest gaudere  
+          <lb ed="#L" n="5"/>magis et minus.
+          </p>
+          <p xml:id="rh-l4q8-d1e297">
+            Secundo quia vel gaudium  
+          <lb ed="#L" n="6"/>est actus voluntatis: vel passio. si actus: et secundum  
+          <lb ed="#L" n="7"/>Anselmus de libero arb. c. vii voluntas quam voco  
+          <lb ed="#L" n="8"/>instrumentum / vna et eadem est semper: quicquid ve 
+          <lb ed="#L" n="9"/>limus. illa vero quae est opus: est causa mul 
+          <lb ed="#L" n="10"/>tiplex quam multa et quam saepe volumus. ergo ad  
+          <lb ed="#L" n="11"/>diversitatem obiecti sequitur diversitas gau 
+          <lb ed="#L" n="12"/>dii. sed a est aliud obiectum quam visio vel deus  
+          <lb ed="#L" n="13"/>ergo aliud gaudium habet de a quam de visione vel 
+          <lb ed="#L" n="14"/>de deo. ergo beatus per a non gaudet de a. Si  
+          <lb ed="#L" n="15"/>dicatur quod gaudium est passio: tunc arguitur  
+          <lb ed="#L" n="16"/>sic. distincta obiecta delectabilia causant di 
+          <lb ed="#L" n="17"/>stinctas delectationes: sed a et visio et deus  
+          <lb ed="#L" n="18"/>sunt distincta obiecta delectabilia: ergo causa 
+          <lb ed="#L" n="19"/>bunt distinctas delectationes: ergo delecta 
+          <lb ed="#L" n="20"/>tio a non potest esse per ipsum a. Praeterea si- 
+          <lb ed="#L" n="21"/>ve gaudium sit actus voluntatis sive passio:  
+          <lb ed="#L" n="22"/>opret necessario quod obiectum concurrat in ratione 
+          <lb ed="#L" n="23"/>causae partialis effective. sed nihil efficit se 
+          <lb ed="#L" n="24"/>partialiter. ergo gaudium de a erat aliud al 
+          <lb ed="#L" n="25"/>a.
+          </p>
+          <p xml:id="rh-l4q8-d1e343">
+            Sexto sub hac forma. Si gaudium bea  
+          <lb ed="#L" n="26"/>ti intenderetur in infinitum: ergo est gaudium virtu 
+          <lb ed="#L" n="27"/>tis infinitae. Antecedens probo: quia dilectio dei inten  
+          <lb ed="#L" n="28"/>deretur in infinitum: sed quanto beatus ma 
+          <lb ed="#L" n="29"/>gits diligit : tanto magis gaudet. ergo gaudium  
+          <lb ed="#L" n="30"/>beati intenderetur in infinitum. Maior probatur 
+          <lb ed="#L" n="31"/>quia quaero utrum plato plus diligit deum hodie 
+          <lb ed="#L" n="32"/>quod fecit heri an non: Si sic: pari ratione cras di 
+          <lb ed="#L" n="33"/>liget plus quam fecit hodie: et pendie plus quam  
+          <lb ed="#L" n="34"/>cras: et sici infinitum. Si non diligit plus ho- 
+          <lb ed="#L" n="35"/>die quod fecit heri. Contra. plus obligatur deo  
+          <lb ed="#L" n="36"/>hodie / quam tenebatur heri: quia tantum tenetur ho 
+          <lb ed="#L" n="37"/>die: et adhuc plus: quia deus plus fecit pro eo  
+          <lb ed="#L" n="38"/>hodie quam fecerit heri. hoc patet: quia deus conser- 
+          <lb ed="#L" n="39"/>vauit eum in beatitudine per unum diem plus  
+          <lb ed="#L" n="40"/>quam fecerat: sed hoc est maius beneficium quo  
+          <lb ed="#L" n="41"/>aliquod beneficium temporale in infinitum. ergo magis  
+          <lb ed="#L" n="42"/>tenetur plato deo pro conseruatione beatitudinis  
+          <lb ed="#L" n="43"/>per die supra illud quod tenebatur heri: quantum  
+          <lb ed="#L" n="44"/>homo potest teneri deo pro quacumque re temporali. sed pro 
+          <lb ed="#L" n="45"/>beneficio temporali constat quod homo obligatur deo: ergo  
+          <lb ed="#L" n="46"/>Petrus longe magis obligatur deo hodie quod  
+          <lb ed="#L" n="47"/>heri. ergo si non est ingratus: magis diligit deum:  
+          <lb ed="#L" n="48"/>et maiori delectatione magis gaudet: ergo in  
+          <lb ed="#L" n="49"/>eternum sic augebitur suum gaudium.
+          </p>
+          <p xml:id="rh-l4q8-d1e398">
+            Septimo 
+          <lb ed="#L" n="50"/>sic sub hac forma. reuelatum est beato quod erit  
+          <lb ed="#L" n="51"/>in gaudio in aeternum: ergo quaero utrum ta- 
+          <lb ed="#L" n="52"/>lis securitas causat in eo gaudium infinitum  
+          <lb ed="#L" n="53"/>an tantum finitum: Si primum: habetur proposi- 
+          <!--240.xml-->
+          <cb ed="#L" n="b"/><!--120vb-->
+          <lb ed="#L" n="54"/>tum. Si secundum: sit a gradus intensionis illius  
+          <lb ed="#L" n="55"/>gudii. Et arguo sic. securitas de duobus  
+          <lb ed="#L" n="56"/>diebus causat in eo aliquod gaudium: et securi 
+          <lb ed="#L" n="57"/>tas de tribus maius: et de quatuor maius ergo  
+          <lb ed="#L" n="58"/>est devenire ad securitatem ab aliquo nume 
+          <lb ed="#L" n="59"/>ro certo dierum: quae tantum causabit quantum est  
+          <lb ed="#L" n="60"/>a et sic sequitur quod aliquis tantum gaudebit si vide 
+          <lb ed="#L" n="61"/>ret deum per mille annos: sicut si videret deum  
+          <lb ed="#L" n="62"/>in aeternum. quod videtur fatuum: quia aequaliter gaude  
+          <lb ed="#L" n="63"/>ret de maiori bono et de minori: et de infini 
+          <lb ed="#L" n="64"/>to et de transitorio.
+          </p>
+          <p xml:id="rh-l4q8-d1e439">
+            Octavo. aliquod bonum  
+          <lb ed="#L" n="65"/>obiectum est maxime proportionatum intellectu  
+          <lb ed="#L" n="66"/>humano. sit illud a cuius proportio ad intel 
+          <lb ed="#L" n="67"/>lectum vocetur b. Tunc arguitur sic. quanto ali 
+          <lb ed="#L" n="68"/>quid recedit a proportione b: tanto est minus intel 
+          <lb ed="#L" n="69"/>ligibile ab intellectu huano: sed deus in infini 
+          <lb ed="#L" n="70"/>tum recedit a proportione b: ergo est infinite dif 
+          <lb ed="#L" n="71"/>ficultatis intelligere deum. ergo per consequens si beatus  
+          <lb ed="#L" n="72"/>ntelligit clare deum: intellectus beati erit infi 
+          <lb ed="#L" n="73"/>nitae virtutis: quod est propositum principale.
+          </p>
+          <p xml:id="rh-l4q8-d1e462">
+            No  
+          <lb ed="#L" n="74"/>no sic de aliquo malo rationabiliter est tristan 
+          <lb ed="#L" n="75"/>dum infinitae. ergo de deo clare viso est gauden- 
+          <lb ed="#L" n="76"/>dum infinitae. consequentia patet. quia de nullo malo pene 
+          <lb ed="#L" n="77"/>est amplius tristandum / quam de beatitudine est  
+          <lb ed="#L" n="78"/>guadendum: quia miseria poene non est ita inten 
+          <lb ed="#L" n="79"/>se mala sicut beatitudo est bona. Antecedens probo 
+          <lb ed="#L" n="80"/>quia si constaret alicui de poena insligenda per du 
+          <lb ed="#L" n="81"/>os dies: deberet rationabiliter tristari et si per tres 
+          <lb ed="#L" n="82"/>dies: plus. et per quatuor adhuc plus. et per  
+          <lb ed="#L" n="83"/>consequens si constaret ei quod poena infernalis esset ei  
+          <lb ed="#L" n="84"/>insligenda per infinitum tempus: deberet rationabiliter 
+          <lb ed="#L" n="85"/>magis tristari / quam de tali poena infligenda per 
+          <lb ed="#L" n="86"/>quatuor dies tantum. Quaero ergo utrum infinitae  
+          <lb ed="#L" n="87"/>magis an tantum finitae: Si finite: habetur 
+          <lb ed="#L" n="88"/>propositum: quod pro aliquo malo pene debet homo tri- 
+          <lb ed="#L" n="89"/>ntari rationabiliter infinitae. Si infinitae: ergo rationabiliter 
+          <lb ed="#L" n="90"/>aequaliter deberet homo tristari de poena aequali  
+          <lb ed="#L" n="91"/>per certum tempus duratura: sicut de duratura in  
+          <lb ed="#L" n="92"/>perpetuum.
+          </p>
+          <p xml:id="rh-l4q8-d1e506">
+            Decimo. aut deus per claram visio- 
+          <lb ed="#L" n="93"/>nem apparet beato bonum infinitum aut finitum.  
+          <lb ed="#L" n="94"/>Si bonum finitum tantum: ergo cum deus potest super  
+          <lb ed="#L" n="95"/>omne bonum creatum apparens beato racere bo 
+          <lb ed="#L" n="96"/>num perfectius secundum apparentiam eiusdem: sequi 
+          <lb ed="#L" n="97"/>tur quod deus potest facere aliquod bonum creatum ap 
+          <lb ed="#L" n="98"/>parere ita bonum beato sicut nunc apparet  
+          <lb ed="#L" n="99"/>ipse deus. ergo beatus licitae potest illud bonum  
+          <lb ed="#L" n="100"/>aeque bonum diligere cum deo secundum rectam rationem:  
+          <lb ed="#L" n="101"/>consequens est falsum. Si deus apparet infinitum  
+          <lb ed="#L" n="102"/>bonum: ergo beatus comprehendit deum: quia nihil latet  
+          <lb ed="#L" n="103"/>eum. Probo. quia dicitur vii metaphysi. Simplicia aut  
+          <lb ed="#L" n="104"/>totaliter ignorantur: aut totaliter cognoscun 
+          <lb ed="#L" n="105"/>tur.
+          </p>
+          <p xml:id="rh-l4q8-d1e537">
+            Confirmatur ista ratio sic. deus appa 
+          <lb ed="#L" n="106"/>ret beato infinite bonus: ergo apparet beate  
+          <!--241.xml-->
+          <pb ed="#L" n="121-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>ita bonus sicut est: sed impossibile est ali- 
+          <lb ed="#L" n="2"/>quam creaturam apparere alicui intellectui ita  
+          <lb ed="#L" n="3"/>bonam sicut est: nisi apprehendatur a tali intel 
+          <lb ed="#L" n="4"/>lectu: ergo eadem ratione si deus apparet beato ita bo 
+          <lb ed="#L" n="5"/>nus sicut est: beatus appraehederet deum. quod  
+          <lb ed="#L" n="6"/>est impossibile: nisi sit virtutis infinitae : quod est  
+          <lb ed="#L" n="7"/>propositum.
+          </p>
+          <p xml:id="rh-l4q8-d1e563">
+            Undecimo sic. omnis potentia co 
+          <lb ed="#L" n="8"/>gnitiva qua potest simul et semel aeque distincte co- 
+          <lb ed="#L" n="9"/>gnoscere octo sicut tria: vel mille sicut cen- 
+          <lb ed="#L" n="10"/>tum: et sic de quolibet numero finito sine sta 
+          <lb ed="#L" n="11"/>tu: est virtutis infinitae in cognoscendo: sed omnis  
+          <lb ed="#L" n="12"/>intellectus creatus tam beatus quod miser est huiusmoni:  
+          <lb ed="#L" n="13"/>ergo omnis intellectus creatus est virtutis infin 
+          <lb ed="#L" n="14"/>te intensivae. Maior patet ex modo arguendi philosoph 
+          <lb ed="#L" n="15"/>iiii. Physicrum ubi probat quod si duo corpora possunt 
+          <lb ed="#L" n="16"/>esse in eodem loco: pari ratione tria et infinita  
+          <lb ed="#L" n="17"/>ex processu eiusdem iii de celo. vbi agit de de 
+          <lb ed="#L" n="18"/>terminatione potentiae active et passive. Mi  
+          <lb ed="#L" n="19"/>norem probo ex duabus propositionibus: quarum vna 
+          <lb ed="#L" n="20"/>est quod quilibet beatus nouit gaudium alterius: et  
+          <lb ed="#L" n="21"/>guadet de gaudio alterius. Secunda est quod non  
+          <lb ed="#L" n="22"/>oparet cognitionem vel gaudium beatorum minul 
+          <lb ed="#L" n="23"/>vel remitti per hoc quod aliquis de nouo beatifi 
+          <lb ed="#L" n="24"/>catur. et eodem modo suppono de miseris: quod qui  
+          <lb ed="#L" n="25"/>libet tristatur de esse alterius: et quod tristitia eo- 
+          <lb ed="#L" n="26"/>rum non minuitur: sed potius augetur per hoc quod aliquis 
+          <lb ed="#L" n="27"/>de nouo damnabitur. Istis suppositis arguo  
+          <lb ed="#L" n="28"/>sic. si omnis intellectus tam beatus quod miser aeque di 
+          <lb ed="#L" n="29"/>stinctae et simul cognoscit mille et vnum sicut prius  
+          <lb ed="#L" n="30"/>cognovit mille tantum: et postea mille et duo: et  
+          <lb ed="#L" n="31"/>postea mille et tria: aeque distinctae gaudet  
+          <lb ed="#L" n="32"/>de eis si est beatus: vel dolet si est miser. ergo  
+          <lb ed="#L" n="33"/>si intellectus creatus potest damnari vel salvari secundum  
+          <lb ed="#L" n="34"/>positionem fidei: sequitur quod omnis intellectus crea 
+          <lb ed="#L" n="35"/>tus est infinitae potentiae sive virtutis intensiue
+          </p>
+          <p xml:id="rh-l4q8-d1e626">
+          <lb ed="#L" n="36"/>Duo decimo. vltra omnem gradum beatitu:  
+          <lb ed="#L" n="37"/>nis quem potest recipere intellectus sortis potest re- 
+          <lb ed="#L" n="38"/>cipere maiorem: ergo est infinitae virtutis vel intfi 
+          <lb ed="#L" n="39"/>nite capacitatis. Antecedens probo: quia si non: aut est  
+          <lb ed="#L" n="40"/>dare maximum gradum beatitudinis quem potest  
+          <lb ed="#L" n="41"/>recipere: aut minimum quem non potest. Si primum  
+          <lb ed="#L" n="42"/>pono aliquem viatorem quia iam habeat guadum  
+          <lb ed="#L" n="43"/>meriti: cui tanta beatitudo corrundet quantam  
+          <lb ed="#L" n="44"/>potest capere: et volo quod deus conservet eum via 
+          <lb ed="#L" n="45"/>torem: quaero tunc utrum ipse potest mereri prae 
+          <lb ed="#L" n="46"/>mium essentiale an non: Si sic: ergo gradus beati 
+          <lb ed="#L" n="47"/>tudinis sibi datus non fuit maximus quem praet re 
+          <lb ed="#L" n="48"/>cipere. Si non: contra. omnis viator liberi arbitri est 
+          <lb ed="#L" n="49"/>deo magis acceptus in maiori charitate exsns  
+          <lb ed="#L" n="50"/>quam fuit quando non habuit medietatem istius meri- 
+          <lb ed="#L" n="51"/>ti ergo sua opera non sunt aeque sed magis accepta 
+          <lb ed="#L" n="52"/>deo nunc sicut prius ergo potest mereri vltra gau  
+          <lb ed="#L" n="53"/>dium datum.
+          </p>
+          <p xml:id="rh-l4q8-d1e668">
+            Si dicatur quod est dare minimum quem  
+          <!--241.xml-->
+          <cb ed="#L" n="b"/><!--121rb-->
+          <lb ed="#L" n="54"/>non potest recipere. Contra. vel ille gradus est infi 
+          <lb ed="#L" n="55"/>nitus vel finitus. Si finitus: tunc non distat a gratia 
+          <lb ed="#L" n="56"/>du quem modo habet nisi per finitam bonitate. ergo si  
+          <lb ed="#L" n="57"/>deus continuet talem in statu merendi per tempus maius 
+          <lb ed="#L" n="58"/>et maius: poterit pertingere ad gradum illum. Si  
+          <lb ed="#L" n="59"/>gradus sit infinitus: ergo omnem gradum circa illum  
+          <lb ed="#L" n="60"/>poterit recipere. sed circa illu contingit recipere 
+          <lb ed="#L" n="61"/>gradum aliquantae perfectionis: et sic in infinitum. ergo  
+          <lb ed="#L" n="62"/>e capacitatis infinitae.
+          </p>
+          <p xml:id="rh-l4q8-d1e696">
+            Secundo ad principale:  
+          <lb ed="#L" n="63"/>si beatitudo foret finale praemium boni viatoris  
+          <lb ed="#L" n="64"/>sequeretur quod omnes viatores praemiarentur aequaliter 
+          <lb ed="#L" n="65"/>consequens est falsum: sicut notu est. consequentiam probo  
+          <lb ed="#L" n="66"/>multipliciter. Primo modo sic beatitudo principa- 
+          <lb ed="#L" n="67"/>liter consistit in visione et dilectione dei: sed omnes  
+          <lb ed="#L" n="68"/>videbunt deum aequiliter. Probo: quia omnes videbunt  
+          <lb ed="#L" n="69"/>deum sicuti est: sed non est nisi vno modo tantum.  
+          <lb ed="#L" n="70"/>omnes videbunt vno modo aequaliter.
+          </p>
+          <p xml:id="rh-l4q8-d1e716">
+            Confirmatur  
+          <lb ed="#L" n="71"/>haec ratio per Augustinus lxxxiii apiti capitulo xxxi eandem rem non  
+          <lb ed="#L" n="72"/>potest alius: alio melius intelligere: et hoc est mo 
+          <lb ed="#L" n="73"/>tivum suum: vel intelligit eam sicut est: vel aliter 
+          <lb ed="#L" n="74"/>quam est. si intelligit aliter quam est: non intelligit : sed  
+          <lb ed="#L" n="75"/>tallitur. et si vterque intelligit sicuti est: neuter  
+          <lb ed="#L" n="76"/>melius alio intelligit.
+          </p>
+          <p xml:id="rh-l4q8-d1e732">
+            Secundo sic. tantum gau  
+          <lb ed="#L" n="77"/>det Linus quantum beata vergo ergo pari ratione omnes  
+          <lb ed="#L" n="78"/>alii aequaliter gaudebunt seu gaudent. consequentia patet  
+          <lb ed="#L" n="79"/>gratia materie. Antecedens probo: quia si Linus haberet  
+          <lb ed="#L" n="80"/>in se gaudium beate verginis: tantum gauderet  
+          <lb ed="#L" n="81"/>tunc quantum nunc gaudet beata virgo: sed Li  
+          <lb ed="#L" n="82"/>nus nunc tantum gaudet de gaudio beatem vir  
+          <lb ed="#L" n="83"/>ginis: quantum gauderet de illo gaudio si esset  
+          <lb ed="#L" n="84"/>in se: ergo nunc tantum gaudet quantum beata virgo.  
+          <lb ed="#L" n="85"/>Maior est manifesta. Et minor est Anselmus pro 
+          <lb ed="#L" n="86"/>somles xxv. quia si Linus non gauderet tantum de 
+          <lb ed="#L" n="87"/>gudio beatem verginis quantum faceret de eodem  
+          <lb ed="#L" n="88"/>gaudio si esset suum: ergo minus diligit beatam  
+          <lb ed="#L" n="89"/>virginem quam seipsum. consequens falsum: quia sicut dicit  
+          <lb ed="#L" n="90"/>ibidem Anselmus in illa charitate perfecta innume 
+          <lb ed="#L" n="91"/>rabilium angelorum et hominim unus non diligit  
+          <lb ed="#L" n="92"/>alium minus quod seipsum. consequens falsum. quia sicut di 
+          <lb ed="#L" n="93"/>cit ibidem Anselmus et expressius habetur eadem minor 
+          <lb ed="#L" n="94"/>a mgisfoli iiii dsintione xlix capitulo iiii ubi dicit sic Tantum  
+          <lb ed="#L" n="95"/>quisque gaudebit de bono alterius: quantum  
+          <lb ed="#L" n="96"/>gauderet si in seipso haberet illud : quod est proposi 
+          <lb ed="#L" n="97"/>tum
+          </p>
+          <p xml:id="rh-l4q8-d1e780">
+            Tertio Augustinus dicit in sententiis Prospe 
+          <lb ed="#L" n="98"/>ri. Erit ibi omibus in dispari claritate par 
+          <lb ed="#L" n="99"/>guadium. et allegatur a magisero loco praedicto: ergo  
+          <lb ed="#L" n="100"/>omnes gaudebunt aequaliter.
+          </p>
+          <p xml:id="rh-l4q8-d1e789">
+            Quarto sic. omnis ho 
+          <lb ed="#L" n="101"/>naturaliter appetit beatitudinem secundum Augustinum  
+          <lb ed="#L" n="102"/>xiii de triria ca icu. iii et allegat magiter libro iiii distintione 
+          <lb ed="#L" n="103"/>xli capitulo ii diffuse. sed illud quod omnes naturaliter 
+          <lb ed="#L" n="104"/>appetunt: aequaliter appetunt: vt videtur.  
+          <lb ed="#L" n="105"/>ergo aequaliter appetunt vel diligent in pa 
+          <lb ed="#L" n="106"/>tria: quia gloria non tollit naturam: sed perfi- 
+          <!--242.xml-->
+          <pb ed="#L" n="121-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>cit: ergo omnes aequaliter beatificabuntur: quia na- 
+          <lb ed="#L" n="2"/>turalis appetitus omnim satiabitur.
+          </p>
+          <p xml:id="rh-l4q8-d1e815">
+            Confirmatur  
+          <lb ed="#L" n="3"/>ista ratio. quia in Lino est naturalis appetitus ad  
+          <lb ed="#L" n="4"/>habendam tantam gloriam quantam habet beata vergo: sed  
+          <lb ed="#L" n="5"/>Linus non peccat si se conformet appetitui na- 
+          <lb ed="#L" n="6"/>turali: volendo illud libere quod appetitus na- 
+          <lb ed="#L" n="7"/>turalis: quia est a deo: ergo licet Lino appetere  
+          <lb ed="#L" n="8"/>appetitu deliberativo gradum btitudinis  
+          <lb ed="#L" n="9"/>btem vergis: sed quicquid licebit Lino appetere: iec  
+          <lb ed="#L" n="10"/>habebit: ergo etc.
+          </p>
+          <p xml:id="rh-l4q8-d1e836">
+            Quinto arguo sic. omnes cogno  
+          <lb ed="#L" n="11"/>scent deum aequaliter: ergo erunt aequaliter beati. consequentia patet  
+          <lb ed="#L" n="12"/>quia haec est vita aeterna. Ioannes xvii antecedens probatio. quia  
+          <lb ed="#L" n="13"/>obiectum quod est deus: est aequaliter praesens cuilibet:  
+          <lb ed="#L" n="14"/>et potentia cuiussibet cognitiva potest deum co 
+          <lb ed="#L" n="15"/>gnoscere aequaliter sicut aliqua potentia cogni- 
+          <lb ed="#L" n="16"/>tiva alterius. ergo aeque perfectum actum elicit. Quod  
+          <lb ed="#L" n="17"/>autem obiectum sit aequaliter praesens videtur: quia qui 
+          <lb ed="#L" n="18"/>libet videt ipsum intuitive: et betificae facie ad  
+          <lb ed="#L" n="19"/>faciem: sicut sacra scriptura loquitur. et essen  
+          <lb ed="#L" n="20"/>tia divina naturaliter repsentat quicquid repiur. 
+          <lb ed="#L" n="21"/>tat. Similiter quod quilibet intelletus potest aequaliter 
+          <lb ed="#L" n="22"/>cognoscere deum sicut alius patet sic quia si non:  
+          <lb ed="#L" n="23"/>sit ille intellectus Lini quo non potest ita perfe- 
+          <lb ed="#L" n="24"/>cte cognoscere deum sicut intellectus Petri 
+          <lb ed="#L" n="25"/>Et pono quod deus faciat Linum viatorem: vel  
+          <lb ed="#L" n="26"/>aliquem intellectum aequalem illi: non est cura:  
+          <lb ed="#L" n="27"/>tunc intellectus Lini potest mereri si conseruetur in  
+          <lb ed="#L" n="28"/>vita: tantum praemium quantum meruit Petrus. Et per 
+          <lb ed="#L" n="29"/>rsponsionem non potest habere tantam cognitionem dei  
+          <lb ed="#L" n="30"/>quantam habet Petrus: ergo plus potest mereri quam deus  
+          <lb ed="#L" n="31"/>possit sibi dare: quod non apparet conveniens. ergo  
+          <lb ed="#L" n="32"/>omnis intellectus potest cognoscere aequaliter deum  
+          <lb ed="#L" n="33"/>sicut alius.
+          </p>
+          <p xml:id="rh-l4q8-d1e888">
+            Confirmatur ista ratio: quia omnis anima  
+          <lb ed="#L" n="34"/>potest aequaliter deum diligere: ergo aequaliter intelli 
+          <lb ed="#L" n="35"/>gere aens patet iii de anima ubi dicitur quod anima est  
+          <lb ed="#L" n="36"/>quodammo omnia: et intelletus possibilis est im 
+          <lb ed="#L" n="37"/>potentia ad omnia intelligibilia. Similiter quia omnis  
+          <lb ed="#L" n="38"/>anima videtur esse aequaliter imago dei: ergo aeque ca- 
+          <lb ed="#L" n="39"/>pax secundum Augustinum quia eo ipso mens imago dei est:  
+          <lb ed="#L" n="40"/>quia capax eius est: et particeps eius potest esse  
+          <lb ed="#L" n="41"/>xiiii de triao capitulo viii et xii et consequentia patet: quia partes  
+          <lb ed="#L" n="42"/>imaginis possunt esse respectu dei. ergo si vna 
+          <lb ed="#L" n="43"/>quaeque anima possit tantum deum diligere quantum  
+          <lb ed="#L" n="44"/>naqueque alia: potest eum tantum cogscere.
+          </p>
+          <p xml:id="rh-l4q8-d1e914">
+            Sex  
+          <lb ed="#L" n="45"/>to sic. quilibet beatus diligit deum toto corde.  
+          <lb ed="#L" n="46"/>etc Et primo in patria implebitur praeceptum de 
+          <lb ed="#L" n="47"/>dilectione dei secundum Augustinum de perfectione iu- 
+          <lb ed="#L" n="48"/>stitiae: et allegat magister libro iii disit xxvi capitl 
+          <lb ed="#L" n="49"/>vi ergo quilibet beatus potest aequaliter diligere cum  
+          <lb ed="#L" n="50"/>alio. ergo omnes aequaliter fruentur deo. et per consequens omnes  
+          <lb ed="#L" n="51"/>erunt aequaliter beati.
+          </p>
+          <p xml:id="rh-l4q8-d1e932">
+            Septimo sic. si Linus  
+          <lb ed="#L" n="52"/>videt beatam virginem esse in gaudio maiori: 
+          <lb ed="#L" n="53"/>et scit quod tanti gaudii foret capat: et quod tantum  
+          <!--242.xml-->
+          <cb ed="#L" n="b"/><!--121vb-->
+          <lb ed="#L" n="54"/>gaudium potuit meruisse: quia hoc non fuisset in- 
+          <lb ed="#L" n="55"/>possibile. quaero utrum appetit habere tantum  
+          <lb ed="#L" n="56"/>gaudium quantum gaudium meruisset an non:  
+          <lb ed="#L" n="57"/>Si primum: et omne quod appetitur a beato perti- 
+          <lb ed="#L" n="58"/>nens ad gaudium essentiale: habetur ab eo: ergo  
+          <lb ed="#L" n="59"/>habet tantum gaudium : quod est propositum.
+          </p>
+          <p xml:id="rh-l4q8-d1e957">
+            Si di- 
+          <lb ed="#L" n="60"/>catur quod non appetit habere gaudium ita inten- 
+          <lb ed="#L" n="61"/>sum: quia propter conformitatem voluntatis ad  
+          <lb ed="#L" n="62"/>iustitiam non plus vult habere quam habet. Contra. re- 
+          <lb ed="#L" n="63"/>cta ratio dictat sibi quod beata vergo plus diligit deum  
+          <lb ed="#L" n="64"/>quam ipse: et plus honorat deum quanto est bea- 
+          <lb ed="#L" n="65"/>tior: ergo si Linus non debet appetere beatitu 
+          <lb ed="#L" n="66"/>dinem: minus debet gaudere. quia minus diligit  
+          <lb ed="#L" n="67"/>deum quam beata virgo. Item quia videt quod natura  
+          <lb ed="#L" n="68"/>sua plus posset beatificari et plus diligere  
+          <lb ed="#L" n="69"/>deum: ergo naturaliter hoc appetit.
+          </p>
+          <p xml:id="rh-l4q8-d1e981">
+            Confirma 
+          <lb ed="#L" n="70"/>tur per modum arguendi philosophi i metphysica si homines  
+          <lb ed="#L" n="71"/>omnes naturaliter scire desiderant: ergo nobiliorem  
+          <lb ed="#L" n="72"/>scinam magis desiderabunt.
+          </p>
+          <p xml:id="rh-l4q8-d1e991">
+            Octavo sic. qui  
+          <lb ed="#L" n="73"/>libet beatus sciet omnia quae deus fecit scienda 
+          <lb ed="#L" n="74"/>secundum Anselmus. prolo xv. sed omnes conclusiones sci- 
+          <lb ed="#L" n="75"/>biles fecit: et omnes propositiones intelligibiles et  
+          <lb ed="#L" n="76"/>veras fecit deus: ut essent quaedam scienda:  
+          <lb ed="#L" n="77"/>ergo quilibet beatus nouit omnia scibilia. ergo vnus  
+          <lb ed="#L" n="78"/>non plus quam alius: ergo sunt omnes aequaliter beati.  
+          <lb ed="#L" n="79"/>minor patet de se. Maior est Anselmus qui dicit  
+          <lb ed="#L" n="80"/>de septem beatitudinibus. Ieatuns est quo scinma 
+          <lb ed="#L" n="81"/>vel perfecta sapientia replebitur: eamquam fa 
+          <lb ed="#L" n="82"/>cie ad faciem intuebitur: quam dum ita prospere 
+          <lb ed="#L" n="83"/>rit: creaturae totius naturam videbit: quae in  
+          <lb ed="#L" n="84"/>deo melius quam in seipsa consistit. Tunc aetenim  
+          <lb ed="#L" n="85"/>iusti scient quae deus fecit scienda: tam ea quae 
+          <lb ed="#L" n="86"/>praeterita sunt quam ea quae sunt futura. ibi a  
+          <lb ed="#L" n="87"/>singulis animabus singuli cognoscentur: nec  
+          <lb ed="#L" n="88"/>quicquam omnino latebit: qua patria / qua gente- 
+          <lb ed="#L" n="89"/>qua stirpe quas editus fuerit: et quid etiam in vi- 
+          <lb ed="#L" n="90"/>ta sua fecerit. Ecce in hac auente habetur quod  
+          <lb ed="#L" n="91"/>quilibet beatus replebitur sapientia quae est  
+          <lb ed="#L" n="92"/>deus. ergo quilibet tantum capiet de illa sapia 
+          <lb ed="#L" n="93"/>quantum capere potest: quia alioquin non replebi 
+          <lb ed="#L" n="94"/>tur sapientia: sed omnis anima est aequaliter capax:  
+          <lb ed="#L" n="95"/>quia intellectus possibilis est omnia intelligere  
+          <lb ed="#L" n="96"/>Secundo dicit quod quilibet beatus scit omnia qua deus  
+          <lb ed="#L" n="97"/>fecit esse scienda tam praeterita quam futura  
+          <lb ed="#L" n="98"/>Ex quo sequitur quod omnes scient aequalia: et quod  
+          <lb ed="#L" n="99"/>omnes scient infinita: quia constat quod futurae co- 
+          <lb ed="#L" n="100"/>gitationes angelorum et hominum et gaudia 
+          <lb ed="#L" n="101"/>et locutiones aclaudes dei: et similiter txistitiae  
+          <lb ed="#L" n="102"/>et affictiones malorum erunt infinita: et infi 
+          <lb ed="#L" n="103"/>nita scibilia possunt de eis formari. Tertio  
+          <lb ed="#L" n="104"/>dicit quod nihil latebit illic quemquam. ergo ni- 
+          <lb ed="#L" n="105"/>hil quod unus sciet / latebit alium: quod est  
+          <lb ed="#L" n="106"/>propositum.
+          </p>
+          <p xml:id="rh-l4q8-d1e1067">
+            Nono sic: omnes homines natura  
+          <!--243.xml-->
+          <pb ed="#L" n="122-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>scire desiderant: sed gloria non tollit naturam  
+          <lb ed="#L" n="2"/>sed perficit: ergo desiderium sciendi vel satiabil  
+          <lb ed="#L" n="3"/>in patria: vel manebit imperfectius et ma- 
+          <lb ed="#L" n="4"/>gis quam nunc: sed non est conveniens quod ibi ma 
+          <lb ed="#L" n="5"/>neat desiderium aliquod naturale imperfectum:  
+          <lb ed="#L" n="6"/>ergo totum desiderium humanum sciendi perfi 
+          <lb ed="#L" n="7"/>cietur: sed desiderium illud est aequale omni homini:  
+          <lb ed="#L" n="8"/>et non est unius scibilis tantum: quia non dicit quod omnes  
+          <lb ed="#L" n="9"/>naturaliter desiderant geometricam vel ariti. 
+          <lb ed="#L" n="10"/>meticam scinam: sed naturaliter desiderant sci- 
+          <lb ed="#L" n="11"/>re: qua ratione hoc scibile / et quodlibet aliud:  
+          <lb ed="#L" n="12"/>quilibet sciet omnia: quia xiii de trinitate caitulo xvii Ni- 
+          <lb ed="#L" n="13"/>hil ibi desiderabitur quod non aderit.
+          </p>
+          <p xml:id="rh-l4q8-d1e1104">
+            Decimo  
+          <lb ed="#L" n="14"/>sic omnes homines aeque gloriosi erunt in corpri 
+          <lb ed="#L" n="15"/>bus sicut in dotibus corporis: ergo eadem ratione 
+          <lb ed="#L" n="16"/>omnes aeque dotati in animabus. Antecedens probo: quia 
+          <lb ed="#L" n="17"/>omnes erunt aeque impassibiles. quia nullus eo- 
+          <lb ed="#L" n="18"/>rum a quocumque nocente poterunt ledi. omnes aeque  
+          <lb ed="#L" n="19"/>agiles: quia quilibet poterit suum corpus mo- 
+          <lb ed="#L" n="20"/>vere per quantumcumque spatium sine difficultate  
+          <lb ed="#L" n="21"/>si voluntas volet. omnes aeque subtiles: quia nul- 
+          <lb ed="#L" n="22"/>lum poterit alicui resistere: sed cum quolibet si- 
+          <lb ed="#L" n="23"/>mul esse poterit. omnes aeque clari vt videtur.  
+          <lb ed="#L" n="24"/>Ex quo sequitur quod si sunt in aliis dotibus cor 
+          <lb ed="#L" n="25"/>poris aequeles: ergo similiter in dotibus animae. Similiter 
+          <lb ed="#L" n="26"/>quia secundum Doentium iii de conso beatitudo est sta  
+          <lb ed="#L" n="27"/>tus omnim bonorum aggregatione perfectus. est  
+          <lb ed="#L" n="28"/>quilibet beatus habebit statum. ergo etc.
+          </p>
+          <p xml:id="rh-l4q8-d1e1139">
+            Tertio ad 
+          <lb ed="#L" n="29"/>principale arguo sic. beatitudo non est hoin 
+          <lb ed="#L" n="30"/>possibilis: ergo non erit finale praemium iusti  
+          <lb ed="#L" n="31"/>viatoris. consequentia patet. Antecedens probo: quia secundum Augustinum  
+          <lb ed="#L" n="32"/>xiii detritria capitulo viii et ix Et Anselmus de similibus capitulo 
+          <lb ed="#L" n="33"/>xlix. certitudo seu securitas de beatitudinem  
+          <lb ed="#L" n="34"/>est maximam pars beatitudinis. vnde dicit sic  
+          <lb ed="#L" n="35"/>Omne quod ibi erit: bonum erit. et summus de 
+          <lb ed="#L" n="36"/>us summum bonum erit: atquam ad fruendum aman- 
+          <lb ed="#L" n="37"/>tibus presto erit. et quod est omnino beatissimum:  
+          <lb ed="#L" n="38"/>ita semper fore certum erit. Sed ista certitu 
+          <lb ed="#L" n="39"/>do sive securitas non est homini possibilis: ergo  
+          <lb ed="#L" n="40"/>nec beatitudo. Quod autem securitas vel certitu 
+          <lb ed="#L" n="41"/>do de aeterna btitudine non sit creaturae ratio- 
+          <lb ed="#L" n="42"/>nali possibilis: probatur multipliciter.
+          </p>
+          <p xml:id="rh-l4q8-d1e1172">
+            Primo 
+          <lb ed="#L" n="43"/>sic. sequitur vel quod deus sit impotens: vel quod  
+          <lb ed="#L" n="44"/>orateritum non esset praeteritum. consequentia patet: quia sit a  
+          <lb ed="#L" n="45"/>securitas Petri de aeternitate suae beatitudi 
+          <lb ed="#L" n="46"/>nis. quaero vtrum deus potest adnihilare Petrum  
+          <lb ed="#L" n="47"/>an non: Si sic: ergo potest facere quod nunquam a fuit  
+          <lb ed="#L" n="48"/>et a est securitas praeterita: et non potest adnihi 
+          <lb ed="#L" n="49"/>lare Petrum: ergo deus est impotens: et necessita 
+          <lb ed="#L" n="50"/>tur ad conseruandum Petrum. et similiter istud est contra  
+          <lb ed="#L" n="51"/>Anselmus de libero arbitrio capitulo viii Cotam substantiam quam  
+          <lb ed="#L" n="52"/>sdeus de nihilo fecit: potest redigere ad nihilum.  
+          <lb ed="#L" n="53"/>Similiter si concedatur quod potest adnihilare Pe 
+          <!--243.xml-->
+          <cb ed="#L" n="b"/><!--122rb-->
+          <lb ed="#L" n="54"/>trum: ergo potest facere quod Petrus existimauie  
+          <lb ed="#L" n="55"/>falsum : ergo potest facere quod deus decepit Petrum.
+          </p>
+          <p xml:id="rh-l4q8-d1e1208">
+          <lb ed="#L" n="56"/>Similiter si dicatur ad istud quod deus non potest face 
+          <lb ed="#L" n="57"/>re modo quin hoc sit vira / a fuit: quia non dependet ab 
+          <lb ed="#L" n="58"/>aliquo futuro. si non potest: tamen potest quod hoc nunquam  
+          <lb ed="#L" n="59"/>fuit vera / a est securitas de aeterna beatitu 
+          <lb ed="#L" n="60"/>dine. quia potest adnihilare Petrum: et tunc a numquam  
+          <lb ed="#L" n="61"/>fuisset securitas Petri. Contra. possibile est  
+          <lb ed="#L" n="62"/>quod hoc sit salsa / a fuit: quia ponatur quod deus destru- 
+          <lb ed="#L" n="63"/>xerit Petrum: tunc propono tibi illam / a fuit: ma 
+          <lb ed="#L" n="64"/>nifestum est quod haec est falsa: quia nullum a fuit in  
+          <lb ed="#L" n="65"/>betro: nec a fuit in aliquo alio. ergo eadem ratio- 
+          <lb ed="#L" n="66"/>ne quia conceditur ista quod deus potest facere quod a numquam  
+          <lb ed="#L" n="67"/>fuit securitas: potest facere quod a nunquam fuit
+          </p>
+          <p xml:id="rh-l4q8-d1e1238">
+          <lb ed="#L" n="68"/>Praeterea sequitur: quandoque a fuit securitas: sed a  
+          <lb ed="#L" n="69"/>numquam fuit securitas: ergo a numquam fuit.
+          </p>
+          <p xml:id="rh-l4q8-d1e1245">
+            Secundo  
+          <lb ed="#L" n="70"/>sic. quilibet beatus desinet esse beatus: ergo nullus  
+          <lb ed="#L" n="71"/>beatus est securus de sua beatitudine. con 
+          <lb ed="#L" n="72"/>sequentia patet. Antecedens probo: quia quilibet beatus  
+          <lb ed="#L" n="73"/>est beatus ante diem iudicii: et immediate post  
+          <lb ed="#L" n="74"/>hoc quilibet beatus non erit beatus ante diem iu 
+          <lb ed="#L" n="75"/>dicii: ergo quilibet beatus desinet esse beatus ante diem 
+          <lb ed="#L" n="76"/>iudicii. consequentia patet: quia antecedens est vna copulativa 
+          <lb ed="#L" n="77"/>facta de exponentibus consequentis.
+          </p>
+          <p xml:id="rh-l4q8-d1e1265">
+            Quarto a 
+          <lb ed="#L" n="78"/>principale. si beatitudo foret praemium conue 
+          <lb ed="#L" n="79"/>niens iusto viatori: tunc viator praemiamretur 
+          <lb ed="#L" n="80"/>in sua operationem. consequentia patet: tum quia felicitas  
+          <lb ed="#L" n="81"/>est sua operatio secundum philosophum in ethicis. Tum  
+          <lb ed="#L" n="82"/>quia beatitudo est fruitio dei: et consistit in frui 
+          <lb ed="#L" n="83"/>tione / in visione / et dilectione dei: quae sunt  
+          <lb ed="#L" n="84"/>operationes: vt patet. Sed consequens est falsum: quia  
+          <lb ed="#L" n="85"/>vel beatus eliceret actum libere: vel naturaliter 
+          <lb ed="#L" n="86"/>Si libere: ergo potest se non beatificare quando si 
+          <lb ed="#L" n="87"/>bi placeret. Si naturaliter: ergo non diligeret  
+          <lb ed="#L" n="88"/>deum spontanea voluntate.
+          </p>
+          <p xml:id="rh-l4q8-d1e1291">
+            Ad oppositum  
+          <lb ed="#L" n="89"/>est secpundtura sacra et doctrina sanctorum et ma 
+          <lb ed="#L" n="90"/>gister sen. specialiter libro iiii disinione xlix.
+          </p>
+        </div>
+        <div xml:id="rh-l4q8-Dd1e1299">
+          <head xml:id="rh-l4q8-Hd1e1301">Divisio quaestionis</head>
+          <p xml:id="rh-l4q8-d1e1304">
+            In ista quae 
+          <lb ed="#L" n="91"/>stione tria breviter fient. Primo exponam quas- 
+          <lb ed="#L" n="92"/>dam. cones distinctiones de acceptione istius  
+          <lb ed="#L" n="93"/>termini beatitudo. Secundo formabo quasdam  
+          <lb ed="#L" n="94"/>questiones. Tertio respondebo ad principales  
+          <lb ed="#L" n="95"/>rationes.
+          </p>
+        </div>
+        <div xml:id="rh-l4q8-Dd1e1319">
+          <head xml:id="rh-l4q8-Hd1e1321">Articulus 1</head>
+          <p xml:id="rh-l4q8-d1e1324">
+          Circa primum distinguitur communiter  
+          <lb ed="#L" n="96"/>sic: quod istae terminus beatitudo aliquando suppo 
+          <lb ed="#L" n="97"/>nit pro deo: aliquando pro creatura vel creaturis:  
+          <lb ed="#L" n="98"/>Unde solet dici quod est duplex btitudo: increa  
+          <lb ed="#L" n="99"/>ta quae est deus: et creat a quae non est deus. Item 
+          <lb ed="#L" n="100"/>loquendo de btitudine quae non est deus: diuer  
+          <lb ed="#L" n="101"/>simode loquunt doctores. Nam aliquando accen- 
+          <lb ed="#L" n="102"/>perunt beatitudinem sic: quod quid nominis istius ter- 
+          <lb ed="#L" n="103"/>mini beatitudo vel beatum esse sit bene esse. et  
+          <lb ed="#L" n="104"/>sic loquitur beatus Augustinus xiii de trinitate et xi de ciui 
+          <lb ed="#L" n="105"/>tate dei et in multis locis. vbi dicit quod omnes  
+          <lb ed="#L" n="106"/>hommines appetunt beatitudinem. Secundo  
+          <!--244.xml-->
+          <pb ed="#L" n="122-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>modo accipitur iste terminus beatitudo pro 
+          <lb ed="#L" n="2"/>visione matutinam essentiae divinae. et sic loquit  
+          <lb ed="#L" n="3"/>saluator Ioannes xvii haec est vita aeterna etc. Ter 
+          <lb ed="#L" n="4"/>tio modo accipitur beatitudo pro amore dei: vel 
+          <lb ed="#L" n="5"/>pro fruitione dei clare visi. et sic loquitur Aug.   
+          <lb ed="#L" n="6"/>de moribus ecclessie et Manicheorum libro i capitul 
+          <lb ed="#L" n="7"/>xxiii. Perfrui sapientia increata est bene vive- 
+          <lb ed="#L" n="8"/>re. Et primo de doctrina christia. Summa 
+          <lb ed="#L" n="9"/>mercens est amore inherere deo. Quarto mod 
+          <lb ed="#L" n="10"/>accipitur iste terminus beatitudo pro delectatione  
+          <lb ed="#L" n="11"/>vel gaudio quod consequitur visionem dei claram. et  
+          <lb ed="#L" n="12"/>sic loquitur Augustinus x. confels capitulo xiiii. Itam vita quitur  
+          <lb ed="#L" n="13"/>pe est gaudium de veritate. Quinto modo accipi 
+          <lb ed="#L" n="14"/>xviii secundum quendam modum quotandi. uvbi dicit quod  
+          <lb ed="#L" n="15"/>tur beatitudo pro aggregatione ex omnibus const  
+          <lb ed="#L" n="16"/>tuentibus beatitudine. et sic loobtur Ioetius tertio  
+          <lb ed="#L" n="17"/>de consoes. dicens quod batitudo est status bonorum  
+          <lb ed="#L" n="18"/>omnim aggregatione perfectus. Sexto modo loquitur  
+          <lb ed="#L" n="19"/>Anselmus libro suo de betitudinibus ii de concor capitul 
+          <lb ed="#L" n="20"/>btitudo est sufficientia copetentium commodor  
+          <lb ed="#L" n="21"/>sine omni indigentia. et haec descriptio plus mihi 
+          <lb ed="#L" n="22"/>placet. hoc enim omnes homines accipiunt communiter- 
+          <lb ed="#L" n="23"/>quod beatus est qui habet omne commodum quod sibi competere  
+          <lb ed="#L" n="24"/>potest. sic ergo septem modis accipitur batitudo:  
+          <lb ed="#L" n="25"/>pro deo: pro bene esse: pro visione dei: pro fruitio- 
+          <lb ed="#L" n="26"/>ne dei: pro delectatione consequente: pro statu perfecto  
+          <lb ed="#L" n="27"/>omnim bonorum: et pro sufficientia competentiv com 
+          <lb ed="#L" n="28"/>modorum.
+          </p>
+        </div>
+        <div xml:id="rh-l4q8-Dd1e1418">
+          <head xml:id="rh-l4q8-Hd1e1420">Articulus 2</head>
+          <p xml:id="rh-l4q8-d1e1423">
+            Secundo iuxta illud sic formo hic  
+          <lb ed="#L" n="29"/>aliquis conclusiones breviter. Et primam est. quod  
+          <lb ed="#L" n="30"/>visio dei per essentiam non est beatitudo hominis:  
+          <lb ed="#L" n="31"/>hoc probo quadrupliciter.
+          </p>
+          <p xml:id="rh-l4q8-d1e1432"> 
+            Primo sic. cum 
+          <lb ed="#L" n="32"/>visione dei per essentiam stat indigentia multo  
+          <lb ed="#L" n="33"/>rum commodorum quae homo naturaliter appetit. stat  
+          <lb ed="#L" n="34"/>enim cum visione dei clarissima pena sensus ma 
+          <lb ed="#L" n="35"/>xima. sicut patuit in christo de facto. similiter mor- 
+          <lb ed="#L" n="36"/>talitas: timor: poena.
+          </p>
+          <p xml:id="rh-l4q8-d1e1445">
+            Secundo quia cum visionem  
+          <lb ed="#L" n="37"/>dei clarissima stat tristitia: vel saltem carentia  
+          <lb ed="#L" n="38"/>guadii cuiuslibet delectationis de potentia  
+          <lb ed="#L" n="39"/>dei absoluta. Cuius probatio ess: quia delecta- 
+          <lb ed="#L" n="40"/>tio est alia res a visione et posterior: quia a vi 
+          <lb ed="#L" n="41"/>sione nata est causari.
+          </p>
+          <p xml:id="rh-l4q8-d1e1458">
+            Tertio. quia deus potest vi 
+          <lb ed="#L" n="42"/>sionem conservare: adnihilando dne gaudium in 
+          <lb ed="#L" n="43"/>creatura vidente deum: sive sit angeius: sive sit  
+          <lb ed="#L" n="44"/>homo.
+          </p>
+          <p xml:id="rh-l4q8-d1e1468">
+            Quarto sic. cum clarissima visione der  
+          <lb ed="#L" n="45"/>stat odium dei in vidente: si deus velit coage- 
+          <lb ed="#L" n="46"/>re: ergo etc. Antecedens patet. nam posito quod deus  
+          <lb ed="#L" n="47"/>essentiam suam ostenderet damnato: continuando  
+          <lb ed="#L" n="48"/>in eo actum odiendi deum. tunc patet possibilitas  
+          <lb ed="#L" n="49"/>assumpti.
+          </p>
+          <p xml:id="rh-l4q8-d1e1481">
+            Secunda conclusio est: quod fruitio dei  
+          <lb ed="#L" n="50"/>non est perfecta hominis beatitudo. Patet hoc pro- 
+          <lb ed="#L" n="51"/>pter idem: quia cum fruitione dei stat multiplex  
+          <lb ed="#L" n="52"/>indigentia et insufficientia eorum quae homo na- 
+          <lb ed="#L" n="53"/>itus e appetere deordinate. Nam christus sum 
+          <!--244.xml-->
+          <cb ed="#L" n="b"/><!--122vb-->
+          <lb ed="#L" n="54"/>me deo fruebatur: et tamen habuit indigentiam  
+          <lb ed="#L" n="55"/>multorum commodorum. Similiter secundum Augustinum Paulus  
+          <lb ed="#L" n="56"/>et Mo vses fruebantur deo: et tamen neuter eorum 
+          <lb ed="#L" n="57"/>habuit secum securitatem de beatitudine: nec  
+          <lb ed="#L" n="58"/>de immortalitate futura: quae sunt duo val 
+          <lb ed="#L" n="59"/>de appetibilia ab homine: ergo beatitudo non  
+          <lb ed="#L" n="60"/>consistit praecise in visione et in fruitione dei nec  
+          <lb ed="#L" n="61"/>in illis convenientibus: quia beatitudo excludit  
+          <lb ed="#L" n="62"/>omnem indigentiam competentium commodorum. et  
+          <lb ed="#L" n="63"/>cum fruitioe dei quae est quaedam operatio animae: 
+          <lb ed="#L" n="64"/>stat multiplex indigentia corporis et anime
+          </p>
+          <p xml:id="rh-l4q8-d1e1522">
+          <lb ed="#L" n="65"/>Secundo patet idem: quia animae quae iam sunt beatem:  
+          <lb ed="#L" n="66"/>non sunt liberate ab omni indigentia compe- 
+          <lb ed="#L" n="67"/>tentium commodorum: nec etiam angeli et tamen illi- 
+          <lb ed="#L" n="68"/>deo fruuntur: et eum vident immediate. De anima 
+          <lb ed="#L" n="69"/>bus patet secundum Augustinum xii super Denm capitulo vii et al- 
+          <lb ed="#L" n="70"/>legat magister iiii i distintione xlitr capitulo v Aine inest  
+          <lb ed="#L" n="71"/>quidam appetitus corpus administrandi: quo  
+          <lb ed="#L" n="72"/>retardatur quodammodo ne pergat tota inte  
+          <lb ed="#L" n="73"/>tione in summum bonum: donec ille appetitus  
+          <lb ed="#L" n="74"/>conquiescat. De angelis per eandem rationem  
+          <lb ed="#L" n="75"/>dici potest quod appetunt adimpletionem nume- 
+          <lb ed="#L" n="76"/>ri praedestinatorum. et tunc augebitur eorum  
+          <lb ed="#L" n="77"/>beatitudo vn secundum istud nec anima christi nec  
+          <lb ed="#L" n="78"/>angeli nec aliqua creatura est adhuc perfe 
+          <lb ed="#L" n="79"/>cte beata: quia nulla creatura habet adhuc suffi- 
+          <lb ed="#L" n="80"/>cientiam omnim commodorum competentium.
+          </p>
+          <p xml:id="rh-l4q8-d1e1559">
+            Ter- 
+          <lb ed="#L" n="81"/>tia conclusio est: quod gaudium vel delectatio de 
+          <lb ed="#L" n="82"/>deo viso non est beatitudo perfecta. Proba 
+          <lb ed="#L" n="83"/>tur per idem medium: quia cum tali gaudio stat in- 
+          <lb ed="#L" n="84"/>digentia competentium commodorum ipsi gaudem 
+          <lb ed="#L" n="85"/>ti patet de facto de christo. Mo vse et Paulo.
+          </p>
+          <p xml:id="rh-l4q8-d1e1572">
+          <lb ed="#L" n="86"/>Quarta conclusio est: quod beatitudo aliquo  
+          <lb ed="#L" n="87"/>istorum trium modorum accepta non est finali 
+          <lb ed="#L" n="88"/>praemium iusti viatoris. hoc probatur sic. illud so 
+          <lb ed="#L" n="89"/>ium est finale praemium iusti hominis: quod ponit  
+          <lb ed="#L" n="90"/>eum in statu in quo habeat sufficientiam omnim  
+          <lb ed="#L" n="91"/>commodorum sine vlla indigentia alicuius com 
+          <lb ed="#L" n="92"/>modi sibi competentis: sed nullum preaemissorum trium:  
+          <lb ed="#L" n="93"/>nequam visio: neque fruitio: neque delectatio vel 
+          <lb ed="#L" n="94"/>gaudium de deo est huiusmodi: vt probatum est.
+          </p>
+          <p xml:id="rh-l4q8-d1e1594">
+            Prae 
+          <lb ed="#L" n="95"/>terea repugnat homini quod sit viator: et praemietur  
+          <lb ed="#L" n="96"/>finaliter praemio totali: sed quodlibet istorum et  
+          <lb ed="#L" n="97"/>omnia fuerunt de facto in viatoribus patet de chri 
+          <lb ed="#L" n="98"/>sto Mso vse et Paulo. ergo etc.
+          </p>
+          <p xml:id="rh-l4q8-d1e1606">
+            Quinta conclu 
+          <lb ed="#L" n="99"/>sio est: quod batitudo secundm descriptionem Ioeti  
+          <lb ed="#L" n="100"/>accepta non est finale praemium hominis vel ange 
+          <lb ed="#L" n="101"/>li. Patet hoc: quia talis beatitudo non convenit nisi  
+          <lb ed="#L" n="102"/>deo. Cuius probatio est: quia inter illa bona quo 
+          <lb ed="#L" n="103"/>rum aggregationem vocat beatitudinem: enume- 
+          <lb ed="#L" n="104"/>rat summam potentiam: quae non potest convenire  
+          <lb ed="#L" n="105"/>nisi deo. ibidem etiam concludit quod batitudo est di- 
+          <lb ed="#L" n="106"/>vinitas: et quod omnis beatus est deus per participatio  
+          <!--245.xml-->
+          <pb ed="#L" n="123-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>nem. hoc est: habet aliquem modum divinum essendi.  
+          <lb ed="#L" n="2"/>ergo beatitudo sic accepta non est finale praemi 
+          <lb ed="#L" n="3"/>um iusti viatoris: sed conuenit soli deo.
+          </p>
+          <p xml:id="rh-l4q8-d1e1639">
+            Prae
+          <lb ed="#L" n="4"/>terea sicut argumentum est: si sic: quilibet beatus fo 
+          <lb ed="#L" n="5"/>ret habiturus statum omnim bonorum aggregatio 
+          <lb ed="#L" n="6"/>ne perfectum: et quia qui omne dicit nihil excipit: similite 
+          <lb ed="#L" n="7"/>perrectum est cui nihil de est. u metaphyica seque- 
+          <lb ed="#L" n="8"/>retur quod quilibet beatus foret alteri aequalis  
+          <lb ed="#L" n="9"/>in beatitudinem et in omnibus circumstantiis status  
+          <lb ed="#L" n="10"/>sui.
+          </p>
+          <p xml:id="rh-l4q8-d1e1657">
+            Sexta conclusio est: quod nulla res est pa- 
+          <lb ed="#L" n="11"/>mium finale viatoris. patet inductive: quia vel fo 
+          <lb ed="#L" n="12"/>ret visio: fruitio vel gaudium: sed probatum est quod  
+          <lb ed="#L" n="13"/>nullum istorum est: ergo etc.
+          </p>
+          <p xml:id="rh-l4q8-d1e1666">
+            Septima conclu- 
+          <lb ed="#L" n="14"/>sio est: quod istae terminus btitudo creata est non  
+          <lb ed="#L" n="15"/>men collectivum: vel aequiualens nomini colle 
+          <lb ed="#L" n="16"/>ctivo. cuius probatio est: quia significat multas  
+          <lb ed="#L" n="17"/>res quae constituunt aliquid per se unum: quarum  
+          <lb ed="#L" n="18"/>etiam aliquao distinguuntur secundum speciem: aliquae secundum  
+          <lb ed="#L" n="19"/>numerum: quia significat deum: et significat crea 
+          <lb ed="#L" n="20"/>turam. Et pro tanto vocatur beatitudo creata: quia  
+          <lb ed="#L" n="21"/>multa significata per nomen secundum istam acceptio  
+          <lb ed="#L" n="22"/>nem sunt creaturae: et significat visione de 
+          <lb ed="#L" n="23"/>claram: et fruitionem eiusdem: et gaudium consequens ad  
+          <lb ed="#L" n="24"/>illam visionem: vel coniunctionem amantis cum  
+          <lb ed="#L" n="25"/>amato et quia ista sunt potissima commoda et  
+          <lb ed="#L" n="26"/>operationes nobiliores beati: ideo aliquando vnum- 
+          <lb ed="#L" n="27"/>quodque intorum a sctis per se vocatur beatitu- 
+          <lb ed="#L" n="28"/>do: licet proprie loquendo nullum istorum sit beati  
+          <lb ed="#L" n="29"/>tudo.
+          </p>
+          <p xml:id="rh-l4q8-d1e1703">
+            Et per ista respondeo ad formam quaestionis  
+          <lb ed="#L" n="30"/>quod sic. videlicet quod finale praemium hominis viato 
+          <lb ed="#L" n="31"/>ris est beatitudo. et hoc accipiendo terminum  
+          <lb ed="#L" n="32"/>secundum descriptionem Anselmi positam superius in 
+          <lb ed="#L" n="33"/>septimo mo distinctionis. videlicet quod beatitu 
+          <lb ed="#L" n="34"/>do est sufficientia competentium commodorum.
+          </p>
+        </div>
+        <div xml:id="rh-l4q8-Dd1e1717">
+          <head xml:id="rh-l4q8-Hd1e1719">Articulus 3</head>
+          <p xml:id="rh-l4q8-d1e1722">
+          <lb ed="#L" n="35"/>Tertio restat ad rationes ndere. Ad primam  
+          <lb ed="#L" n="36"/>nego consequentiam. Ad primam probationem quando argui 
+          <lb ed="#L" n="37"/>tur : actus quo distincte cognoscerentur infi 
+          <lb ed="#L" n="38"/>nita etc. Pro ista ratione dico quod impossibile est  
+          <lb ed="#L" n="39"/>aliquid virtutis finitae cognoscere distincte  
+          <lb ed="#L" n="40"/>infinita cognoscibilia sub vno actu vel plu 
+          <lb ed="#L" n="41"/>ribus: sed hoc potest deus solus . concedo ma 
+          <lb ed="#L" n="42"/>iorem: quod si esset talis actus: foret infinitae  
+          <lb ed="#L" n="43"/>perfectionts: sed impossibile est creaturam talem actum  
+          <lb ed="#L" n="44"/>elicere. Ad minorem quando accipitur quod actus videm 
+          <lb ed="#L" n="45"/>di deum intuitive est perfectior: quam foret talis  
+          <lb ed="#L" n="46"/>actus si esset. Dico quod actui cognoscendi attri 
+          <lb ed="#L" n="47"/>buitur duplex perfectio. Una essenttalis et in- 
+          <lb ed="#L" n="48"/>trinseca: pro quato est talis qualitas. alia est adc  
+          <lb ed="#L" n="49"/>cidentalis et extrinseca: secundum additionem obie 
+          <lb ed="#L" n="50"/>cti cuius est. concedo ergo quod primo modo loquendi 
+          <lb ed="#L" n="51"/>actus talis si foret: esset perfectior visione ul 
+          <lb ed="#L" n="52"/>quacumque cognitione dei finita: et secundum hoc ar- 
+          <lb ed="#L" n="53"/>gumentum non concludit: vt largius alias dicetur.
+          </p>
+          <p xml:id="rh-l4q8-d1e1766">
+          <!--245.xml-->
+          <cb ed="#L" n="b"/><!--123rb-->
+          <lb ed="#L" n="54"/>Ad secundum cum arguitur: perfectioris obiecti par- 
+          <lb ed="#L" n="55"/>fectior est cognitio. Dico quod dupliciter est ali 
+          <lb ed="#L" n="56"/>qua scientia honorabilis et perfecta. vel quia  
+          <lb ed="#L" n="57"/>est certior: vel quia est honorabilior vel nobi 
+          <lb ed="#L" n="58"/>lioris obiecti. Pro isto argumento est sciendum  
+          <lb ed="#L" n="59"/>quod antequam habeamus de deo in via aliquem  
+          <lb ed="#L" n="60"/>conceptum proprium: concepimus eum per conceptus  
+          <lb ed="#L" n="61"/>compositos et per conceptus abstractos a creatu  
+          <lb ed="#L" n="62"/>ris: sicut nominamus eum summum ens vl ens  
+          <lb ed="#L" n="63"/>infinitum. Tunc opet dicere quod ista notitia con 
+          <lb ed="#L" n="64"/>posita non est perfectior quam suae partes simul acce 
+          <lb ed="#L" n="65"/>pate: et tales intentiones modicam habent par- 
+          <lb ed="#L" n="66"/>fectionem intrinsecam: quia sunt notitiae creatu- 
+          <lb ed="#L" n="67"/>rarum: quarum utraque nata est abstrahi a creatu 
+          <lb ed="#L" n="68"/>ra: quam quam simul accepte non supponant nisi pro  
+          <lb ed="#L" n="69"/>deo. Et ideo si aliqua cognitio quam habemus  
+          <lb ed="#L" n="70"/>de deo in via: non est perfectior perfectione essen- 
+          <lb ed="#L" n="71"/>tiali: quia notitia creaturarum: sed extrinsece et de 
+          <lb ed="#L" n="72"/>nominative dicitur perfectior: quia nihil aliud est di 
+          <lb ed="#L" n="73"/>ctum nisi quod est perfectioris obiecti et pro perfe- 
+          <lb ed="#L" n="74"/>ctiori supponit. Et isto modo solemus dice 
+          <lb ed="#L" n="75"/>re quod vnum nomen est nobilius alio et maioris 
+          <lb ed="#L" n="76"/>reverentiae. sicut dicimus quod nomen regis est  
+          <lb ed="#L" n="77"/>nomen maioris reverentiae quod nomen militis: quia  
+          <lb ed="#L" n="78"/>maior bonitas est in vno homine quam in alio:  
+          <lb ed="#L" n="79"/>quod non est nisi forte in honore personali pro quo 
+          <lb ed="#L" n="80"/>supponit. Sed quia nomen regis pro digniore per 
+          <lb ed="#L" n="81"/>sona supponit: ideo nobilitas personae pro quae sup 
+          <lb ed="#L" n="82"/>ponit / denominat nomen suum. et sic potest dici 
+          <lb ed="#L" n="83"/>quod imago crucifixi de lapide vel de ligno est  
+          <lb ed="#L" n="84"/>nobilior imago quam imago leonis de auro  
+          <lb ed="#L" n="85"/>Sed loquendo de nobilitate vel de bonitate  
+          <lb ed="#L" n="86"/>intrinseca: imago canis de auro est perfectior 
+          <lb ed="#L" n="87"/>quam imago cuiuscumque hominis de ligno. secundum istam  
+          <lb ed="#L" n="88"/>imaginationem ponamus quatuor obiecta a b c  
+          <lb ed="#L" n="89"/>bd: et sit b duplo perfectius quam a: et c in duplo par- 
+          <lb ed="#L" n="90"/>fectius quam b: et vber quod c. capiamus etiam quaruor  
+          <lb ed="#L" n="91"/>notitias correspondentes illis obiectis sic  
+          <lb ed="#L" n="92"/>aequaliter: ita quod vna sit distincta notitia ipsius a:  
+          <lb ed="#L" n="93"/>et alia ipsius b aeque distincta: et sic de ceteris  
+          <lb ed="#L" n="94"/>Dico quod loquendo de perfectione intrinseca ista  
+          <lb ed="#L" n="95"/>rum: non conuenit invenire consimilem excessum in  
+          <lb ed="#L" n="96"/>notitiis qui est in obiectis sic. sed certe loquen 
+          <lb ed="#L" n="97"/>do de denominatione perfectiori: bene conuenit:  
+          <lb ed="#L" n="98"/>quia sint ista quatuor obiecta quatuor albedines  
+          <lb ed="#L" n="99"/>etiam sic se habentes adinuice secundum perfectionem:  
+          <lb ed="#L" n="100"/>dicetur istae quatuor albedines possunt distin- 
+          <lb ed="#L" n="101"/>te videri quatuor visionibus aequalibus  
+          <lb ed="#L" n="102"/>omnino.
+          </p>
+          <p xml:id="rh-l4q8-d1e1880">
+            Sed contra istud arguitur. quia visio distincta 
+          <lb ed="#L" n="103"/>et perfecta perfectioris obiecti excedit in ea 
+          <lb ed="#L" n="104"/>dem proportione in qua obiectum excedit subie 
+          <lb ed="#L" n="105"/>ctum: puta si visiones istorum quatuor obiecto  
+          <lb ed="#L" n="106"/>rum forent omnino aequales inter se: et secundum aequi- 
+          <!--246.xml-->
+          <pb ed="#L" n="123-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>lem visionem iudicantur visa esse aequelia: sed si iudi- 
+          <lb ed="#L" n="2"/>centur esse aequalia: cognoscerent distinctae: quia  
+          <lb ed="#L" n="3"/>distincta et perfecta cognitio non est erronea.  
+          <lb ed="#L" n="4"/>ergo quatuor cognitiones date non sut distinctae  
+          <lb ed="#L" n="5"/>cognitiones obiectorum.
+          </p>
+          <p xml:id="rh-l4q8-d1e1909">
+            Praeterea maneat non  
+          <lb ed="#L" n="6"/>titia ipsius d in vidente: et destruatur a: et ponatur  
+          <lb ed="#L" n="7"/>deus albedinem quae est perfectissima albedo inter  
+          <lb ed="#L" n="8"/>quatuor: loco et situ in quo a fuit. tunc si co- 
+          <lb ed="#L" n="9"/>gnitio ipsius a sit aequalis perfectionis in gradu 
+          <lb ed="#L" n="10"/>cum notitia ipsius d: sequitur quod videns per illam di 
+          <lb ed="#L" n="11"/>stinctae et perfecte cognoscit. consequens est falsum quia  
+          <lb ed="#L" n="12"/>non iudicabit se videre perfectiorem albedinem 
+          <lb ed="#L" n="13"/>quam prius. cuius probatio est: quia non habet alium actum  
+          <lb ed="#L" n="14"/>quod prius habuit.
+          </p>
+          <p xml:id="rh-l4q8-d1e1932">
+            Praeterea quando aliquae cau 
+          <lb ed="#L" n="15"/>se concurrunt ad constituendum vnum effectum: ad me 
+          <lb ed="#L" n="16"/>liorationem cuiussibet causae in causando ce 
+          <lb ed="#L" n="17"/>teris manentibus in aequeli perfectione onditur aliquo  
+          <lb ed="#L" n="18"/>perfectio in effectu. ergo cum ta subeunm quam obiectum  
+          <lb ed="#L" n="19"/>concurrant sicut partiales causae ad causan 
+          <lb ed="#L" n="20"/>dum visionem: manente eadem potentia et eouond modo 
+          <lb ed="#L" n="21"/>disposita: et meliorato obiecto causbit perfe 
+          <lb ed="#L" n="22"/>ctiorem visionem quam c: et c quam b: et uo quam c. quod est pro 
+          <lb ed="#L" n="23"/>positum. ergo ex eius perfectione in obiecto et subie  
+          <lb ed="#L" n="24"/>cto ceteris paribus arguit perfectionem maio  
+          <lb ed="#L" n="25"/>rem etiam notitia perfecta.
+          </p>
+          <p xml:id="rh-l4q8-d1e1958">
+            Ideo omissa illa responsio- 
+          <lb ed="#L" n="26"/>ne potest dici ad argu. quando dicitur quod perfectioris ob 
+          <lb ed="#L" n="27"/>iecti perfectior est notitia quod imperfectioris ob 
+          <lb ed="#L" n="28"/>iecti: ergo obiecti infinitae perfectionis etc. Dicitur  
+          <lb ed="#L" n="29"/>quod notitia est duplex: perfecta et distincta: im 
+          <lb ed="#L" n="30"/>erfecta et confusa. Si loquimur de perfecta noti- 
+          <lb ed="#L" n="31"/>tiam vtrobique: conceditur quod infiniti obiecti est in- 
+          <lb ed="#L" n="32"/>finita notitia. Sed ista est dei: et nullo modo 
+          <lb ed="#L" n="33"/>conueniens creaturae. et sic procedit argumentum  
+          <lb ed="#L" n="34"/>Si loquimur de notitia confusa et imperfecta non  
+          <lb ed="#L" n="35"/>titia vel generali: sic eadem perfectione seu cogni- 
+          <lb ed="#L" n="36"/>tione secundum numenum cognoscitur obiectum infini 
+          <lb ed="#L" n="37"/>te perfectionis: sicut intellectio substantiae intelle 
+          <lb ed="#L" n="38"/>ctualis confusa tam dei quod creaturae. et sic loquen 
+          <lb ed="#L" n="39"/>do potest negari anecens. quia non semper obiecti perfe 
+          <lb ed="#L" n="40"/>ctioris est perfectior notitia confula De isto ar 
+          <lb ed="#L" n="41"/>gumento alias dicetur: quia non est satisfactum.
+          </p>
+          <p xml:id="rh-l4q8-d1e1995">
+            Ad  
+          <lb ed="#L" n="42"/>tertium quando probatur quod beati intendent sua gaudia 
+          <lb ed="#L" n="43"/>in infinitu: quia quilibet beatus gaudet de gaudio  
+          <lb ed="#L" n="44"/>alterius: et de maiori magis gaudet. ergo Petru 
+          <lb ed="#L" n="45"/>videns Paulum plus gauderet quam prius: et sic  
+          <lb ed="#L" n="46"/>intenderet gaudium suum. et hoc fecit Petrus. ergo  
+          <lb ed="#L" n="47"/>et ille eadem ratione intendet gaudium suum. et sic vi 
+          <lb ed="#L" n="48"/>cissim intenderent in infinitum gaudia sua.  
+          <lb ed="#L" n="49"/>Potest dici ad istud quod quando unus beatus videt gau  
+          <lb ed="#L" n="50"/>dium essentiale alterius augeri: si hoc esset de 
+          <lb ed="#L" n="51"/>facto possibile: tunc gaudium suum augeretur.  
+          <lb ed="#L" n="52"/>Sed ad augmentationem gaudii accidentalis  
+          <lb ed="#L" n="53"/>non opate beatum augere gaudium suum. vnde augmen 
+          <!--246.xml-->
+          <cb ed="#L" n="b"/><!--123vb-->
+          <lb ed="#L" n="54"/>tatio gaudii beati potest dupliciter intelligi. vel quia  
+          <lb ed="#L" n="55"/>auget circa obiectum beauficum quod est deus: vel  
+          <lb ed="#L" n="56"/>circa creaturam. primo modo in quocumque alio  
+          <lb ed="#L" n="57"/>beato augetur gaudium. Sed secundo mo gaudium beati  
+          <lb ed="#L" n="58"/>non augetur: sed statim confertur sibi summus gratia 
+          <lb ed="#L" n="59"/>dus quem vnquam habebit quem hoc meruit.
+          </p>
+          <p xml:id="rh-l4q8-d1e2042">
+            Ad  
+          <lb ed="#L" n="60"/>quartum potest dici quod gaudium causatuma deo in  
+          <lb ed="#L" n="61"/>btitudine est alterius speciei a quocumque gau 
+          <lb ed="#L" n="62"/>dio causato a creatura: quia si in infinitum deus  
+          <lb ed="#L" n="63"/>crearet creaturam perfectiorem: quo causet in men 
+          <lb ed="#L" n="64"/>te hominis gaudium: nunquam partingeret ad gau 
+          <lb ed="#L" n="65"/>dium quod causat deus clare visus: sicut si deus con 
+          <lb ed="#L" n="66"/>ferret sorti potentiam causativam musce: et pla 
+          <lb ed="#L" n="67"/>toni potentiam causativam leonis: si sortes in inlini 
+          <lb ed="#L" n="68"/>tum causaret muscas perfectiores: numquam canret  
+          <lb ed="#L" n="69"/>ita perfectum animal sicut est leo quem plato crea 
+          <lb ed="#L" n="70"/>vit vna productione. contra hanc responsione sunt bona 
+          <lb ed="#L" n="71"/>argumenta: et transeo ad praesens.
+          </p>
+          <p xml:id="rh-l4q8-d1e2071">
+            Ad quintum potest  
+          <lb ed="#L" n="72"/>dici quod beatus gaudet de visione dei distinctae  
+          <lb ed="#L" n="73"/>per gaudium quod est a. et per idem gaudium gaudet  
+          <lb ed="#L" n="74"/>de a. non tamen distinctae: sed confuse in generali. et con 
+          <lb ed="#L" n="75"/>ceditur quod beatus sicut beatus non potest distincte cog- 
+          <lb ed="#L" n="76"/>scere quamlibet intellectionem suam: quia actus resiexus- 
+          <lb ed="#L" n="77"/>distinguitur ab actu recto qui per ipsum intelligitur  
+          <lb ed="#L" n="78"/>eodem modo nec beatus gaudet distincte de quo 
+          <lb ed="#L" n="79"/>cumque suo gaudio: sed distinctae gaudet de deo:  
+          <lb ed="#L" n="80"/>et indistincte de omnibus quae habet: et per consequens de 
+          <lb ed="#L" n="81"/>gaudio quo gaudet.
+          </p>
+          <p xml:id="rh-l4q8-d1e2095">
+            Ad sextum potest dici ne 
+          <lb ed="#L" n="82"/>gando illam consequentiam. deus fecit pro Petro hodie 
+          <lb ed="#L" n="83"/>plus quam fecerit heri: ergo Petrus plus obligatur ho 
+          <lb ed="#L" n="84"/>die quod heri. Tum quia deus non vult plus evobli- 
+          <lb ed="#L" n="85"/>gari. Cum quia non patet plus obligari quod heri fuit  
+          <lb ed="#L" n="86"/>obligatus. Tum quia deus nihil nouum fecin circa Pe 
+          <lb ed="#L" n="87"/>trum: quin contabat Petro heri certa confi 
+          <lb ed="#L" n="88"/>dentia quod facerethoc hodie. Et ideo tanta ob- 
+          <lb ed="#L" n="89"/>ligatio contracta est in beatificatione quando certifica 
+          <lb ed="#L" n="90"/>vit Petrum quam perpetuaret eum in betitudine.  
+          <lb ed="#L" n="91"/>et ideo nulla noua obligatio creuit in Petro:  
+          <lb ed="#L" n="92"/>nec opiet quod plus diligat eum hodie quam fecerat  
+          <lb ed="#L" n="93"/>heri vel pridie.
+          </p>
+          <p xml:id="rh-l4q8-d1e2125">
+            Ad septimum potest dici quod al 
+          <lb ed="#L" n="94"/>prehensio securitatis de visione dei per tempus in- 
+          <lb ed="#L" n="95"/>finitum est causa partialis concausans gaudium al 
+          <lb ed="#L" n="96"/>teriuis rationis: tamen apprehensio eiusde visionis  
+          <lb ed="#L" n="97"/>per tempus infinitum est vna res finita: sicut prius  
+          <lb ed="#L" n="98"/>dictum fuit: quod quantumcumque fieret musca perfe- 
+          <lb ed="#L" n="99"/>ctior et perfectior: nunquam fieret ita perfectum  
+          <lb ed="#L" n="100"/>animal sicut leo. sic in proposito: et tamen leo est perfe 
+          <lb ed="#L" n="101"/>ctionis finitae.
+          </p>
+          <p xml:id="rh-l4q8-d1e2145">
+            Ad octauum quando dicitur quod infini 
+          <lb ed="#L" n="102"/>te difficultatis est intelligere deum: quia si acci 
+          <lb ed="#L" n="103"/>piatur obiectum maxime proportionatum intel 
+          <lb ed="#L" n="104"/>lectui humano: deus in intinitum recedit ab il 
+          <lb ed="#L" n="105"/>la proportione. Potest dici quod nihil in infini 
+          <lb ed="#L" n="106"/>tum ab illa proportione recedit.
+          </p>
+          <p xml:id="rh-l4q8-d1e2158">
+            Ad nonum  
+          <!--247.xml-->
+          <pb ed="#L" n="124-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>dicendum est quod apprehensio tristitiae duratu- 
+          <lb ed="#L" n="2"/>re per tempus infinitum causare potest rationabilitet  
+          <lb ed="#L" n="3"/>unam tristitiam hominis alteriusrationis aequalem cau  
+          <lb ed="#L" n="4"/>sate per apprehensionem pene transitorie. et secundum  
+          <lb ed="#L" n="5"/>hoc opet dicere quod ille tristitiae non sunt eius  
+          <lb ed="#L" n="6"/>dem rationis: nec comparabiles.
+          </p>
+          <p xml:id="rh-l4q8-d1e2180">
+            Aliter potest dici quod  
+          <lb ed="#L" n="7"/>homo tantum potest dolere de apprehensione pene temporaliter  
+          <lb ed="#L" n="8"/>quod non potest plus dolere de quacumque re: imo- 
+          <lb ed="#L" n="9"/>moriet prae dolore. Et secundum hoc haec est neganda 
+          <lb ed="#L" n="10"/>rationabiliter debet homo dolere de maiori poena si 
+          <lb ed="#L" n="11"/>bi insligenda quam de minori: quia tantum dolet de mi 
+          <lb ed="#L" n="12"/>nori quod non potest plus dolere. Et eodem modo di 
+          <lb ed="#L" n="13"/>ci potest de gaudio: quod homo potest tantum gaudere  
+          <lb ed="#L" n="14"/>de secnritate minoris temporis sicut de securita 
+          <lb ed="#L" n="15"/>te maioris: quia potentia qua gaudet / est finita
+          </p>
+          <p xml:id="rh-l4q8-d1e2202">
+          <lb ed="#L" n="16"/>Ad decimum quando arguitur. aut deus apperet be 
+          <lb ed="#L" n="17"/>atis bonum finitum vel infinitum. Dico quod infi- 
+          <lb ed="#L" n="18"/>nitum bonum appret sibi: et nego ulterius consequentiam  
+          <lb ed="#L" n="19"/>igitur apprehendet eum: sed concedo quod apparet uto  
+          <lb ed="#L" n="20"/>ita bonus sicut est: quia infinitae bonus.
+          </p>
+          <p xml:id="rh-l4q8-d1e2215">
+            Ad  
+          <lb ed="#L" n="21"/>undecimum dico pro nucquam nullus intellectus  
+          <lb ed="#L" n="22"/>creatus potest aeque distincte intelligere plura  
+          <lb ed="#L" n="23"/>sicut pauciora: et concedo quod in Lino remitti  
+          <lb ed="#L" n="24"/>cognitio praecedentium bonorum quando intelligit acti  
+          <lb ed="#L" n="25"/>de nouo beatificum: vel forte totaliter dimitti  
+          <lb ed="#L" n="26"/>tur cognitio alicuius eorum qua prius cognovit. 
+          <lb ed="#L" n="27"/>Dico tamen quod cognitio de deo nunquam in beato di 
+          <lb ed="#L" n="28"/>mittitur nec remittitur. Et ideo quamtum ad illud non  
+          <lb ed="#L" n="29"/>erunt in patria volubiles seu mobiles cogni- 
+          <lb ed="#L" n="30"/>tiones secundum Augustinum Sed lo quindo de cognitionibus  
+          <lb ed="#L" n="31"/>quas beati hunt de creaturis: non video quindo 
+          <lb ed="#L" n="32"/>ibi erunt successiones novarum et variarum cogita 
+          <lb ed="#L" n="33"/>tionum in infinitum.
+          </p>
+          <p xml:id="rh-l4q8-d1e2247">
+            Unde dicunt doctores quod in- 
+          <lb ed="#L" n="34"/>finitae erunt future cognitiones angelorum. Con 
+          <lb ed="#L" n="35"/>tra ergo in beato potest esse oblivio. nego istam  
+          <lb ed="#L" n="36"/>consequentiam: quia homo dicitur oblivisci illud quod nouit in 
+          <lb ed="#L" n="37"/>habitu: etiam si actu de eo non consideret. Dico 
+          <lb ed="#L" n="38"/>modo quod sicut homo vtitur habitu acquisito: quando vult  
+          <lb ed="#L" n="39"/>considerare illud quod pus nouit in habitu: ita  
+          <lb ed="#L" n="40"/>dico quod beatus potest omne cognoscibile quod appe- 
+          <lb ed="#L" n="41"/>tit cogitare considerare quando vult: non agente ha 
+          <lb ed="#L" n="42"/>bitu aliquo ad hoc: sed obiecto beatifico: quod est 
+          <lb ed="#L" n="43"/>deus.
+          </p>
+          <p xml:id="rh-l4q8-d1e2271">
+            Sed contra videtur quod dicitur in litera. Qui cla 
+          <lb ed="#L" n="44"/>ritatem dei vident: nihil in creatura agitur: quod vi 
+          <lb ed="#L" n="45"/>dere non possunt. Dico quod illa auctoritas est  
+          <lb ed="#L" n="46"/>pro me: quia non dicit quod vident quicquid in creatu- 
+          <lb ed="#L" n="47"/>ra agitur: sed quod videre possunt. et hoc est ve 
+          <lb ed="#L" n="48"/>rum. non tamen simul: sed successive.
+          </p>
+          <p xml:id="rh-l4q8-d1e2284">
+            Ad duo- 
+          <lb ed="#L" n="49"/>decimum quando arguitur: aut est dare maximum gratia  
+          <lb ed="#L" n="50"/>dum beatitudinis possibilem intellectui sortis:  
+          <lb ed="#L" n="51"/>etc Potest dici probabiliter quod sic: quod est dare ma- 
+          <lb ed="#L" n="52"/>ximam cognitionem claram quam istae intellectus  
+          <lb ed="#L" n="53"/>bere potest: et maximam delectationem: et maxi 
+          <!--247.xml-->
+          <cb ed="#L" n="b"/><!--124rb-->
+          <lb ed="#L" n="54"/>mum lumen glorie. et sic de singulis partibus  
+          <lb ed="#L" n="55"/>btitudins. Et quando arguitur: ponatur quod aliquis via 
+          <lb ed="#L" n="56"/>tor meruit tantum quantum potuit recipere: quaeritur  
+          <lb ed="#L" n="57"/>an possit mereri an non: Dici potest quod potest ad.  
+          <lb ed="#L" n="58"/>huc facere opera virtuosa et meritoria secundum ge- 
+          <lb ed="#L" n="59"/>nus suum: licet non merebitur aliquid aliud: sed illud  
+          <lb ed="#L" n="60"/>idem: sicut dicitur de christo quod illud idem quod debe 
+          <lb ed="#L" n="61"/>batur sibi vno modo: fecit sibi debitum alio modo:  
+          <lb ed="#L" n="62"/>eri
+          </p>
+          <p xml:id="rh-l4q8-d1e2322">
+            Ad secundum principale quando arguitur. quod si sic: omnes  
+          <lb ed="#L" n="63"/>aequaliter essent beati. nego consequentiam. Ad probatio  
+          <lb ed="#L" n="64"/>ne primam concedo quod videbunt eum sicuti est. et ne 
+          <lb ed="#L" n="65"/>go vltimam consequentiam: ergo aequaliter. Ad confirmiationem 
+          <lb ed="#L" n="66"/>de Augustinus lxxxiii diti capitulo xxxii quando dicit quod eandem  
+          <lb ed="#L" n="67"/>rem non potest alius alio intelligere melius. verum est  
+          <lb ed="#L" n="68"/>de intellectione diffinitiva. Sed de virtute vocis  
+          <lb ed="#L" n="69"/>manifestum est quod est falsum.
+          </p>
+          <p xml:id="rh-l4q8-d1e2340">
+            Ad secundum quando ar 
+          <lb ed="#L" n="70"/>guitur: tantum gaudet Linus quantum beata vergo etc.  
+          <lb ed="#L" n="71"/>nego. Et de auente Anselmi dico quod illa au 
+          <lb ed="#L" n="72"/>ctoritas vult dicere quod ibi erit perfectissima  
+          <lb ed="#L" n="73"/>charitas: et non est verum ad literam hoc quod ib 
+          <lb ed="#L" n="74"/>icitur: sicut arguitur. sicut potest quaeri alibi. Unde nego  
+          <lb ed="#L" n="75"/>illam: tantum gaudet gaudio batem verginis quan 
+          <lb ed="#L" n="76"/>tum gauderet si illud gaudium in se haberet.
+          </p>
+          <p xml:id="rh-l4q8-d1e2358">
+            Ad  
+          <lb ed="#L" n="77"/>tertium de ista auente: Erit in dispari clarita- 
+          <lb ed="#L" n="78"/>te par gaudium. Dico quod Augustinus vocat gaudium  
+          <lb ed="#L" n="79"/>non possessionem beati: sed obiectum beatificum: quod est  
+          <lb ed="#L" n="80"/>par hoc est unum omnibus. Unde dicit sic. Erit in dif 
+          <lb ed="#L" n="81"/>pari claritate par gaudium: ut quod habebunt  
+          <lb ed="#L" n="82"/>angeli sit omnibus cone: quia etiam gilnia capitis erit  
+          <lb ed="#L" n="83"/>omnibus vinculum charitatis.
+          </p>
+          <p xml:id="rh-l4q8-d1e2377">
+            Ad quartum quando ar
+          <lb ed="#L" n="84"/>guitur de appetitu naturali beatitudinis. dico quod  
+          <lb ed="#L" n="85"/>appetitus naturalis non potest esse nisi respectu 
+          <lb ed="#L" n="86"/>btitudinis: quae est visio dei cum ceteris: sed  
+          <lb ed="#L" n="87"/>ad betitudinem quae dicitur bene esse. Similiter dico quod eti  
+          <lb ed="#L" n="88"/>am beatitudo non daretur secundum appetitum: sed secundm  
+          <lb ed="#L" n="89"/>mensuram meritorum.
+          </p>
+          <p xml:id="rh-l4q8-d1e2393">
+            Sed contra. inconveniens  
+          <lb ed="#L" n="90"/>est ponere illum appetitum non satiatum in btitu 
+          <lb ed="#L" n="91"/>dine. Potest dici quod satiatur in quolibet homine:  
+          <lb ed="#L" n="92"/>lcet homines inaequaliter praemiantur: quia etiam in quo 
+          <lb ed="#L" n="93"/>libet beato minimo totus appetitus satia  
+          <lb ed="#L" n="94"/>tur.
+          </p>
+          <p xml:id="rh-l4q8-d1e2406">
+            Ad quintum quando dicitur quod omnes cognoscent deum  
+          <lb ed="#L" n="95"/>aequaliter: nego. Ad probationem dico quod licet omnes  
+          <lb ed="#L" n="96"/>animae sint aeque potentes ad intelligendum et dili- 
+          <lb ed="#L" n="97"/>gendum quantum ad naturalia: non ideo sequitur quod  
+          <lb ed="#L" n="98"/>aequaliter beatificabuntur. Tum quia lumen glorie coa 
+          <lb ed="#L" n="99"/>git ad cognitionem et dilectionem: et illud erit  
+          <lb ed="#L" n="100"/>diversimode in diversis. Tum quia obiectum ipsus  
+          <lb ed="#L" n="101"/>voluntarie causat. Et quando accipitur quod es- 
+          <lb ed="#L" n="102"/>sentia diuina naturaliter representat quicquid  
+          <lb ed="#L" n="103"/>repsentat: haec est falsa: quia aliquid repssentare  
+          <lb ed="#L" n="104"/>naturaliter est causare illius notitiam sic-  
+          <lb ed="#L" n="105"/>ut causa partialis: et hoc non facit essentia  
+          <lb ed="#L" n="106"/>divina. concedo etiam quod omnis anima est imago  
+          <!--248.xml-->
+          <pb ed="#L" n="124-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>dei aequaliter cum alia: quantum partinet ad natu 
+          <lb ed="#L" n="2"/>ralia: et aequaliter posset frui deo: sed non aequalti 
+          <lb ed="#L" n="3"/>fruitur deo.
+          </p>
+          <p xml:id="rh-l4q8-d1e2448">
+            Ad sextum dico quod vnus beatus pri 
+          <lb ed="#L" n="4"/>poterit diligere deum quam alius propter iuvamen 
+          <lb ed="#L" n="5"/>ex maiori lumine et ex maiori dei coactione
+          </p>
+          <p xml:id="rh-l4q8-d1e2455">
+          <lb ed="#L" n="6"/>Ad septimum concedo quod Linus non appetit 
+          <lb ed="#L" n="7"/>appetitu absoluto plus honorari quod hono  
+          <lb ed="#L" n="8"/>rat: et vult se minus honorare deum quam beata vir 
+          <lb ed="#L" n="9"/>go honorat.
+          </p>
+          <p xml:id="rh-l4q8-d1e2466">
+            Ad octavum quando dicitur quod quilibet  
+          <lb ed="#L" n="10"/>beatus sciret omnia scienda etc. Dico quod hoc dbe 
+          <lb ed="#L" n="11"/>intelligi: quod qui cognoscet deum: potest scire omnia sci 
+          <lb ed="#L" n="12"/>enda: si deus velit sibi ista sucessive reuela 
+          <lb ed="#L" n="13"/>re. Et ad illud: replebitur sapientia: ergo capiet 
+          <lb ed="#L" n="14"/>quantum capere poterit. Potest dici quod in beato  
+          <lb ed="#L" n="15"/>est duplex capacitas beatitudinis: propinqum  
+          <lb ed="#L" n="16"/>et remota. quilibet capiet quantum capere potest po 
+          <lb ed="#L" n="17"/>tentia vel capacitate propinqua: quae capa 
+          <lb ed="#L" n="18"/>citas est anima beati disposita per merita. Et quanad  
+          <lb ed="#L" n="19"/>dicit quod nihil latebit beatum: hoc est dictu: ni- 
+          <lb ed="#L" n="20"/>hil quod vult scire / latebit eum. vel dicendum quod  
+          <lb ed="#L" n="21"/>deus in beato est quasi loco habitus. vn nihil la 
+          <lb ed="#L" n="22"/>tet beatum: sicut nihil partinens ad medicinam la 
+          <lb ed="#L" n="23"/>tet habentem habitum medicine: tamen non ideo sec  
+          <lb ed="#L" n="24"/>tur quod beatus omnia scit vno actu vel pluribus  
+          <lb ed="#L" n="25"/>immo nec potest omnia scire habitu per aliquid crea- 
+          <lb ed="#L" n="26"/>tum: ut existimo.
+          </p>
+          <p xml:id="rh-l4q8-d1e2506">
+            Ad nonum quando dicitur quod omne  
+          <lb ed="#L" n="27"/>homines natura scire desiderant. antecedens conceso scilicet  
+          <lb ed="#L" n="28"/>quod illud desiderium quietabitur: non quod actu sci- 
+          <lb ed="#L" n="29"/>ent omnia: sed quia videbunt eum qui vult in eis cau 
+          <lb ed="#L" n="30"/>sare notitiam quantumcumque volunt. vnd per quie 
+          <lb ed="#L" n="31"/>tationem debet satiari appetitus naturalis: sic  
+          <lb ed="#L" n="32"/>ut est de appetitu naturali respectu cibi et  
+          <lb ed="#L" n="33"/>potus: quae satiabit postquam saturabitur : concedo  
+          <lb ed="#L" n="34"/>tamen quod bene scient habitualiter omnes conclusiones  
+          <lb ed="#L" n="35"/>geometricas et huiusmoni: sed ex hoc non sequitur quod  
+          <lb ed="#L" n="36"/>sint aequales in beatitudine. Similiter de forma 
+          <lb ed="#L" n="37"/>arguendi argumentum non valet: quia arguitr ex  
+          <lb ed="#L" n="38"/>aequalitate scie ad aequalitatem beatitudinis: quia  
+          <lb ed="#L" n="39"/>non sequitur: isti duo sunt omnino aequales in scie  
+          <lb ed="#L" n="40"/>tia: ergo sunt aequales in omnibus ad btitudinem  
+          <lb ed="#L" n="41"/>perinentibus.
+          </p>
+          <p xml:id="rh-l4q8-d1e2541">
+            Ad decimum dico quod non erunt  
+          <lb ed="#L" n="42"/>omnes aequaliter dotati in corpore sicut in anima 
+          <lb ed="#L" n="43"/>sic tamen erunt dotati: quod nihil corporeum pote 
+          <lb ed="#L" n="44"/>rit eis resistere. vltra tamen illum gradum est ma 
+          <lb ed="#L" n="45"/>gna latitudo: secundum quam unum potest esse subtilius  
+          <lb ed="#L" n="46"/>et clarius. Similiter consequentia non valet: erunt aequeles in  
+          <lb ed="#L" n="47"/>dotibus corporis: ergo erunt aequales in doti  
+          <lb ed="#L" n="48"/>bus mentis
+          </p>
+          <p xml:id="rh-l4q8-d1e2559">
+            Ad undecimum patet quod batitudo  
+          <lb ed="#L" n="49"/>secundum determinationem Ioetii non convenit homini  
+          <lb ed="#L" n="50"/>vel angelo: sed tantum deo: sicut dictum fuit in  
+          <lb ed="#L" n="51"/>positione conclusionis quintae.
+          </p>
+          <p xml:id="rh-l4q8-d1e2568">
+            <pc type="#pilcrow"/>Ad tertium pri 
+          <lb ed="#L" n="52"/>cipale quando arguitur de securitate: concedo quod est  
+          <lb ed="#L" n="53"/>pars betitudinis. pars dico secundm imaginatio  
+          <!--248.xml-->
+          <cb ed="#L" n="b"/><!--124vb-->
+          <lb ed="#L" n="54"/>nem: et non est potissima pars. hoc est dictu: non est po 
+          <lb ed="#L" n="55"/>tissimum quod est partiale significatum illius termi 
+          <lb ed="#L" n="56"/>ni btitudo: immo deus est potior: tamen inter no- 
+          <lb ed="#L" n="57"/>titias complexas qu partinent ad beatitudinem for 
+          <lb ed="#L" n="58"/>te est pars potissima. Et quando arguitur quod talis  
+          <lb ed="#L" n="59"/>securitas vel certitudo non est creaturae ratio- 
+          <lb ed="#L" n="60"/>nali possibilis: quia redderet deum impotentem.  
+          <lb ed="#L" n="61"/>Dico quod certitudo de beatitudine aeternaliter 
+          <lb ed="#L" n="62"/>duratura potest dupliciter attribui alicui: vel 
+          <lb ed="#L" n="63"/>quod credat se semper fore beatum et nunquam abti- 
+          <lb ed="#L" n="64"/>tudine se casurum. vel quia credat se semper fore 
+          <lb ed="#L" n="65"/>beatum: et non posse aliquo modo cadere a beati- 
+          <lb ed="#L" n="66"/>tudine. Primo modo est attribuenda securitas  
+          <lb ed="#L" n="67"/>btitudinis creaturae beate. secundo modo non est pos- 
+          <lb ed="#L" n="68"/>sibilis creaturae beate certitudo betitudinis: 
+          <lb ed="#L" n="69"/>Et quando arguitur: tunc deus posset facere praeteritum  
+          <lb ed="#L" n="70"/>non fuisse. nego consequentiam. Et ad probationem quando  
+          <lb ed="#L" n="71"/>arguitur. sit securitas Petri a etc. Dico quod de 
+          <lb ed="#L" n="72"/>us potest facere quod haec e falsa: a est securitas:  
+          <lb ed="#L" n="73"/>et quod hoc sit falsa: haec securitas est. Sed dico quod  
+          <lb ed="#L" n="74"/>impossibile est quod faciat quod hoc sit falsa: hoc res fu 
+          <lb ed="#L" n="75"/>it: demonstrata re quae est modo securitas Petri. et  
+          <lb ed="#L" n="76"/>io concedendum quod aliqua scia est: et illa potest nunquam  
+          <lb ed="#L" n="77"/>fuisse scia: et potest fuisse error: et ita potest esse quod  
+          <lb ed="#L" n="78"/>haec semper fuit falsa / hoc scina est. et vlterius conce 
+          <lb ed="#L" n="79"/>do quod beatum deus potuit semper decepisse et fe 
+          <lb ed="#L" n="80"/>fellisse si vult.
+          </p>
+          <p xml:id="rh-l4q8-d1e2641">
+            Ad secundum formam quae fuit in 
+          <lb ed="#L" n="81"/>hac proportione: quilibet beatus desinet esse beatus  
+          <lb ed="#L" n="82"/>ante diem iudicii. hoc est distinguenda: eo quod hoc verbum  
+          <lb ed="#L" n="83"/>desinet potest intelligi suum significatum ponere  
+          <lb ed="#L" n="84"/>circa totum quod sequitur: et tunc est propositio viera: sicut  
+          <lb ed="#L" n="85"/>patet per exponentes. vel potest intelligi ponere suum  
+          <lb ed="#L" n="86"/>significatum praecise circa partem illa ee beatus: et quod  
+          <lb ed="#L" n="87"/>lu ante diem sit determiatio actus desinendi: et sic  
+          <lb ed="#L" n="88"/>falsa est. vel sub forma alia potest eadem propositio di 
+          <lb ed="#L" n="89"/>stingui: eo quod determiatio temporalis an diem iu 
+          <lb ed="#L" n="90"/>dicii potest determinare hoc verbum desinet: vel hoc  
+          <lb ed="#L" n="91"/>complexum esse beatus primo modo est falsa. secundo modo 
+          <lb ed="#L" n="92"/>vera: sensus patent.
+          </p>
+          <p xml:id="rh-l4q8-d1e2670">
+            <pc type="#pilcrow"/>Ad iiii principalem concedo quod  
+          <lb ed="#L" n="93"/>viator praemiatur per operationem sicut per partem suae beati 
+          <lb ed="#L" n="94"/>tudinis: quia beatitudo est sufficientia competentium  
+          <lb ed="#L" n="95"/>commodorum. Et quando quaritur utrum beatus fruitur libe- 
+          <lb ed="#L" n="96"/>re an non libere: dico quod si istud aduerbium li 
+          <lb ed="#L" n="97"/>bere sit idem quod indifferenter: sic quod possit non  
+          <lb ed="#L" n="98"/>frui: dico quod non libere sed naturaliter: hoc est modo 
+          <lb ed="#L" n="99"/>naturae. Et quando arguitur: ergo non diligit spotetanea  
+          <lb ed="#L" n="100"/>voluntate: nego consequentiam: sicut negat magister illam  
+          <lb ed="#L" n="101"/>consequentiaum libro ii dsut vii ubi dicit quod confirmati spotestaea  
+          <lb ed="#L" n="102"/>voluntate feruntur in deum nulla necessitate coa- 
+          <lb ed="#L" n="103"/>ti: et tamen non possunt eum non amare: qui est benedictus in  
+          <lb ed="#L" n="104"/>cla scunorum ament.
+          </p>
+          <p xml:id="rh-l4q8-d1e2702">
+            Et sic est finis quaestionum huius  
+          <lb ed="#L" n="105"/>quarti: et per consequens totius operis sententiarum  
+          <lb ed="#L" n="106"/>ergo Sequuntur Conferentiae.  
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

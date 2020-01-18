@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 4, Quaestio 7 [Lyon 1518 Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 4, Quaestio 7 [Lyon 1518 Transcription]</title>
+          <date when="2020-01-18">January 18, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="Lyon1518">Lyon 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-01-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="117-v"/>
+        <cb ed="#L" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rh-l4q7">
+        <head xml:id="rh-l4q7-Hd1e97">Quaestio 7</head>
+        <div xml:id="rh-l4q7-Dd1e100">
+          <p xml:id="rh-l4q7-d1e102">
+            <lb ed="#L" n="98"/>UTrum peccator pos 
+            <lb ed="#L" n="99"/>sit satisfacere deo pro peccato 
+            <lb ed="#L" n="100"/>mortali:
+          </p>
+        </div>
+        <div xml:id="rh-l4q7-Dd1e112" type="rationes-principales">
+          <head xml:id="rh-l4q7-Hd1e114">Rationes principales</head>
+          <p xml:id="rh-l4q7-d1e117">
+            Quod non quia secundum ma 
+          <lb ed="#L" n="101"/>suram peccati opet esse latisfact  
+          <lb ed="#L" n="102"/>onem: sed peccatum mortale est  
+          <lb ed="#L" n="103"/>infinitae malitiae intensivae:  
+          <lb ed="#L" n="104"/>ergo satisfactionem pro eodem oparet esse infinitae bonita  
+          <lb ed="#L" n="105"/>tis intesuae: sed nihiltale in hacrita potest homo de 
+          <!--235.xml-->
+          <pb ed="#L" n="118-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>reddere. ergo non potest satisfacere pro mortali. 
+          <lb ed="#L" n="2"/>ista ratio videtur Anselmi. Namque maiorem impe 
+          <lb ed="#L" n="3"/>ponit primo cur deus homo capitulo xx vbi ipse dicit  
+          <lb ed="#L" n="4"/>Secundum mensuram peccati opet esse satisfactio  
+          <lb ed="#L" n="5"/>nem. et capitulo xxix eiusdem libri dicit quod beatitudo  
+          <lb ed="#L" n="6"/>nulli debet dari: nisi illi cui penitus dimissa sunt  
+          <lb ed="#L" n="7"/>peccata: nec hanc dimissionem fieri nisi debito  
+          <lb ed="#L" n="8"/>reddito : quod debetur pro peccato secundum magnitudinem 
+          <lb ed="#L" n="9"/>peccati. his suppositis rationibus: puto me suf  
+          <lb ed="#L" n="10"/>ficienter ostendisse maiorem. Minorem ipse 
+          <lb ed="#L" n="11"/>ponit libro secundo cur deus homo capitulo xiiii ub 
+          <lb ed="#L" n="12"/>dicit quod pro infinitis mundis si essent: non de 
+          <lb ed="#L" n="13"/>beret homo peccare mortaliter. sed infiniti mun 
+          <lb ed="#L" n="14"/>di si essent / forent infinitae bonitatis inten- 
+          <lb ed="#L" n="15"/>sive. ergo quodlibet peccatum mortale est infinitae  
+          <lb ed="#L" n="16"/>malitiae intensive.
+          </p>
+          <p xml:id="rh-l4q7-d1e171">
+            Secundo probatur ea- 
+          <lb ed="#L" n="17"/>dem minor sic. malum quod est incomparabile cui 
+          <lb ed="#L" n="18"/>cumque alteri malo: excedens quodcumque aliud  
+          <lb ed="#L" n="19"/>malum: est malitiae infinitae intensive: sed omne  
+          <lb ed="#L" n="20"/>peccatum mortale est huiusmodi ergo etc haec ratio videtur 
+          <lb ed="#L" n="21"/>Anselmi primo cur deus homo. vbi dicit sic. <quote xml:id="rh-l4q7-Qd1e184">Cum  
+          <lb ed="#L" n="22"/>considero actionem ipsam: leuissimum quid videtur  
+          <lb ed="#L" n="23"/>esse: sed cum intueor quod fit contra voluntatem dei:  
+          <lb ed="#L" n="24"/>grauissimum quiddam et nulli damno comparabi- 
+          <lb ed="#L" n="25"/>le esse intelligo</quote> haec ille.
+          </p>
+          <p xml:id="rh-l4q7-d1e196">
+            Tertio sic. satisfa 
+          <lb ed="#L" n="26"/>ctio quam omnis peccator debet deo: est reddere deo 
+          <lb ed="#L" n="27"/>alquid honoris: quod deo tantum placeat / quan 
+          <lb ed="#L" n="28"/>tum displicuit dehonoratio quam fecit deo  
+          <lb ed="#L" n="29"/>quando peccavit: sed hoc non est possibile homini: quia il 
+          <lb ed="#L" n="30"/>la dehonoratio fuit tantum malum quod fieri non  
+          <lb ed="#L" n="31"/>debuit pro creatura infinitae bonitantis si esset  
+          <lb ed="#L" n="32"/>vel fuisset. ergo. Ista ratio videt Anselmi primo  
+          <lb ed="#L" n="33"/>cur deus hormo capitulo ii ubi dicit quod non sufficit illi  
+          <lb ed="#L" n="34"/>qui honorem alterius violat: haec norem reddere:  
+          <lb ed="#L" n="35"/>si non secundum dehonorarionis factam molestiam  
+          <lb ed="#L" n="36"/>et violentiam aliquid quod placeat illi quem deho- 
+          <lb ed="#L" n="37"/>norauit / restituat. haec ille et infra. haec est sa 
+          <lb ed="#L" n="38"/>tiffactio quam omnis peccator deo debet reddere.
+          </p>
+          <p xml:id="rh-l4q7-d1e227">
+          <lb ed="#L" n="39"/>Confirmatur: quia totus processus Anselmi 
+          <lb ed="#L" n="40"/>illis libris pro magna parte innuit quod Anselmus. ni 
+          <lb ed="#L" n="41"/>titur probare quod necessarium fuit deum incarna  
+          <lb ed="#L" n="42"/>ri: et per morte satisfacere pro primo peccato. vnd  
+          <lb ed="#L" n="43"/>idem processus videtur eadem ratione concludere quod  
+          <lb ed="#L" n="44"/>homo non potest satisfacere pro quocuque peccato  
+          <lb ed="#L" n="45"/>mortali quod potest committere.
+          </p>
+          <p xml:id="rh-l4q7-d1e246">
+            Quarto sic . tam  
+          <lb ed="#L" n="46"/>malum est vnumquodque malum: quam bonum est illud  
+          <lb ed="#L" n="47"/>pro quo non deberet fieri: sicut satis innuil  
+          <lb ed="#L" n="48"/>Anselmum libro ii capitulo xiiii sed pro nullo bono alio a  
+          <lb ed="#L" n="49"/>deo deberet fieri malum: ergo nullum bonum aliud  
+          <lb ed="#L" n="50"/>a deo est ita bonum / sicut peccatum est malum. er 
+          <lb ed="#L" n="51"/>go impossibile est quod homo deo restituat tantum  
+          <lb ed="#L" n="52"/>quantum abstulit. ergo et haec videtur ratio Ansel- 
+          <lb ed="#L" n="53"/>mi secundo cur deus houm capitulo vi ubi vult quod homo 
+          <!--235.xml-->
+          <cb ed="#L" n="b"/><!--118vb-->
+          <lb ed="#L" n="54"/>peccator non potest duci ad beatitudinem: nisi  
+          <lb ed="#L" n="55"/>sit qui soluat deo pro peccato hominis aliquid maius quam  
+          <lb ed="#L" n="56"/>omne quod est praeter deum: et nihil est tale nisi  
+          <lb ed="#L" n="57"/>deus. Unde concludit quod necesse est deum hanc sa 
+          <lb ed="#L" n="58"/>tisfactionem facere.
+          </p>
+          <p xml:id="rh-l4q7-d1e282">
+            Quinto sic. qui tenetur  
+          <lb ed="#L" n="59"/>alicui in omni eo quod potest ratione beneficii: ni- 
+          <lb ed="#L" n="60"/>hil si delinquat habet quod possit soluere ratione 
+          <lb ed="#L" n="61"/>delicti: sed homo antequam peccet tenetur deo in  
+          <lb ed="#L" n="62"/>omni eo quod potest ratione beneficum conditionis  
+          <lb ed="#L" n="63"/>et redemptionis. ergo si delinquat: nihil habet quod  
+          <lb ed="#L" n="64"/>possit deo compensare pro delicto. et est ratio 
+          <lb ed="#L" n="65"/>Anselmi primo cur deus homo capitulo xx vbi dfcit  
+          <lb ed="#L" n="66"/>sic. Cum reddis aliquid quod debes deo: etiam  
+          <lb ed="#L" n="67"/>si non peccasti: debes hoc computare pro debito  
+          <lb ed="#L" n="68"/>quod debes pro peccato omnia autem debes deo
+          </p>
+          <p xml:id="rh-l4q7-d1e306">
+          <lb ed="#L" n="69"/>Sexto sic. nullus obligatus ad soluendum  
+          <lb ed="#L" n="70"/>quod soluere nequit: potest satisfacere pro peccato:  
+          <lb ed="#L" n="71"/>sed omnis peccator est obligatus si velit sa- 
+          <lb ed="#L" n="72"/>tisfacere pro peccato ad soluendum aliquid deo 
+          <lb ed="#L" n="73"/>quod soluere nequit. igitur etc. et haec ratio sumiu  
+          <lb ed="#L" n="74"/>ex dictis Anselmi primo cur deus homo cpc. vlti- 
+          <lb ed="#L" n="75"/>moo ubi dicit sic. Rationabiliter me deduxi 
+          <lb ed="#L" n="76"/>sti ad hoc vt videam peccatorem hominem  
+          <lb ed="#L" n="77"/>debere deo pro peccato quod reddere nequitr.  
+          <lb ed="#L" n="78"/>ergo etc. Et si dicatur quod in hoc est homo excu 
+          <lb ed="#L" n="79"/>satus: si deus ab eo exigit aliquid quod redde- 
+          <lb ed="#L" n="80"/>re nequii: cum impotentia hominis eum in hoc  
+          <lb ed="#L" n="81"/>casu debeat excusare: excludit hoc Ansel- 
+          <lb ed="#L" n="82"/>mus capi. xiiii. Si homo induit est iniustus qui ho 
+          <lb ed="#L" n="83"/>mini non reddit quod debet: multo magis in- 
+          <lb ed="#L" n="84"/>iustus est qui deo non reddit quod debet. Et di- 
+          <lb ed="#L" n="85"/>scipulus respodet. Si potest: et non reddit. vere in  
+          <lb ed="#L" n="86"/>iustus est. Si vero non potest: quon iniustus est: An- 
+          <lb ed="#L" n="87"/>selmus. Forsitan si nulla in eo causa impotentiae est  
+          <lb ed="#L" n="88"/>aliquatenus excusari potest: sed si ipsa impotentia  
+          <lb ed="#L" n="89"/>culpa est: sicut non sevigat peccatum ita non excu 
+          <lb ed="#L" n="90"/>sat non reddentem debiium. ergo secundm eum stant si 
+          <lb ed="#L" n="91"/>mul: quod homo teneatur reddere debitum deo: et tamen  
+          <lb ed="#L" n="92"/>non possit reddere debitum deo. Iste forme su 
+          <lb ed="#L" n="93"/>muntur ex diversis dictis Aniemi.
+          </p>
+          <p xml:id="rh-l4q7-d1e363">
+            Se 
+          <lb ed="#L" n="94"/>cundo ad principale: si peccator posset sati  
+          <lb ed="#L" n="95"/>facere deo pro peccato mortali: sequeretur quod ad hoc  
+          <lb ed="#L" n="96"/>teneretur. sicut dicit Anselmus primo cur deus homo  
+          <lb ed="#L" n="97"/>c. xi haec est inquit satisfactio quam omnis pec 
+          <lb ed="#L" n="98"/>cator deo facere debet. consequens est falsumquia 
+          <lb ed="#L" n="99"/>si sic: sequeretur quod gravius peccas ad ma 
+          <lb ed="#L" n="100"/>iorem satisfactionem teneretur: sicut dicit Anselmus.  
+          <lb ed="#L" n="101"/>primo cur deus homo capitulo xix Secundum mensuram  
+          <lb ed="#L" n="102"/>inquit peccati oportet esse satisfactionem.  
+          <lb ed="#L" n="103"/>led consequens est falsum: quia si sic: ad ma 
+          <lb ed="#L" n="104"/>iorem satisfactionem teneretur transgressor 
+          <lb ed="#L" n="105"/>voti quam transgressor iufamenti. consequen 
+          <lb ed="#L" n="106"/>tia patet: quia votum est magis obligas 
+          <!--236.xml-->
+          <pb ed="#L" n="118-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>torium quam iuramentum. quod probatur. quia infidelitas  
+          <lb ed="#L" n="2"/>serui ad dicenm est gravior quam quaecumque irre 
+          <lb ed="#L" n="3"/>verentia quam seruus potest facere dneno suo. sed  
+          <lb ed="#L" n="4"/>obligatio voti causatur ex istis duobus scilicet ex 
+          <lb ed="#L" n="5"/>consensu hominis: et fidelitate quam homo debet deo. ob 
+          <lb ed="#L" n="6"/>ligatio autem iuramenti causatur ex istis duobus:  
+          <lb ed="#L" n="7"/>scilicet et consensu hominis: et reverentia quam debet homo  
+          <lb ed="#L" n="8"/>deo inquantum est prima veritas. ergo transgrae 
+          <lb ed="#L" n="9"/>sio voti est quaedam infidelitas. et transgressio  
+          <lb ed="#L" n="10"/>iuramenti e quaedam irreverentia contra deum:  
+          <lb ed="#L" n="11"/>sed infidelitas est gravior quam irreuerentia.  
+          <lb ed="#L" n="12"/>ergo.
+          </p>
+          <p xml:id="rh-l4q7-d1e426">
+            Secundo quia fortior est obligatio ex na 
+          <lb ed="#L" n="13"/>tura sua quae non fit nisi soli deo: quam illa quae 
+          <lb ed="#L" n="14"/>interdum fit homini votum autem nunquam fit nisi  
+          <lb ed="#L" n="15"/>soli deo. iuramentum autem fit homini: ergo etc  
+          <lb ed="#L" n="16"/>Propter ista tenent multi quod transgressio  
+          <lb ed="#L" n="17"/>voti est gravior. Concordat sanctus Thomas 
+          <lb ed="#L" n="18"/>ii ii qui lxix atri vi.
+          </p>
+          <p xml:id="rh-l4q7-d1e442">
+            Sed contra arguitur sic . to- 
+          <lb ed="#L" n="19"/>ta ratio obligationis quae est in voto: est in  
+          <lb ed="#L" n="20"/>iuramento: et aliqua est in iuramento / rue 
+          <lb ed="#L" n="21"/>non est in voto: ergo obligatio iuramenti est for 
+          <lb ed="#L" n="22"/>tior. consequentia patet. Antecedens probo. nam obligatio quae 
+          <lb ed="#L" n="23"/>in voto est: consurgit ex consensu post deli- 
+          <lb ed="#L" n="24"/>berationem quo promittitur aliquid deo: sec  
+          <lb ed="#L" n="25"/>aequalis deliberatio et aequalis consensus et in  
+          <lb ed="#L" n="26"/>terior promissio mentis deo fit dum iuratur: et  
+          <lb ed="#L" n="27"/>ultra istam promissionem deliberatam est in iura 
+          <lb ed="#L" n="28"/>mento invocatio testimonii divini: quo etiam  
+          <lb ed="#L" n="29"/>obligat. ergo omnia quae sunt in voto obliga- 
+          <lb ed="#L" n="30"/>toria / inveniuntur in iuramento: vel inveniri 
+          <lb ed="#L" n="31"/>debent. quia secundum hiero. iuramentum debite fa 
+          <lb ed="#L" n="32"/>ctum debet habere tres commites. videlicet iudicium: iu- 
+          <lb ed="#L" n="33"/>stitiam: et veritatem. iudicium autem includit deli 
+          <lb ed="#L" n="34"/>berationem.
+          </p>
+          <p xml:id="rh-l4q7-d1e480">
+            Praeterea plus de irreuerentia  
+          <lb ed="#L" n="35"/>fit deo in periurio quam in transgressione voti  
+          <lb ed="#L" n="36"/>simplicis: quia sponte transgrediens iuramen 
+          <lb ed="#L" n="37"/>tum licitum / imponit deo quantum in ipso est cri 
+          <lb ed="#L" n="38"/>men falsitatis: et hoc est interptative blas 
+          <lb ed="#L" n="39"/>prehemare deum: et significare deum falsum esse  
+          <lb ed="#L" n="40"/>quia factum hominis habet suam significationem verita 
+          <lb ed="#L" n="41"/>te et falsitatem sicut verba: sicut docet Anselmus . de  
+          <lb ed="#L" n="42"/>veritate c. ix Unde qui transgreditur iura 
+          <lb ed="#L" n="43"/>mentum: significat se esse falsum: et deum esse  
+          <lb ed="#L" n="44"/>falsum: quem adducit in testem. sed ille qui tras- 
+          <lb ed="#L" n="45"/>greditur votum: significat se tantum esse falsum:  
+          <lb ed="#L" n="46"/>et nullo modo deum: ergo plus videtur iuramentum  
+          <lb ed="#L" n="47"/>obligare quam votum.
+          </p>
+          <p xml:id="rh-l4q7-d1e511">
+            Praeterea deliberet ali 
+          <lb ed="#L" n="48"/>quis de intrando religionem: et post delibe- 
+          <lb ed="#L" n="49"/>rationem voueat. deliberet alius de eodem aequeli 
+          <lb ed="#L" n="50"/>deliberatione: et assentiat aequali assensu: et  
+          <lb ed="#L" n="51"/>post assensum iuret: hic est aequalis assensus  
+          <lb ed="#L" n="52"/>et aequalis deliberatio vtrobique: et vltra hoc  
+          <lb ed="#L" n="53"/>inuocatio dei in testimonium: ergo videtur quod  
+          <!--236.xml-->
+          <cb ed="#L" n="b"/><!--118vb-->
+          <lb ed="#L" n="54"/>sit aequalis obligationis vel maioris.
+          </p>
+          <p xml:id="rh-l4q7-d1e534">
+            Si di 
+          <lb ed="#L" n="55"/>catur quod iuramentum sit quandoque homini: et vo- 
+          <lb ed="#L" n="56"/>tum semper deo: ergo votumn magis obligat. consequentia  
+          <lb ed="#L" n="57"/>nihil valet: quia licet in iurando iurans dirigat  
+          <lb ed="#L" n="58"/>sermonem ad hominem in secunda perso na: tamen vis  
+          <lb ed="#L" n="59"/>obligationis suae non surgit ab illo cui loqui 
+          <lb ed="#L" n="60"/>tur: sed a seipso et a deo de quo loquitur in ter  
+          <lb ed="#L" n="61"/>tia persona: qui adducitur ad testimonium: ut  
+          <lb ed="#L" n="62"/>obligationem causet in iurantae inquantum est  
+          <lb ed="#L" n="63"/>veritas. Ex quo patet quod veniens contra iuramentum  
+          <lb ed="#L" n="64"/>licitum et expediens servari / non solum facit deo 
+          <lb ed="#L" n="65"/>irreuerentiam: immo committit infidelitatem contra  
+          <lb ed="#L" n="66"/>deum: falsificans tam se quam deum suum quantum  
+          <lb ed="#L" n="67"/>in ipso est. vnde caeteris paribus videtur iura- 
+          <lb ed="#L" n="68"/>mentum magis ligare.
+          </p>
+          <p xml:id="rh-l4q7-d1e567">
+            Quarto sic votun  
+          <lb ed="#L" n="69"/>non obligat nisi quia est ex veritate humana:  
+          <lb ed="#L" n="70"/>sed iuramentum obligat ex veritate divina et  
+          <lb ed="#L" n="71"/>humana: ergo plus obligat. et hoc nunc at 
+          <lb ed="#L" n="72"/>paret mihi verum.
+          </p>
+          <p xml:id="rh-l4q7-d1e578">
+            Confirmo istas evidentias  
+          <lb ed="#L" n="73"/>quia convictus de periurio sit infamis et a testi  
+          <lb ed="#L" n="74"/>monio expellendus. vi id est quicumque. Sec  
+          <lb ed="#L" n="75"/>votum vnius potest alius implere si ille alius 
+          <lb ed="#L" n="76"/>voluerit. ex de voto et voti redemptione:
+          </p>
+          <p xml:id="rh-l4q7-d1e589">
+          <lb ed="#L" n="77"/>Tertio ad principale. si sic: peccator tene- 
+          <lb ed="#L" n="78"/>retur ad condignam satisfactionem pro pecca 
+          <lb ed="#L" n="79"/>to secundum leges institutas. consequens est falsum quia  
+          <lb ed="#L" n="80"/>si sic: fur iuste damnatus ad mortem tene- 
+          <lb ed="#L" n="81"/>retur velle simpliciter se occidi secundum legem.  
+          <lb ed="#L" n="82"/>consequentia patet: quia scit quod hoc est iustum: et sibi de 
+          <lb ed="#L" n="83"/>bitum quantum ad satisfactionem pro peccato. et  
+          <lb ed="#L" n="84"/>satisfactio nisi sit voluntaria: nihil valet. ergo  
+          <lb ed="#L" n="85"/>peccator iuste debet se velle occidi pro pec 
+          <lb ed="#L" n="86"/>cato suo.
+          </p>
+          <p xml:id="rh-l4q7-d1e614">
+            Quidam dicunt quod hoc est verum de 
+          <lb ed="#L" n="87"/>iuste condemnato ita absolute / quod licet talis  
+          <lb ed="#L" n="88"/>post iudicium datum posset se liberare a mor- 
+          <lb ed="#L" n="89"/>te per fugam sine iniuria cuiuscumque proximi:  
+          <lb ed="#L" n="90"/>non tamen debet. quia tenetur non impedire iu 
+          <lb ed="#L" n="91"/>stitiam scienter. sed scit quod iustum est eum mori 
+          <lb ed="#L" n="92"/>et fiat argumentum de homicidio: quia quidam  
+          <lb ed="#L" n="93"/>dubitant an secundum ius divinum pro furto debe 
+          <lb ed="#L" n="94"/>atur mors. Unde dicitur quod potius debet mor- 
+          <lb ed="#L" n="95"/>tem tolerare quam fuge consentire.
+          </p>
+          <p xml:id="rh-l4q7-d1e636">
+            Contra ar 
+          <lb ed="#L" n="96"/>guo sic. non magis obligatur talis ad aliquam  
+          <lb ed="#L" n="97"/>mortem propter iudicium datum: quam aliquis obli- 
+          <lb ed="#L" n="98"/>gatur ad aliquid per votumn licitum vel per iu- 
+          <lb ed="#L" n="99"/>ramentum licitum: sed possibile est quod aliquis iu- 
+          <lb ed="#L" n="100"/>ste faciens post obligationem per votum vel per 
+          <lb ed="#L" n="101"/>iuramentum licitum illud minus bonum commu- 
+          <lb ed="#L" n="102"/>tet in maius bonum: sicut qui vouit ire in ter  
+          <lb ed="#L" n="103"/>ram sanctam: potest licitae intrare religionem.  
+          <lb ed="#L" n="104"/>ex de voto et voti redemp. scripturae. ergo si  
+          <lb ed="#L" n="105"/>talis damnatus ad mortem posset se libera- 
+          <lb ed="#L" n="106"/>re per fugam sine iniuria proximi: velintendatur  
+          <!--237.xml-->
+          <pb ed="#L" n="119-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>aliquid impendere rei publicae quod plus vale- 
+          <lb ed="#L" n="2"/>bit quod sua mors valeret: et licitae potest illud eli 
+          <lb ed="#L" n="3"/>gere ergo si intendat corrigere vitam suam: et intra 
+          <lb ed="#L" n="4"/>re religionem pro salute reipublicae: et potest li 
+          <lb ed="#L" n="5"/>bere se iuvare per fugam sine iniuria: potest il- 
+          <lb ed="#L" n="6"/>lud licitae eligere sine iniuria proximi.
+          </p>
+          <p xml:id="rh-l4q7-d1e682">
+            Di 
+          <lb ed="#L" n="7"/>co autem quod si non possit fugere nisi interficien- 
+          <lb ed="#L" n="8"/>do custodem suum: vel nisi quia custos suus postea  
+          <lb ed="#L" n="9"/>suspendatur pro eo: non licet sic sibi fugere:  
+          <lb ed="#L" n="10"/>quia non sunt facienda mala ut eueniant bona.  
+          <lb ed="#L" n="11"/>Ioatio iii. Praeterea ponatur quod sit talis homo pro  
+          <lb ed="#L" n="12"/>tuius morte fiat schisma in ecclesia: vel bellum 
+          <lb ed="#L" n="13"/>inter duo regna: et hoc sibi verisimiliter comn 
+          <lb ed="#L" n="14"/>stat. ergo si sine iniuria possit fugere: videtur  
+          <lb ed="#L" n="15"/>quod sibi liceat. Praeterea sit quod apparitores vel 
+          <lb ed="#L" n="16"/>executores sententiae sint neglgentes et tar  
+          <lb ed="#L" n="17"/>di. nunquid debet de necessitate salutis expe- 
+          <lb ed="#L" n="18"/>ctare sub patibulo ut occidant eum: certum est  
+          <lb ed="#L" n="19"/>quod non. Et ideo potest alicui videri quod talis ac  
+          <lb ed="#L" n="20"/>teptatio mortis non debet esse nisi sub condi- 
+          <lb ed="#L" n="21"/>tione iuris intellecta: volo subire mortem pro 
+          <lb ed="#L" n="22"/>peccatis meis: nisi aliquid aliud possim face 
+          <lb ed="#L" n="23"/>re pro eisdem. Praeterea esto quod aliquis damnetur ut  
+          <lb ed="#L" n="24"/>fame occidatur: sicut fit de illis qui dicuntur po 
+          <lb ed="#L" n="25"/>ni ad penitentiam apud laicos: si talis ha 
+          <lb ed="#L" n="26"/>buerit panem: quaeritur nunquid potest commedere:  
+          <lb ed="#L" n="27"/>certum est quod sic: immo forte tenetur: cum nullus  
+          <lb ed="#L" n="28"/>teneatur occidere seipsum. ergo eodem modo hoc  
+          <lb ed="#L" n="29"/>faciendum est in fuga. quod concedo pro nunc.
+          </p>
+          <p xml:id="rh-l4q7-d1e734">
+          <lb ed="#L" n="30"/>Quarto ad principale si sic: tunc remissio  
+          <lb ed="#L" n="31"/>culpe fieret per contritionem: quae est primam par 
+          <lb ed="#L" n="32"/>penitentiae: sicut patet de peni. distintione prima  
+          <lb ed="#L" n="33"/>diuersis capitulis: et per magistrum distion xvi 
+          <lb ed="#L" n="34"/>lib. iiii. consequens est falsum: quia si sic : actus contii 
+          <lb ed="#L" n="35"/>tionis foret melior et vtilior homini qui pecca 
+          <lb ed="#L" n="36"/>vit: quam actus mart vrii et quicumque alius actus  
+          <lb ed="#L" n="37"/>in chatitate factus. consequentia patet: quia plus boni com 
+          <lb ed="#L" n="38"/>tfertur homini propter actum contritionis: quam propter  
+          <lb ed="#L" n="39"/>aliquid aliud de lege statuta. hoc probatur sic.  
+          <lb ed="#L" n="40"/>propter actum contritionis debetur homini vita aeter  
+          <lb ed="#L" n="41"/>na: et remittitur poena aeterna. ergo duo bona infi 
+          <lb ed="#L" n="42"/>nita dantur sibi pro actu tali: sed pro nullo alio  
+          <lb ed="#L" n="43"/>existenti in charitate confertur homini tantum bonum patet  
+          <lb ed="#L" n="44"/>quia si est in charitate: debetur sibi vita aeterna.  
+          <lb ed="#L" n="45"/>ergo quod sibi tunc debetur: est melius quam quodcumque  
+          <lb ed="#L" n="46"/>aliud ab illo quod postea sibi irrogabitur: vide 
+          <lb ed="#L" n="47"/>licet intensior gloria: vel alquid sile. Similiter nihil  
+          <lb ed="#L" n="48"/>tale potest sibi dari: quod sit ita bonum sicut remis  
+          <lb ed="#L" n="49"/>sio poene aeterne: manifestum est. ergo etc.
+          </p>
+          <p xml:id="rh-l4q7-d1e780">
+          <lb ed="#L" n="50"/>Quinto ad principale: si peccator teneretur sa 
+          <lb ed="#L" n="51"/>tisfacere deo pro peccato: oporteret eum conteri de 
+          <lb ed="#L" n="52"/>suo peccato. et per consequens magis deberet se velle non  
+          <lb ed="#L" n="53"/>esse et adnihilari / quam recidivare in peccatum mor 
+          <!--237.xml-->
+          <cb ed="#L" n="b"/><!--119rb-->
+          <lb ed="#L" n="54"/>tale. consequentia patet per Anselmus i. cur deus hom capitulo xxi et ii-  
+          <lb ed="#L" n="55"/>cur deus homo capitulo xii ubi docet quod si homo esset po 
+          <lb ed="#L" n="56"/>situs in ista necessitate: vel quod faceret aliquid  
+          <lb ed="#L" n="57"/>etiam modicum contra voluntatem divinam: vel 
+          <lb ed="#L" n="58"/>quod totus mundus et quicquid non est deus / ad- 
+          <lb ed="#L" n="59"/>nihilaretur: deberet potius eligere seipsum in ni- 
+          <lb ed="#L" n="60"/>hilum redigi quam peccare.
+          </p>
+        </div>
+        <div xml:id="rh-l4q7-Dd1e813">
+          <head xml:id="rh-l4q7-Hd1e815">Responsio a quibusdam</head>
+          <p xml:id="rh-l4q7-d1e818">
+            hic dicitur a quibusdam  
+          <lb ed="#L" n="61"/>quod quilibet homo magis deberet eligere peccare  
+          <lb ed="#L" n="62"/>et in perpetua pena manerequam omnino non esse quae  
+          <lb ed="#L" n="63"/>ad corpus et quo ad animam: quod est adnihila 
+          <lb ed="#L" n="64"/>ri. Et hoc videtur probare Augustinus de libe. arbitrio. 
+          <lb ed="#L" n="65"/>c. xiii. per tres rationes.
+          </p>
+          <p xml:id="rh-l4q7-d1e831">
+            Primo sic. qui di 
+          <lb ed="#L" n="66"/>cit / mallem hoc quod illud: eligit aliquid non esse  
+          <lb ed="#L" n="67"/>autem non est alquid: sed nihil. ergo nullo pa 
+          <lb ed="#L" n="68"/>cto potest aliquis eligere: quando eligit quod non est.
+          </p>
+          <p xml:id="rh-l4q7-d1e840">
+          <lb ed="#L" n="69"/>Secundo sic aut debuisti velle esse cum sis mi 
+          <lb ed="#L" n="70"/>ser: vel non esse: non esse quidem potius. Tunc  
+          <lb ed="#L" n="71"/>arguit Augustinus. si hoc velle debuisti: hoc  
+          <lb ed="#L" n="72"/>est melius: quod autem non est: melius esse non  
+          <lb ed="#L" n="73"/>potest. non ergo illud velle debuisti.
+          </p>
+          <p xml:id="rh-l4q7-d1e853">
+            Tertio  
+          <lb ed="#L" n="74"/>sic. quod quisquis eligit ratione petendum: cum ad  
+          <lb ed="#L" n="75"/>illud peruenerit: necesse est ut melior fiat.  
+          <lb ed="#L" n="76"/>melior autem esse non poterit / quinon erit. ne 
+          <lb ed="#L" n="77"/>mo ergo potest eligere ut non sit . verba Augu  
+          <lb ed="#L" n="78"/>stini sunt. et consequenter propter ista videtur multis  
+          <lb ed="#L" n="79"/>quod Augustinus nitatur probare ibi ex intentione quod homo  
+          <lb ed="#L" n="80"/>non potest appetere non esse. et quod includit con 
+          <lb ed="#L" n="81"/>tradictionem quod homo velit se adnihilari. et con 
+          <lb ed="#L" n="82"/>sequenter obiicitur de multis exemplis hominum 
+          <lb ed="#L" n="83"/>geatilium: qui nullam vitam post istam sperabant  
+          <lb ed="#L" n="84"/>qui seipsos interemerunt. sicut patet v de civi.  
+          <lb ed="#L" n="85"/>deui capitulo xviii de Curtio aequite Romano: et con 
+          <lb ed="#L" n="86"/>similibus. Respondet Augustinus quod quilibet talis inten- 
+          <lb ed="#L" n="87"/>debat quietem et quietus esse. et per consequens de 
+          <lb ed="#L" n="88"/>siderabat esse. Unde in fine capituli conclu- 
+          <lb ed="#L" n="89"/>dit quod nullo pacto fieri potest ut alicui libe 
+          <lb ed="#L" n="90"/>at non esse.
+          </p>
+        </div>
+        <div xml:id="rh-l4q7-Dd1e893">
+          <head xml:id="rh-l4q7-Hd1e895">Divisio quaestionis</head>
+          <!-- a threefold division -->
+          <p xml:id="rh-l4q7-d1e900">
+            Sed contra istum modum ponendi ar- 
+          <lb ed="#L" n="91"/>guo: et probo primo quod homo potest ex certa de 
+          <lb ed="#L" n="92"/>liberatione eligere se adnihilari. Secundo  
+          <lb ed="#L" n="93"/>quod hoc intendit Augustini in re ibidem. Tertio ap 
+          <lb ed="#L" n="94"/>plicabo verum intellectum dictis Augustinus ne vi 
+          <lb ed="#L" n="95"/>deantur habere contradictionem.
+          </p>
+        </div>
+        <div xml:id="rh-l4q7-Dd1e915">
+          <head xml:id="rh-l4q7-Hd1e917">Articulus 1</head>
+          <p xml:id="rh-l4q7-d1e920">
+            Primo  
+          <lb ed="#L" n="96"/>arguo sic. omne illud quod potest iudicari esse me- 
+          <lb ed="#L" n="97"/>lius vel minus malum / siue a ratione recta si 
+          <lb ed="#L" n="98"/>ve errantae: potest conformiter eligi: sed adnihila 
+          <lb ed="#L" n="99"/>ri est huiusmodi et potest iudicari ab homine sive ratione 
+          <lb ed="#L" n="100"/>recta sive erronea iudicante quod ipsum adn- 
+          <lb ed="#L" n="101"/>hilari est minus malum quam esse miserum: ergo adnihi 
+          <lb ed="#L" n="102"/>lari potest a tali eligi. Maior patet: quia omnie quod in  
+          <lb ed="#L" n="103"/>tellectus iudicat esse bonum vel melius vel mi 
+          <lb ed="#L" n="104"/>nus malum: potest voluntas eligere: tumn sit sum- 
+          <lb ed="#L" n="105"/>me libera. Unde contradictionem includit quod  
+          <lb ed="#L" n="106"/>voluntas sit libera: et non possit libere velle  
+          <!--238.xml-->
+          <pb ed="#L" n="119-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>illud quod ratio dictat esse volendum. Minor prob 
+          <lb ed="#L" n="2"/>tur: quia possibile est deo causare tale iudicium  
+          <lb ed="#L" n="3"/>in mente alicuius: quod ipsum adnihilari sit melius  
+          <lb ed="#L" n="4"/>quam ipsum esse miserum: vel minus malum : quod  
+          <lb ed="#L" n="5"/>idem est ad propositum. Similiter est possibile quod ali 
+          <lb ed="#L" n="6"/>quis homo alteri homini faceret rationem aliquam bonam  
+          <lb ed="#L" n="7"/>vel sophistica: quae sibi concluderet quod minus 
+          <lb ed="#L" n="8"/>malum est non esse quam miserum esse.
+          </p>
+          <p xml:id="rh-l4q7-d1e970">
+            Secundo ad  
+          <lb ed="#L" n="9"/>idem arguo quod etia ratione non errantae / si placeret  
+          <lb ed="#L" n="10"/>deo quod damnatus deberet perpetuo damnari: po- 
+          <lb ed="#L" n="11"/>tius deberet eligere adnihilari. Quaero enim  
+          <lb ed="#L" n="12"/>si adnihilari est summe fugibile: vtrum hoc  
+          <lb ed="#L" n="13"/>est quia iudicat esse malum: an quia est malum: pri- 
+          <lb ed="#L" n="14"/>mum rationabiliter non potest dici. si dicatur quod est  
+          <lb ed="#L" n="15"/>fugibile quia est malum: vel ergo quia est malum  
+          <lb ed="#L" n="16"/>culpe / pene / sensus / vel damni. malum culpe esse  
+          <lb ed="#L" n="17"/>non potest certum est. nec poena sensus: sicut patet  
+          <lb ed="#L" n="18"/>relmquitur ergo quod sit pena damni: sed maius damnu 
+          <lb ed="#L" n="19"/>est pena corrumpens omnem delectationem in sen 
+          <lb ed="#L" n="20"/>sualitate quam non esse : quia arguo sic. magis discuen 
+          <lb ed="#L" n="21"/>veniens est damnato sua pena: quam suum esse sit  
+          <lb ed="#L" n="22"/>conveniens. probo hoc: quia si suum esse sibi sit ma 
+          <lb ed="#L" n="23"/>gits conveniens quam sua pena disconveniens: pl 
+          <lb ed="#L" n="24"/>haberet delectari de suo esse quam tristari de 
+          <lb ed="#L" n="25"/>sua poena: quod non creditur de damnatis: ergo damna- 
+          <lb ed="#L" n="26"/>tus apprehendens suum esse et suam penam / apprae 
+          <lb ed="#L" n="27"/>hendit sine errore quod pena sua est appetitu 
+          <lb ed="#L" n="28"/>suo magis disconveniens quod suum esse sit conueni 
+          <lb ed="#L" n="29"/>ens. ergo apprehendit sine errore quod suum non esse  
+          <lb ed="#L" n="30"/>est minus suo appetitui disconveniens quam sua 
+          <lb ed="#L" n="31"/>poena: ergo magis est eligibile: quia minus discion 
+          <lb ed="#L" n="32"/>veniens est magis eligibile: sicut minus ma 
+          <lb ed="#L" n="33"/>lum : quod est principium in practicis.
+          </p>
+          <p xml:id="rh-l4q7-d1e1027">
+            Confirmatur  
+          <lb ed="#L" n="34"/>istud per experientiam: quia multos fideles audi 
+          <lb ed="#L" n="35"/>ui quod sibi elig erent si possent etiam nunc in hac  
+          <lb ed="#L" n="36"/>vita existentes non esse: qui sunt totaliter inexper  
+          <lb ed="#L" n="37"/>ti poene illius. Et ego hoc ipse experior conti- 
+          <lb ed="#L" n="38"/>nuae quando de hoc delibero. quia sine difficul 
+          <lb ed="#L" n="39"/>tate vnum prerligo: et aliud abhorreo.
+          </p>
+          <p xml:id="rh-l4q7-d1e1043">
+          Praeter 
+          <lb ed="#L" n="40"/>ea homo potest velle aliquem hominem adnihilari pro 
+          <lb ed="#L" n="41"/>pter bonum rei publicae: ita quod solus velus rei- 
+          <lb ed="#L" n="42"/>publicae causat in eo istam volitionem. igitur  
+          <lb ed="#L" n="43"/>videtur pari ratione quod homo possit velle  
+          <lb ed="#L" n="44"/>se non esse propter bonum rei publicae. Et puto  
+          <lb ed="#L" n="45"/>eos sic voluisse / quae existentes gentiles pro bono  
+          <lb ed="#L" n="46"/>rei publicae tantum se interfici permiserunt. Prae 
+          <lb ed="#L" n="47"/>terea homo potest velle adnihilari per quinque dies:  
+          <lb ed="#L" n="48"/>ergo potest velle adnihilari. consequentia patet. Antecedens probo  
+          <lb ed="#L" n="49"/>per conscientiam cuiussibet fidelis: si daretur sibi  
+          <lb ed="#L" n="50"/>optio an vellet perpetuo damnari an non esse per  
+          <lb ed="#L" n="51"/>quinque dies tantum.
+          </p>
+          <p xml:id="rh-l4q7-d1e1073">
+            Praeterea adnihilari potest  
+          <lb ed="#L" n="52"/>apprehendi vt bonum: et ut medium ad bonum  
+          <lb ed="#L" n="53"/>nem etiam a ratione recta. ergo potest esse appetibile. 
+          <!--238.xml-->
+          <cb ed="#L" n="b"/><!--119vb-->
+          <lb ed="#L" n="54"/>Antecedens probo pono quod deus reuelet tibi quod si vel  
+          <lb ed="#L" n="55"/>les adnihilari per quandoque dies: reparabit te ad  
+          <lb ed="#L" n="56"/>vitam aeternam. isto casu posito adnihilari esset  
+          <lb ed="#L" n="57"/>appetibile et bonum.
+          </p>
+        </div>
+        <div xml:id="rh-l4q7-Dd1e1095">
+          <head xml:id="rh-l4q7-Hd1e1097">Articulus 2</head>
+          <p xml:id="rh-l4q7-d1e1100">
+            Secundo principaliter  
+          <lb ed="#L" n="58"/>ostendetur quod haec est intentio Augustinus ibidem quod non:  
+          <lb ed="#L" n="59"/>esse quo ad corpus et animam / potest quis eligere  
+          <lb ed="#L" n="60"/>ex certa deliberatione. Et arguo sic. habens  
+          <lb ed="#L" n="61"/>opinionem errationeam: et deliberans secundum eam: et as- 
+          <lb ed="#L" n="62"/>sentiens alicui impossibili: quod tamen putat esse  
+          <lb ed="#L" n="63"/>possibile: vere eligit hoc: et veraciter habet actum  
+          <lb ed="#L" n="64"/>qui potest vocari electio: sicut si forem modo in tali  
+          <lb ed="#L" n="65"/>opinione quod possem habere solem et lunam ad  
+          <lb ed="#L" n="66"/>portandum mecum vbi et quo vellem: et daretur mi 
+          <lb ed="#L" n="67"/>bi optio: et stante errore deliberarem quod mal- 
+          <lb ed="#L" n="68"/>lem habere solem: quia magis lucidus est: certum  
+          <lb ed="#L" n="69"/>est quod haec foret vira electio: sed procedens de opi 
+          <lb ed="#L" n="70"/>nione erronea. sed secundum Augustinum ibidem : ha 
+          <lb ed="#L" n="71"/>pens erroneam opinionem de adnihilatione sua:  
+          <lb ed="#L" n="72"/>puta opinans quod adnihilabitur cum non debeat  
+          <lb ed="#L" n="73"/>adnihilari: potest eligere secundum illam opinionem. 
+          <lb ed="#L" n="74"/>ergo potest eligere adnihilari. vnde Augustinum ibidem  
+          <lb ed="#L" n="75"/>Neque enim nos interimere opet eorum iudicio  
+          <lb ed="#L" n="76"/>qui vrgente miseria se premerunt. aut enim eo con- 
+          <lb ed="#L" n="77"/>fugerunt ubi melius fore putauerunt: et non  
+          <lb ed="#L" n="78"/>est contraria rationi nostre quon putauerunt: aut si  
+          <lb ed="#L" n="79"/>nullos se futuros credidissent: multo minus  
+          <lb ed="#L" n="80"/>falsa electio nihil eligentium commouebit.  
+          <lb ed="#L" n="81"/>quon enim sequar eligentem: a quo si queram  
+          <lb ed="#L" n="82"/>quid eligat: repondebit nihil: nam quo eligit non  
+          <lb ed="#L" n="83"/>esse: profecto nihil eligere videtur. et hoc si velit  
+          <lb ed="#L" n="84"/>respondere: convincitur. Ecce dicit Augustinus ex- 
+          <lb ed="#L" n="85"/>presse quod tales gentiles qui falsae opinabantur 
+          <lb ed="#L" n="86"/>se nullos futuros secundum animam: elegerunt fal- 
+          <lb ed="#L" n="87"/>sa electione: hoc est electione fallente eos. Item 
+          <lb ed="#L" n="88"/>it. xii dixit. hinc fiet vt qui malint non esse ut  
+          <lb ed="#L" n="89"/>miseri non sint: quia non esse non possunt: restat vi 
+          <lb ed="#L" n="90"/>miseri sint.
+          </p>
+        </div>
+        <div xml:id="rh-l4q7-Dd1e1175">
+          <head xml:id="rh-l4q7-Hd1e1177">Articulus 3</head>
+          <p xml:id="rh-l4q7-d1e1180">
+            Tertio dandus est intellectus  
+          <lb ed="#L" n="91"/>ut nunc occurrit pro Augustinum et potest dici pensata  
+          <lb ed="#L" n="92"/>serie sre suae / quod vult illic probare duas conclu 
+          <lb ed="#L" n="93"/>siones.
+          </p>
+          <p xml:id="rh-l4q7-d1e1189">
+            Prima est: quod lstante lege qui nunc est de  
+          <lb ed="#L" n="94"/>immortalitate animae: nullus potest vera electione 
+          <lb ed="#L" n="95"/>idest electione sequente verum iudicium eligere  
+          <lb ed="#L" n="96"/>non esse: cum iudicium praecedens talem electionem  
+          <lb ed="#L" n="97"/>dictet quod anima est immortalis.
+          </p>
+          <p xml:id="rh-l4q7-d1e1200">
+            Secunda conclu 
+          <lb ed="#L" n="98"/>sio quam intendit: est quod nullus potest eligere non  
+          <lb ed="#L" n="99"/>esse per quamcumque opinionem; nisi aliquo alia in- 
+          <lb ed="#L" n="100"/>tentio adiungatur isti intentioni qui est non  
+          <lb ed="#L" n="101"/>esse: puta intetio quietis vel carentia pene:  
+          <lb ed="#L" n="102"/>et nemo hoc dubitat. Unde dicit xiii capic. docens  
+          <lb ed="#L" n="103"/>quon opinio vincit sensum et consuetudinem  
+          <lb ed="#L" n="104"/>aliquando. Cum ergo quisque credit quod post mortem  
+          <lb ed="#L" n="105"/>erit intolerabile tantas sufferre molestias:  
+          <lb ed="#L" n="106"/>ad tantam cupiditatem mortis impellitur: quod discet- 
+          <!--239.xml-->
+          <pb ed="#L" n="120-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>nit vel arripit mortem: in opinione habet errorem  
+          <lb ed="#L" n="2"/>omnimode defectionis: in sensu autem habet natura  
+          <lb ed="#L" n="3"/>le desiderium quietis. Ecce expresse dicit quod aliquis 
+          <lb ed="#L" n="4"/>per intolerabiles molestias impellitur ad volen- 
+          <lb ed="#L" n="5"/>dum mortem: haiens tantum defectionis opinionem: si  
+          <lb ed="#L" n="6"/>apprehendit simul cum hoc quod est esse sub intem  
+          <lb ed="#L" n="7"/>tione quietis id est carentiae pene.
+          </p>
+          <!--- unclear what these are response to, something in response or principal arguments -->
+          <p xml:id="rh-l4q7-d1e1247">
+            Ad primam  
+          <lb ed="#L" n="8"/>rationem dico quod per eandem rationem probarem quod homo non  
+          <lb ed="#L" n="9"/>potest fugere vel nolle vel detestam non esse:  
+          <lb ed="#L" n="10"/>quia qua fugit: aliquid fugit vel detestatur: sed non esse  
+          <lb ed="#L" n="11"/>non est aliquid.
+          </p>
+          <p xml:id="rh-l4q7-d1e1258">
+            Similiter quando arguitur. non esse non  
+          <lb ed="#L" n="12"/>melius quam esse: quia nihil est. Eodem modo arguo  
+          <lb ed="#L" n="13"/>non esse non est peius quam esse: quia est nihil.
+          </p>
+          <p xml:id="rh-l4q7-d1e1265">
+            Similiter  
+          <lb ed="#L" n="14"/>de tertio cum arguitur: quo aliquid appetit: cum 
+          <lb ed="#L" n="15"/>ad id peruenerit: necesse est ut melior fiat. Co  
+          <lb ed="#L" n="16"/>dem modo arguo. qui recte fugit aliquid: necesse  
+          <lb ed="#L" n="17"/>est vt cum ad illud peruenerit / fiat peiores. vnde ratio 
+          <lb ed="#L" n="18"/>nes sunt contra vtramque partem: vt videt.
+          </p>
+          <p xml:id="rh-l4q7-d1e1278">
+            Unde notan<lb ed="#L" n="19"/>dum 
+            quod per usum loquentium bonum et malum habent  
+          <lb ed="#L" n="20"/>quandam aequiuocationem: quia aliquando praedicantur  
+          <lb ed="#L" n="21"/>de rebus: aliquando de verbis infinitivi modi. Exe- 
+          <lb ed="#L" n="22"/>plum primi cum dico: iste homo est bonum. vel iste ci 
+          <lb ed="#L" n="23"/>bus est bonum vel bonum quid. Exemplum secun 
+          <lb ed="#L" n="24"/>di: vt dicimus deambulare post cenam est bonum  
+          <lb ed="#L" n="25"/>dare eleemosynam est bonum: edificare unam al 
+          <lb ed="#L" n="26"/>batiam est bonum: certum est quod in talibus propositio- 
+          <lb ed="#L" n="27"/>nibus iste turminus bonum pro nulla re supponit: sic  
+          <lb ed="#L" n="28"/>ut nulla res est currere in Dellomonte. Et  
+          <lb ed="#L" n="29"/>ideo accipiendo propriae illum terminum bonum:  
+          <lb ed="#L" n="30"/>ista stant simul: iste vult bonum: et tamen non  
+          <lb ed="#L" n="31"/>vult aliquid: et iste eligit bonum: et tamen non eli- 
+          <lb ed="#L" n="32"/>git aliquid. puta si dicatur tibi: elige sedere vel 
+          <lb ed="#L" n="33"/>lurgere: seu eligas unum seu reliquum: nul 
+          <lb ed="#L" n="34"/>lam rem eligis: manifestum est. Eodem modo est de  
+          <lb ed="#L" n="35"/>malo. Unde dico quod qui eligit non esse: eligit  
+          <lb ed="#L" n="36"/>malum. sed minus malum: et aliquo modo bo 
+          <lb ed="#L" n="37"/>num: secundo modo capiendo bonum: et tamen nihil  
+          <lb ed="#L" n="38"/>eligit. Et haec de hac questione. 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

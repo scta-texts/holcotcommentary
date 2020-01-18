@@ -1,0 +1,1921 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 4, Quaestio 3 [Lyon 1518 Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 4, Quaestio 3 [Lyon 1518 Transcription]</title>
+          <date when="2020-01-18">January 18, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="Lyon1518">Lyon 1518</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-01-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="106-v"/>
+        <cb ed="#L" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rh-l4q3">
+        <head xml:id="rh-l4q3-Hd1e97">Quaestio 3</head>
+        <head xml:id="rh-l4q3-Hd1e100" type="question-title">Utrum in sacramento eucharistiae sub speciebus panis vere et realiter existat corpus christi</head>
+        <div xml:id="rh-l4q3-Dd1e103">
+          <p xml:id="rh-l4q3-d1e105">
+          <!--212.xml-->
+          <cb ed="#L" n="b"/><!--106vb-->
+          <lb ed="#L" n="54"/>QUaeritur utrum in  
+          <lb ed="#L" n="55"/>sacramento eucharistiae sub  
+          <lb ed="#L" n="56"/>spenbus panis vere et realiter  
+          <lb ed="#L" n="57"/>existat corpus christi:
+          </p>
+        </div>
+        <div xml:id="rh-l4q3-Dd1e123" type="rationes-principales">
+          <head xml:id="rh-l4q3-Hd1e125">Rationes principales</head>
+          <p xml:id="rh-l4q3-d1e128">
+            Quod non  
+          <lb ed="#L" n="58"/>quia si sic: hoc fieret per conuersio- 
+          <lb ed="#L" n="59"/>nem panis et vini in corpus christi: sed talis con 
+          <lb ed="#L" n="60"/>versio est impossibilis. ergo etc. Assumptum probo:  
+          <lb ed="#L" n="61"/>quia quaero tali conuersione facta vtrum manet pa 
+          <lb ed="#L" n="62"/>nis an non manet panis: si manet: ergo non est  
+          <lb ed="#L" n="63"/>transitus nec conversus. si non manet panis: nec  
+          <lb ed="#L" n="64"/>est aliquid de pane generatum: igitur panis est  
+          <lb ed="#L" n="65"/>adnihilatus. Ista consequentia patet: quia si aliquid fuit pa 
+          <lb ed="#L" n="66"/>nis: et nihil est modo panis: nec alia diuisio 
+          <lb ed="#L" n="67"/>fiebat in pane: vel ablatio partis: nec materia  
+          <lb ed="#L" n="68"/>panis est sub alia forma: igitur panis est ad- 
+          <lb ed="#L" n="69"/>nihilatus: quia non potest dici corruptus / nisi alia  
+          <lb ed="#L" n="70"/>forma generaretur in materia panis.
+          </p>
+          <p xml:id="rh-l4q3-d1e159">
+            Confir- 
+          <lb ed="#L" n="71"/>matur ista ratio: quia facta consecratione quaero  
+          <lb ed="#L" n="72"/>utrum aliquid quod fuit pars panis / est: an 
+          <lb ed="#L" n="73"/>nihil quod fuit pars panis / est: Si secundum  
+          <lb ed="#L" n="74"/>detur: igitur nec materia nec forma panis ma 
+          <lb ed="#L" n="75"/>net: et per consequens panis est adnihilatus. Si ali- 
+          <lb ed="#L" n="76"/>quid quod fuit pars panis / manet: Contra. aut  
+          <lb ed="#L" n="77"/>igitur pars esse ntiatiur: aut quantitativa: aut qualita 
+          <lb ed="#L" n="78"/>tiva. Si quantitativa: cum quaelibet pars quam  
+          <lb ed="#L" n="79"/>titativa panis fit panis: sequitur quod panis  
+          <lb ed="#L" n="80"/>manet post consecrationem. consequens est falsum.  
+          <lb ed="#L" n="81"/>Si essentialis: vel materia vel forma: sed sive 
+          <lb ed="#L" n="82"/>sic sive sic / oportet concedere quod ibi remanet  
+          <lb ed="#L" n="83"/>aliquam substantia distincta realiter a corpore chri 
+          <lb ed="#L" n="84"/>sti / et anima christi / et partibus christi / et divinitate  
+          <lb ed="#L" n="85"/>et similiter quod non est transiatio totius panis consecra 
+          <lb ed="#L" n="86"/>ti. igitur non est possibile ponere talem conuersio- 
+          <lb ed="#L" n="87"/>nem. igitur etc.
+          </p>
+          <p xml:id="rh-l4q3-d1e198">
+            Praeterea. si talis conuersio vunius  
+          <lb ed="#L" n="88"/>rei in aliam foret possibilis: et tamen res in quam  
+          <lb ed="#L" n="89"/>fit conuersio / non augeretur: sequeretur quod deus  
+          <lb ed="#L" n="90"/>posset convertere totam machinam mundi in sub  
+          <lb ed="#L" n="91"/>stantiam musce: vel etiam quod posset ponere quam- 
+          <lb ed="#L" n="92"/>libet substantiam sub specie alterius. et sic posset  
+          <lb ed="#L" n="93"/>ponere asinum sub specie hominis: immo pari ratio- 
+          <lb ed="#L" n="94"/>ne mille asinos in specie unius hominis vel econ 
+          <lb ed="#L" n="95"/>trario: et sic periret omnino certitudo experien 
+          <lb ed="#L" n="96"/>tiae: et generatio scientiae per experimentum contra Aristoteles  
+          <lb ed="#L" n="97"/>telem i metaphpyus et secundo posteriorum in fine. 
+          <lb ed="#L" n="98"/>patet consequentia: quia deus potest facere subam sapphiri 
+          <lb ed="#L" n="99"/>sub specie adamantis: et subam stelle sub spe 
+          <lb ed="#L" n="100"/>cie vnius herbe: et sic semper habebimus dubita 
+          <lb ed="#L" n="101"/>re an res demonstrata sit lapis an lignum 
+          <lb ed="#L" n="102"/>an herba an homo. et sic inventa hostia super al- 
+          <lb ed="#L" n="103"/>tare / dubitaretur aliquando an sit consecrata an 
+          <lb ed="#L" n="104"/>non. nec sussiceremus ad distinguendum inter pa 
+          <lb ed="#L" n="105"/>nem et non panem. et pari ratione nec sufficeremus  
+          <!--213.xml-->
+          <pb ed="#L" n="107-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>ad distinguendum inter hominem et non homine.  
+          <lb ed="#L" n="2"/>Iste consequentiae patent: quia deus potest tales conuersiones  
+          <lb ed="#L" n="3"/>facere: cum hoc quod lateat et non constet nobis quod  
+          <lb ed="#L" n="4"/>fecerit: et tamen credimus quod potest talia facere: et  
+          <lb ed="#L" n="5"/>quia non sumus certi quod non fecerit: dubitare de 
+          <lb ed="#L" n="6"/>bemus an fecerit: quia si nequae sumus certi quod fe 
+          <lb ed="#L" n="7"/>cerit neque quod non fecerit: dubitabimus an tece 
+          <lb ed="#L" n="8"/>rit: quia si non dubitamus: ergo sumus certi. sed consequens  
+          <lb ed="#L" n="9"/>incasu est falsum: ergo relinquitur quod habemus  
+          <lb ed="#L" n="10"/>dubitare de singulis substantiis an sint an 
+          <lb ed="#L" n="11"/>non sint.
+          </p>
+          <p xml:id="rh-l4q3-d1e270">
+            Praeterea si talis transsubstantia-  
+          <lb ed="#L" n="12"/>tio unius rei in aliam foret possibilis deo: se- 
+          <lb ed="#L" n="13"/>quaeretur quod deus posset transsubstantiare hominem  
+          <lb ed="#L" n="14"/>in lapide et econtrario: et per consequens omnia accidentia ho 
+          <lb ed="#L" n="15"/>minis manerent in illo loco in quo prius fuit homo  
+          <lb ed="#L" n="16"/>cum suba lapidis: sicut in sacro altaris manet  
+          <lb ed="#L" n="17"/>sola suba christi cum accidentibus panis. et illo  
+          <lb ed="#L" n="18"/>posito arguo sic secundum propositiones qui conceduntur commenti 
+          <lb ed="#L" n="19"/>ter de spebus et accidentibus in sacro altaris  
+          <lb ed="#L" n="20"/>ic quod impes panis ita vere nutriunt descedunt et  
+          <lb ed="#L" n="21"/>agunt in gustum: et generaliter possunt in omnem opera 
+          <lb ed="#L" n="22"/>tionem in quam posset panis si ibi esset cum illis  
+          <lb ed="#L" n="23"/>accidentibus. Sit ergo mititudo spcerum hominis homine 
+          <lb ed="#L" n="24"/>converso in lapidem a: tunc arguo sic. a potest in  
+          <lb ed="#L" n="25"/>omnem operationem in quam potest homo istae qui fuit sub  
+          <lb ed="#L" n="26"/>a quia a potest ridere: a potest intelligere: et a potest  
+          <lb ed="#L" n="27"/>gnerare homine. et sic aliquid potest intelligere / quod  
+          <lb ed="#L" n="28"/>non est rationale. et sic vinum. et per consequens non homo pos 
+          <lb ed="#L" n="29"/>facere quod nihil nisi homo potest facere. sic non ho  
+          <lb ed="#L" n="30"/>mo generaret homine. et non homo rideret:  
+          <lb ed="#L" n="31"/>cum tamen ridere sit proprium hominis etc. Item sequitur  
+          <lb ed="#L" n="32"/>quod aliquis posset generari sine patre et mre: quia  
+          <lb ed="#L" n="33"/>omnis pater est suba: et omnis mater similiter: et  
+          <lb ed="#L" n="34"/>multa alia sequeretur quae sunt impossibilia.
+          </p>
+          <p xml:id="rh-l4q3-d1e323">
+          <lb ed="#L" n="35"/>Secundo ad principale arguo sic. si sic: ergo hoc  
+          <lb ed="#L" n="36"/>foret per consecrationem. et sic foret concedendum quod  
+          <lb ed="#L" n="37"/>tales propositiones essent vere. De pane fit cor- 
+          <lb ed="#L" n="38"/>pus christi panis potest esse corpus christi quod  
+          <lb ed="#L" n="39"/>erat panis / est corpus christi: sic videtur Ambus 
+          <lb ed="#L" n="40"/>dicere de conse dstinioneiii panis ii. Et allegat magi  
+          <lb ed="#L" n="41"/>disti teum capitulo vlti. Panis est in altari vsitatus an 
+          <lb ed="#L" n="42"/>verba sacra. vbi accessit consecratio: de pane 
+          <lb ed="#L" n="43"/>fit christi caro. ecce prima propositio. Et sequitur  
+          <lb ed="#L" n="44"/>continue. Quon autem potest quod panis est / esse cor 
+          <lb ed="#L" n="45"/>pus christi: consecratione: quae fit sermone chri 
+          <lb ed="#L" n="46"/>sti ecce secunda propositio videlicet quod panis potest  
+          <lb ed="#L" n="47"/>esse corpus christi et infra. Si tanta vis est in ser 
+          <lb ed="#L" n="48"/>mone christi: vt inciperent esse quae non erant: quanm- 
+          <lb ed="#L" n="49"/>to magis operatorius est vt sint quae erant: et t  
+          <lb ed="#L" n="50"/>aliud commutentur: Et sic quod erat panis et vi- 
+          <lb ed="#L" n="51"/>num ante consecrationem: iam corpus christi est post  
+          <lb ed="#L" n="52"/>consecrationem. ecce tertia propositio. et sequitur:  
+          <lb ed="#L" n="53"/>quia serua christi utat crcaturm: et sit ex pa 
+          <!--213.xml-->
+          <cb ed="#L" n="b"/><!--107rb-->
+          <lb ed="#L" n="54"/>ne corpus christi: et vinum cum aqui in calice permi- 
+          <lb ed="#L" n="55"/>xtum fit sanguis christi consecratione verbi celestis  
+          <lb ed="#L" n="56"/>Item communiter habentur quidam versus. Constat in 
+          <lb ed="#L" n="57"/>altari carnem de pane creari. hic panis deus est  
+          <lb ed="#L" n="58"/>qui negat hoc: reus est. Ex primo versu habetur quod  
+          <lb ed="#L" n="59"/>caro christi creatur in altari: et similiter quod creatur de 
+          <lb ed="#L" n="60"/>pane: hoc est de pane fit caro christi in alta 
+          <lb ed="#L" n="61"/>riae et vltra. igitur in altari fit. Ex secundo habetur 
+          <lb ed="#L" n="62"/>ista. hic panis deus est per consecrationem. Si- 
+          <lb ed="#L" n="63"/>militer haec est concedenda: panis est deus:
+          </p>
+          <p xml:id="rh-l4q3-d1e394">
+          <lb ed="#L" n="64"/>Quod autem istae propositiones sunt falsae probatur de pri  
+          <lb ed="#L" n="65"/>ma. Nam sequitur: de pane fit corpus christi: igitur  
+          <lb ed="#L" n="66"/>de pane fsit corpus christi de nouo. et vltra igi 
+          <lb ed="#L" n="67"/>tur corpus christi sit de nouo. consequens est falsum  
+          <lb ed="#L" n="68"/>ergo et antecedens.
+          </p>
+          <p xml:id="rh-l4q3-d1e407">
+            Item sequitur: de pane fit corpus  
+          <lb ed="#L" n="69"/>christi: ergo corpus christi fit de pane. et vltra. 
+          <lb ed="#L" n="70"/>igitur corpus christi fit. consequentia patet: quia ex opposi 
+          <lb ed="#L" n="71"/>to consequentis sequitur oppositum antecedentis: quia  
+          <lb ed="#L" n="72"/>sequitur: corpus christi non fit: ergo non fit de pa 
+          <lb ed="#L" n="73"/>ne.
+          </p>
+          <p xml:id="rh-l4q3-d1e420">
+            Item de pane fit corpus christi: ergo aliquid  
+          <lb ed="#L" n="74"/>panis erit sub forma corporis christi. Et vltra 
+          <lb ed="#L" n="75"/>ergo aliquid quod est modo. sub forma panis /  
+          <lb ed="#L" n="76"/>erit pars corporis christi: et informabitur anima 
+          <lb ed="#L" n="77"/>christi. Eode modo arguitur contra secundam  
+          <lb ed="#L" n="78"/>propositionem. videlicet istam: panis potest esse  
+          <lb ed="#L" n="79"/>corpus christi si enim sit vera: ponatur in esse  
+          <lb ed="#L" n="80"/>ergo vel sic ponetur in esse. Panis est corpus  
+          <lb ed="#L" n="81"/>christi vel sic : quod fuit panis / est corpus chri 
+          <lb ed="#L" n="82"/>sti. sed vtraque est impossibilis. De pria ma 
+          <lb ed="#L" n="83"/>nifestum est. De secunda probo: nam quae 
+          <lb ed="#L" n="84"/>ro quid hoc pronomen relativum quod refert: vtrum  
+          <lb ed="#L" n="85"/>corpus christi an aliud a corpore christi: si  
+          <lb ed="#L" n="86"/>corpus christi: est implicativa falsi: quia corpus  
+          <lb ed="#L" n="87"/>christi nunquam fuit panis. si aliud a corpore  
+          <lb ed="#L" n="88"/>christi: nihil est corpus christi. igitur haec est mo 
+          <lb ed="#L" n="89"/>do impossibilis: quod fuit panis / est corpus chri 
+          <lb ed="#L" n="90"/>sti: ergo tam secunda quam tertia est falsa.
+          </p>
+          <p xml:id="rh-l4q3-d1e459">
+            Item  
+          <lb ed="#L" n="91"/>arguo sic. Omne quod est corpus christi: est  
+          <lb ed="#L" n="92"/>natum de virgine: et ascendit in celum. quod fuit  
+          <lb ed="#L" n="93"/>panis / est corprus christi: ergo quod fuit panis est  
+          <lb ed="#L" n="94"/>natum de virgine: et ascendit in celum.
+          </p>
+          <p xml:id="rh-l4q3-d1e470">
+            Item ar 
+          <lb ed="#L" n="95"/>guo sub hac forma. Onimae quod erit corpus chri 
+          <lb ed="#L" n="96"/>sti est in celo: hic panis erit corpus christi: ergo 
+          <lb ed="#L" n="97"/>hic panis est in celo. Maior patet: quia tantum  
+          <lb ed="#L" n="98"/>hoc erit corpus christi: demonstrato corpore  
+          <lb ed="#L" n="99"/>christi et vltra. tantum ens in celo est corpus  
+          <lb ed="#L" n="100"/>christi: ergo omne quod est corpus christi / est ens  
+          <lb ed="#L" n="101"/>in celo.
+          </p>
+          <p xml:id="rh-l4q3-d1e489">
+            Item arguo sub hac forma. Omne 
+          <lb ed="#L" n="102"/>quod potest esse corpus hoc christi: est hoc corpus  
+          <lb ed="#L" n="103"/>christi istae panis potest esse hoc corpus christi  
+          <lb ed="#L" n="104"/>ergo istae panis est corpus christi discursus patet:  
+          <lb ed="#L" n="105"/>quia regulatur per dici de omni: et est in tertio  
+          <lb ed="#L" n="106"/>siago prime sigure. Maio: probatur: quia ab- 
+          <!--214.xml-->
+          <pb ed="#L" n="107-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>surdum est dicere oppositum scilicet aliud ab hoc  
+          <lb ed="#L" n="2"/>potest esse hoc: quocumque demonstrato. Item ar 
+          <lb ed="#L" n="3"/>guo sic. aliquid erit corpus christi / quod non est  
+          <lb ed="#L" n="4"/>modo corprus christi ergo alquid erits assumptum  
+          <lb ed="#L" n="5"/>a verbo: quod non est modo assumptum a verbo 
+          <lb ed="#L" n="6"/>consequentia est satis bona: et antecedens est creditum: ergo consequens  
+          <lb ed="#L" n="7"/>est creditum. ergo fidelis habet concedere quod istae pa 
+          <lb ed="#L" n="8"/>nis assumetur afilio dei. Item sub hac for 
+          <lb ed="#L" n="9"/>ma. si iste panis erit corpus christi: quaero vtrum  
+          <lb ed="#L" n="10"/>quando erit: an quand non erit: si quando non erit.
+          </p>
+          <p xml:id="rh-l4q3-d1e530">
+            Contra.- 
+          <lb ed="#L" n="11"/>quando non erit: non erit aliquid: ergo quando non erit / non  
+          <lb ed="#L" n="12"/>erit corpus christi consequentia patet. Si quando erit: ergo haec  
+          <lb ed="#L" n="13"/>erit aliquando vera / panis est corpus christi: et  
+          <lb ed="#L" n="14"/>haec / panis vivit: et panis est caro: et multa 
+          <lb ed="#L" n="15"/>alia falsa quae possent inferri.
+          </p>
+          <p xml:id="rh-l4q3-d1e543">
+            Faciliter potest  
+          <lb ed="#L" n="16"/>dici ad ista: sicut videtur magister dicere libro iii 
+          <lb ed="#L" n="17"/>distnlus viii capitulo iiii quod haec est distinguenda: panis  
+          <lb ed="#L" n="18"/>vel illud quod erat panis / est modo corpus chri 
+          <lb ed="#L" n="19"/>sti eo quod potest exponi dupliciter. Uno modo vi 
+          <lb ed="#L" n="20"/>aequaleat isti. suba panis manens substantia  
+          <lb ed="#L" n="21"/>panis est corpus christi et haec est falsa. Alio  
+          <lb ed="#L" n="22"/>modo exponitur per istam: substantia panis est  
+          <lb ed="#L" n="23"/>mutata in illud quod factum est corpus christi  
+          <lb ed="#L" n="24"/>sed haec responsio non vr intelligibilis. Nam omne mu- 
+          <lb ed="#L" n="25"/>catum est aliquid manens sub vtroque termino  
+          <lb ed="#L" n="26"/>mutationis.
+          </p>
+          <p xml:id="rh-l4q3-d1e569">
+            Accipio illud: et sit a. et arguo  
+          <lb ed="#L" n="27"/>sic a mutatum est sic quod prius fuit panis: et modo 
+          <lb ed="#L" n="28"/>est corpris christi ergo aliquid est quod prius fuit pa 
+          <lb ed="#L" n="29"/>nis: et modo est corpus christi ergo aliquid est quod pri  
+          <lb ed="#L" n="30"/>mo fuit
+          </p>
+          <p xml:id="rh-l4q3-d1e580">
+            Item a est mutatum: sit a sicut prius:  
+          <lb ed="#L" n="31"/>quaero igitur utrum est mutatum localiter: an altera- 
+          <lb ed="#L" n="32"/>tum: et sic de singulis spebus mutationis: sec  
+          <lb ed="#L" n="33"/>per nullam spem mutationis potest verficari quod  
+          <lb ed="#L" n="34"/>corpus christi: igitur ponere mutationem ad pro- 
+          <lb ed="#L" n="35"/>positum nihil valet: ad saluandum videlicet quo 
+          <lb ed="#L" n="36"/>anis potest fieri corpus christi vel caro.
+          </p>
+          <p xml:id="rh-l4q3-d1e596">
+            Item ar 
+          <lb ed="#L" n="37"/>guo sic sub hac forma. suba panis mutata  
+          <lb ed="#L" n="38"/>in corpus christi est corpus christi: sicut suba pa 
+          <lb ed="#L" n="39"/>nis est mutata in corpus christi: sed omne mutatum  
+          <lb ed="#L" n="40"/>aliter se habet nunc quam prius: ergo est substantia  
+          <lb ed="#L" n="41"/>panis post consecrationem: consequens est falsum.
+          </p>
+          <p xml:id="rh-l4q3-d1e610">
+          <lb ed="#L" n="42"/>Tertio arguo sic ad principale. si sub spe- 
+          <lb ed="#L" n="43"/>ciebus panis et vini existeret realiter corpus  
+          <lb ed="#L" n="44"/>christi: ergo unus oculus christi in vna hostia exi 
+          <lb ed="#L" n="45"/>stens posset videre se in alia hostia. et existens  
+          <lb ed="#L" n="46"/>sub spe panis se videret sub spe vini. consequentia:  
+          <lb ed="#L" n="47"/>probo: quia medium est bene illuminatum. et oculus  
+          <lb ed="#L" n="48"/>christi bene dispositus: et christus summe visibi- 
+          <lb ed="#L" n="49"/>lis: ergo si ibi ab oculo videri potest: potest et seipsum  
+          <lb ed="#L" n="50"/>videre: sed consequens est falsum: quia omne visum ab ocu- 
+          <lb ed="#L" n="51"/>lo distat a vidente: quia ur sub quadam pvram:  
+          <lb ed="#L" n="52"/>de: cuius conus est in oculo opposito: et basis  
+          <lb ed="#L" n="53"/>in re visa. igitur si oculus christi in vna ho- 
+          <!--214.xml-->
+          <cb ed="#L" n="b"/><!--107vb-->
+          <lb ed="#L" n="54"/>stia videret christum in alia: tunc oculus christi 
+          <lb ed="#L" n="55"/>videret se per lineam recta: et eiusdem pvramidis  
+          <lb ed="#L" n="56"/> esset idem basis et conus: quod non est imaginabi 
+          <lb ed="#L" n="57"/>le.
+          </p>
+          <p xml:id="rh-l4q3-d1e653">
+            Item si sic: tunc corpus in sacramento muta 
+          <lb ed="#L" n="58"/>ret medium causando specitet in pvramide visi- 
+          <lb ed="#L" n="59"/>bili. sicut si ibidem poneretur unus oculus alius  
+          <lb ed="#L" n="60"/>aequalis virtutis vel maioris: ille posset vide 
+          <lb ed="#L" n="61"/>re corpus christi consequens est falsum et contra exprimen 
+          <lb ed="#L" n="62"/>tum. Si dicatur concedendo quod oculus christi non  
+          <lb ed="#L" n="63"/>potest videre nec movere manum suam ibi. Con- 
+          <lb ed="#L" n="64"/>tra manus sua est ibi realiter: quia totum corpus est 
+          <lb ed="#L" n="65"/>ibi realiter: sed manus illa est viva: igitur christ 
+          <lb ed="#L" n="66"/>potest movere manum et tamen vna tangere aliam: igi 
+          <lb ed="#L" n="67"/>tur pari ratione potest videre manum.
+          </p>
+          <p xml:id="rh-l4q3-d1e677">
+            Item capio 
+          <lb ed="#L" n="68"/>lineam logitudinis corporis christi a verticae 
+          <lb ed="#L" n="69"/>usque ad plantam sub pede. et arguo sic . corpus  
+          <lb ed="#L" n="70"/>christi est in hac hostia: et hoc linea est in hac ho 
+          <lb ed="#L" n="71"/>stia: quaero vtrum est recta an curua: si recta: igitur  
+          <lb ed="#L" n="72"/>cum ista sit septem pedum in longitudine: intelr 
+          <lb ed="#L" n="73"/>terminos istius linet erit distantia septem pe- 
+          <lb ed="#L" n="74"/>dum. igitur in spatio minimi hominis erit quod titas  
+          <lb ed="#L" n="75"/>septem pedum. et per consequens in spatio certissime par- 
+          <lb ed="#L" n="76"/>tis unius pedis erit linea recta septem pedum.  
+          <lb ed="#L" n="77"/>Si dicatur quod linea logitudinis christi sit in- 
+          <lb ed="#L" n="78"/>voluta sicut vna linea ergo vrativa ad dimen 
+          <lb ed="#L" n="79"/>siones hostiae : hoc nihil esi: oi non est dare mi- 
+          <lb ed="#L" n="80"/>nimam partem sub qui corpus christi est in hostia: et  
+          <lb ed="#L" n="81"/>similiter guratio figure humane non conve 
+          <lb ed="#L" n="82"/>nit.
+          </p>
+          <p xml:id="rh-l4q3-d1e712">
+            Item si corpus christi realiter est ibi cum 
+          <lb ed="#L" n="83"/>illis quatatibus: igitur figura eius est ibi: quia figu  
+          <lb ed="#L" n="84"/>ra eius non est nisi corpus ipsum. igitur profun- 
+          <lb ed="#L" n="85"/>ditas eius est logitudo eius. et distantia inter- 
+          <lb ed="#L" n="86"/>cepta inter latera figure est ibi. ergo si est  
+          <lb ed="#L" n="87"/>ibi realiter: est ibi corporaliter et localiter.  
+          <lb ed="#L" n="88"/>igitur inter manum et lacertum eius est unus cubiti  
+          <lb ed="#L" n="89"/>et manus distat a pede: quia alio quin periret figu- 
+          <lb ed="#L" n="90"/>ra humana.
+          </p>
+          <p xml:id="rh-l4q3-d1e732">
+            Quarto ad principale. si sic:  
+          <lb ed="#L" n="91"/>aut debet concedi quod nos videmus corpus christi vel 
+          <lb ed="#L" n="92"/>non. si sic. Contra. nullam partem christi videmus  
+          <lb ed="#L" n="93"/>igitur etc. Antecedens pate: quia nec carnen nec ma 
+          <lb ed="#L" n="94"/>num nec faciem. si concedatur quod non vter ibi corpus  
+          <lb ed="#L" n="95"/>christi verum. Contra. non minus videmus quam  
+          <lb ed="#L" n="96"/>tangimus et tractamus: cum visus sit nobi- 
+          <lb ed="#L" n="97"/>lissimus sensuum. sed nos tangimus corpus  
+          <lb ed="#L" n="98"/>hristi verum. ergo etc. Minor probatur ex illa con 
+          <lb ed="#L" n="99"/>fessione Berengarii: quae ponitur de consec. 
+          <lb ed="#L" n="100"/>di. ii c. ego Berengarius. vbi confitetur verum  
+          <lb ed="#L" n="101"/>corpus christi manibus sacerdotum tractari non  
+          <lb ed="#L" n="102"/>tamen sacrum: sed verum corpus christi sensualiter ma 
+          <lb ed="#L" n="103"/>nibus sacerdotum tractari et frangi: et fidelium 
+          <lb ed="#L" n="104"/>dentibus atteri. et pari ratione videmus ibi  
+          <lb ed="#L" n="105"/>corpus christi Item dicitur vulgariter: hodie vi- 
+          <lb ed="#L" n="106"/>di caput omniue sanctorum: hodie vidi corpus  
+          <!--215.xml-->
+          <pb ed="#L" n="108-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>christi.
+          </p>
+          <p xml:id="rh-l4q3-d1e778">
+            Quinto ad principale. si sic : hoc fe 
+          <lb ed="#L" n="2"/>ret per consecrationem: sed consecratio non fit nis  
+          <lb ed="#L" n="3"/>sacerdos intendat consecrare: ergo requiritur inten  
+          <lb ed="#L" n="4"/>tio sacerdotis. Pono ergo quod sacerdos habeat  
+          <lb ed="#L" n="5"/>coram se octo hostias: de quibus non intendat conse 
+          <lb ed="#L" n="6"/>crare nisi duas: et ita cogitet poenes se sic du 
+          <lb ed="#L" n="7"/>as tantum de istis volo consecrare. quo posito: quaero  
+          <lb ed="#L" n="8"/>utrum consecrauit an non: Si non. Contra. hic est 
+          <lb ed="#L" n="9"/>forma debita et materia / et intentio faciendi quod  
+          <lb ed="#L" n="10"/>eccliia facere consueuit: ergo etc. Item si non: hoc non i  
+          <lb ed="#L" n="11"/>ret nisi quia intentio talis ur generalis vel vaga 
+          <lb ed="#L" n="12"/>vel indeterminata: sed hoc non impedit. nam da 
+          <lb ed="#L" n="13"/>to quod sacerdos intendat distinctae consecrare hanc  
+          <lb ed="#L" n="14"/>hostiam: oparet necessario concedere quod ipse inten- 
+          <lb ed="#L" n="15"/>dit consecrare infinitas partes istius hostiae  
+          <lb ed="#L" n="16"/>distincte. quod non potest intendere distinctae: cum  
+          <lb ed="#L" n="17"/>non possit consecrare unam vna intentione: et post  
+          <lb ed="#L" n="18"/>aliam alia intentione. et sic in infinitum. igitur suffi 
+          <lb ed="#L" n="19"/>cit generalis intentio et indistincta. Similiter sacer  
+          <lb ed="#L" n="20"/>dos comnmuniter die pasce consecrat multas vel cen 
+          <lb ed="#L" n="21"/>tum vel mille: sed non potest simul cogitare de quali 
+          <lb ed="#L" n="22"/>bet distincte. igitur sufficit intentio generalis.  
+          <lb ed="#L" n="23"/>Si dicatur quod consecrauit. Contra. tamtum duas de 
+          <lb ed="#L" n="24"/>istis intendebat consecrare: sed non est maior ratio 
+          <lb ed="#L" n="25"/>quare has duas consecrauit quam illas. igitur vel con 
+          <lb ed="#L" n="26"/>secrauit omnes: vel nullas. non omnes: quia intende  
+          <lb ed="#L" n="27"/>batu contrarium illius.
+          </p>
+          <p xml:id="rh-l4q3-d1e838">
+            Item pono aliquem sacerdotem  
+          <lb ed="#L" n="28"/>qui credit continuum componi ex indivisibilibus:  
+          <lb ed="#L" n="29"/>et henat coram se unam hostiam: quam credit esse comn 
+          <lb ed="#L" n="30"/>positam ex quinque indivisibilibus praecise: et volo quod  
+          <lb ed="#L" n="31"/>ipse intendat consecrare hodie unum indivisibi  
+          <lb ed="#L" n="32"/>le: et cras secundum: tertia die tertium: ita quod quinto  
+          <lb ed="#L" n="33"/>die vult quod tota hostia sit consecrata. isto po 
+          <lb ed="#L" n="34"/>sito: quaero vtrum consecrauit an non: si non. Con 
+          <lb ed="#L" n="35"/>tra intendebat consecrare panem: et protulit verba 
+          <lb ed="#L" n="36"/>sacralia. ergo consecrauit. vel fiat argumentum  
+          <lb ed="#L" n="37"/>de vna hostia divisa in quinque partes: et sic eo- 
+          <lb ed="#L" n="38"/>dem modo procedatur de quinque diebus. Si concedatur quod  
+          <lb ed="#L" n="39"/>consecrauit. Contra. nunquam intendebat consecra 
+          <lb ed="#L" n="40"/>re aliquam partem istius: igitur numquam intendebat conse 
+          <lb ed="#L" n="41"/>crare hanc hostiam: antecedens patet: quia hoc hostia non con- 
+          <lb ed="#L" n="42"/>ponitur ex indivisibilibus in rei veritate.
+          </p>
+          <p xml:id="rh-l4q3-d1e873">
+            Item  
+          <lb ed="#L" n="43"/>nullum panem intendebat consecrare: quia nullum in 
+          <lb ed="#L" n="44"/>divisibile est panis: sed tantum indivisibile inter  
+          <lb ed="#L" n="45"/>dit consecrare. ergo etc.
+          </p>
+          <p xml:id="rh-l4q3-d1e882">
+            Item habeat aliquis sacer- 
+          <lb ed="#L" n="46"/>dos coram se unum panem: et intendat consecrare me 
+          <lb ed="#L" n="47"/>dietatem propinquiorem sibi: qui dicatur patria pars pro  
+          <lb ed="#L" n="48"/>portionabilis: et consequenter tertiam quintam et septi  
+          <lb ed="#L" n="49"/>mam: et sic de aliis partibus proportionabilibus de 
+          <lb ed="#L" n="50"/>notatis vel demostratis a numero impari. et  
+          <lb ed="#L" n="51"/>nullo modo anrias intendat consecrare. quo posito: se  
+          <lb ed="#L" n="52"/>quitur quod ille consecrauit infinitas hostias: qua 
+          <lb ed="#L" n="53"/>rumquilibet distat ab alia per unum panem ita quod  
+          <!--215.xml-->
+          <cb ed="#L" n="b"/><!--108rb-->
+          <lb ed="#L" n="54"/>inter quascumque intercipitur unus panis. et sequi- 
+          <lb ed="#L" n="55"/>tur similiter quod istae fecit infinitos panes in actu:  
+          <lb ed="#L" n="56"/>quirum quilibet est alteri discontinuus et disiuctus:  
+          <lb ed="#L" n="57"/>ita quod inter quascumque et quoscumque mediat unus homo  
+          <lb ed="#L" n="58"/>quia christus.
+          </p>
+          <p xml:id="rh-l4q3-d1e918">
+            Similiter isto posito pono quod aliquis tam  
+          <lb ed="#L" n="59"/>gat partem superficialem remotioris partis: quaero  
+          <lb ed="#L" n="60"/>utrum tangat corpus christi an non: si sic: ergo est  
+          <lb ed="#L" n="61"/>dare ultimam partem proportionabilem secundum ta- 
+          <lb ed="#L" n="62"/>lem denotationem. consequens est falsum: igitur. si non:  
+          <lb ed="#L" n="63"/>ergo tangit panem. ergo in quacumque parte pa 
+          <lb ed="#L" n="64"/>nis versus illam superficiem est alia pars propot 
+          <lb ed="#L" n="65"/>tionabilis proportione denotata a numero  
+          <lb ed="#L" n="66"/>impari: vt patet: ergo tangit partem consecratam
+          </p>
+          <p xml:id="rh-l4q3-d1e938">
+          <lb ed="#L" n="67"/>Praeterea sit aliquis sacerdos hereticus: qua 
+          <lb ed="#L" n="68"/>velit consecrare de carne. sicut legitur quod qui- 
+          <lb ed="#L" n="69"/>dam voluerunt consecrare de pane et de caseo. 
+          <lb ed="#L" n="70"/>et decipiatur unus talis. Et fit panis illud quod  
+          <lb ed="#L" n="71"/>existimat esse carnes: et dicat verba consecra- 
+          <lb ed="#L" n="72"/>tionis. qunaeritur utrum conficit an non: Si non.  
+          <lb ed="#L" n="73"/>Contra. nihil impedit nisi forte intentio erro 
+          <lb ed="#L" n="74"/>nea: sed illa non impedit. Probo: quia intendit con 
+          <lb ed="#L" n="75"/>secrare hoc: et hoc est panis: ergo panem con 
+          <lb ed="#L" n="76"/>secrat. Si dicatur quod sic. Contra. tantum intendit  
+          <lb ed="#L" n="77"/>consecrare carnem: ergo non intendit consecrare  
+          <lb ed="#L" n="78"/>panem. Et vltra. ergo non intendit consecrare  
+          <lb ed="#L" n="79"/>hoc.
+          </p>
+          <p xml:id="rh-l4q3-d1e969">
+            Item pono quod sacerdos consecrat omnes pa 
+          <lb ed="#L" n="80"/>nes in vna fenestra vnius panetarii: et postea  
+          <lb ed="#L" n="81"/>furetur illas species. et tunc si agatur contra eum  
+          <lb ed="#L" n="82"/>quod furatus est panes suos: numquid potest lici- 
+          <lb ed="#L" n="83"/>te negare: videtur quod sic: quia certum est quod hoc  
+          <lb ed="#L" n="84"/>est falsum: et licet negare falsum.
+          </p>
+          <p xml:id="rh-l4q3-d1e983">
+            Item ca 
+          <lb ed="#L" n="85"/>piat sacerdos in die pasce pro centum pa 
+          <lb ed="#L" n="86"/>rochianis unam summam hostiarum: ubi no- 
+          <lb ed="#L" n="87"/>uit esse centum hostias et amplius: sed nesci- 
+          <lb ed="#L" n="88"/>at quot ultra: et intendat solum consecrare centum  
+          <lb ed="#L" n="89"/>proferens super hostias formam consecrandi: quae 
+          <lb ed="#L" n="90"/>ro vtrum consecrat an non: et est eadem forma quae  
+          <lb ed="#L" n="91"/>prius. vltra intendat sic: volo consecrare  
+          <lb ed="#L" n="92"/>omnes istas hostias si tot habeam parochia 
+          <lb ed="#L" n="93"/>nos.
+          </p>
+          <p xml:id="rh-l4q3-d1e1005">
+            Item si intentio requiritur: ergo qui 
+          <lb ed="#L" n="94"/>libet communiter in elevatione habet dubitare ar 
+          <lb ed="#L" n="95"/>sit hostia consecrata an non. Et si absolute  
+          <lb ed="#L" n="96"/>adorat: videtur peccare: quia adorat adoratione  
+          <lb ed="#L" n="97"/>latriae rem de qua dubitat an sit adoranda 
+          <lb ed="#L" n="98"/>ergo videtur quod quilibet habet adorare sub con- 
+          <lb ed="#L" n="99"/>ditione . consequens est falsum: et contra ri- 
+          <lb ed="#L" n="100"/>tum ecclesie.
+          </p>
+          <p xml:id="rh-l4q3-d1e1023">
+            Sexto ad principale si sic: er- 
+          <lb ed="#L" n="101"/>go dictum Ambrosii foret falsum. et poni 
+          <lb ed="#L" n="102"/>tur a magistro libro quarto distinctione. rum  
+          <lb ed="#L" n="103"/>capi. ii. Nihil falsi putandum est esse in sa- 
+          <lb ed="#L" n="104"/>crificio veritatis. quia forma consecrandi est  
+          <lb ed="#L" n="105"/>propositio falsa. probo: quia cum sacerdos di- 
+          <lb ed="#L" n="106"/>cit : hoc est corpus meum. quaero quid demonsirat  
+          <!--216.xml-->
+          <pb ed="#L" n="108-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>le hoc: an corpus suum: et hoc non est ad propositum  
+          <lb ed="#L" n="2"/>an corpus christi in celo: et tunc dicit falsum similiter 
+          <lb ed="#L" n="3"/>si demonstrat panem: dicit falsum. ergo nullo  
+          <lb ed="#L" n="4"/>modo dicit verum.
+          </p>
+          <p xml:id="rh-l4q3-d1e1054">
+            Dicitur ad illud communitet 
+          <lb ed="#L" n="5"/>quod sacerdos dicit ista verba recitative in perso 
+          <lb ed="#L" n="6"/>na christi et tunc simul dicit ea recitative et signi 
+          <lb ed="#L" n="7"/>ficative respectu materie sibi praesentate. Si  
+          <lb ed="#L" n="8"/>quaritur quid demonstretur per hoc pronomen hoc: Di 
+          <lb ed="#L" n="9"/>com quod illud quod manet sub vtroque termio 
+          <lb ed="#L" n="10"/>transmutationis: et est illud quod est accidentia  
+          <lb ed="#L" n="11"/>sensibilia et nulla substantia. Unde sensus est  
+          <lb ed="#L" n="12"/>hoc contentum sub his speciebus est corpus meum. 
+          <lb ed="#L" n="13"/>et haec est causa quare non additur aliquod pronomen 
+          <lb ed="#L" n="14"/>illi pronomini demonstrativo: ne ad aliquam  
+          <lb ed="#L" n="15"/>speciem substantiae determinetur. uvnde secundum eos  
+          <lb ed="#L" n="16"/>istud pronomen hoc non demonstrat terminum  
+          <lb ed="#L" n="17"/>a quo istius conuersionis: quia eius significatio im  
+          <lb ed="#L" n="18"/>pediret veritatem propositionis totius: cum termin- 
+          <lb ed="#L" n="19"/>a quo non maneat in vltimo instanti locutio  
+          <lb ed="#L" n="20"/>nis. nec etiam demonstrat terminum adquentrans  
+          <lb ed="#L" n="21"/>substantiationis determinate: quia iam significa- 
+          <lb ed="#L" n="22"/>tum locutionis praesupponit entitatem rei signi 
+          <lb ed="#L" n="23"/>ficati scilicet corporis christi et non esset aliquo modo  
+          <lb ed="#L" n="24"/>eius causa. et ideo dicunt quod demonstrat hoc quod est con 
+          <lb ed="#L" n="25"/>utrique termino indeterminate. vnde sensus est:  
+          <lb ed="#L" n="26"/>hoc contentum sub istis spebus est corpus meum: haec  
+          <lb ed="#L" n="27"/>est sententia scti Thoaomas iiii li viii distitin articu. 
+          <lb ed="#L" n="28"/>xvi in responsione ad primum argu. Sed arguitur sic  
+          <lb ed="#L" n="29"/>contra ista suppono quod termini et orones suppo- 
+          <lb ed="#L" n="30"/>nant pro ultimo instanti prolationis eorum: ac si esse nt 
+          <lb ed="#L" n="31"/>n illo instanti cum tamen non sint. sit ergo a instans ter  
+          <lb ed="#L" n="32"/>minus prolationis istius propositionis hoc est etc. Et  
+          <lb ed="#L" n="33"/>arguo sic. quicquid significat illud pronomen hoc 
+          <lb ed="#L" n="34"/>in hac ofrone: est demonstratum in a per illud pro 
+          <lb ed="#L" n="35"/>nomen aut igitur illud est corpus christi vel panis.  
+          <lb ed="#L" n="36"/>si corpus christi: ergo corpus christi est ibi ante finem 
+          <lb ed="#L" n="37"/>polationis forme: et sic erit transsubstantiatio 
+          <lb ed="#L" n="38"/>ante prolationem aliorum verborum. et sic illa non essent 
+          <lb ed="#L" n="39"/>de forma. si est panis: tunc propositio est falsa: quia  
+          <lb ed="#L" n="40"/>denotatur quod panis est corpus christi: ideo si iste vo- 
+          <lb ed="#L" n="41"/>ces hosuent virtutem consecrandi: quia proferuntur a sa- 
+          <lb ed="#L" n="42"/>cerdote super debitam materiam: quaero an talis  
+          <lb ed="#L" n="43"/>virtus consecrandi competat illis verbis quod ta- 
+          <lb ed="#L" n="44"/>les sunt sicut idem euenissetante institutionem:
+          </p>
+          <p xml:id="rh-l4q3-d1e1143">
+          <lb ed="#L" n="45"/>Similiter si sic: ponatur quod cadant a sua significa- 
+          <lb ed="#L" n="46"/>tione: adhuc poterit sacerdos dicendo voces  
+          <lb ed="#L" n="47"/>non significativas consecrare.
+          </p>
+          <p xml:id="rh-l4q3-d1e1152">
+            Item si sic: pona 
+          <lb ed="#L" n="48"/>tur quod in aliquao lingua barbarica hoc propo modo  
+          <lb ed="#L" n="49"/>convertatur cum ista sortes currit. tunc sacerdos  
+          <lb ed="#L" n="50"/>barbaricus consecrat dicendo: sortes currit seu 
+          <lb ed="#L" n="51"/>sortem currere: quia vere diceret has voces hoc  
+          <lb ed="#L" n="52"/>est corpus meum.
+          </p>
+          <p xml:id="rh-l4q3-d1e1166">
+            Item christus non protulit haec ver 
+          <lb ed="#L" n="53"/>ba: quia non loquebatur latinum. Si dicatur quod hoc  
+          <!--216.xml-->
+          <cb ed="#L" n="b"/><!--108vb-->
+          <lb ed="#L" n="54"/>competit eis non quia sunt tales voces: sed quia 
+          <lb ed="#L" n="55"/>sunt sic significative.
+          </p>
+          <p xml:id="rh-l4q3-d1e1180">
+            Contra. si institueretur ille 
+          <lb ed="#L" n="56"/>terminus a ad significandum convertibiliter cum 
+          <lb ed="#L" n="57"/>ista propositos : hoc est corpus meum: posset sacerdos  
+          <lb ed="#L" n="58"/>consecrare proferendo hanc voce a. similiter tunc  
+          <lb ed="#L" n="59"/>posset homo mutare formam sacforum: quia signifi 
+          <lb ed="#L" n="60"/>cata orationum: ut patet.
+          </p>
+          <p xml:id="rh-l4q3-d1e1193">
+            Praeterea non intelligat.  
+          <lb ed="#L" n="61"/>sacerdos quid significent verba: et nullus alius au- 
+          <lb ed="#L" n="62"/>diat: tunc verba nihil significant. probo: quia nulli si 
+          <lb ed="#L" n="63"/>gnificant.
+          </p>
+          <p xml:id="rh-l4q3-d1e1202">
+            Praeterea in ista conversioe termi 
+          <lb ed="#L" n="64"/>nus a qua non manet in fine prolationis verborum:  
+          <lb ed="#L" n="65"/>nec terminus ad quem est in principio: ergo nihil es  
+          <lb ed="#L" n="66"/>contentum quod posset demonstrari.
+          </p>
+          <p xml:id="rh-l4q3-d1e1211">
+            Praeterea contra hoc  
+          <lb ed="#L" n="67"/>quod dicitur quod cone utrique termino demonstratur.  
+          <lb ed="#L" n="68"/>Arguitur sic. nihil est cone corperi christi et pani:  
+          <lb ed="#L" n="69"/>nisi forte vox vel conceptus aliquis qui non demon- 
+          <lb ed="#L" n="70"/>stratur. certum est.
+          </p>
+          <p xml:id="rh-l4q3-d1e1222">
+            Si dicitur quod illa collectio sperum 
+          <lb ed="#L" n="71"/>est conis vtrique sucessive per modum istum: quia pri  
+          <lb ed="#L" n="72"/>mo multitudo est simul cum sba panis et postea  
+          <lb ed="#L" n="73"/>cum corpore christi. Contra. illa responsio non salvat  
+          <lb ed="#L" n="74"/>viam ista. Nam secundum viam illam per illud pronomen hoc non  
+          <lb ed="#L" n="75"/>demonstratur multitudo illarum specierum: quia teo 
+          <lb ed="#L" n="76"/>derent locutionem impossibilem eo modo ac si demon 
+          <lb ed="#L" n="77"/>straretur panis: quia ista accidentia numquam possunt esse  
+          <lb ed="#L" n="78"/>corpus schristi: ergo non potest dici quod illud cone vutrique  
+          <lb ed="#L" n="79"/>termino demonstratur.
+          </p>
+          <p xml:id="rh-l4q3-d1e1245">
+            Item dicit illa via quod  
+          <lb ed="#L" n="80"/>illud cone quod demonstratur: est aliquid contentum  
+          <lb ed="#L" n="81"/>sub istis spebus: ita quod sensus istius propositionis  
+          <lb ed="#L" n="82"/>sit istae. aliquid contentum sub istis spebus est cor 
+          <lb ed="#L" n="83"/>pus christi.
+          </p>
+          <p xml:id="rh-l4q3-d1e1256">
+            Contra arguitur sic. nihil est conten 
+          <lb ed="#L" n="84"/>tum sub istis spebus successive nisi corpus christ  
+          <lb ed="#L" n="85"/>vel aliquo alia suba. non corpus christi: quia esset tunc  
+          <lb ed="#L" n="86"/>ibi corpus christi ante prolationem verborum. Si se 
+          <lb ed="#L" n="87"/>cundum: redderetur locutio falsa. et stat cone arg  
+          <lb ed="#L" n="88"/>quod impe nititur soluere.
+          </p>
+          <p xml:id="rh-l4q3-d1e1269">
+            Praeterea secundum illam viam  
+          <lb ed="#L" n="89"/>sensus propositionis est istae: contentum sub istis spe- 
+          <lb ed="#L" n="90"/>bus est corpus meum. sed haec est vna indefinita. ergo  
+          <lb ed="#L" n="91"/>si est vira: habet aliquam singularem veram aut ergo habet  
+          <lb ed="#L" n="92"/>istam hoc est corpus meum: demonstrato pane: quod est  
+          <lb ed="#L" n="93"/>falsum. vel istam demonstrato corpore christi ince 
+          <lb ed="#L" n="94"/>lo: hoc est corpus meum. si sic: non efficerent ista ver  
+          <lb ed="#L" n="95"/>ba quod significant: quia non efficiunt quod corpus chri 
+          <lb ed="#L" n="96"/>sti sit corpus christi: sed quod panis fiat corpus chri 
+          <lb ed="#L" n="97"/>sti.
+          </p>
+          <p xml:id="rh-l4q3-d1e1291">
+            Praeterea iste duae indefinitae convertuntur  
+          <lb ed="#L" n="98"/>Contentum sub istis spebus est corpus meum: et suda- 
+          <lb ed="#L" n="99"/>qua sub istis spebus continetur est corpus meum: quaero  
+          <lb ed="#L" n="100"/>ergo pro quae subiectum supponit: ex quo est propositio affir 
+          <lb ed="#L" n="101"/>mativa: opuet quod subiectum et praedicatum supponant  
+          <lb ed="#L" n="102"/>pro eodem. ergo optet dicere quod pro corpore christi ergo pro 
+          <lb ed="#L" n="103"/>termino ad quem istius conuersionis. quod negat  
+          <lb ed="#L" n="104"/>ista opinio.
+          </p>
+          <p xml:id="rh-l4q3-d1e1309">
+            Si dicitur sicut dicit Scotus tenens hanc:  
+          <lb ed="#L" n="105"/>viam: quod quodlibet vle habet suum proprium singulare et 
+          <lb ed="#L" n="106"/>suum proximum contentum sub se. sic hoc contens haber 
+          <!--217.xml-->
+          <pb ed="#L" n="109-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>suum singulare: hoens: et hoc cone substantia haec  
+          <lb ed="#L" n="2"/>substantia et sic de aliis. et ideo in ista propositione hoc  
+          <lb ed="#L" n="3"/>est corpus meum: sensus est hoc ens cone demon 
+          <lb ed="#L" n="4"/>stratum sub istis spebus est corpus meum.
+          </p>
+          <p xml:id="rh-l4q3-d1e1331">
+            Sed  
+          <lb ed="#L" n="5"/>haec responsio non valet: quia licet ille propositiones differant  
+          <lb ed="#L" n="6"/>in voce demonstrato sorte. hc ens est homo haec  
+          <lb ed="#L" n="7"/>substantia est homo. hoc animal est homo. et licet hic sint  
+          <lb ed="#L" n="8"/>tres propsitiones singulares: quarum nulla est  
+          <lb ed="#L" n="9"/>alia tamen omnia ista supponunt pro eodem scilicet pro sor 
+          <lb ed="#L" n="10"/>te: et impossibile est quod pria sit va nisi quilibet sit  
+          <lb ed="#L" n="11"/>vira si formetur. et io si haec sit vera hoc ens contentu 
+          <lb ed="#L" n="12"/>sub istis spebus est corpus meum: oprtet quod quilibet  
+          <lb ed="#L" n="13"/>talis sit vera. haec substantia contenta etc. est coru 
+          <lb ed="#L" n="14"/>christi quia quaero pro qua supponit: et redit tota dif 
+          <lb ed="#L" n="15"/>ficultas.
+          </p>
+          <p xml:id="rh-l4q3-d1e1358">
+            Septimo ad principale. si sic: panis  
+          <lb ed="#L" n="16"/>mutaretur in corpus christi secundum Aselmus dicentem quod  
+          <lb ed="#L" n="17"/>heciundmo temperi creaturammutat. de conse distinion ii. panis  
+          <lb ed="#L" n="18"/>ii. contra. ille panis mutabitur in hoc corpus hoc corpore 
+          <lb ed="#L" n="19"/>non moto localiter. ergo panis ascendet in celum. Co- 
+          <lb ed="#L" n="20"/>firmatur idem de conse dtion i. c. quid sit sanguis. eo  
+          <lb ed="#L" n="21"/>dem momento in celum rapitur ministerio angelorum  
+          <lb ed="#L" n="22"/>sociandus corpori christi: et ante oculos sacerdo:  
+          <lb ed="#L" n="23"/>tis in altari videtur. ergo ille pants ascendit in celum
+          </p>
+          <p xml:id="rh-l4q3-d1e1378">
+          <lb ed="#L" n="24"/>Octavo si sic fieret talis conversio in corpus  
+          <lb ed="#L" n="25"/>et sanguinem christi: sequeretur quod fieret in idem  
+          <lb ed="#L" n="26"/>corpus et in eundem sanguinem quem assumpsit  
+          <lb ed="#L" n="27"/>christus de vergine: et pependit in cruce: et alcen 
+          <lb ed="#L" n="28"/>dit: et modo vuit verbo de conse ditintioneii. omnia quacumque  
+          <lb ed="#L" n="29"/>et est Amselmuc litero de sacramentis. et allegat ma- 
+          <lb ed="#L" n="30"/>gister disitin inic capitulo iiii sed consequens est impossibile. pro 
+          <lb ed="#L" n="31"/>po: quia non est idem corpus quod modo est in celo: et  
+          <lb ed="#L" n="32"/>quod est in vtero verginis. hoc patet supposito quod  
+          <lb ed="#L" n="33"/>christus fuit vere nutritus: et vere commedit etbi  
+          <lb ed="#L" n="34"/>bit: tunc capio partes aggeneratas per nutritio  
+          <lb ed="#L" n="35"/>nem quando erat. xxx annorum. et arguo sic. ille par 
+          <lb ed="#L" n="36"/>tes nunquam fuerunt in vtero verginis Marie:  
+          <lb ed="#L" n="37"/>igitur illud corpus nunquam fuit in vtero verginis  
+          <lb ed="#L" n="38"/>consequentia patet: quia hoc corpus est omnes ille partes.
+          </p>
+          <p xml:id="rh-l4q3-d1e1413">
+            Prae 
+          <lb ed="#L" n="39"/>terea tunc illud corpus quod fuit in vtero virgi- 
+          <lb ed="#L" n="40"/>nis: fuit in triplo minus quam sit hoc corpus in celo 
+          <lb ed="#L" n="41"/>consequentia patet: quia hoc corpus fuit in principio minus quam  
+          <lb ed="#L" n="42"/>est corpus in celo: sed non tota luba quae modo est  
+          <lb ed="#L" n="43"/>in celo / fuit in vtero verginis: quia tunc corpus  
+          <lb ed="#L" n="44"/>christi fuisset densius et durius in vtero vers  
+          <lb ed="#L" n="45"/>nis quam quando fuit xxx annorum.
+          </p>
+          <p xml:id="rh-l4q3-d1e1431">
+            Praeterea quod non  
+          <lb ed="#L" n="46"/>sit ide sanguis quem ipse effudit et quaemen  
+          <lb ed="#L" n="47"/>habet / patet: quia quidam dicunt se habere de sanguine quaem  
+          <lb ed="#L" n="48"/>tunc effudit: ergo aliquem sanguinem non resumprsit  
+          <lb ed="#L" n="49"/>in resurrectione.
+          </p>
+          <p xml:id="rh-l4q3-d1e1442">
+            Confirmatur de conse distintionei capitulo 
+          <lb ed="#L" n="50"/>prima quidem. Non hoc corpus quod videtis manducatu- 
+          <lb ed="#L" n="51"/>ri estis: et bibituri illum languine quem effusu- 
+          <lb ed="#L" n="52"/>ri sunt quo me crucifigent. sacrm aliquod vob con 
+          <lb ed="#L" n="53"/>mendau: quod sudnualiter intellectum vilisicabit  
+          <!--217.xml-->
+          <cb ed="#L" n="b"/><!--109rb-->
+          <lb ed="#L" n="54"/>vos. contrarium habetur. e. accesserunt. et est Augustinus lo- 
+          <lb ed="#L" n="55"/>quens ad Iudeos. Iam securi bibitae sangui- 
+          <lb ed="#L" n="56"/>nem quem fudistis. et c. quia corpus. Invisibilis sa 
+          <lb ed="#L" n="57"/>cerdos visibiles creaturas in subam corpo 
+          <lb ed="#L" n="58"/>ris et sanguinis sui: verbo suo secreta potestate  
+          <lb ed="#L" n="59"/>conuertit etc. Et Aselorum cacic. mnima Nam licet suba pa 
+          <lb ed="#L" n="60"/>nis et vini videatur: nihil aliud tamen quam caro chri 
+          <lb ed="#L" n="61"/>sti et sanguis post consecrationem credendum est.  
+          <lb ed="#L" n="62"/>vunde ipsa veritas ait ad discipulos. haec inquit ca 
+          <lb ed="#L" n="63"/>ro mea est pro mundi vita. Et vt mirabilius lo- 
+          <lb ed="#L" n="64"/>quar: non alia plane quam quo nata est de Mharia.  
+          <lb ed="#L" n="65"/>et infra in fine ca. Illud sane quod sumptum est  
+          <lb ed="#L" n="66"/>de vergine: quod passum est et sepultum : quod resur 
+          <lb ed="#L" n="67"/>rerit et in celum ascendit: et sedet ad dexteram dei  
+          <lb ed="#L" n="68"/>pris: et quod venturum est iudicare viuos et mot 
+          <lb ed="#L" n="69"/>tuos. Et citulo nec Movses. et est hiero. Ipse 
+          <lb ed="#L" n="70"/>conquenva et conuivium: ipse commedens et qui commeditur.  
+          <lb ed="#L" n="71"/>Idem et de hac. De hac quidem hostia quae in chri 
+          <lb ed="#L" n="72"/>sti commemoratione mirabiliter fit: edere licet.  
+          <lb ed="#L" n="73"/>de illa vero quam christus in ara crucis obtulit  
+          <lb ed="#L" n="74"/>secundum se: nulli edere licet.
+          </p>
+          <p xml:id="rh-l4q3-d1e1504">
+            Nono si sic: ergo chri 
+          <lb ed="#L" n="75"/>stus confecisset: et corpus suum discipulis tradi 
+          <lb ed="#L" n="76"/>disset: et eis dedisset potestatem consecrandi: et sic  
+          <lb ed="#L" n="77"/>esent veri illi versus. Rex sedet in cena turba cim 
+          <lb ed="#L" n="78"/>ctus duodena. Setenet in manibus: se cibatipe 
+          <lb ed="#L" n="79"/>cibus. sed consequens est falsum: quia christus aut recepit  
+          <lb ed="#L" n="80"/>hoc sacrum solum sacraliter: aut sacraliter et spuali 
+          <lb ed="#L" n="81"/>ter: sicut distinguit magir. Si tantum sacfaliter: ergo mi 
+          <lb ed="#L" n="82"/>nus fructuose sumpsit quam aplis: nec aliter mandu- 
+          <lb ed="#L" n="83"/>cauit christus quam Iudas. Si sacraliter et speniealiter 
+          <lb ed="#L" n="84"/>ergo gratia augebatur in christo: quia imomini eo qui reci- 
+          <lb ed="#L" n="85"/>pit sacerm spuealiter / augetur gratia. consequens est falsum  
+          <lb ed="#L" n="86"/>ergo.
+          </p>
+          <p xml:id="rh-l4q3-d1e1534">
+            Praeterea si sic: ergo quilibet sacerdos  
+          <lb ed="#L" n="87"/>posset modo consficere nobilius corpus christi quam  
+          <lb ed="#L" n="88"/>christus confecit. consequentia patet: quia corpus glorificatum  
+          <lb ed="#L" n="89"/>est nobilius quam ipsummet foret si non esset glorifi 
+          <lb ed="#L" n="90"/>catum: sed christus confecit et dedit discipulis cor- 
+          <lb ed="#L" n="91"/>pus non glorificatum sed passibile.
+          </p>
+          <p xml:id="rh-l4q3-d1e1547">
+            Praeterea si 
+          <lb ed="#L" n="92"/>manducauit corpus suum: ergo illud fuit intra sei- 
+          <lb ed="#L" n="93"/>extra se simul et semel.
+          </p>
+          <p xml:id="rh-l4q3-d1e1554">
+            Praeterea si contulit  
+          <lb ed="#L" n="94"/>discipulis suis potestatem consecrandi: ponatur quod ali 
+          <lb ed="#L" n="95"/>quis consecrasset sabbato quando requieuit in sepul- 
+          <lb ed="#L" n="96"/>crortalis non confecisset illud sactum quod nos  
+          <lb ed="#L" n="97"/>conficimus modo: quia sub spebus illis non fuisset  
+          <lb ed="#L" n="98"/>corpus vivum: nec fuisset totus ille sanguis qui 
+          <lb ed="#L" n="99"/>est modo in sacro nostro: quia tunc sanguis fuit di- 
+          <lb ed="#L" n="100"/>uisus a corpore.
+          </p>
+          <p xml:id="rh-l4q3-d1e1572">
+            Praeterea ipse dixisset fal- 
+          <lb ed="#L" n="101"/>sum: immo si anima christi tunc dixisset hoc est cor- 
+          <lb ed="#L" n="102"/>pues meum: falsum dixisset: quia tunc nullum corpus  
+          <lb ed="#L" n="103"/>fuit animae christi: ergo neccorpus christi
+          </p>
+          <p xml:id="rh-l4q3-d1e1581">
+            Praeter- 
+          <lb ed="#L" n="104"/>ea ponatur quod aliquis confecisset post cenam: et re- 
+          <lb ed="#L" n="105"/>servasset hostiam i aliquao domo quae sit a. haec tunc  
+          <lb ed="#L" n="106"/>fuissctua feria sexta hora nona aliquis moritur  
+          <!--218.xml-->
+          <pb ed="#L" n="109-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>in a. quia sequitur: christus moritur: et christus est in a:  
+          <lb ed="#L" n="2"/>ergo christus moritur in a. igitur si fuissent mille ho 
+          <lb ed="#L" n="3"/>stiae in mille locis: christus fuisset cruncisixus in 
+          <lb ed="#L" n="4"/>mille locis.
+          </p>
+          <p xml:id="rh-l4q3-d1e1605">
+            Similiter sic haec foret vera: anima chri 
+          <lb ed="#L" n="5"/>sti hora sexta recessit de a. eodem modo quo 
+          <lb ed="#L" n="6"/>dicimus quod anima christi descendit ad inferos-
+          </p>
+          <p xml:id="rh-l4q3-d1e1613">
+          <lb ed="#L" n="7"/>Praeterea casu retento / pono quod tempore illo quoae  
+          <lb ed="#L" n="8"/>anima christi fuit separata a corpore: venisset  
+          <lb ed="#L" n="9"/>spotete ad spens illas existentes in a domo: et fu 
+          <lb ed="#L" n="10"/>isset simul cum corpore sub istis spebus. tunc aut cor- 
+          <lb ed="#L" n="11"/>pus christi fuit animatum in a: vel non. Si sic: et idem  
+          <lb ed="#L" n="12"/>corpus numero est mortuum in sepulcro: ergo idem 
+          <lb ed="#L" n="13"/>erit vivum et mortuum. Si non: contra. haec anima est simu  
+          <lb ed="#L" n="14"/>tum corpore indistincte. ergo faciunt per se unum: et anima  
+          <lb ed="#L" n="15"/>est actus istius corporis.
+          </p>
+          <p xml:id="rh-l4q3-d1e1635">
+            Decimo ad principale 
+          <lb ed="#L" n="16"/>si sic: ergo manent accidentia sine subiecto. ntecedens vi 
+          <lb ed="#L" n="17"/>detur falsum: quia spes ille vere nutriunt: sed  
+          <lb ed="#L" n="18"/>omnie quod nutrit: nutrit inquantum suba: et auget 
+          <lb ed="#L" n="19"/>in eo quod quantum. ut dicitur ii de anima et de generation: 
+          <lb ed="#L" n="20"/>ergo si nutriunt: est ibi suba.
+          </p>
+          <p xml:id="rh-l4q3-d1e1648">
+            Praeterea si ipse spe 
+          <lb ed="#L" n="21"/>ies nutrire possunt: ergo sunt cbus distinctus a cor 
+          <lb ed="#L" n="22"/>pore christi ergo qui commedit illas spes: conedit cuo  
+          <lb ed="#L" n="23"/>bum coctum. et per consequens soluit ieiunium naturae. ergo  
+          <lb ed="#L" n="24"/>percepta hostia sub spenbus panis: non licet par- 
+          <lb ed="#L" n="25"/>cipere corpus christi sub spebus vini. ergo praece 
+          <lb ed="#L" n="26"/>ptum ecclie non servatur: quod tantum a ieiunis sumatur  
+          <lb ed="#L" n="27"/>extra artirculum necessitatis de conse di ii capitulo 
+          <lb ed="#L" n="28"/>liquido.
+          </p>
+          <p xml:id="rh-l4q3-d1e1668">
+            Confirmatur. posito quod sacerdos tota  
+          <lb ed="#L" n="29"/>die parasceves commederet hostias consecra- 
+          <lb ed="#L" n="30"/>tas: nunquam solveret ieiunium ecclesie. Uel po 
+          <lb ed="#L" n="31"/>natur quod sacerdos consecret totum vinum in am 
+          <lb ed="#L" n="32"/>praehora: et totum in taberna bibendo inebriaretum  
+          <lb ed="#L" n="33"/>et sic videtur soluere ieiunium naturae: vel posset  
+          <lb ed="#L" n="34"/>ieunare in aeternum / et conedere omni die millies  
+          <lb ed="#L" n="35"/>ergo nunquam potest sumere corpus christi sub spe 
+          <lb ed="#L" n="36"/>ciebus panis et vini: nisi soluendo ieiunium na- 
+          <lb ed="#L" n="37"/>turae.
+          </p>
+          <p xml:id="rh-l4q3-d1e1690">
+            Praeterea pono quod ignis approximetur  
+          <lb ed="#L" n="38"/>illis spebus: et generet ex eis ignem qui sit a.  
+          <lb ed="#L" n="39"/>hoc potest fieri: sicut patet ad sensum. aut er- 
+          <lb ed="#L" n="40"/>go ignis a habet materiam: vel non. si non: tunc non  
+          <lb ed="#L" n="41"/>est ignis: cum ignis componitur ex materia et for 
+          <lb ed="#L" n="42"/>ma. si sic: quaero vtrum illa materia praefuit an pro 
+          <lb ed="#L" n="43"/>ducitur ab igne generantae: si praefuit: ergo sub illis  
+          <lb ed="#L" n="44"/>spenbus fuit suba alia: quia materia subalis  
+          <lb ed="#L" n="45"/>consequens est falsum. quia si producatur forma subalis  
+          <lb ed="#L" n="46"/>producitur sine materia: ergo de nihilo. ergo ignis de  
+          <lb ed="#L" n="47"/>nihilo potest causare ignem. Si dicatur quod praefuit  
+          <lb ed="#L" n="48"/>in aliquo alio composito: hoc non est ad propositum.  
+          <lb ed="#L" n="49"/>quia pono quod ignis tantum agat in hostia consecra 
+          <lb ed="#L" n="50"/>tam: et non corrumpat aliquid aliud. ergo opiet imagi 
+          <lb ed="#L" n="51"/>nari quod forma subalis ignis producatur sine 
+          <lb ed="#L" n="52"/>materia: quod fieri non potest.
+          </p>
+          <p xml:id="rh-l4q3-d1e1725">
+            Praeterea si spes  
+          <lb ed="#L" n="53"/>ille mouerentur: esset dare motum. sine mobili:  
+          <!--218.xml-->
+          <cb ed="#L" n="b"/><!--109vb-->
+          <lb ed="#L" n="54"/>et alterationem sine alterabili contra Aristoteles iii phy 
+          <lb ed="#L" n="55"/>sico. consequentia patet: quia dato quod spes rarefieret vel 
+          <lb ed="#L" n="56"/>condensaretur: planum est quod vtrumque potest fieri in  
+          <lb ed="#L" n="57"/>eis: et tamen non est hic subiectum.
+          </p>
+          <p xml:id="rh-l4q3-d1e1745">
+            Si dicitur quod qualita- 
+          <lb ed="#L" n="58"/>tes ipsemet sunt subiectum rarefactionis.  
+          <lb ed="#L" n="59"/>Contra. ergo rarefactio non est nisi ille qualita 
+          <lb ed="#L" n="60"/>tes. et sic motus est matus moti contra philosophum iii phy 
+          <lb ed="#L" n="61"/>sicorum.
+          </p>
+          <p xml:id="rh-l4q3-d1e1756">
+            Praeterea si sic: tunc corpus christi inc  
+          <lb ed="#L" n="62"/>peret esse ubi non fuit / sine motu locali et si- 
+          <lb ed="#L" n="63"/>ne noua consecratione: quia rare facta hostia ipsa 
+          <lb ed="#L" n="64"/>est maior quam fuit: ergo occupat maiorem lo- 
+          <lb ed="#L" n="65"/>cum. ergo christus est in alio loco quam prius. ergo christus  
+          <lb ed="#L" n="66"/>motus localiter sine motu locali: quod non est ima 
+          <lb ed="#L" n="67"/>ginabile.
+          </p>
+          <p xml:id="rh-l4q3-d1e1772">
+            Praeterea quando hostia mouetur loca- 
+          <lb ed="#L" n="68"/>liter: aut corpus christi mouetur localiter aut  
+          <lb ed="#L" n="69"/>non. si non: contra. corpus christi est in loco in quo prius non  
+          <lb ed="#L" n="70"/>fuit: et dimisit aliquem locum in quo prias fuit: ergo  
+          <lb ed="#L" n="71"/>mutatur secundum locum. Similiter modo est hic: et prius fuit  
+          <lb ed="#L" n="72"/>alibi: et non hic. ergo motus fuit hic. Si conceditur  
+          <lb ed="#L" n="73"/>quod corpus moueatur ad locum hostiae: sequuntur  
+          <lb ed="#L" n="74"/>inconvenientia. quia cum vnus sacerdos simul et se 
+          <lb ed="#L" n="75"/>mel eleuat corpus quando alius deponit: idem si- 
+          <lb ed="#L" n="76"/>mul ascendet et descendet. Similiter idem corpus  
+          <lb ed="#L" n="77"/>aeque velociter movebitur ad occidentem et  
+          <lb ed="#L" n="78"/>orientem similiter quiescet et movebitur: quia corpus chri 
+          <lb ed="#L" n="79"/>sti quiescet in celo: et mouebitur in altari. Similiter  
+          <lb ed="#L" n="80"/>tu qua ea Tondonie: haberes dubitare an ali- 
+          <lb ed="#L" n="81"/>quis homo sit Rome conuersus in te. et tunc il- 
+          <lb ed="#L" n="82"/>la multitudo accidentium illius possunt currere: sic  
+          <lb ed="#L" n="83"/>ut argutum fuit in primo principali.
+          </p>
+          <p xml:id="rh-l4q3-d1e1809">
+            Ad op 
+          <lb ed="#L" n="84"/>positum istius est fides catholica. sicut pater  
+          <lb ed="#L" n="85"/>de conse dist. ii. c. ego Berengarius. et per to 
+          <lb ed="#L" n="86"/>tam distinctionem secunduam. Item ex de celebra- 
+          <lb ed="#L" n="87"/>missa. cum marthae.
+          </p>
+        </div>
+        <div xml:id="rh-l4q3-Dd1e1821">
+          <head xml:id="rh-l4q3-Hd1e1823">Responsio</head>
+          <p xml:id="rh-l4q3-d1e1826">
+            Ad quaestionem sine dubitatio  
+          <lb ed="#L" n="88"/>ne dicendum quod sic: cuius credulitatem persuadeo  
+          <lb ed="#L" n="89"/>sic. suppono unam propositionem Augustini in quadam epla 
+          <lb ed="#L" n="90"/>ad Uolun qua talis est. Dicamus deum aliquid po- 
+          <lb ed="#L" n="91"/>se / quod nos fateamur investigare non posse. in- 
+          <lb ed="#L" n="92"/>rebus talibus tota ratio facti est votentia facien- 
+          <lb ed="#L" n="93"/>tis. vnde accipitur vna propositio communiter in scholis:  
+          <lb ed="#L" n="94"/>quod in rebus mirabiliter factis tota ratio facti est po 
+          <lb ed="#L" n="95"/>tentia facientis: et loquitur de eius incarnatio- 
+          <lb ed="#L" n="96"/>ne et eius nativitate.
+          </p>
+          <p xml:id="rh-l4q3-d1e1848">
+            Ex quo arguitur sic. deus  
+          <lb ed="#L" n="97"/>potest facere plus quam possumus intelligere: et  
+          <lb ed="#L" n="98"/>potest facere cuius modum et causam non possumus  
+          <lb ed="#L" n="99"/>investigare. ergo ista consequentia non valet. homo non  
+          <lb ed="#L" n="100"/>potest declarare sufficienter quon sub spebus pa 
+          <lb ed="#L" n="101"/>nis et vini existat realiter corpus christi: ergo non  
+          <lb ed="#L" n="102"/>potest sic esse in re: vel non debet sic credi. nam ex  
+          <lb ed="#L" n="103"/>quo indubitantetr credimus deum plus posse 
+          <lb ed="#L" n="104"/>facere quam nos possumus ex naturalibus inve 
+          <lb ed="#L" n="105"/>stigare: consequens est quod in iis qui dicit nobis esse cre 
+          <lb ed="#L" n="106"/>denda captivemus intelecum: et hoc est mi- 
+          <!--219.xml-->
+          <pb ed="#L" n="110-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>rabile quod deus velit nos in quibusdam singu- 
+          <lb ed="#L" n="2"/>laribus ab eo institutis captivare intellectum  
+          <lb ed="#L" n="3"/>nostrum: cum intellectus noster sit tam debilis /  
+          <lb ed="#L" n="4"/>quod non sufficit cuiuscumque rei minime demon 
+          <lb ed="#L" n="5"/>strando nanturam apprehendere. et ideo investigare  
+          <lb ed="#L" n="6"/>desinimus rerum naturas: et in earum operatioib 
+          <lb ed="#L" n="7"/>admiramur: quia sicut eas videre sumus vsita 
+          <lb ed="#L" n="8"/>ti. sicut dicit bea. Augustinus et Pretg. et ideo dicendum  
+          <lb ed="#L" n="9"/>sicut magiter dicit dititiono iii capitulo v Mysterium fidet  
+          <lb ed="#L" n="10"/>eredi salubriter potest: investigari salubritae  
+          <lb ed="#L" n="11"/>non potest quod non est sic intelligendum / quod homo non  
+          <lb ed="#L" n="12"/>debeat circa illa quae sunt fidet arguere: sed quod  
+          <lb ed="#L" n="13"/>non debet affrmare se posse rationem perfectam assi 
+          <lb ed="#L" n="14"/>gnare.
+          </p>
+          <p xml:id="rh-l4q3-d1e1909">
+            Secundo dico quod quantum ad transsubstan 
+          <lb ed="#L" n="15"/>tiationem sive conuersione unius sube in aliam: non  
+          <lb ed="#L" n="16"/>magis repugnat rationi: quam multe transforma  
+          <lb ed="#L" n="17"/>tiones quais non solum vulgus sed philosophi crediderunt:  
+          <lb ed="#L" n="18"/>sicut narrat Augustinus xviii de civitate xvii. adducens  
+          <lb ed="#L" n="19"/>auentem Uarronis: quem fidelissimum et docti  
+          <lb ed="#L" n="20"/>simum historiographum quidam reputabant.  
+          <lb ed="#L" n="21"/>verba Augustinum sunt huiusmodi. hoc Uarro ut astru- 
+          <lb ed="#L" n="22"/>at / commemorat alia non minus incredibilia de 
+          <lb ed="#L" n="23"/>maga illa famosissi ma Circe: quae socios qui quod  
+          <lb ed="#L" n="24"/>Alussis mutauit in bestias. Et de Arcadib  
+          <lb ed="#L" n="25"/>qui sorte ducti transnatabant quaddam stagnum: at  
+          <lb ed="#L" n="26"/>que ibi conuertebantur in lupos: et cum silibus fe 
+          <lb ed="#L" n="27"/>ris per illius regionis deserta vivebant. Si vero  
+          <lb ed="#L" n="28"/>carne non velcerentur hunana: rursus post non  
+          <lb ed="#L" n="29"/>uem amnos eodem renatato stagno reformaba 
+          <lb ed="#L" n="30"/>tur in homines. Denique est nominati expressit quaendam  
+          <lb ed="#L" n="31"/>Demenetum: cum gustasset de lacrificio quod Ar 
+          <lb ed="#L" n="32"/>cades immolato pruero deo suo Tuceo face 
+          <lb ed="#L" n="33"/>re solent: in lupum fuisse mutatum: et amno decimo in  
+          <lb ed="#L" n="34"/>figuram propsam restitutum ad pugillatum sese 
+          <lb ed="#L" n="35"/>exercuisse: et olympiaco vicisse certamine. et  
+          <lb ed="#L" n="36"/>reliquo. Item de sociis Alussis in feras muta- 
+          <lb ed="#L" n="37"/>tis refert Ioies iiii de consorts metratio xiii vela  
+          <lb ed="#L" n="38"/>narictu ducis etc et sacra scrip. docet vxorem  
+          <lb ed="#L" n="39"/>Uotb conversa: in statuam sali. Oenio. xix vnde tra 
+          <lb ed="#L" n="40"/>subatio panis in corpus non est minus credibitur  
+          <lb ed="#L" n="41"/>quam ista.
+          </p>
+          <p xml:id="rh-l4q3-d1e1970">
+            Tertio dico quod est admirabile in hoc sa 
+          <lb ed="#L" n="42"/>ero quod christus est sub quolibet parte sperum totus: ita  
+          <lb ed="#L" n="43"/>quod illa suba est tota in diversis locis simul et se- 
+          <lb ed="#L" n="44"/>mel: et tota in toto: et tota in qualibet parte. sile patet  
+          <lb ed="#L" n="45"/>de anima intellectiva secundum philosophum sic etiam debet intelli 
+          <lb ed="#L" n="46"/>gi quod intelligentiae sunt animae orbium. quia sunt in qua- 
+          <lb ed="#L" n="47"/>libet parte orber ita quod angelus est in quolibet parte  
+          <lb ed="#L" n="48"/>in suo orbe totus. et sic est tenuit commento ot suba 
+          <lb ed="#L" n="49"/>orbis. Primo ubi dixit quod forme corporum sup  
+          <lb ed="#L" n="50"/>celestium non dividiuntur secundum divisionem sui sub- 
+          <lb ed="#L" n="51"/>iecti: nec recipiuntur mediantibus corporalibus di 
+          <lb ed="#L" n="52"/>mensionibus subiecti. s. celi: nec mouetur ad mo 
+          <lb ed="#L" n="53"/>tum sui subiecti. sicut etiam ponunt moderni 
+          <!--219.xml-->
+          <cb ed="#L" n="b"/><!--110rb-->
+          <lb ed="#L" n="54"/>theologi angelum esse in loco diffinitive: ita  
+          <lb ed="#L" n="55"/>quod sit totus in qualibet parte illius loci. sicut ponit  
+          <lb ed="#L" n="56"/>commentator iii de anima commento v. vnum intelle- 
+          <lb ed="#L" n="57"/>ctum numero in omnibus hominibus: quem posuit na 
+          <lb ed="#L" n="58"/>turam quandam vlem abstractam. quod non est mino- 
+          <lb ed="#L" n="59"/>ris difficultatis intelligere / quod corpus christi  
+          <lb ed="#L" n="60"/>simul et semel esse in mltis altaribus sub sacramento:
+          </p>
+          <p xml:id="rh-l4q3-d1e2020">
+          <lb ed="#L" n="61"/>Sed dicitur quod organieatio partium impedit. dico quod  
+          <lb ed="#L" n="62"/>non: quia sufficienter est distinctio reatur: licet ibi non  
+          <lb ed="#L" n="63"/>sit distantia localis inter partes.
+          </p>
+          <p xml:id="rh-l4q3-d1e2029">
+            Ad quaestionem  
+          <lb ed="#L" n="64"/>igitur dicendum est quod sic. Et licet creduntur addu- 
+          <lb ed="#L" n="65"/>ci posse rationes: non tamen congruit vt adducantur:  
+          <lb ed="#L" n="66"/>nec sufficienter adduci possunt. quia in factis mira 
+          <lb ed="#L" n="67"/>bilibus et miraculosis tota facti ratio est po- 
+          <lb ed="#L" n="68"/>tentia / scina / et voluntas facientis. Paucis tamen  
+          <lb ed="#L" n="69"/>persuasum est corpus christi esse realiter in sacro al 
+          <lb ed="#L" n="70"/>taris sub spebus panis et vini. Ueruntamen ad  
+          <lb ed="#L" n="71"/>maiorem declarationem istius materie / facien 
+          <lb ed="#L" n="72"/>da sunt quinque puncta principalia.
+          </p>
+          <p xml:id="rh-l4q3-d1e2051">
+            Primo di- 
+          <lb ed="#L" n="73"/>cendum est quid est forma. Pro quo sciendum quod  
+          <lb ed="#L" n="74"/>non est nimis logice loquendum in ista mate  
+          <lb ed="#L" n="75"/>ria: quia verum est quod nulla verba sunt necessa- 
+          <lb ed="#L" n="76"/>ria vel necessario requisita ad consecrandun 
+          <lb ed="#L" n="77"/>corpus christi: quia nec proferenda ab isto: nec ab 
+          <lb ed="#L" n="78"/>llo: et sic de singulis. Similiter nec requiritur lati  
+          <lb ed="#L" n="79"/>num / nec grect / nec gallicum / nec anglicum: sed  
+          <lb ed="#L" n="80"/>tamen requiritur aliquo lingua. Similiter nullus panis  
+          <lb ed="#L" n="81"/>necessario requiritur: sed necessario requiritur pa- 
+          <lb ed="#L" n="82"/>nis. et sic communiter loquendum est in ista materia  
+          <lb ed="#L" n="83"/>de forma: de materia: de intentione: de mini- 
+          <lb ed="#L" n="84"/>stro. Est ergo forma duplex: quia forma sacra 
+          <lb ed="#L" n="85"/>lis super hostiam est: hoc e enim corpus meum. licet  
+          <lb ed="#L" n="86"/>sine illa coniunctione enim possit confici tamen nulls- 
+          <lb ed="#L" n="87"/>debet illam dimittere. peccaret enim mortaliter quo  
+          <lb ed="#L" n="88"/>illam dimitteret ex proposito. forma vero sup  
+          <lb ed="#L" n="89"/>vinum: hic est enim calix etc.
+          </p>
+          <p xml:id="rh-l4q3-d1e2090">
+            Quantum ad sect  
+          <lb ed="#L" n="90"/>dum est sciendum quod triplex est materia quae ac  
+          <lb ed="#L" n="91"/>hoc sacrum requiritur scilicet panis / vinum / et aqua 
+          <lb ed="#L" n="92"/>Panis debet esse triticeus pro maiori parte: ita quod  
+          <lb ed="#L" n="93"/>sensibiliter nihil appreat nisi triticum secundo debet esse  
+          <lb ed="#L" n="94"/>aumus intra fdomanam ecclesiam: ied possit con 
+          <lb ed="#L" n="95"/>fici de fermentato. vide Thomas in vltima par 
+          <lb ed="#L" n="96"/>te summe aquia lxxiii arti. iiii. Uinum sive album  
+          <lb ed="#L" n="97"/>sive rubeum sufficit. Aqua elementaris debet  
+          <lb ed="#L" n="98"/>esse: et non artificialis tamen si artificialis esset:  
+          <lb ed="#L" n="99"/>consecraretur. vide de hoc in summa confen libro 
+          <lb ed="#L" n="100"/>iii tinte xxiiii. aqua debet misceri cum vino in ca 
+          <lb ed="#L" n="101"/>lice. nec sufficit mixtio in dolio.
+          </p>
+          <p xml:id="rh-l4q3-d1e2119">
+            Tertio  
+          <lb ed="#L" n="102"/>solus sacerdos est minister: vel alius qui ta  
+          <lb ed="#L" n="103"/>men sacerdos est reputatus: quod dico pro 
+          <lb ed="#L" n="104"/>pter non baptiratos vel non ordinatos. duergo  
+          <lb ed="#L" n="105"/>enim esset si ecclesia in collatione sacramen 
+          <lb ed="#L" n="106"/>torum deciperetur in talibuis qui essent ordi- 
+          <!--220.xml-->
+          <pb ed="#L" n="110-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>nati ab aliquo epso qui non esset ordinatus  
+          <lb ed="#L" n="2"/>seu haptivatus. durum inquam esset dicere quod  
+          <lb ed="#L" n="3"/>tales non absoluerent ne consecrarent: quia sic  
+          <lb ed="#L" n="4"/>peccatores essent defraudati: et multa inconve- 
+          <lb ed="#L" n="5"/>nientia possent sequi. et ideo vel opet dicere  
+          <lb ed="#L" n="6"/>quod consecrarent: vel quod in illo homine consecrat ips 
+          <lb ed="#L" n="7"/>beus: et sic sine ministro conficeretur sacrm. quod  
+          <lb ed="#L" n="8"/>istorum sit verius: sine reuelatione sciri non potest
+          </p>
+          <p xml:id="rh-l4q3-d1e2156">
+          <lb ed="#L" n="9"/>Quarto videndum est qualiter tramsmutatio 
+          <lb ed="#L" n="10"/>differat ab aliis trasmutationibus. differt 
+          <lb ed="#L" n="11"/>autem in quatuor. Primo quia nihil conversi ma 
+          <lb ed="#L" n="12"/>net sub vtroque termio. Secundo quia illud in quod  
+          <lb ed="#L" n="13"/>panis conuertitriur scilicet corpus christi in nullo  
+          <lb ed="#L" n="14"/>augetur nec mutatur. Tertio quod proprieloquen- 
+          <lb ed="#L" n="15"/>do nihil hic mutatur: quia nihil se habet aliter quom  
+          <lb ed="#L" n="16"/>prius. nisi dicatur quod corpus christi mutatur lo 
+          <lb ed="#L" n="17"/>caliter improprie: vt mutari localiter nihil di 
+          <lb ed="#L" n="18"/>cat plus nisi aliquod corpus esse de nouo vbi 
+          <lb ed="#L" n="19"/>prius non erat. non tamen localiter vel circumscripti 
+          <lb ed="#L" n="20"/>ve ubi prius non erat localiter: vel locum dimit  
+          <lb ed="#L" n="21"/>tere ubi prius erat localiter. Sed manife 
+          <lb ed="#L" n="22"/>stum est quod panis non mutatur: sicut patet inducen- 
+          <lb ed="#L" n="23"/>do omnes spens mutationis: nisi dicatur corrumpi 
+          <lb ed="#L" n="24"/>sed hoc dici non potest: quia in corruptione mate  
+          <lb ed="#L" n="25"/>ria non mutatur: sed manet sub alia forma  
+          <lb ed="#L" n="26"/>Quarto differt ab aliis mutationibus: quia  
+          <lb ed="#L" n="27"/>omnia accidentia post transsubstantiationem  
+          <lb ed="#L" n="28"/>manent. quod non est in aliis trasmutationibus  
+          <lb ed="#L" n="29"/>ex quo patet quod accidentia subarum materialium  
+          <lb ed="#L" n="30"/>sunt alia et distincta ab ipsis substantiis: non  
+          <lb ed="#L" n="31"/>tamen hoc semper tenui: quia aliquando dicebam opposi- 
+          <lb ed="#L" n="32"/>tu cid est quod albu non potest fieri nigrum nisi per corru 
+          <lb ed="#L" n="33"/>ptionem sube: vel per motum localem sube vel sub  
+          <lb ed="#L" n="34"/>stantiarum: sicut in mixtionibus quod vna mixtio  
+          <lb ed="#L" n="35"/>causat unum colorem et alia alium: tamen potest dici quod  
+          <lb ed="#L" n="36"/>post consecrationem nihil manet ibidem continue 
+          <lb ed="#L" n="37"/>et reguliter: sed intentiones solum et spens acciden 
+          <lb ed="#L" n="38"/>tium. vnde solebant vocari spes panis et vini: et  
+          <lb ed="#L" n="39"/>non qualitates post consecrationem. et ideo sen- 
+          <lb ed="#L" n="40"/>sus vtitur spebus pro rebus: et sic iudicat idem  
+          <lb ed="#L" n="41"/>manere: nihil tamen dico hic assertivae.
+          </p>
+          <p xml:id="rh-l4q3-d1e2231">
+            Quin- 
+          <lb ed="#L" n="42"/>to restat soluere quosdam casus circa istam ma 
+          <lb ed="#L" n="43"/>teriam. Ponatur ergo quod aliquis sacerdos obli- 
+          <lb ed="#L" n="44"/>gatur ad unam missam spamliter pro a postea est ob 
+          <lb ed="#L" n="45"/>ligatus ad aliam pro b. nunquid per unam missam  
+          <lb ed="#L" n="46"/>potest pro vtroque liberari: Dico primo ad formam  
+          <lb ed="#L" n="47"/>quaestionis. secundo ad intentionem. De primo sine di 
+          <lb ed="#L" n="48"/>stinctione dico quod non: quia casus est quod sit primo  
+          <lb ed="#L" n="49"/>ad unam missam obligatus: et postea ad aliam:  
+          <lb ed="#L" n="50"/>Unde arguo sic. nullus obligatus ad quatuor  
+          <lb ed="#L" n="51"/>imissas potest sufficienter soluere duas cele 
+          <lb ed="#L" n="52"/>ibrando: sed ille per casum est obligatus ad duas  
+          <lb ed="#L" n="53"/>missas: ergo caor patet: quia si non: eadem ratione si  
+          <!--220.xml-->
+          <cb ed="#L" n="b"/><!--110vb-->
+          <lb ed="#L" n="54"/>esset obligatus ad tres: posset sufficienter sol- 
+          <lb ed="#L" n="55"/>nere celebrando vnam tantum. et pari ratione si ad  
+          <lb ed="#L" n="56"/>mille. quod est omnino irrationabile: quia sic obliga- 
+          <lb ed="#L" n="57"/>tus ad quaecumque anniversaria vel ad quas 
+          <lb ed="#L" n="58"/>cumque annuatim celebrandas / satisfacere pos 
+          <lb ed="#L" n="59"/>set per unam missam. Si tamen ponatur quod obligatur  
+          <lb ed="#L" n="60"/>duabus personis a et b: sub hac forma quod vni 
+          <lb ed="#L" n="61"/>cuique dicat: sic et non aliter legam tibi vnam le 
+          <lb ed="#L" n="62"/>ctionem. tunc casus mutatus est: et possum sa- 
+          <lb ed="#L" n="63"/>tisfacere per unam: quia non obligo me ad duas le 
+          <lb ed="#L" n="64"/>ctiones: sed duabus personis. Sed pono aliam for 
+          <lb ed="#L" n="65"/>mam.
+          </p>
+          <p xml:id="rh-l4q3-d1e2291">
+            Si ponatur quod sacerdos obliget se ad  
+          <lb ed="#L" n="66"/>dicendum quinque missas principaliter pro anima 
+          <lb ed="#L" n="67"/>Petri: et aliam pro anima Ioannis: nunquid potest sa 
+          <lb ed="#L" n="68"/>tisfacere per unam missam pro vtraque anima: et vi- 
+          <lb ed="#L" n="69"/>detur quod non.
+          </p>
+          <p xml:id="rh-l4q3-d1e2302">
+            Ad cuius euidentiam expono quid  
+          <lb ed="#L" n="70"/>voco missam celebrare principaliter pro aliquo. 
+          <lb ed="#L" n="71"/>et videtur mihi quod celebrare principaliter / est  
+          <lb ed="#L" n="72"/>applicare missam Ioanni: quod sit quaedam sa 
+          <lb ed="#L" n="73"/>tisfactio apud deum pro anima Ioannis: si indi- 
+          <lb ed="#L" n="74"/>geat. Dico ergo quod celebrare principaliter pro anima 
+          <lb ed="#L" n="75"/>Ioannis potest intelligi dupliciter. Uno modo quod  
+          <lb ed="#L" n="76"/>intendat quod missa sua valeat multis: ita quod  
+          <lb ed="#L" n="77"/>velit satistacere pro multis : et simul intendat  
+          <lb ed="#L" n="78"/>quod plus valeat animae Ioannis quam alicui de 
+          <lb ed="#L" n="79"/>reliquis. et sic vere dicitur ad virtutem vocis quod ce 
+          <lb ed="#L" n="80"/>lebrat missam principaliter pro alio. Alio modo 
+          <lb ed="#L" n="81"/>quod applicet missam sic quod cedat animae Ioannis  
+          <lb ed="#L" n="82"/>in satisfactionem: et nulli alii cedat in satisfa- 
+          <lb ed="#L" n="83"/>ctionem: nec per modum satisfactionis: et isto  
+          <lb ed="#L" n="84"/>modo dico quod per unam non potest satisfa- 
+          <lb ed="#L" n="85"/>cere utrique.
+          </p>
+          <p xml:id="rh-l4q3-d1e2339">
+            Contra. ponatur quod intendatur  
+          <lb ed="#L" n="86"/>celebrare aeque principaliter pro vtraque: tunc  
+          <lb ed="#L" n="87"/>pro neutra celebrat principaliter: quia aliud est  
+          <lb ed="#L" n="88"/>dicere ille celebrat principaliter pro vtraque: et  
+          <lb ed="#L" n="89"/>ille pro vtraque principaliter celebrat: quia prima 
+          <lb ed="#L" n="90"/>aequiualet isti: iste celebrat principaliter pro 
+          <lb ed="#L" n="91"/>istis: et hoc est possibile. et tunc non facit secundum  
+          <lb ed="#L" n="92"/>casum obligationis prius positae. secunda aequi  
+          <lb ed="#L" n="93"/>valet isti copulative: iste celebrat principali 
+          <lb ed="#L" n="94"/>ter pro isto: et iste celebrat principaliter pro illo  
+          <lb ed="#L" n="95"/>quod est impossibile facere per unam missam
+          </p>
+          <p xml:id="rh-l4q3-d1e2363">
+          <lb ed="#L" n="96"/>Sic patet quid dicendum ad questionem  
+          <lb ed="#L" n="97"/>qua quaeritur an missa dicta pro multis tantum  
+          <lb ed="#L" n="98"/>valeat cuilibet eorum ac si spaliter celebraret  
+          <lb ed="#L" n="99"/>pro uno. et posito quod quilibet eorum indigeat.  
+          <lb ed="#L" n="100"/>Dico quod non: quia valor misse per modum satisfa 
+          <lb ed="#L" n="101"/>ctionis cedet cuilibet in partem satisfactio  
+          <lb ed="#L" n="102"/>nis apud deum secundum aequalem proportionem et secundum  
+          <lb ed="#L" n="103"/>numerum personarum: et per consequens quanto  
+          <lb ed="#L" n="104"/>plures fuerint: tanto unusquisque minus ha 
+          <lb ed="#L" n="105"/>bebit: quia valor misse est virtutis finitae existen- 
+          <lb ed="#L" n="106"/>ti in purgatorio. Si autem sussiceret vna 
+          <!--221.xml-->
+          <pb ed="#L" n="111-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>ad satisfactionem faciendam pro omi debito in  
+          <lb ed="#L" n="2"/>quo tenerentur quicumque homines obligati ad  
+          <lb ed="#L" n="3"/>quamcumque poenam in purgatorio: sic frustra di 
+          <lb ed="#L" n="4"/>cerentur plures misse: quod non videtur verum.
+          </p>
+          <p xml:id="rh-l4q3-d1e2404">
+          <lb ed="#L" n="5"/>Praeterea. si missa generaliter dicta pro centi  
+          <lb ed="#L" n="6"/>tantum valet vnicuique / quantum si esset dicta span- 
+          <lb ed="#L" n="7"/>liter et principaliter pro vno solo: irrationabili  
+          <lb ed="#L" n="8"/>ter permitteret ecclia celebrari spamliter pro vno:  
+          <lb ed="#L" n="9"/>et sic tota ecclia erraret: quia sic posset tantum vale 
+          <lb ed="#L" n="10"/>re omnibus sicut vni: et hoc loquendo de valorem  
+          <lb ed="#L" n="11"/>per modum satisfactionis. Unde sciendum quod missa 
+          <lb ed="#L" n="12"/>vel quaocumque oratio facta in ecclesia pro defun- 
+          <lb ed="#L" n="13"/>cto / potest dupliciter sibi valere. Uel per modum sui 
+          <lb ed="#L" n="14"/>plicationis. et sic potest aequaliter valere uni- 
+          <lb ed="#L" n="15"/>cuique / ac si specialiter pro uno fieret. Uel per modum  
+          <lb ed="#L" n="16"/>satisfactionis: vt sit pars satisfactionis debi 
+          <lb ed="#L" n="17"/>te deo a defuncto. et sic non potest secundum casum omni  
+          <lb ed="#L" n="18"/>bus valere aequaliter: et est exemplum. pono quod x 
+          <lb ed="#L" n="19"/>obligentur regi: quilibet in dece libris: si quis li 
+          <lb ed="#L" n="20"/>beret eos per oronem apoe regen: manifestum est  
+          <lb ed="#L" n="21"/>quod tantum prodest oro vnicuique quantum si fuis  
+          <lb ed="#L" n="22"/>iet spaliter pro vno. sed si liberet eos per modum  
+          <lb ed="#L" n="23"/>satiffactionis: et soluat retgi x. pro eis: manife 
+          <lb ed="#L" n="24"/>stum est quod minus valebit haec satisfactio cui- 
+          <lb ed="#L" n="25"/>libet / quod valeret si pro vno spaliter solueretur.  
+          <lb ed="#L" n="26"/>quia si specialiter pro vno solueretur: posset eum tota  
+          <lb ed="#L" n="27"/>liter liberare. quod modo non est verum: quia tunc non  
+          <lb ed="#L" n="28"/>satisfacit pro aliquo istorum nisi secundum proportionem  
+          <lb ed="#L" n="29"/>quaesibi potest provenire de decemdivisis inter decem 
+          <lb ed="#L" n="30"/>partes. et sic non reciperet nisi vnicam libram: et sic  
+          <lb ed="#L" n="31"/>quantum ad plenam summam / regi pro singulis tam  
+          <lb ed="#L" n="32"/>tum pro decima parte satisfecit. Similiter ergo ecclesia 
+          <lb ed="#L" n="33"/>intendit per missas non solum impetrare re- 
+          <lb ed="#L" n="34"/>missione pene per modum supplicationis ora- 
+          <lb ed="#L" n="35"/>do pro eis: sed etia per modum satisfactionis sol- 
+          <lb ed="#L" n="36"/>vendo pro eis deo. ideo non tantum valet missa per mo 
+          <lb ed="#L" n="37"/>dum satisfactionis.
+          </p>
+          <p xml:id="rh-l4q3-d1e2479">
+            Contra tamen potest verisimi 
+          <lb ed="#L" n="38"/>liter argui. Si enim dicatur quod missa tantum valet  
+          <lb ed="#L" n="39"/>per modum orationis illis pro quibus fit: tunc esset pos- 
+          <lb ed="#L" n="40"/>sibile quod tantum valeret unicuique de decem / sicui 
+          <lb ed="#L" n="41"/>si fieret pro uno tantum.
+          </p>
+          <p xml:id="rh-l4q3-d1e2490">
+            Iudicando autem de deo secundum  
+          <lb ed="#L" n="42"/>conditiones humanae politiae: non videtur verisi 
+          <lb ed="#L" n="43"/>mile quod deus aeque faciliter concederet supplica 
+          <lb ed="#L" n="44"/>tionem quae peteret remissonem capitulo debitorum: sic- 
+          <lb ed="#L" n="45"/>ut supplicationem aeque intensam quae fit tantum  
+          <lb ed="#L" n="46"/>pro vno debitore: quae procedit a simili charita  
+          <lb ed="#L" n="47"/>te. ideo pro nunc existimo quod missa regulariter  
+          <lb ed="#L" n="48"/>loquendo tam per modum orationis quam per mo 
+          <lb ed="#L" n="49"/>dum satisfactionis plus valet uni si fiat sin 
+          <lb ed="#L" n="50"/>gulariter pro eo: quam si fiat generaliter pro ec  
+          <lb ed="#L" n="51"/>et pro aliis: iicet per modum orationis possibile 
+          <lb ed="#L" n="52"/>sit si placeret deo / quod aequaliter valeret: vtdi  
+          <lb ed="#L" n="53"/>itum est. Ex istis sequitur quod obligatus ad cele 
+          <!--221.xml-->
+          <cb ed="#L" n="b"/><!--111rb-->
+          <lb ed="#L" n="54"/>brandum unum annvale vel centum missas  
+          <lb ed="#L" n="55"/>singulariter pro a: non potest in illis missis ca 
+          <lb ed="#L" n="56"/>lebrare principaliter prob. secus tamen est si sit  
+          <lb ed="#L" n="57"/>obligatus ex conuentione quod debeat celebra 
+          <lb ed="#L" n="58"/>re pro illo: sic tamen quod liceat sibi adiungere aliquis 
+          <lb ed="#L" n="59"/>puta duos vel tres vel plures: quia tunc potest  
+          <lb ed="#L" n="60"/>alios adiungere: sed non tantum valet a quantum  
+          <lb ed="#L" n="61"/>si pro solo fuisset celebratum. Sed numquid pa 
+          <lb ed="#L" n="62"/>rochialis obligatus orare solummodo pro paro  
+          <lb ed="#L" n="63"/>chianis ecclie cui servit: potest adiungere ali- 
+          <lb ed="#L" n="64"/>quem amicum ad parochianos sub hac intentio  
+          <lb ed="#L" n="65"/>ne ut missa cedat in satisfactionem pro omnibus  
+          <lb ed="#L" n="66"/>parochianis: Uidetur dicendum consequenter  
+          <lb ed="#L" n="67"/>quod non. quia ex tali adiunctione ad istam mul- 
+          <lb ed="#L" n="68"/>titudinem / portio vniuscuiusque est diminuta  
+          <lb ed="#L" n="69"/>per intentionem sacerdotis sic adiumgentis animam  
+          <lb ed="#L" n="70"/>amici sui ad pochianos. Similiter qua ra 
+          <lb ed="#L" n="71"/>tione posset addere unum ad centum si tenetur pro 
+          <lb ed="#L" n="72"/>centum parochianis: posset aeque principaliter  
+          <lb ed="#L" n="73"/>pro ducentis. consequens est falsum: quia sic defrauda 
+          <lb ed="#L" n="74"/>ret parochianos: quia non tantum valet duabus me 
+          <lb ed="#L" n="75"/>dietatibus sicut vni medietati etc. vt dictum  
+          <lb ed="#L" n="76"/>est prius.
+          </p>
+          <p xml:id="rh-l4q3-d1e2574">
+            Contra. tunc melius esset mora- 
+          <lb ed="#L" n="77"/>ri in vna parochia ubi essent tres: quam ubi et  
+          <lb ed="#L" n="78"/>sent mille. consequentia patet per dicta.
+          </p>
+          <p xml:id="rh-l4q3-d1e2581">
+            Dico quod pen  
+          <lb ed="#L" n="79"/>sando meritum quod provenit parochianis ex  
+          <lb ed="#L" n="80"/>merito sacerdotis: videtur consequens esse conceden- 
+          <lb ed="#L" n="81"/>dum: non tamen est melius simpliciter vt patet.
+          </p>
+          <!-- dubium-->
+          <p xml:id="rh-l4q3-d1e2592">
+          <lb ed="#L" n="82"/>Secundum dubium an tantum valeat sumi a ieiuno.  
+          <lb ed="#L" n="83"/>Dico quod non in duplici casu. Unus est quando pran 
+          <lb ed="#L" n="84"/>sus est in periculo mortis: ne discedat sine 
+          <lb ed="#L" n="85"/>viatico: tunc potest sumere. Alius casus est si  
+          <lb ed="#L" n="86"/>sacerdos deceptus dixerit verba consecrati  
+          <lb ed="#L" n="87"/>va super panem non triticeum: et in parcentione 
+          <lb ed="#L" n="88"/>cipiat quod hostia non fuit de tritico: ille non ob 
+          <lb ed="#L" n="89"/>stante quod soluit ieiunium / debet accipere aliam hosti 
+          <lb ed="#L" n="90"/>am idoneam: et eam consecrare. Et si vinu de- 
+          <lb ed="#L" n="91"/>bitum prius consecrasset: debet llud si possit con 
+          <lb ed="#L" n="92"/>servare: et iterum aliud vinum in alio. alice cum  
+          <lb ed="#L" n="93"/>hostia consectare: et totum sanguinem iet prius  
+          <lb ed="#L" n="94"/>mum et secundum sumere cum hostia. Si autem nul 
+          <lb ed="#L" n="95"/>lo modo posset illum sanguinem conservare: non  
+          <lb ed="#L" n="96"/>debet illum iterum consecrare: nec vinum illi com 
+          <lb ed="#L" n="97"/>miscere: sed tantum hostiam consecrare: et ita ad  
+          <lb ed="#L" n="98"/>sumptionem procedere. Eodem modo de sanguine 
+          <lb ed="#L" n="99"/>si ponat aquam loco vini: debet iterum conse 
+          <lb ed="#L" n="100"/>crare: et aliam hostiam apponere: et a consecratio- 
+          <lb ed="#L" n="101"/>ne hostiae incipere: quia consecratio integra de 
+          <lb ed="#L" n="102"/>bet esse. Thomas vltima parte summe. Perfe- 
+          <lb ed="#L" n="103"/>cta videri non possunt sacramenta: nisi perfe 
+          <lb ed="#L" n="104"/>cto ordine compleantur In isto casu debet su- 
+          <lb ed="#L" n="105"/>mere: non obstante quod non sit ieiunus: :ina pra- 
+          <lb ed="#L" n="106"/>ccptum de integritate est. maius quod prgo: eca 
+          <!--222.xml-->
+          <pb ed="#L" n="111-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>ptum de ieiunio. et in istis casibus non optet infer 
+          <lb ed="#L" n="2"/>re praeceptum de ieiunio: quia minus praeceptum in- 
+          <lb ed="#L" n="3"/>fringendum est: et obediendum maiori quod est de  
+          <lb ed="#L" n="4"/>integritate sacramenti. ista praecepta ponuntur  
+          <lb ed="#L" n="5"/>de conse distintione ii. in pluribus caplis. secundum vero prae 
+          <lb ed="#L" n="6"/>ceptum de integritate sacramenti specialiter  
+          <lb ed="#L" n="7"/>ponitur de conse distintione ii. duobus capitulis scilicet cacit.  
+          <lb ed="#L" n="8"/>relatum. et apitulo comperimus. Ex quobus auctorita- 
+          <lb ed="#L" n="9"/>tibus patet quod tenetur ex praecepto perfecte sub vtra  
+          <lb ed="#L" n="10"/>que specie consecrare propter integritatem sacra 
+          <lb ed="#L" n="11"/>menti. de qua perfectione habetur de conse dsitio 
+          <lb ed="#L" n="12"/>ii capitulo nihil. Item ex praecepto tenetur quoties con 
+          <lb ed="#L" n="13"/>secrant: ieiunus sumere de conse. di ii. culo palle  
+          <lb ed="#L" n="14"/>gato. Igitur cum non sit per casum ieiunus: tamen  
+          <lb ed="#L" n="15"/>opatet quod sumat non ieiunus: quia praeceptum ieiunt 
+          <lb ed="#L" n="16"/>est tantum de honestate sacramenti et reueren- 
+          <lb ed="#L" n="17"/>tia. sed praeceptum de integritate est de suba sa 
+          <lb ed="#L" n="18"/>cramenti: quia in duabus speciebus unum tantum consi 
+          <lb ed="#L" n="19"/>stit sacramentum. et ideo non minus uni quam al 
+          <lb ed="#L" n="20"/>teri provideri debet. Ex quibus patet quod non est ve 
+          <lb ed="#L" n="21"/>rum quod dicitur in summa confesso libro iii capitulo xxiiii 
+          <lb ed="#L" n="22"/>qui lxiii quod tantum in articulo mortis potest sumi a 
+          <lb ed="#L" n="23"/>non ieiunis.
+          </p>
+          <p xml:id="rh-l4q3-d1e2706">
+            Pono quod aliquis sacerdos post 
+          <lb ed="#L" n="24"/>mediam noctem aliquid gustauerit: vtrum posse 
+          <lb ed="#L" n="25"/>in crastino celebrare: Dicit sanctus Thomas 
+          <lb ed="#L" n="26"/>quod illa die non potest celebrare: quia tunc incipit  
+          <lb ed="#L" n="27"/>dies. vltima parte ciuia viii arti. vi. Si sacer- 
+          <lb ed="#L" n="28"/>dos post dictas matutinas in sero gustaue 
+          <lb ed="#L" n="29"/>rit: vtrum potest in crastino celebrare: Dicen 
+          <lb ed="#L" n="30"/>dum quod sic: quia nullibi inhibetur.
+          </p>
+        </div>
+        <div xml:id="rh-l4q3-Dd1e2726">
+          <head xml:id="rh-l4q3-Hd1e2728">Responsio ad rationes principales</head>
+          <p xml:id="rh-l4q3-d1e2731">
+            Ad primum  
+          <lb ed="#L" n="31"/>principale cum arguitur quod huiusmodi transsubstan- 
+          <lb ed="#L" n="32"/>tiatio est impossibilis. Dico quod non. Et ad pro- 
+          <lb ed="#L" n="33"/>bationem dico quod non manet panis nec aliquam  
+          <lb ed="#L" n="34"/>pars eius. Et cum dicitur: vel suba panis ad- 
+          <lb ed="#L" n="35"/>nihilatur etc. potest dici quod conclusio est vira ad bo 
+          <lb ed="#L" n="36"/>num intellectum. sic uet intelligendo / quod suba pa 
+          <lb ed="#L" n="37"/>nis prius fuit: et modo nec est nec erit: nec  
+          <lb ed="#L" n="38"/>aliqua eius pars. Et quando aliqui dicunt quod non  
+          <lb ed="#L" n="39"/>adnihilatur: sed convertitur in corpus christi di 
+          <lb ed="#L" n="40"/>com quod volunt quod ad exprimendum congrue et ex 
+          <lb ed="#L" n="41"/>plicitae sacramenti miraculum: non sufficit dice 
+          <lb ed="#L" n="42"/>re quod panis adnihilatur: quia sic nulla mentio fit  
+          <lb ed="#L" n="43"/>de existentia corporis christi de nouo in sacra  
+          <lb ed="#L" n="44"/>mento. et ideo conuenientius exprimitur miraculum  
+          <lb ed="#L" n="45"/>sacramenti sub terminis istis: panis trans- 
+          <lb ed="#L" n="46"/>substantiatur in corpus christi: vbi exprimitur  
+          <lb ed="#L" n="47"/>miraculum tam ex parte termini a qua quam ex parte ter 
+          <lb ed="#L" n="48"/>mini ad quem. et sunt duo distincta miracula.  
+          <lb ed="#L" n="49"/>Unum est: quod suha panis desinit esse sine actio 
+          <lb ed="#L" n="50"/>ne corrumpente. Aliud: quod corpus christi incipit  
+          <lb ed="#L" n="51"/>ibi esse cum spebus remanentibus. et isto modo vtum  
+          <lb ed="#L" n="52"/>tur doctores istis propositionibus: panis conuer- 
+          <lb ed="#L" n="53"/>titur in corpus christi: panis trammutatur vel trant 
+          <!--222.xml-->
+          <cb ed="#L" n="b"/><!--111v-->
+          <lb ed="#L" n="54"/>it in corpus christi: quia magis explicatur per eas 
+          <lb ed="#L" n="55"/>miraculum sacfi: et tamen nihil aliud per eas deno  
+          <lb ed="#L" n="56"/>tatur / nisi quod ibi fuit suba panis prius: et post 
+          <lb ed="#L" n="57"/>ea desinit ibi esse virtute divina: sine activa 
+          <lb ed="#L" n="58"/>corruptione creaturae: manentibus accidentibu 
+          <lb ed="#L" n="59"/>vel intentionibus : sive spebus consimilibus.
+          </p>
+          <p xml:id="rh-l4q3-d1e2802">
+            Secun 
+          <lb ed="#L" n="60"/>do cum dicitur quod tunc deus posset subam solis con 
+          <lb ed="#L" n="61"/>uertere in subam musce et totam machinam  
+          <lb ed="#L" n="62"/>mundi etc. sic periret tota certitudo expientiae  
+          <lb ed="#L" n="63"/>etc. Dicendum est quod deus potest plus facere quam intel 
+          <lb ed="#L" n="64"/>lectus intelligere. et ideo non est inconveniens  
+          <lb ed="#L" n="65"/>concedere quod deus posset totam machinam mun- 
+          <lb ed="#L" n="66"/>di conuertere / et facere existere sub speciebus  
+          <lb ed="#L" n="67"/>unius musce. sicut enim potest facere duo corpo  
+          <lb ed="#L" n="68"/>ra esse simur: ita duas medietates facere po 
+          <lb ed="#L" n="69"/>test esse vbi modo est vna medietas: et adhuc in 
+          <lb ed="#L" n="70"/>loco medietatis illius medietatis. nec est da 
+          <lb ed="#L" n="71"/>re locum ita minimum vbi deus non potest pone 
+          <lb ed="#L" n="72"/>re maximum corpus.
+          </p>
+          <p xml:id="rh-l4q3-d1e2833">
+            Quantum ad certitudi  
+          <lb ed="#L" n="73"/>nem experientiae: credo quod nulla est certitudo crea 
+          <lb ed="#L" n="74"/>ta ita certa de aliqua re praesenti: quin posset et 
+          <lb ed="#L" n="75"/>se falsa per mutationem: tamen haec lateat me an 
+          <lb ed="#L" n="76"/>sit vera an falsa.
+          </p>
+          <p xml:id="rh-l4q3-d1e2844">
+            Contra. si neutrum scis: er 
+          <lb ed="#L" n="77"/>go habes dubitare. Dico quod dubitare dupli 
+          <lb ed="#L" n="78"/>citer accipitur. Uno modo vt distinguitur non con 
+          <lb ed="#L" n="79"/>tra credere: sed contra scire vel cognoscere. et hoc  
+          <lb ed="#L" n="80"/>modo qui neutrum oppositorum scit: dicitur dubitare de 
+          <lb ed="#L" n="81"/>vtroque: quia sic dubitatio compatitur secum crede 
+          <lb ed="#L" n="82"/>re: quia simul stant / dubito istum hominem esse pe- 
+          <lb ed="#L" n="83"/>trum: et credo istum hominem esse petrum. et sic conce 
+          <lb ed="#L" n="84"/>do quod quilibet habet dubitare tales: hoc est lignum  
+          <lb ed="#L" n="85"/>hoc est soles et sic de singulis: vt distinguitur a  
+          <lb ed="#L" n="86"/>cognitione. et concedo quod nulla certitudo ex- 
+          <lb ed="#L" n="87"/>cludens talem dubitationem est homini possibi- 
+          <lb ed="#L" n="88"/>lis per naturam et per experientiam. Alio modo ac- 
+          <lb ed="#L" n="89"/>cipitur dubitare: ita quod talis cognoscens sit sim 
+          <lb ed="#L" n="90"/>pliciter indifferens ad assentiendum vel non  
+          <lb ed="#L" n="91"/>sicut de ista: rex sedet. quo mihi simpliciter neutra 
+          <lb ed="#L" n="92"/>est: nec assentio: nec dissentio. et sic non dubi- 
+          <lb ed="#L" n="93"/>to tales: hoc est lignum. hoc est lapis. et sic de  
+          <lb ed="#L" n="94"/>aliis. quia sufficienter est mihi persuasum quod de 
+          <lb ed="#L" n="95"/>us talia non transmutauit: quia hoc non reuela 
+          <lb ed="#L" n="96"/>vit alicui: nec apparet quare hoc faceret: quia  
+          <lb ed="#L" n="97"/>talia non facit sine magna vtilitate sequenti.
+          </p>
+          <p xml:id="rh-l4q3-d1e2893">
+          <lb ed="#L" n="98"/>Ad tertium cum quaeritur de multitudine isto 
+          <lb ed="#L" n="99"/>rum accidentium etc. Potest dici quod non potest ride 
+          <lb ed="#L" n="100"/>re / intelligere / vel generare: qui sunt operatio 
+          <lb ed="#L" n="101"/>nes sube animae. Unde potentia intellectiva est ipsa 
+          <lb ed="#L" n="102"/>metur anima. Similiter potentia generativa includit  
+          <lb ed="#L" n="103"/>ipsam animam. similiter potentia qua homo ridet. Si tamen  
+          <lb ed="#L" n="104"/>poneretur quod tales potentiae essent accidentia:  
+          <lb ed="#L" n="105"/>deberet concedi consequenter quod a posset intel 
+          <lb ed="#L" n="106"/>ligere / generare etc. et facere omnes opera 
+          <!--223.xml-->
+          <pb ed="#L" n="112-r"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>tiones illas quas potest homo.
+          </p>
+          <p xml:id="rh-l4q3-d1e2924">
+            Ad secundum  
+          <lb ed="#L" n="2"/>principale quando arguitur quod si sic: tales essent  
+          <lb ed="#L" n="3"/>concedende: de pane fit corpus christi : quod erat  
+          <lb ed="#L" n="4"/>panis est corpus christi: et huiusmodi. Dico quod omne  
+          <lb ed="#L" n="5"/>ille sunt distinguende in ista materia: eo quod  
+          <lb ed="#L" n="6"/>ly de potest dicere circumstantiam causae mate- 
+          <lb ed="#L" n="7"/>rialis: vel circumstantiam termini a quo conuer- 
+          <lb ed="#L" n="8"/>sionis. Primo modo sunt falsae. secundo modo  
+          <lb ed="#L" n="9"/>vere. et est sensus: de pane fit corpus christi id it  
+          <lb ed="#L" n="10"/>suba panis erat sub istis accidentibus ante  
+          <lb ed="#L" n="11"/>instans consecrationis: et in instanti consecrationis  
+          <lb ed="#L" n="12"/>fit sub eisdem accidentibus corpus christi virtu 
+          <lb ed="#L" n="13"/>te verborum sacerdotis deo operante. et si huiusmoni 
+          <lb ed="#L" n="14"/>propositiones inveniuntur: a doctoribus expionem 
+          <lb ed="#L" n="15"/>de sunt ad bonum intellectum: quia si accipiantur  
+          <lb ed="#L" n="16"/>propriae: falsae sut. si improprie: vere sunt. ver  
+          <lb ed="#L" n="17"/>bi gratia. substantia panis est corpus christ id it  
+          <lb ed="#L" n="18"/>sub speciebus panis sub quibus est modo suba 
+          <lb ed="#L" n="19"/>panis: erit corpus christi. Similiter quod erat pa 
+          <lb ed="#L" n="20"/>nis est corpus christi id est sub speiebus sub quibus  
+          <lb ed="#L" n="21"/>erat prius panis: est modo corpus christi
+          </p>
+          <p xml:id="rh-l4q3-d1e2970">
+          <lb ed="#L" n="22"/>Tunc ad primum cum arguitur. de pane fit cor 
+          <lb ed="#L" n="23"/>pus christi de nouo. ergo corpus christi fit de  
+          <lb ed="#L" n="24"/>nouo: accipiendo antecedens in sensu vero: consequentia non va 
+          <lb ed="#L" n="25"/>let. sicut non valet: aquae fit calida de nouo:  
+          <lb ed="#L" n="26"/>ergo aqua fit de nouo. Et sic patet ad secundum et  
+          <lb ed="#L" n="27"/>tertium.
+          </p>
+          <p xml:id="rh-l4q3-d1e2986">
+            Ad quartum cum arguitur. haec esset vera  
+          <lb ed="#L" n="28"/>panis potest esse corpus christi. Dico quod si accipi 
+          <lb ed="#L" n="29"/>tur propriae: falsa est. si improprie: vera. et dei  
+          <lb ed="#L" n="30"/>exponi vt supra. et sic ponatur in esse: sub spe 
+          <lb ed="#L" n="31"/>ciebus panis est corpus christi. Argumen 
+          <lb ed="#L" n="32"/>ta vero quae sunt bene quatuor vel quinque: cum  
+          <lb ed="#L" n="33"/>accipiant propositiones propriae: quo modo sunt 
+          <lb ed="#L" n="34"/>negande minores: non concludunt: nec responsic  
+          <lb ed="#L" n="35"/>ibi posita valet. Similiter dico ad illos ver- 
+          <lb ed="#L" n="36"/>sus. Constat in altari etc. quod versificator loqui:  
+          <lb ed="#L" n="37"/>tur metaphorice et improprie more poetarum.  
+          <lb ed="#L" n="38"/>unde vterque versus falsus est in sensu quem  
+          <lb ed="#L" n="39"/>faciunt: et verus in sensu in quo fiunt: et expe 
+          <lb ed="#L" n="40"/>nitur per modum superius dictum.
+          </p>
+          <p xml:id="rh-l4q3-d1e3017">
+            Ad tertium  
+          <lb ed="#L" n="41"/>rincipale quando arguitur quod oculus christi etc.  
+          <lb ed="#L" n="42"/>quia ibi est oculus et medium dispositum. nego  
+          <lb ed="#L" n="43"/>consequentiam: quia antecedens est verum et consequens falsum. nec  
+          <lb ed="#L" n="44"/>hoc probat argumentum. causa quare consequentia  
+          <lb ed="#L" n="45"/>non valet: est quia non est idem / oculum christi vel 
+          <lb ed="#L" n="46"/>corpus christi esse realiter: et esse ibi situaliter  
+          <lb ed="#L" n="47"/>vel localiter vel circumscriptive: quia denotatur  
+          <lb ed="#L" n="48"/>quod dimensiones christi applicentur dimensio  
+          <lb ed="#L" n="49"/>nibus panis: cum dicitur quod oculus christi videt se 
+          <lb ed="#L" n="50"/>in hostia. concedo tamen illam: quod oculus christi vi- 
+          <lb ed="#L" n="51"/>det manum suam in hostia. Similiter istam: christus potest  
+          <lb ed="#L" n="52"/>tangere manum in hostia: exponendo primam 
+          <lb ed="#L" n="53"/>ad istum intellectum: oculus christi videt manum  
+          <!--223.xml-->
+          <cb ed="#L" n="b"/><!--112rb-->
+          <lb ed="#L" n="54"/>que est in hostia. Sed ad istas: christus potes  
+          <lb ed="#L" n="55"/>movere manum suam quae est in hostia: oculus  
+          <lb ed="#L" n="56"/>christi distat a pede i hostia et consimiles. pos 
+          <lb ed="#L" n="57"/>set dici quod sunt distinguende penes amph- 
+          <lb ed="#L" n="58"/>vologiam. quia haec christus potest movere manum  
+          <lb ed="#L" n="59"/>suam in hostia: potest accipi pro ista. christus potest 
+          <lb ed="#L" n="60"/>movere manum suam quae manus est in hostia  
+          <lb ed="#L" n="61"/>et hoc est certum. vel pro ista: christus potest  
+          <lb ed="#L" n="62"/>movere manum suam sic quod motus ille sit ab 
+          <lb ed="#L" n="63"/>hostia. et hoc est falsum.
+          </p>
+          <p xml:id="rh-l4q3-d1e3075">
+            Ad secundum de linea  
+          <lb ed="#L" n="64"/>que est longitudo corporis christi. Dico quod non  
+          <lb ed="#L" n="65"/>est alia res nisi corpus christi tamen iste termi- 
+          <lb ed="#L" n="66"/>nus longitudo corporis christi / connotat aliam  
+          <lb ed="#L" n="67"/>rem quam corpus christi: quia significat corpus christi  
+          <lb ed="#L" n="68"/>et cu hoc quod inter caput et plantam sit distan- 
+          <lb ed="#L" n="69"/>tia. et ideo tota logitudo christi et latitudo et  
+          <lb ed="#L" n="70"/>profunditas est in sacro. sed non est ibi longitu 
+          <lb ed="#L" n="71"/>do christi nec latitudo. hoc est latitudo chri 
+          <lb ed="#L" n="72"/>sti quae est realiter corpus christi: non est dimensio- 
+          <lb ed="#L" n="73"/>nabiliter nec localiter ibi: sic quod in loco hostiae sit  
+          <lb ed="#L" n="74"/>pars christi distans ab alia parte christi.
+          </p>
+          <p xml:id="rh-l4q3-d1e3102">
+            Tunc  
+          <lb ed="#L" n="75"/>quando quaeritur an illa linea est recta an cur- 
+          <lb ed="#L" n="76"/>va: Potest dici quod non est curva vel recta: quia  
+          <lb ed="#L" n="77"/>non est ibi linea: sed linea est ibi. et linea cur 
+          <lb ed="#L" n="78"/>va vel recta est ibi. hoc est longitudo est ibi  
+          <lb ed="#L" n="79"/>sed longitudo illa non est ibi longitudo. hoc  
+          <lb ed="#L" n="80"/>est dictu: res quae est longitudo ista / realiter  
+          <lb ed="#L" n="81"/>est ibi: sed longitudo non est ibi sic quod sit lon- 
+          <lb ed="#L" n="82"/>gitudo ibi: sed bene est longitudo alibi.
+          </p>
+          <p xml:id="rh-l4q3-d1e3122">
+          <lb ed="#L" n="83"/>Contra. corpus christi aut est divisibile aut  
+          <lb ed="#L" n="84"/>indivisibile. Si divisibile: ergo est ibi corpus  
+          <lb ed="#L" n="85"/>christi extensum. et vltra. ergo est ibi loca- 
+          <lb ed="#L" n="86"/>iter. Si indivisibile. Contra. sequitur: corpus  
+          <lb ed="#L" n="87"/>christi est ibi indivisibile: ergo corpus christi 
+          <lb ed="#L" n="88"/>est indivisibile.
+          </p>
+          <p xml:id="rh-l4q3-d1e3138">
+            Dici potest quod corpus christi est  
+          <lb ed="#L" n="89"/>indivisibile ibi: et haec est falsa / corpus christi  
+          <lb ed="#L" n="90"/>est ibi extensum vel divisum secundum substantiam  
+          <lb ed="#L" n="91"/>partium.
+          </p>
+          <p xml:id="rh-l4q3-d1e3147">
+            Et si arguitur sic . corpus christi est ibi  
+          <lb ed="#L" n="92"/>non extensum: ergo corpus christi est non exten- 
+          <lb ed="#L" n="93"/>sum. consequentia patet.
+          </p>
+          <p xml:id="rh-l4q3-d1e3154">
+            Sed contra arguitur. corpus  
+          <lb ed="#L" n="94"/>christi est ibi non extensum: ergo corpus chri 
+          <lb ed="#L" n="95"/>sti non est habens partem extra partem. ergo cor- 
+          <lb ed="#L" n="96"/>pus christi non est ibi corpus. Si consequens  
+          <lb ed="#L" n="97"/>accipiatur proprie: debet concedi: quia sensus est /  
+          <lb ed="#L" n="98"/>non est ibi corpus christi habens ibi partem ex- 
+          <lb ed="#L" n="99"/>tra partem secundum longum latum et profundum. et  
+          <lb ed="#L" n="100"/>sic manifestum est quod est verum. Si autem consequens ex- 
+          <lb ed="#L" n="101"/>ponatur per istam : corpus christi non est ibi  
+          <lb ed="#L" n="102"/>res quae est corpus christi consequens est falsum: et  
+          <lb ed="#L" n="103"/>consequentia non valet. et sic patet vltra ad omnes ali- 
+          <lb ed="#L" n="104"/>as propositiones.
+          </p>
+          <p xml:id="rh-l4q3-d1e3180">
+            Ad secundum dico quod figi  
+          <lb ed="#L" n="105"/>ra corporis christi est ibi: sed figura corpo- 
+          <lb ed="#L" n="106"/>ris christi non est ibi figura corporis christi 
+          <!--224.xml-->
+          <pb ed="#L" n="112-v"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>Ad quartum principale quando quaeritur an vide 
+          <lb ed="#L" n="2"/>mus ibi corpus an non: Dico quod tales propositio- 
+          <lb ed="#L" n="3"/>nes / video corprus: tango corpus: non debent ne 
+          <lb ed="#L" n="4"/>gari in sensu in quo fiunt: quia sensus est / sub spe 
+          <lb ed="#L" n="5"/>ciebus visis et tactis est corpus christi et non est  
+          <lb ed="#L" n="6"/>sensus quod illud quod immutat ibi visum: ut ob 
+          <lb ed="#L" n="7"/>iectum visus vel tactus: est corpus christi quia fi 
+          <lb ed="#L" n="8"/>de tenemus quam spens videntur: tanguntur: frangum:  
+          <lb ed="#L" n="9"/>tur. et quod visio / fractio / et huiusmoni est in specie 
+          <lb ed="#L" n="10"/>bus: non in corpore.
+          </p>
+          <p xml:id="rh-l4q3-d1e3216">
+            Similiter immutatio visus et  
+          <lb ed="#L" n="11"/>multiplicatio speciei ac obiecti est a speciebus  
+          <lb ed="#L" n="12"/>tantum: et non a corpore vnde de conse distintione ii qui mandu 
+          <lb ed="#L" n="13"/>canst. Panis est et calix quod oculi renuntiant: quod ant  
+          <lb ed="#L" n="14"/>fides expostulat instruenda: panis est corpus  
+          <lb ed="#L" n="15"/>christi: calix sanguis. et ideo ista dicuntur sacra:  
+          <lb ed="#L" n="16"/>quia in eis aliud videtur: et aliud intelligitur. quod  
+          <lb ed="#L" n="17"/>videtur: habet speciem corporale. quod intelligitur  
+          <lb ed="#L" n="18"/>fructum habet speiteralem. Ubi mafeste dicitur quod spes  
+          <lb ed="#L" n="19"/>videtur: et corpus christi sub speciebus non vi 
+          <lb ed="#L" n="20"/>detur: sed intelligitur. Unde proprie loquendo  
+          <lb ed="#L" n="21"/>non debet concedi / tetigi corpus christi: vidi corpus  
+          <lb ed="#L" n="22"/>christi: nec ipsum corpus christi tetigit me: cor- 
+          <lb ed="#L" n="23"/>pus christi imutat visum meum. tamen loquendum  
+          <lb ed="#L" n="24"/>est vt plures: dum tamen habeant sanum intellectum
+          </p>
+          <p xml:id="rh-l4q3-d1e3249">
+          <lb ed="#L" n="25"/>Ad quintum principale quando arguitur de intem  
+          <lb ed="#L" n="26"/>tione sacerdotis habentis coram se sex ho- 
+          <lb ed="#L" n="27"/>stias. Dico probabiliter quod pro tunc non consecrat:  
+          <lb ed="#L" n="28"/>quia actus consecrandi requirit intentionem deter- 
+          <lb ed="#L" n="29"/>minatam circa certam materiam. vnde cum dicitur quod ibi  
+          <lb ed="#L" n="30"/>est intentio: dico quod non. et cum arguitur quod in- 
+          <lb ed="#L" n="31"/>tentio indeterminata sufficit: quia cum sacerdos  
+          <lb ed="#L" n="32"/>consecret hostiam: consecrat infinitas partes: quia  
+          <lb ed="#L" n="33"/>ista hostia est infinitae partes. Dici potest quod habet  
+          <lb ed="#L" n="34"/>determinatam iutentionem consecrandi infinitas  
+          <lb ed="#L" n="35"/>partes hostiae. quia illa hostia est infinitae par 
+          <lb ed="#L" n="36"/>tes: et istam intendit determinate consecrare  
+          <lb ed="#L" n="37"/>etc
+          </p>
+          <p xml:id="rh-l4q3-d1e3280">
+            Similiter quando sacerdos consecrat multas ho 
+          <lb ed="#L" n="38"/>stias sicut in die pasce: non requiritur quod sciat  
+          <lb ed="#L" n="39"/>numerum hostiarum: sed sufficit intentio conse 
+          <lb ed="#L" n="40"/>crandi multitudinem istam. Unde intentio 
+          <lb ed="#L" n="41"/>formata per copulativam mentalem vel voca- 
+          <lb ed="#L" n="42"/>lem quae aequivalet copulative / sufficit: sed in  
+          <lb ed="#L" n="43"/>tentio formata per disiunctivam mentalem  
+          <lb ed="#L" n="44"/>non sufficit: quia illa est intentio magis vaga- 
+          <lb ed="#L" n="45"/>cum qua stat quod nullum panem vel hostiam inten- 
+          <lb ed="#L" n="46"/>dit consecrare.
+          </p>
+          <p xml:id="rh-l4q3-d1e3302">
+            Ad secundum quando arguitur de erram  
+          <lb ed="#L" n="47"/>te circa compositionem continui: et quaeritur utrum  
+          <lb ed="#L" n="48"/>consecrat an non. Potest dici quod talis non consecrat:  
+          <lb ed="#L" n="49"/>quia non habet intentionem debitam. requiritur enim quod  
+          <lb ed="#L" n="50"/>consecrans intendat consecrare panem visibilem et tan  
+          <lb ed="#L" n="51"/>gibilem: quolis non est panis indivisibilis.
+          </p>
+          <p xml:id="rh-l4q3-d1e3315">
+            Con- 
+          <lb ed="#L" n="52"/>tra credat talis quod omne indivisibile est sen 
+          <lb ed="#L" n="53"/>sibile vel visibile: et intendat tunc consecrare  
+          <!--224.xml-->
+          <cb ed="#L" n="b"/><!--112vb-->
+          <lb ed="#L" n="54"/>unum indivisibile praecise: nunquid consecrat:  
+          <lb ed="#L" n="55"/>Potest dici quod sic: quia non omnis falsitas qua impli- 
+          <lb ed="#L" n="56"/>catur in intentione consecrantis / impedit consecratio  
+          <lb ed="#L" n="57"/>nem. quia cum isto errore quod indivisibile sit sen- 
+          <lb ed="#L" n="58"/>sibile: stat quod veraciter intendat consecrare pa 
+          <lb ed="#L" n="59"/>nem visum a se.
+          </p>
+          <p xml:id="rh-l4q3-d1e3340">
+            Ad tertium quando arguitur quod  
+          <lb ed="#L" n="60"/>intendit consecrare omnes partes proportionab 
+          <lb ed="#L" n="61"/>les denotatas a numero impari etc. Potest dici 
+          <lb ed="#L" n="62"/>quod talis consecret omnes partes quia quodlibet quod  
+          <lb ed="#L" n="63"/>ipse intendit consecrare: est panis. Et cum dicietr 
+          <lb ed="#L" n="64"/>quod ipse ibi facit infinitos panes in actu: quia  
+          <lb ed="#L" n="65"/>inter quoscumque duos panes mediat unus  
+          <lb ed="#L" n="66"/>homo. potest dici quod non sequitur quod ibi sunt infi 
+          <lb ed="#L" n="67"/>niti panes eo mo quo philosophus loquitur iii phy 
+          <lb ed="#L" n="68"/>sicorum capitulo de infinito. quia sic requirtur non solum  
+          <lb ed="#L" n="69"/>quod discontinuetur a substantia cui fuit contiua 
+          <lb ed="#L" n="70"/>ta: sed quod qualitates suae vere discontinuentur a  
+          <lb ed="#L" n="71"/>qualitatibus quae fuerunt in pane iam transsubstan- 
+          <lb ed="#L" n="72"/>tiato. et quia manet vera cotinuatio in acciden 
+          <lb ed="#L" n="73"/>tibus istius hostiae: ideo nullus panis est fa 
+          <lb ed="#L" n="74"/>ctus in actu magis in fine consecrationis quam  
+          <lb ed="#L" n="75"/>ante. Et cum dicitur inter quoscumque panes mediat  
+          <lb ed="#L" n="76"/>unus homo: ego concedo. et concedo quod isti panes  
+          <lb ed="#L" n="77"/>sunt discontinuati: quia nullus continuatur alte  
+          <lb ed="#L" n="78"/>rit tamen quia remanet una qualitas: ideo non sunt  
+          <lb ed="#L" n="79"/>ille duae partes reducte ad actum secundum modum  
+          <lb ed="#L" n="80"/>loquendi Aristoteles iii physicorum. Uocando tamen esse  
+          <lb ed="#L" n="81"/>in actu esse unam rem vel substantiam alteri 
+          <lb ed="#L" n="82"/>omnino non continuam: potest concedi conclusio: quod ibi  
+          <lb ed="#L" n="83"/>sunt infinitae substantiae in actu. Sed cum qui- 
+          <lb ed="#L" n="84"/>ritur de tangente superficiem remanentem versus  
+          <lb ed="#L" n="85"/>quam fit progressio partium proportionabilium: an 
+          <lb ed="#L" n="86"/>talis tangit corpus christi an panem: Potest dici 
+          <lb ed="#L" n="87"/>quod simul tangit panem consecratum et panem non  
+          <lb ed="#L" n="88"/>consecratum: quia immediate iurta manum est  
+          <lb ed="#L" n="89"/>panis consecratus.
+          </p>
+          <p xml:id="rh-l4q3-d1e3409">
+            Aliter potest dici ad ar<lb ed="#L" n="90"/>gumentum 
+            a principio quod talis non consecrat:  
+          <lb ed="#L" n="91"/>quia est dare aliquam parte proportionabilem  
+          <lb ed="#L" n="92"/>insensibilem: quae si virtute divina esset conse- 
+          <lb ed="#L" n="93"/>crata: non esset sensibilis: et nullus debet inten- 
+          <lb ed="#L" n="94"/>dere facere distinctum sacrm per se: lied debeat  
+          <lb ed="#L" n="95"/>intendere consecrare panem insensibilem inexi  
+          <lb ed="#L" n="96"/>stentem totaliter per se: quia talis pars non potest  
+          <lb ed="#L" n="97"/>esse sactutrm determinatum: quia non habet speci- 
+          <lb ed="#L" n="98"/>es sensibiles.
+          </p>
+          <p xml:id="rh-l4q3-d1e3431">
+            Ad quodlibet enim sacramentum de- 
+          <lb ed="#L" n="99"/>terminatum requiritur distantia et sensibilitas  
+          <lb ed="#L" n="100"/>specierum: et ideo licet potest consecrare quodlibet  
+          <lb ed="#L" n="101"/>a consecrando totum: et sic facere unum sacrm  
+          <lb ed="#L" n="102"/>de toto: tamen non potest consecrare quod- 
+          <lb ed="#L" n="103"/>libet a distinctae: quia quodlibet a non potest  
+          <lb ed="#L" n="104"/>esse distinctum sacramentum: ideo talis inten 
+          <lb ed="#L" n="105"/>deret impossibile. et per consequens non facit  
+          <lb ed="#L" n="106"/>quod intendit: tamen consecrat unam multi  
+          <!--225.xml-->
+          <pb ed="#L" n="113-r"/>
+          <cb ed="#L" n="a"/><!--113ra-->
+          <lb ed="#L" n="1"/>tudinem a. ad cuius notitiam ipse non potest vera  
+          <lb ed="#L" n="2"/>citer devenire: et illa multitudo est finita.
+          </p>
+          <p xml:id="rh-l4q3-d1e3463">
+            Ad  
+          <lb ed="#L" n="3"/>quartum de intentione huius qui vult consecrare  
+          <lb ed="#L" n="4"/>de carne: et decipitur. Potest dici quod non consecrat  
+          <lb ed="#L" n="5"/>quia habet intentionem repugnantem sacro: quia  
+          <lb ed="#L" n="6"/>requiritur talis intentio / volo consecrare pane:  
+          <lb ed="#L" n="7"/>et credo illud esse panem: de quo intendo conse 
+          <lb ed="#L" n="8"/>crare. et ideo licet non opet consecrantem formare 
+          <lb ed="#L" n="9"/>istam copulativam mentalem in actu: tamen requiritur  
+          <lb ed="#L" n="10"/>quod non habeat intentionem repugnantem isti  
+          <lb ed="#L" n="11"/>compulative. sit tamen intenderet / volo consecrare  
+          <lb ed="#L" n="12"/>hoc quicquid fuerit: potest esse dubium an conse 
+          <lb ed="#L" n="13"/>craret. et posset dici quod requiritur in consecrante  
+          <lb ed="#L" n="14"/>opinio de essentia panis: et intentio ad conse 
+          <lb ed="#L" n="15"/>crandum panem: et nihil aliud. vde qui dubi 
+          <lb ed="#L" n="16"/>tat hoc est non credit ibi esse panem; nec habet inte  
+          <lb ed="#L" n="17"/>tionem debitam: nec consecrat.
+          </p>
+          <p xml:id="rh-l4q3-d1e3498">
+            Ad quintam quando  
+          <lb ed="#L" n="18"/>arguitur de sacerdote prius consecrante species 
+          <lb ed="#L" n="19"/>panis: et postea furtive auferente illas spc 
+          <lb ed="#L" n="20"/>cies etc. Dico quod sic tamen si probetur in foro iudict 
+          <lb ed="#L" n="21"/>contra eum: tenetur fateri fraudem suam: non tamen 
+          <lb ed="#L" n="22"/>debet laico restituere illas spes: licet habeat illas  
+          <lb ed="#L" n="23"/>sed valorem. non valorem sacramenti: quia hoc non  
+          <lb ed="#L" n="24"/>potest: sed valorem panis ante consecrationem: tamen  
+          <lb ed="#L" n="25"/>debet negare se abstulisse panem.
+          </p>
+          <p xml:id="rh-l4q3-d1e3518">
+            Ad sextam  
+            <lb ed="#L" n="26"/>patet per praedicta.
+          </p>
+          <p xml:id="rh-l4q3-d1e3523">
+            Ad septimam cum dicitur:  
+          <lb ed="#L" n="27"/>non requiritur intentio: quia tunc haberet dubita 
+          <lb ed="#L" n="28"/>re quilibet in elevatione an debeat adora- 
+          <lb ed="#L" n="29"/>re an non. Dico quod non debet dubitare: distin- 
+          <lb ed="#L" n="30"/>guendo dubitare contra credere: sed credere  
+          <lb ed="#L" n="31"/>debet quod sacerdos bona fide facit: et adorare se 
+          <lb ed="#L" n="32"/>curae. in illa tamen adoratione intelligitur con- 
+          <lb ed="#L" n="33"/>ditio: puta si consecratum est: et ideo nullum pe 
+          <lb ed="#L" n="34"/>riculum est etiam hoitiam non consecratam adorare  
+          <lb ed="#L" n="35"/>quia non adorat nisi sub conditione tacita ibi  
+          <lb ed="#L" n="36"/>subintellecta. Unde ecclesia absolute et pu 
+          <lb ed="#L" n="37"/>blicae adorat sine conditione adiecta: non tamen 
+          <lb ed="#L" n="38"/>sine conditione subintellecta.
+          </p>
+          <p xml:id="rh-l4q3-d1e3553">
+            Ad sextum prin 
+          <lb ed="#L" n="39"/>cipale cum quaeritur quon forma consecrandi sit ve- 
+          <lb ed="#L" n="40"/>ra etc. vbi dico tria. Primum: quod vtuntur pro 
+          <lb ed="#L" n="41"/>positione ac si esset res permanens et tota  
+          <lb ed="#L" n="42"/>simul in vltimo instanti prolationis : et sic  
+          <lb ed="#L" n="43"/>dicimus quod propositio est vera vel falsa. Se- 
+          <lb ed="#L" n="44"/>cundo dico quod in vltimo instanti prolationis  
+          <lb ed="#L" n="45"/>istius orationis: hoc est corpus meum etc.  
+          <lb ed="#L" n="46"/>est sub istis speciebus corpus christi et pro  
+          <lb ed="#L" n="47"/>illo instanti facit sacerdos demonstrationem  
+          <lb ed="#L" n="48"/>ad intellectum: cum dicit : hoc est enim corpus meum 
+          <lb ed="#L" n="49"/>Unde non intendit demonstrare aliquid quod est  
+          <lb ed="#L" n="50"/>ibi realiter quando profert illud pronomen hoc: sed  
+          <lb ed="#L" n="51"/>intendit demonstrare illud quod erit in fine pro- 
+          <lb ed="#L" n="52"/>lationis. Tertio dico quod non dicit illa verba 
+          <lb ed="#L" n="53"/>in prsona sua: sed in psonagur isti. vde non lqui- 
+          <!--225.xml-->
+          <cb ed="#L" n="b"/><!--113rb-->
+          <lb ed="#L" n="54"/>tunt de corpore suo: sed de corpore christi ex qui 
+          <lb ed="#L" n="55"/>bus patet quod ipse dicit verum. quia si christus dice- 
+          <lb ed="#L" n="56"/>ret ea: diceret verum: et ipse in persona christi di 
+          <lb ed="#L" n="57"/>cit illa: ideo dicit verum. ad vulgarem modum lo 
+          <lb ed="#L" n="58"/>quendi. Unde manifestum est ex serie verborum /  
+          <lb ed="#L" n="59"/>quod sacerdos profert illa verba recitative de 
+          <lb ed="#L" n="60"/>christo. Narrat enim quod dedit discipulis suis  
+          <lb ed="#L" n="61"/>dicens. Accipite et commedite: hoc est enim corpus  
+          <lb ed="#L" n="62"/>meum patet ergo quod sacerdos non dicit falsum: quia non  
+          <lb ed="#L" n="63"/>dicit esse corpus suum: sed dicit quod est corpus chri 
+          <lb ed="#L" n="64"/>sti: quia recitat christum hoc dixisse. Et cum quaeritur  
+          <lb ed="#L" n="65"/>quid demonstratur per le hoc: dicitur quod fit demon- 
+          <lb ed="#L" n="66"/>stratio in vno instanti pro alio instanti: et de  
+          <lb ed="#L" n="67"/>monstratur corpus christi quod est in fine sub illis
+          <lb ed="#L" n="68"/>specibus.
+          </p>
+          <p xml:id="rh-l4q3-d1e3626">
+            Aliter potest dici probabiliter quod  
+          <lb ed="#L" n="69"/>hoc pronomen hoc nullam demostrationem fa 
+          <lb ed="#L" n="70"/>cit: quia tenetur recitative: et quasi materialite:  
+          <lb ed="#L" n="71"/>sumpta dicuntur illa verba a sacerdote. Unde  
+          <lb ed="#L" n="72"/>si recitarem dictum christi: et dicam quod christus di 
+          <lb ed="#L" n="73"/>xit Petro: tu es Petrus: manifestum est quod non  
+          <lb ed="#L" n="74"/>utor hoc pronomine tu significative: sed tantum  
+          <lb ed="#L" n="75"/>recitative et materialiter accepto: et haec videtur  
+          <lb ed="#L" n="76"/>opinio dicenti Inno. in libro suo de off. misse  
+          <lb ed="#L" n="77"/>par iii. c. vi et ix.
+          </p>
+          <p xml:id="rh-l4q3-d1e3648">
+            Sed contra arguit Thomas 
+          <lb ed="#L" n="78"/>iiii sententia distitione viii. Primo quia si sic: illa verba nul 
+          <lb ed="#L" n="79"/>lum ordinem haberent ad praesentem mate  
+          <lb ed="#L" n="80"/>riam: et sic non accederet verbum ad elementum  
+          <lb ed="#L" n="81"/>ut fieret sacrm : quod est tamen requisitum ad sacsrm  
+          <lb ed="#L" n="82"/>secundum Augustinum
+          </p>
+          <p xml:id="rh-l4q3-d1e3661">
+            Secundo quia eadem difficultas ma 
+          <lb ed="#L" n="83"/>net de verbis christi: quando christus ea protu- 
+          <lb ed="#L" n="84"/>lit.
+          </p>
+          <p xml:id="rh-l4q3-d1e3668">
+            Ad primum negatur consequentia: quia placet deo quod  
+          <lb ed="#L" n="85"/>ad recitationem verborum istorum cum intentione  
+          <lb ed="#L" n="86"/>consecrandid e. cum voluntate: quod deus transsubstan 
+          <lb ed="#L" n="87"/>tiet materiam debitam: et fiat transsubstantia- 
+          <lb ed="#L" n="88"/>tio. et sic accedit verbum ad elementum: et fit sa 
+          <lb ed="#L" n="89"/>cramentum.
+          </p>
+          <p xml:id="rh-l4q3-d1e3681">
+            Ad secundum de verbis eisdem prola- 
+          <lb ed="#L" n="90"/>tis a christo potest dupliciter dici. Primo modo  
+          <lb ed="#L" n="91"/>quod christus fecit demonstrationem ad intelle 
+          <lb ed="#L" n="92"/>ctum et ad sensum simul in vno instanti pro 
+          <lb ed="#L" n="93"/>alio instanti: tenendo quod ipse per illa verba 
+          <lb ed="#L" n="94"/>consecrauit. Uel posset dici quod virtute divina 
+          <lb ed="#L" n="95"/>consecrauit: ita quod in instanti intrinseco ante  
+          <lb ed="#L" n="96"/>tempus prolationis istorum verborum / fuitur ibi verum  
+          <lb ed="#L" n="97"/>corprus christi: et quod illa verba postea dixit- 
+          <lb ed="#L" n="98"/>ut discipulis suis fieret doctrina de forma  
+          <lb ed="#L" n="99"/>consecrandi.
+          </p>
+          <p xml:id="rh-l4q3-d1e3706">
+            Ad alia non vacat respondere mo 
+          <lb ed="#L" n="100"/>do. et sic patet ad questionem.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
