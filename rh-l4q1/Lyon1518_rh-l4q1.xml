@@ -62,6 +62,7 @@
         </p>
       </div>
       <div xml:id="rh-l4q1-Dd1e121" type="rationes-principales">
+        <head xml:id="rh-l4q1-Hd1e123">Rationes principales</head>
         <p xml:id="rh-l4q1-d1e123">
           Uidetur quod non: quia si sic: se 
           <lb ed="#L" n="5"/>quaeretur quod paruulus haptiatus  
@@ -271,7 +272,7 @@
         </p>
         <p xml:id="rh-l4q1-d1e532">
           <pc type="#pilcrow"/>Octavo sic. si intentio ministri 
-          <lb ed="#L" n="61"/>baptitantis requiratur ad baptismum: sicut communiter- 
+          <lb ed="#L" n="61"/>baptizantis requiratur ad baptismum: sicut communiter- 
           <lb ed="#L" n="62"/>tenetur: sequuntur multa inconvenientia. Primo quia  
           <lb ed="#L" n="63"/>non constaret homini an esset baptiratus an non: quia  
           <lb ed="#L" n="64"/>nescit vtrum baptitans ipsum habuit intentionem- 
@@ -355,12 +356,12 @@
       <div xml:id="rh-l4q1-Dd1e693">
         <head xml:id="rh-l4q1-Hd1e695">Articulus 2</head>
         <p xml:id="rh-l4q1-d1e698">
-          Secundo specialiter notandum est de  
-          <lb ed="#L" n="10"/>f orma: quae est illa qua ponitur extra de bap. et eius effe 
-          <lb ed="#L" n="11"/>ctu. si quis. vbi Alexander papa di. si quis pueru  
-          <lb ed="#L" n="12"/>ter in aquam immerserit in nole pa. et ticun et licut tantum: et  
-          <lb ed="#L" n="13"/>uon dixerit: ego te baptio in non plato et lic et sed  
-          <lb ed="#L" n="14"/>non est puer baptieatus. Ego tamen et amen non sute  
+          <pc type="#pilcrow"/>Secundo specialiter notandum est de  
+          <lb ed="#L" n="10"/>forma: quae est illa qua ponitur <ref xml:id="rh-l4q1-Rd1e707" corresp="#rh-l4q1-Qd1e717" target="http://scta.info/resource/cice-l3t42-d1e119"><title>extra</title> de bap. et eius effe<lb ed="#L" n="11"/>ctu. 
+          si quis</ref>. vbi <ref xml:id="rh-l4q1-Rd1e714">Alexander papa</ref> dicit <quote xml:id="rh-l4q1-Qd1e717">si quis puerum
+          <lb ed="#L" n="12"/>ter in aqua immerserit in nomine patris et filii et spiritus sancti <sic>tantum</sic>: et  
+          <lb ed="#L" n="13"/>non dixerit: ego te baptizo in nomine patris et filii et spiritus sancti 
+          <lb ed="#L" n="14"/>non est puer baptizatus</quote>. Ego tamen et amen non sute  
           <lb ed="#L" n="15"/>de sba seum eentia: sed de evidentia. quod manife 
           <lb ed="#L" n="16"/>stum est de amen: quia nec in dicta forma Alexander  
           <lb ed="#L" n="17"/>sec replicauit. nec in euamgelio ponitur mat vl 
@@ -1596,16 +1597,16 @@
           <lb ed="#L" n="44"/>adultis.
         </p>
         <p xml:id="rh-l4q1-d1e3173">
-          Ad octavum quando dicitur quod si intentio mi 
-          <lb ed="#L" n="45"/>nistri requireretur: deberet dubitare quilibet an 
-          <lb ed="#L" n="46"/>esset haptieatus etc. Dicendum quod qui ab infan 
-          <lb ed="#L" n="47"/>tia inter christianos conversatus est: nec de se 
-          <lb ed="#L" n="48"/>nec de alio debet dubitare quin sit baptiea  
-          <lb ed="#L" n="49"/>tus sine magna euidentia ad oppositum: prae- 
-          <lb ed="#L" n="50"/>sumitur enim esse baptibatus quae interchristianos  
-          <lb ed="#L" n="51"/>tamquam fidelis fuerit conversatus: sicut dicitur extra 
-          <lb ed="#L" n="52"/>de praesortero non haptiato citulo veniens. Contra 
-          <lb ed="#L" n="53"/>hanc tame psumptione probatio est admittenda 
+          <ref xml:id="rh-l4q1-Rd1e3178" target="http://scta.info/resource/rh-l4q1-d1e532">Ad octavum</ref> quando dicitur quod si intentio mi<lb ed="#L" n="45"/>nistri 
+          requireretur: deberet dubitare quilibet an 
+          <lb ed="#L" n="46"/>esset baptizatus etc. Dicendum quod qui ab infan<lb ed="#L" n="47"/>tia 
+          inter christianos conversatus est: nec de se 
+          <lb ed="#L" n="48"/>nec de alio debet dubitare quin sit baptiza<lb ed="#L" n="49"/>tus 
+          sine magna euidentia ad oppositum: prae<lb ed="#L" n="50"/>sumitur 
+          enim esse baptizatus quae <quote xml:id="rh-l4q1-Qd1e3188">inter christianos  
+          <lb ed="#L" n="51"/>tamquam fidelis fuerit conversatus</quote>: sicut dicitur <ref xml:id="rh-l4q1-Rd1e3193" corresp="#rh-l4q1-Qd1e3188" target="http://scta.info/resource/cice-l3t43-d1e149">extra 
+          <lb ed="#L" n="52"/>de presbytero non baptizato capitulo veniens</ref>. Contra 
+          <lb ed="#L" n="53"/>hanc tamen praesumptione probatio est admittenda 
           <!--211.xml-->
           <cb ed="#L" n="b"/><!--106rb-->
           <lb ed="#L" n="54"/>si contra talem in foro iudicii agatur: sicut patuit su 

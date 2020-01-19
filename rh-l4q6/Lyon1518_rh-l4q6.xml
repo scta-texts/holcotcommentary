@@ -261,35 +261,37 @@
             <lb ed="#L" n="71"/>potest sacerdos absoluere: nisi in quinque casi 
             <lb ed="#L" n="72"/>bus. vt dicit <ref xml:id="rh-l4q6-Rd1e498"><name>Raimundus</name> in summula sua de 
             <lb ed="#L" n="73"/>casibus libro iii ti. de pen. et re.</ref> sed dicens <ref xml:id="rh-l4q6-Rd1e505"><name>Ostien<!-- hostensius--></name>. in 
-            <lb ed="#L" n="74"/>summa sua ponit plures de pe. et re capit.o cui 
+            <lb ed="#L" n="74"/>summa sua ponit plures de pe. et re capitulo cui 
             <lb ed="#L" n="75"/>confitendum</ref>. vbi ponit octo.
           </p>
           <!-- 8 points from hostensius -->
+          <!-- possibly: https://books.google.com/books?id=AQtCAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+            column 1571 -->
           <p xml:id="rh-l4q6-d1e518">
-            Primus est: vbi est  
-            <lb ed="#L" n="76"/>solennis poenitentisa imponenda.
+            <quote>Primus est: vbi est  
+            <lb ed="#L" n="76"/>solennis poenitentia imponenda</quote>.
           </p>
           <p xml:id="rh-l4q6-d1e524">
-            Secundus est de  
-            <lb ed="#L" n="77"/>exconicatis a canone: quos aliquando epss absol 
-            <lb ed="#L" n="78"/>vere potest: aliquando non.
+            <quote>Secundus est de  
+            <lb ed="#L" n="77"/>excommunicatis a canone: quos aliquando epss absol 
+            <lb ed="#L" n="78"/>vere potest: aliquando non.</quote>
           </p>
           <p xml:id="rh-l4q6-d1e531">
-            Tertius est de irregula 
-            <lb ed="#L" n="79"/>ritate contracta in qua epss potest dispensare:  
+            <quote>Tertius est de irregula 
+            <lb ed="#L" n="79"/>ritate contracta</quote> in qua epss potest dispensare:  
             <lb ed="#L" n="80"/>vel si non possit / miitat eum ad papam cum suis li- 
-            <lb ed="#L" n="81"/>teris. hoc intelligendum est de clericis qui volunt 
+              <lb ed="#L" n="81"/>teris. hoc intelligendum est de clericis qui volunt 
             <lb ed="#L" n="82"/>ad ordines promoveri: tamen de peccato propter quod  
             <lb ed="#L" n="83"/>est irregularitas contracta: potest sacerdos absoi 
             <lb ed="#L" n="84"/>uere.
           </p>
           <p xml:id="rh-l4q6-d1e547">
-            Quartus est de incendiariis. vbi primo  
+            <quote>Quartus est de incendiariis. vbi primo  
             <lb ed="#L" n="85"/>videndum est quid est incendiarius. et est qui in 
             <lb ed="#L" n="86"/>cendit auctoritate propria ciuitatem / vel villam  
             <lb ed="#L" n="87"/>vel mansionem / vel segentem / vel rem similem malo  
             <lb ed="#L" n="88"/>studio sive pro odio sive pro vindicta. xxiii qi.  
-            <lb ed="#L" n="89"/>ulti. pessima quidem. glos. Qui incendit: aut  
+              <lb ed="#L" n="89"/>ulti. pessima</quote> quidem. glos. Qui incendit: aut  
             <lb ed="#L" n="90"/>incendi facit: aut consilium vel autilium scienter im 
             <lb ed="#L" n="91"/>pendit auctoritate propria: cum non habeat sus  
             <lb ed="#L" n="92"/>mouendi bellum malo studio: incendiarius di 
@@ -321,20 +323,22 @@
             <lb ed="#L" n="9"/>uuntur ab epo.
           </p>
           <p xml:id="rh-l4q6-d1e623">
-            Quintus casus est in crimi- 
+            <quote>Quintus casus est in crimi- 
             <lb ed="#L" n="10"/>ne publico: sicut in blasphemante. ex de ma- 
-            <lb ed="#L" n="11"/>ledicis. statuimus.
+              <lb ed="#L" n="11"/>ledicis. statuimus.</quote>
           </p>
           <p xml:id="rh-l4q6-d1e630">
-            Sextus est in voto fra- 
-            <lb ed="#L" n="12"/>cto. ex de voto et voti redemptione. capi i- 
-            <lb ed="#L" n="13"/>Septimus si ipsemet epsrus confessionem sui 
+            <quote>Sextus est in voto fra- 
+              <lb ed="#L" n="12"/>cto. ex de voto et voti redemptione. capi i</quote>
+          </p>
+          <p>
+            <lb ed="#L" n="13"/><quote>Septimus si ipsemet episcopus confessionem sui 
             <lb ed="#L" n="14"/>subditi audivit de aliquo peccato: tunc in- 
             <lb ed="#L" n="15"/>ferior non potest eum punire pro illo dite xxi in  
-            <lb ed="#L" n="16"/>ferior sedes.
+            <lb ed="#L" n="16"/>ferior sedes.</quote>
           </p>
           <p xml:id="rh-l4q6-d1e643">
-            Octavus si sit consuetudo in  
+            <quote>Octavus si sit consuetudo in  
             <lb ed="#L" n="17"/>aliquo episcopatu: quod episcopus ista peccata  
             <lb ed="#L" n="18"/>audiat: sicut de parientibus quae filios oppri- 
             <lb ed="#L" n="19"/>munt: de homicidiis: de falsariis: de sacrile 
@@ -348,7 +352,7 @@
             <lb ed="#L" n="27"/>et specialis episcopis reseruat: in quibus etiam  
             <lb ed="#L" n="28"/>episcopi remittunt aliquando ad curiam Romanam  
             <lb ed="#L" n="29"/>propter enormitatem criminum: haec dicuntui  
-            <lb ed="#L" n="30"/>secundum iuristas.
+            <lb ed="#L" n="30"/>secundum iuristas.</quote>
           </p>
           <p xml:id="rh-l4q6-d1e677">
             Sed restat videndum in quobus  
