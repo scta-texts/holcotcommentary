@@ -1000,14 +1000,14 @@
         <p xml:id="rh-l2q4-d1e1959">
           Nono ad princi- 
         <lb ed="#L" n="91"/>pale. si sic: in angelis bonis forent volubi 
-        <lb ed="#L" n="92"/>les cogitationes contra Augustinum xxto de triniat c. xvi et  
-        <lb ed="#L" n="93"/>xii. contessionum capitulo xii Sic interim sentio pro- 
+        <lb ed="#L" n="92"/>les cogitationes contra <ref xml:id="rh-l2q4-Rd1e1965">Augustinum xxto de triniat c. xvi</ref> et  
+        <lb ed="#L" n="93"/><ref xml:id="rh-l2q4-Rd1e1969">xii. confessionum capitulo xii</ref> <quote xml:id="rh-l2q4-Qd1e1972" source="http://scta.info/resource/aconf-l12-d1e180" synch="38-95">Sic interim sentio pro- 
         <lb ed="#L" n="94"/>pter illud celum celi: celum intelligibile ubi  
-        <lb ed="#L" n="95"/>est intellectus nosse non ex parte: non in eni- 
+          <lb ed="#L" n="95"/>est intellectus nosse non ex parte: <quote xml:id="rh-l2q4-Qd1e1978" type="paraphrase" source="http://scta.info/resource/Icor13_12" synch="1-11">non in eni- 
         <lb ed="#L" n="96"/>gmate: non per speculum: sed simul totum  
-        <lb ed="#L" n="97"/>in manifestatione faciei ad faciem: non mo- 
+        <lb ed="#L" n="97"/>in manifestatione faciei ad faciem</quote>: non mo- 
         <lb ed="#L" n="98"/>do hoc / modo illud: sed dictum est nosse si 
-        <lb ed="#L" n="99"/>mul sine vlla vicissitudine temporum. consequentia  
+        <lb ed="#L" n="99"/>mul sine vlla vicissitudine temporum</quote>. consequentia  
         <lb ed="#L" n="100"/>patet.
         </p>
         <p xml:id="rh-l2q4-d1e1983">
@@ -2351,7 +2351,7 @@
         <lb ed="#L" n="101"/>sine corpore. Tenet cotus supatr ii sententia. quod sic:  
         <lb ed="#L" n="102"/>non solum per accidens ad motum corporis: sed etiam  
         <lb ed="#L" n="103"/>o se a seipso: sicut anima christi descendit ad in- 
-        <lb ed="#L" n="104"/>ferna. Tenet <name>hibernicus</name> quam non supaer. ii. sent.  
+        <lb ed="#L" n="104"/>ferna. Tenet <name xml:id="rh-l2q4-Nd1e4652">hibernicus</name> quam non supaer. ii. sent.  
         <lb ed="#L" n="105"/>dist. vi articulo ultimo. un dicit quod nullus  
         <lb ed="#L" n="106"/>spritens creatus potest moueri localiter nisi per  
         <!--167.xml-->
@@ -2427,7 +2427,7 @@
         <lb ed="#L" n="47"/>Platonem in duobus: quia posuit angelos moue- 
         <lb ed="#L" n="48"/>re se. vbi probat quod omne moues in quibuscum 
         <lb ed="#L" n="49"/>qua debet esse compositum ex duabus partibus: qua 
-        <lb ed="#L" n="50"/>rum vna movet aliam. Est igitur opinio: <name>hiber- 
+        <lb ed="#L" n="50"/>rum vna movet aliam. Est igitur opinio: <name xml:id="rh-l2q4-Nd1e4794">hiber- 
         <lb ed="#L" n="51"/>nici</name> propter ista: quod angelus nullo modo mouetu  
         <lb ed="#L" n="52"/>localiter per se sine corpore: nec subito nec  
         <lb ed="#L" n="53"/>successive: sed potest mutari localiter subito et su  
