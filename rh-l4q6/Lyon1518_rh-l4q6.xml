@@ -259,8 +259,8 @@
           <p xml:id="rh-l4q6-d1e490">
             <lb ed="#L" n="70"/>De primo solet antiquitus teneri quod de omni peccato  
             <lb ed="#L" n="71"/>potest sacerdos absoluere: nisi in quinque casi 
-            <lb ed="#L" n="72"/>bus. vt dicit <ref xml:id="rh-l4q6-Rd1e498"><name>Raimundus</name> in summula sua de 
-            <lb ed="#L" n="73"/>casibus libro iii ti. de pen. et re.</ref> sed dicens <ref xml:id="rh-l4q6-Rd1e505"><name>Ostien<!-- hostensius--></name>. in 
+            <lb ed="#L" n="72"/>bus. vt dicit <ref xml:id="rh-l4q6-Rd1e498"><name xml:id="rh-l4q6-Nd1e499">Raimundus</name> in summula sua de 
+            <lb ed="#L" n="73"/>casibus libro iii ti. de pen. et re.</ref> sed dicens <ref xml:id="rh-l4q6-Rd1e505"><name xml:id="rh-l4q6-Nd1e506">Ostien<!-- hostensius--></name>. in 
             <lb ed="#L" n="74"/>summa sua ponit plures de pe. et re capitulo cui 
             <lb ed="#L" n="75"/>confitendum</ref>. vbi ponit octo.
           </p>
@@ -268,16 +268,16 @@
           <!-- possibly: https://books.google.com/books?id=AQtCAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
             column 1571 -->
           <p xml:id="rh-l4q6-d1e518">
-            <quote source="http://scta.info/resource/nbht7y-d1e2104-d1e3966">Primus est: vbi est  
+            <quote xml:id="rh-l4q6-Qd1e523" source="http://scta.info/resource/nbht7y-d1e2104-d1e3966">Primus est: vbi est  
             <lb ed="#L" n="76"/>solennis poenitentia imponenda</quote>.
           </p>
           <p xml:id="rh-l4q6-d1e524">
-            <quote source="http://scta.info/resource/nbht7y-d1e2104-d1e3973">Secundus est de  
+            <quote xml:id="rh-l4q6-Qd1e531" source="http://scta.info/resource/nbht7y-d1e2104-d1e3973">Secundus est de  
             <lb ed="#L" n="77"/>excommunicatis a canone: quos aliquando epss absol 
             <lb ed="#L" n="78"/>vere potest: aliquando non.</quote>
           </p>
           <p xml:id="rh-l4q6-d1e531">
-            <quote source="http://scta.info/resource/nbht7y-d1e2104-d1e3977">Tertius est de irregula 
+            <quote xml:id="rh-l4q6-Qd1e541" source="http://scta.info/resource/nbht7y-d1e2104-d1e3977">Tertius est de irregula 
             <lb ed="#L" n="79"/>ritate contracta</quote> in qua epss potest dispensare:  
             <lb ed="#L" n="80"/>vel si non possit / miitat eum ad papam cum suis li- 
               <lb ed="#L" n="81"/>teris. hoc intelligendum est de clericis qui volunt 
@@ -286,7 +286,7 @@
             <lb ed="#L" n="84"/>uere.
           </p>
           <p xml:id="rh-l4q6-d1e547">
-            <quote source="http://scta.info/resource/nbht7y-d1e2104-d1e3986">Quartus est de incendiariis. vbi primo  
+            <quote xml:id="rh-l4q6-Qd1e560" source="http://scta.info/resource/nbht7y-d1e2104-d1e3986">Quartus est de incendiariis. vbi primo  
             <lb ed="#L" n="85"/>videndum est quid est incendiarius. et est qui in 
             <lb ed="#L" n="86"/>cendit auctoritate propria ciuitatem / vel villam  
             <lb ed="#L" n="87"/>vel mansionem / vel segentem / vel rem similem malo  
@@ -323,22 +323,22 @@
             <lb ed="#L" n="9"/>uuntur ab epo.
           </p>
           <p xml:id="rh-l4q6-d1e623">
-            <quote source="http://scta.info/resource/nbht7y-d1e2104-d1e3992">Quintus casus est in crimi- 
+            <quote xml:id="rh-l4q6-Qd1e639" source="http://scta.info/resource/nbht7y-d1e2104-d1e3992">Quintus casus est in crimi- 
             <lb ed="#L" n="10"/>ne publico: sicut in blasphemante. ex de ma<lb ed="#L" n="11"/>ledicis. 
             statuimus.</quote>
           </p>
           <p xml:id="rh-l4q6-d1e630">
-            <quote source="http://scta.info/resource/nbht7y-d1e2104-d1e3999">Sextus est in voto fra<lb ed="#L" n="12"/>cto. 
+            <quote xml:id="rh-l4q6-Qd1e649" source="http://scta.info/resource/nbht7y-d1e2104-d1e3999">Sextus est in voto fra<lb ed="#L" n="12"/>cto. 
              ex de voto et voti redemptione. capi i</quote>
           </p>
-          <p>
-            <lb ed="#L" n="13"/><quote source="http://scta.info/resource/nbht7y-d1e2104-d1e4004">Septimus si ipsemet episcopus confessionem sui 
+          <p xml:id="rh-l4q6-d1e656">
+            <lb ed="#L" n="13"/><quote xml:id="rh-l4q6-Qd1e659" source="http://scta.info/resource/nbht7y-d1e2104-d1e4004">Septimus si ipsemet episcopus confessionem sui 
             <lb ed="#L" n="14"/>subditi audivit de aliquo peccato: tunc in- 
             <lb ed="#L" n="15"/>ferior non potest eum punire pro illo dite xxi in  
             <lb ed="#L" n="16"/>ferior sedes.</quote>
           </p>
           <p xml:id="rh-l4q6-d1e643">
-            <quote source="http://scta.info/resource/nbht7y-d1e2104-d1e4008">Octavus si sit consuetudo in  
+            <quote xml:id="rh-l4q6-Qd1e671" source="http://scta.info/resource/nbht7y-d1e2104-d1e4008">Octavus si sit consuetudo in  
             <lb ed="#L" n="17"/>aliquo episcopatu: quod episcopus ista peccata  
             <lb ed="#L" n="18"/>audiat: sicut de parientibus quae filios oppri- 
             <lb ed="#L" n="19"/>munt: de homicidiis: de falsariis: de sacrile 
