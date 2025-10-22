@@ -54,20 +54,20 @@
           <lb ed="#L" n="32"/><pc type="#pilcrow"/>Sequuntur questiones eiusdem  
           <lb ed="#L" n="33"/>in secundum librum sententiarum. 
           <lb ed="#L" n="34"/>us ergo Eiusdem magistri oberti holkot vi- 
-          <lb ed="#L" n="35"/>ri longe argutissimi circa secundum sen- 
-          <lb ed="#L" n="36"/>tentiarum incipitur disquisitio: pro cuius de 
-          <lb ed="#L" n="37"/>claratione praemittit sic.
+          <lb ed="#L" n="35"/>ri longe argutissimi circa secundum 
+          sen<lb ed="#L" n="36" break="no"/>tentiarum incipitur disquisitio: pro cuius 
+          de<lb ed="#L" n="37" break="no"/>claratione praemittit sic.
         </p>
         <p xml:id="rh-l2prae-d1e118">
-          <lb ed="#L" n="38"/>Distinctione prima secun 
-          <lb ed="#L" n="39"/>di libri sententiarum agit magister de crea- 
-          <lb ed="#L" n="40"/>tione hominis: et dicit hominem ideo creatum  
+          <lb ed="#L" n="38"/>Distinctione prima 
+          secun<lb ed="#L" n="39" break="no"/>di libri sententiarum agit magister de 
+          crea<lb ed="#L" n="40" break="no"/>tione hominis: et dicit hominem ideo creatum  
           <lb ed="#L" n="41"/>a deo ut deo serviret et deo frueretur. Uer- 
           <lb ed="#L" n="42"/>sus autem finem primi libri agit magister de 
-          <lb ed="#L" n="43"/>gubernatione divina quaefit specialiter cir- 
-          <lb ed="#L" n="44"/>ca naturam rationalem per praedestinatio  
-          <lb ed="#L" n="45"/>nem et prescientiam: ideo continuando quo- 
-          <lb ed="#L" n="46"/>dammodo finem primi libri cum principio 
+          <lb ed="#L" n="43"/>gubernatione divina quaefit specialiter 
+          cir<lb ed="#L" n="44" break="no"/>ca naturam rationalem per praedestinatio  
+          <lb ed="#L" n="45"/>nem et prescientiam: ideo continuando 
+          quo<lb ed="#L" n="46" break="no"/>dammodo finem primi libri cum principio 
           <lb ed="#L" n="47"/>secundi quaero istam questionem.
         </p>
       </div>
