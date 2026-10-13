@@ -232,7 +232,7 @@
           <lb ed="#L" n="93"/>non immediate et principue in deo: sed in habere deum
           </p>
           <p xml:id="rh-l1q3-d1e457">
-          <lb ed="#L" n="94"/>Confirmatur ista ratio per <ref xml:id="rh-l1q3-Rd1e469" corresp="#rh-l1q3-Qd1e478"><name>Augustinum</name> xiii <title>de trinitate</title> capitulo v</ref> 
+          <lb ed="#L" n="94"/>Confirmatur ista ratio per <ref xml:id="rh-l1q3-Rd1e469" corresp="#rh-l1q3-Qd1e478"><name xml:id="rh-l1q3-Nd1e463">Augustinum</name> xiii <title>de trinitate</title> capitulo v</ref> 
           <lb ed="#L" n="95"/><quote xml:id="rh-l1q3-Qd1e478" source="http://scta.info/resource/adt-l13-d1e1428">Omnes homines beati esse volunt: illudque vnum  
           <lb ed="#L" n="96"/>ardentissimo amore appetunt: et propter hoc 
           ce<lb ed="#L" n="97" break="no"/>tera quacumque appetunt</quote>. sed esse beatum non est  
@@ -689,7 +689,7 @@
           <p xml:id="rh-l1q3-d1e1358">
             Sed contra 
             <lb ed="#L" n="23"/>istam opinionem potest argui ex dictis <ref xml:id="rh-l1q3-Rd1e1397" corresp="#rh-l1q3-Qd1e1416">beati  
-          <lb ed="#L" n="24"/><name>Augustinus</name> primo <title>de doctrina christi</title> capitulo vi</ref> ubi in  
+          <lb ed="#L" n="24"/><name xml:id="rh-l1q3-Nd1e1391">Augustinus</name> primo <title>de doctrina christi</title> capitulo vi</ref> ubi in  
           <lb ed="#L" n="25"/>quirit quomodo deus diligat nos: et quaerit  
           <lb ed="#L" n="26"/>vtrum deus fruatur nobis an vtatur nobis de  
           <lb ed="#L" n="27"/>terminat quod vtitur nobis. et in arguendo 
@@ -858,7 +858,7 @@
           <lb ed="#L" n="42"/>nem arguitur sic: si ipsa esset vera: sequitur ista  
           <lb ed="#L" n="43"/>conclusio: quod magis diligens deum minus di 
           <lb ed="#L" n="44"/>ligatur a deo: consequens est falsum: et contra 
-          <lb ed="#L" n="45"/>illud Prouer. viii. <quote source="http://scta.info/resource/prov8_17@1-4">Ego diligentes me 
+          <lb ed="#L" n="45"/>illud Prouer. viii. <quote xml:id="rh-l1q3-Qd1e1721" source="http://scta.info/resource/prov8_17@1-4">Ego diligentes me 
           dili<lb ed="#L" n="46" break="no"/>go</quote>. et consequentia vbatur sic.
           </p>
           <p xml:id="rh-l1q3-d1e1689">
@@ -1040,13 +1040,13 @@
           </p>
           <p xml:id="rh-l1q3-d1e2023">
             Ad 
-          aucto<lb ed="#L" n="67" break="no"/>ritatem scripturae Prover. viii. <quote source="http://scta.info/resource/prov8_17@1-4">Ego 
+          aucto<lb ed="#L" n="67" break="no"/>ritatem scripturae Prover. viii. <quote xml:id="rh-l1q3-Qd1e2064" source="http://scta.info/resource/prov8_17@1-4">Ego 
           diligen<lb ed="#L" n="68" break="no"/>tes me diligo</quote>. dico quod diligere accipit aequi- 
           <lb ed="#L" n="69"/>uoce in scriptura. Uno mo pro actu vel pro 
           <lb ed="#L" n="70"/>motu voluntatis in deum: quo voluntas vult  
           <lb ed="#L" n="71"/>deo bonum. Alio modo diligere deum vocatur  
           <lb ed="#L" n="72"/>in scriptura perseveranter vivere secundum  
-          <lb ed="#L" n="73"/>mandata divina. iuxta illud. <quote source="http://scta.info/resource/io14_21@1-7">Qui audit mam 
+          <lb ed="#L" n="73"/>mandata divina. iuxta illud. <quote xml:id="rh-l1q3-Qd1e2080" source="http://scta.info/resource/io14_21@1-7">Qui audit mam 
           <lb ed="#L" n="74"/>data mea: et servat ea</quote> etc. Primo modo 
           loquen<lb ed="#L" n="75" break="no"/>do de dilectione: non opitet quod qui magis dili 
           <lb ed="#L" n="76"/>git deum: magis diligatur a deo: immo christus  
@@ -1112,7 +1112,7 @@
           <lb ed="#L" n="15"/>praeceptum secundum circumstantias debitas: et ideo  
           <lb ed="#L" n="16"/>large loquendo transgreditur quodlibet 
           prae<lb ed="#L" n="17" break="no"/>ceptum: et transgreditur circumstantiam inclusam  
-          <lb ed="#L" n="18"/>sub quolibet praecepto. sic concedo quod <quote source="http://scta.info/resource/iac2_10@6-13">qui deli 
+          <lb ed="#L" n="18"/>sub quolibet praecepto. sic concedo quod <quote xml:id="rh-l1q3-Qd1e2211" source="http://scta.info/resource/iac2_10@6-13">qui deli 
           <lb ed="#L" n="19"/>quitur in vno: factus est omnium reus</quote>.
           </p>
           <p xml:id="rh-l1q3-d1e2171">
@@ -1444,7 +1444,7 @@
           <lb ed="#L" n="63"/>non potest demonstrari antecedens naturali ratione.  
           <lb ed="#L" n="64"/>Assumptum probatur. videlicet quod haec non pos- 
           <lb ed="#L" n="65"/>sit demonstrarinaturali ratione: deus est. quia  
-          <lb ed="#L" n="66"/>sola fide tenetur. Ad hebre. xi. <quote source="http://scta.info/resource/hebr11_6@6-18">Credere 
+          <lb ed="#L" n="66"/>sola fide tenetur. Ad hebre. xi. <quote xml:id="rh-l1q3-Qd1e2862" source="http://scta.info/resource/hebr11_6@6-18">Credere 
           opor<lb ed="#L" n="67" break="no"/>tet accedentem ad deum: quia est: et 
           inquirenti<lb ed="#L" n="68" break="no"/>bus se remunerator sit</quote>. Idem patet inductive 
           <lb ed="#L" n="69"/>ex sufficientia rationum qua ad hoc inducuntur
@@ -1608,7 +1608,7 @@
           <lb ed="#L" n="90"/>deum super omnia diligendum: quia secundum apo- 
           <lb ed="#L" n="91"/>stolum Roma. primo. Gentiles pro creaturas  
           <lb ed="#L" n="92"/>visibiles deuenerunt in notitiam dei. Unde  
-          <lb ed="#L" n="93"/>dicit. Deus enim illis reuelauit. <quote source="http://scta.info/resource/rom1_20@1-13">invisibilia  
+          <lb ed="#L" n="93"/>dicit. Deus enim illis reuelauit. <quote xml:id="rh-l1q3-Qd1e3193" source="http://scta.info/resource/rom1_20@1-13">invisibilia  
           <lb ed="#L" n="94"/>enim dei a creatura mundi per ea quae facta 
           <lb ed="#L" n="95"/>sunt intellecta conspiciuntur</quote> etc. Ex hac 
           au<lb ed="#L" n="96" break="no"/>ctoritate arguitur sic. tantam cognitionem  
@@ -1643,7 +1643,7 @@
           <lb ed="#L" n="10"/>si non: ergo fuerunt excusabiles. si sic: igil  
           <lb ed="#L" n="11"/>naturali ratione potest hoc probari. Similiter  
           <lb ed="#L" n="12"/>apostolus assumit oppositum. nam quod 
-          invi<lb ed="#L" n="13" break="no"/>sibilia dei: idest attributa deo invisibili <quote source="http://scta.info/resource/rom1_20@7-13">per 
+          invi<lb ed="#L" n="13" break="no"/>sibilia dei: idest attributa deo invisibili <quote xml:id="rh-l1q3-Qd1e3264" source="http://scta.info/resource/rom1_20@7-13">per 
           <lb ed="#L" n="14"/>ea qonto facta sunt / intellecta conspiciuntur</quote>:  
           <lb ed="#L" n="15"/>idest per propositiones formatas de terminis  
           <lb ed="#L" n="16"/>intellectis cognoscuntur praedicata de deo 
@@ -1725,7 +1725,7 @@
           </p>
           <p xml:id="rh-l1q3-d1e3365">
             Item apostolus ad Roma. secundo  
-          <lb ed="#L" n="75"/><quote source="http://scta.info/resource/rom2_14@1-20">Gentes quae legem non habent: ipse sibi sunt lex 
+          <lb ed="#L" n="75"/><quote xml:id="rh-l1q3-Qd1e3422" source="http://scta.info/resource/rom2_14@1-20">Gentes quae legem non habent: ipse sibi sunt lex 
           <lb ed="#L" n="76"/>id est naturaliter ea quae legis sunt faciunt</quote>.  
           <lb ed="#L" n="77"/>sed lex divina sive lex Mousaica prncipit deum  
           <lb ed="#L" n="78"/>diligi super omnia: ergo gentiles hoc naturaliter 
@@ -1758,7 +1758,7 @@
           Prae- 
           <lb ed="#L" n="100"/>terea. Anselmus prosolorg. ca. secundo. di- 
           <lb ed="#L" n="101"/>it quod deus non potest cogitari non esse. et 
-          ar<lb ed="#L" n="102" break="no"/>guit contra insipientem: qui dicit <quote source="http://scta.info/resource/ps13_1@7-12">in corde 
+          ar<lb ed="#L" n="102" break="no"/>guit contra insipientem: qui dicit <quote xml:id="rh-l1q3-Qd1e3489" source="http://scta.info/resource/ps13_1@7-12">in corde 
           <lb ed="#L" n="103"/>suo non est deus</quote>: sic probans deum esse. Insi 
           <lb ed="#L" n="104"/>piens qui audit istud aliquid quo maius non  
           <lb ed="#L" n="105"/>potest cogitari in intellectu: ergo quod audit:  
@@ -1972,7 +1972,7 @@
           </p>
           <p xml:id="rh-l1q3-d1e3844">
             Ad 
-          auctorita<lb ed="#L" n="52" break="no"/>tem apostoli: <quote source="http://scta.info/resource/rom2_14@3-6">gentes quae legem non</quote> etc. Dico quod 
+          auctorita<lb ed="#L" n="52" break="no"/>tem apostoli: <quote xml:id="rh-l1q3-Qd1e3904" source="http://scta.info/resource/rom2_14@3-6">gentes quae legem non</quote> etc. Dico quod 
           <lb ed="#L" n="53"/>essetes quae legem Morsi non habent: viventes  
           <!--069.xml-->
           <cb ed="#L" n="b"/><!--35rb-->

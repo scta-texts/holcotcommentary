@@ -92,7 +92,7 @@
             </p>
             <p xml:id="rh-l4q5-d1e176">
             <lb ed="#L" n="44"/>Secundo quia praelato dicitur Prover. xxvii 
-            <quote source="http://scta.info/resource/prov27_23@1-5">Diligen<lb ed="#L" n="45" break="no"/>ter agnosce vultum pecoris tui</quote>. quod non pos 
+            <quote xml:id="rh-l4q5-Qd1e174" source="http://scta.info/resource/prov27_23@1-5">Diligen<lb ed="#L" n="45" break="no"/>ter agnosce vultum pecoris tui</quote>. quod non pos 
             <lb ed="#L" n="46"/>melius quam per confessionem. ergo etc.
             </p>
             <p xml:id="rh-l4q5-d1e186">
@@ -392,7 +392,7 @@
             con<lb ed="#L" n="68" break="no"/>traria iurisdictioni: et piudicialis diceno pape 
             <lb ed="#L" n="69"/>et toti ecelie. et haec est intentio pape Ioannes xxii in  
             <lb ed="#L" n="70"/>constitutione superius allegata contra <ref xml:id="rh-l4q5-Rd1e778">magistrum  
-            <lb ed="#L" n="71"/><name>Ioannem de poliacio</name> ii arti.</ref> vbi dixit quod 
+            <lb ed="#L" n="71"/><name xml:id="rh-l4q5-Nd1e778">Ioannem de poliacio</name> ii arti.</ref> vbi dixit quod 
             stan<lb ed="#L" n="72" break="no"/>te constitutione omnis utriusque sexus: Roman- 
             <lb ed="#L" n="73"/>pontifex potest facere quod parochiani non 
             tene<lb ed="#L" n="74" break="no"/>antur confiteri semel in anno sua peccata proprio 
@@ -517,7 +517,7 @@
           </p>
           <p xml:id="rh-l4q5-d1e1035">
             <lb ed="#L" n="67"/>Ad secundam formam eiusdem principalis de 
-            au<lb ed="#L" n="68" break="no"/>ctoritate Prouerbuer. xxvii. <quote source="http://scta.info/resource/prov27_23@1-5">Diligenter 
+            au<lb ed="#L" n="68" break="no"/>ctoritate Prouerbuer. xxvii. <quote xml:id="rh-l4q5-Qd1e1037" source="http://scta.info/resource/prov27_23@1-5">Diligenter 
             agno<lb ed="#L" n="69" break="no"/>sce vultum pecoris tui</quote>. dico quod nulli imponit  
             <lb ed="#L" n="70"/>impossibile. libr.o vi ex de rergu. iuris. nullus  
             <lb ed="#L" n="71"/>potest ad impossibile obligari. Si autem illud  
