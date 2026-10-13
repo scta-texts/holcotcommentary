@@ -1,0 +1,2351 @@
+{
+  "rh-l1q1": {
+    "rh-l1q1-d1e3766": [
+      {
+        "candidate_id": "Isam9_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase"
+      }
+    ],
+    "rh-l1q1-d1e3993": [
+      {
+        "candidate_id": "mt1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"de qua natus est\" incidental"
+      }
+    ],
+    "rh-l1q1-d1e4300": [
+      {
+        "candidate_id": "hebr11_33",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "rh-l1q1-d1e4406": [
+      {
+        "candidate_id": "qoh8_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase"
+      }
+    ],
+    "rh-l1q1-d1e5650": [
+      {
+        "candidate_id": "prov30_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase"
+      }
+    ],
+    "rh-l1q1-d1e5822": [
+      {
+        "candidate_id": "mc16_16",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "rh-l1q1-d1e6474": [
+      {
+        "candidate_id": "Icor1_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q1-d1e6541": [
+      {
+        "candidate_id": "ex20_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase"
+      }
+    ],
+    "rh-l1q1-d1e8094": [
+      {
+        "candidate_id": "qoh9_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental \"in vita sua\""
+      }
+    ],
+    "rh-l1q1-d1e8345": [
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "false positive; quote is IIsam7_3"
+      },
+      {
+        "candidate_id": "Isam10_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "false positive; quote is IIsam7_3 (ii Reg vii)"
+      },
+      {
+        "candidate_id": "IIsam7_3",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "rh-l1q1-d1e8715": [
+      {
+        "candidate_id": "col2_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ]
+  },
+  "rh-l1q2": {
+    "rh-l1q2-d1e232": [
+      {
+        "candidate_id": "prov13_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "logical formula \"vult et non vult\""
+      }
+    ],
+    "rh-l1q2-d1e721": [
+      {
+        "candidate_id": "IIcor1_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      },
+      {
+        "candidate_id": "Iio3_17",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "unattributed allusion"
+      }
+    ],
+    "rh-l1q2-d1e1158": [
+      {
+        "candidate_id": "prov13_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "logical formula \"vult et non vult\""
+      }
+    ],
+    "rh-l1q2-d1e1294": [
+      {
+        "candidate_id": "ex20_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q2-d1e2435": [
+      {
+        "candidate_id": "Iio4_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q2-d1e2600": [
+      {
+        "candidate_id": "Iio4_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q2-d1e2885": [
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"non est aliud\" in Anselm citation"
+      }
+    ],
+    "rh-l1q2-d1e4412": [
+      {
+        "candidate_id": "Iio3_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l1q2-d1e5283": [
+      {
+        "candidate_id": "Iio3_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q2-d1e5464": [
+      {
+        "candidate_id": "lc21_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q2-d1e5926": [
+      {
+        "candidate_id": "prov13_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "logical formula"
+      }
+    ],
+    "rh-l1q2-d1e7374": [
+      {
+        "candidate_id": "prov13_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "logical formula"
+      }
+    ],
+    "rh-l1q2-d1e8034": [
+      {
+        "candidate_id": "mt11_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental \"quae factae sunt\""
+      },
+      {
+        "candidate_id": "mt11_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q2-d1e8505": [
+      {
+        "candidate_id": "Ireg14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"in hoc tempore\" incidental"
+      },
+      {
+        "candidate_id": "rom11_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q2-d1e8695": [
+      {
+        "candidate_id": "lc2_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"sicut dictum est\" incidental"
+      }
+    ],
+    "rh-l1q2-d1e8735": [
+      {
+        "candidate_id": "rom14_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"omne autem quod non\" incidental"
+      }
+    ]
+  },
+  "rh-l1q3": {
+    "rh-l1q3-d1e609": [
+      {
+        "candidate_id": "deut12_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q3-d1e1040": [
+      {
+        "candidate_id": "Ith4_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q3-d1e1622": [
+      {
+        "candidate_id": "ier33_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q3-d1e1676": [
+      {
+        "candidate_id": "prov8_17",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "rh-l1q3-d1e2023": [
+      {
+        "candidate_id": "io14_21",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "loose citation (Qui audit mandata mea)"
+      },
+      {
+        "candidate_id": "prov8_17",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l1q3-d1e2149": [
+      {
+        "candidate_id": "iac2_10",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "unattributed paraphrase"
+      }
+    ],
+    "rh-l1q3-d1e2284": [
+      {
+        "candidate_id": "Ireg8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"non est aliud nisi\" incidental"
+      },
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"non est aliud nisi\" incidental"
+      }
+    ],
+    "rh-l1q3-d1e2794": [
+      {
+        "candidate_id": "hebr11_6",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "rh-l1q3-d1e3113": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "rh-l1q3-d1e3192": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quote interrupted by gloss; encoded continuation only"
+      }
+    ],
+    "rh-l1q3-d1e3365": [
+      {
+        "candidate_id": "rom2_14",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "paraphrase, word order rearranged"
+      }
+    ],
+    "rh-l1q3-d1e3426": [
+      {
+        "candidate_id": "ps9_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quote is Ps 13:1"
+      },
+      {
+        "candidate_id": "ps9_34",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quote is Ps 13:1"
+      },
+      {
+        "candidate_id": "abd1_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "\"qui dicit in corde suo\" \u2014 quote is Ps 13:1"
+      },
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "via Anselm Proslogion 2"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parallel verse; encoded with ps13_1"
+      }
+    ],
+    "rh-l1q3-d1e3844": [
+      {
+        "candidate_id": "rom2_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l1q3-d1e4044": [
+      {
+        "candidate_id": "hebr4_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"sicut supra dictum est\" incidental"
+      }
+    ]
+  },
+  "rh-l1q4": {
+    "rh-l1q4-d1e139": [
+      {
+        "candidate_id": "IIsam7_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"omne quod est in\" incidental"
+      },
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ]
+  },
+  "rh-l1q5": {
+    "rh-l1q5-d1e277": [
+      {
+        "candidate_id": "IIsam7_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      },
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q5-d1e938": [
+      {
+        "candidate_id": "IIsam7_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      },
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l1q5-d1e1402": [
+      {
+        "candidate_id": "IIsam7_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      },
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ]
+  },
+  "rh-l2q1": {
+    "rh-l2q1-d1e231": [
+      {
+        "candidate_id": "is40_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"pro omnibus peccatis suis\" incidental"
+      }
+    ],
+    "rh-l2q1-d1e428": [
+      {
+        "candidate_id": "Ireg8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"non est aliud nisi\" in Anselm citation"
+      },
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q1-d1e966": [
+      {
+        "candidate_id": "mal1_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites Malachi i; wording identical to Rom 9:13"
+      },
+      {
+        "candidate_id": "rom9_13",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "MS attributes to Malachi; encoded as mal1_3"
+      }
+    ],
+    "rh-l2q1-d1e1083": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "rh-l2q1-d1e1158": [
+      {
+        "candidate_id": "is26_12",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l2q1-d1e1336": [
+      {
+        "candidate_id": "am3_6",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "rh-l2q1-d1e1651": [
+      {
+        "candidate_id": "lc8_56",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "allusion (\"in euangelio\")"
+      }
+    ],
+    "rh-l2q1-d1e1817": [
+      {
+        "candidate_id": "iac1_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"in omnibus viis suis\" \u2014 quote is Ps 144:17"
+      },
+      {
+        "candidate_id": "ps144_17",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l2q1-d1e1945": [
+      {
+        "candidate_id": "iac1_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quote is Ps 144:17"
+      },
+      {
+        "candidate_id": "ps144_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "via Anselm Proslogion 11"
+      }
+    ],
+    "rh-l2q1-d1e2817": [
+      {
+        "candidate_id": "IIchr32_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"usque ad mortem\" incidental"
+      },
+      {
+        "candidate_id": "IIreg20_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      },
+      {
+        "candidate_id": "ap2_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      },
+      {
+        "candidate_id": "is38_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q1-d1e3271": [
+      {
+        "candidate_id": "IIsam7_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      },
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q1-d1e3445": [
+      {
+        "candidate_id": "Ireg8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      },
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q1-d1e3499": [
+      {
+        "candidate_id": "io16_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q1-d1e3761": [
+      {
+        "candidate_id": "Icor6_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q1-d1e4601": [
+      {
+        "candidate_id": "mal1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quoted via Rom 9:13, encoded there"
+      },
+      {
+        "candidate_id": "rom14_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"tu quis es qui\" \u2014 quote is Rom 9:20"
+      },
+      {
+        "candidate_id": "rom9_16",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "part of multi-verse quote Rom 9:11-16"
+      },
+      {
+        "candidate_id": "rom9_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "part of multi-verse quote Rom 9:18-20"
+      },
+      {
+        "candidate_id": "rom9_13",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "part of multi-verse quote Rom 9:11-16"
+      },
+      {
+        "candidate_id": "rom9_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "part of multi-verse quote Rom 9:18-20"
+      },
+      {
+        "candidate_id": "rom9_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "part of multi-verse quote Rom 9:11-16"
+      },
+      {
+        "candidate_id": "rom9_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "part of multi-verse quote Rom 9:11-16"
+      },
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "part of multi-verse quote Rom 9:18-20"
+      },
+      {
+        "candidate_id": "rom9_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "part of multi-verse quote Rom 9:11-16"
+      },
+      {
+        "candidate_id": "rom9_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "part of multi-verse quote Rom 9:11-16"
+      }
+    ],
+    "rh-l2q1-d1e5059": [
+      {
+        "candidate_id": "prov30_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q1-d1e5306": [
+      {
+        "candidate_id": "mal2_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "\"omnis qui facit malum\" incidental"
+      }
+    ],
+    "rh-l2q1-d1e6093": [
+      {
+        "candidate_id": "Iio3_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q1-d1e6276": [
+      {
+        "candidate_id": "sap11_24",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "unattributed paraphrase"
+      }
+    ]
+  },
+  "rh-l2q2": {
+    "rh-l2q2-d1e478": [
+      {
+        "candidate_id": "deut22_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q2-d1e895": [
+      {
+        "candidate_id": "ap5_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q2-d1e954": [
+      {
+        "candidate_id": "dan9_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      },
+      {
+        "candidate_id": "io1_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Io 1:3-4 punctuation \"quod factum est in ipso vita erat\""
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "rh-l2q2-d1e1428": [
+      {
+        "candidate_id": "ier48_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental"
+      }
+    ],
+    "rh-l2q2-d1e1452": [
+      {
+        "candidate_id": "IIchr18_27",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel verse; MS cites iii Reg xxii, encoded as Ireg22_28"
+      },
+      {
+        "candidate_id": "Ireg22_28",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites iii Reg xxii"
+      }
+    ],
+    "rh-l2q2-d1e1514": [
+      {
+        "candidate_id": "IIchr34_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "IIchr34_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "IIreg23_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ap22_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "deut28_58",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "deut29_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "gal3_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ier25_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ier30_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ier35_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ier7_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ios20_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ios23_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc18_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc21_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "num5_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc24_44",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIchr34_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ios1_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "Ichr16_40",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "bar2_2",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "IItim2_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "rh-l2q2-d1e1749": [
+      {
+        "candidate_id": "Iio4_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q2-d1e1875": [
+      {
+        "candidate_id": "ps13_5",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "unattributed allusion"
+      },
+      {
+        "candidate_id": "ps52_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel verse; encoded with ps13_5"
+      }
+    ],
+    "rh-l2q2-d1e1935": [
+      {
+        "candidate_id": "col2_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q2-d1e2954": [
+      {
+        "candidate_id": "ier25_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc1_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ps108_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q2-d1e3058": [
+      {
+        "candidate_id": "ap17_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ap17_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q2-d1e3740": [
+      {
+        "candidate_id": "deut32_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "deut4_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ex22_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc6_29",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q2-d1e3843": [
+      {
+        "candidate_id": "ier48_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q2-d1e4336": [
+      {
+        "candidate_id": "zac9_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q2-d1e7182": [
+      {
+        "candidate_id": "IIchr18_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel verse; MS cites iii Reg xxii"
+      },
+      {
+        "candidate_id": "Ireg22_22",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites iii Reg xxii; two fragments"
+      }
+    ],
+    "rh-l2q2-d1e7539": [
+      {
+        "candidate_id": "prov30_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q2-d1e8376": [
+      {
+        "candidate_id": "IIchr18_27",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel verse; MS cites iii Reg xxii"
+      },
+      {
+        "candidate_id": "Ireg22_28",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "rh-l2q3": {
+    "rh-q2q3-d1e615": [
+      {
+        "candidate_id": "ez20_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-q2q3-d1e726": [
+      {
+        "candidate_id": "sap16_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-q2q3-d1e918": [
+      {
+        "candidate_id": "Ireg14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "rom11_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-q2q3-d1e1325": [
+      {
+        "candidate_id": "ez29_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ]
+  },
+  "rh-l2q4": {
+    "rh-l2q4-d1e628": [
+      {
+        "candidate_id": "IIchr6_30",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "via Augustine"
+      },
+      {
+        "candidate_id": "ps7_10",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ier17_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "multi-verse quote Ier 17:9-10"
+      },
+      {
+        "candidate_id": "ier17_10",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "multi-verse quote Ier 17:9-10"
+      }
+    ],
+    "rh-l2q4-d1e1420": [
+      {
+        "candidate_id": "ier14_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e1540": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ps112_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e1569": [
+      {
+        "candidate_id": "Imac8_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ps112_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e1844": [
+      {
+        "candidate_id": "zac11_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e2016": [
+      {
+        "candidate_id": "hebr2_17",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc22_43",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l2q4-d1e2035": [
+      {
+        "candidate_id": "mt18_10",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l2q4-d1e2106": [
+      {
+        "candidate_id": "is63_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "via Jerome"
+      },
+      {
+        "candidate_id": "eph3_10",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps23_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "rh-l2q4-d1e3529": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ps112_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e4228": [
+      {
+        "candidate_id": "ier8_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e4308": [
+      {
+        "candidate_id": "gen29_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e4560": [
+      {
+        "candidate_id": "IImac1_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "Ireg13_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "act4_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "deut22_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ez21_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ier44_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "iudic20_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc12_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lev1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "sap1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "sir40_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e4877": [
+      {
+        "candidate_id": "ios4_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e4890": [
+      {
+        "candidate_id": "act10_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ps101_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e5460": [
+      {
+        "candidate_id": "dan5_29",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e5469": [
+      {
+        "candidate_id": "act12_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e5535": [
+      {
+        "candidate_id": "bar6_51",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e5580": [
+      {
+        "candidate_id": "gen13_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ier40_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "iudic20_22",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ps112_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e5688": [
+      {
+        "candidate_id": "tob12_15",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l2q4-d1e5743": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ps112_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e6458": [
+      {
+        "candidate_id": "ier33_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l2q4-d1e6603": [
+      {
+        "candidate_id": "prov30_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ]
+  },
+  "rh-l3q1": {
+    "rh-l3q1-d1e500": [
+      {
+        "candidate_id": "ez44_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt15_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt19_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt19_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l3q1-d1e1306": [
+      {
+        "candidate_id": "hebr6_16",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e1418": [
+      {
+        "candidate_id": "Ireg2_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "hebr6_15",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "part of multi-verse quote Heb 6:13-15"
+      },
+      {
+        "candidate_id": "hebr6_17",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "part of multi-verse quote Heb 6:16-18"
+      },
+      {
+        "candidate_id": "hebr6_18",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "part of multi-verse quote Heb 6:16-18"
+      },
+      {
+        "candidate_id": "hebr6_16",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "part of multi-verse quote Heb 6:16-18"
+      },
+      {
+        "candidate_id": "hebr6_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr6_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e1801": [
+      {
+        "candidate_id": "mt26_24",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e3903": [
+      {
+        "candidate_id": "lc4_30",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e4160": [
+      {
+        "candidate_id": "io10_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc22_66",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc23_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt26_63",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l3q1-d1e4198": [
+      {
+        "candidate_id": "io10_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc22_66",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc23_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt26_63",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l3q1-d1e4270": [
+      {
+        "candidate_id": "io10_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc22_66",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc23_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt26_63",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l3q1-d1e4293": [
+      {
+        "candidate_id": "lc23_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l3q1-d1e4383": [
+      {
+        "candidate_id": "iob40_12",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e4392": [
+      {
+        "candidate_id": "ier33_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "IIcor11_14",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e4802": [
+      {
+        "candidate_id": "rom1_21",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_22",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e4998": [
+      {
+        "candidate_id": "sir10_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l3q1-d1e5064": [
+      {
+        "candidate_id": "IIreg9_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc2_44",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase of narrative"
+      },
+      {
+        "candidate_id": "lc2_46",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e5154": [
+      {
+        "candidate_id": "act4_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "deut22_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ier44_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc12_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "sap1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "sir40_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l3q1-d1e5460": [
+      {
+        "candidate_id": "gen22_5",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e5657": [
+      {
+        "candidate_id": "ier20_7",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e5691": [
+      {
+        "candidate_id": "iac5_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt5_37",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "via Augustine; paraphrase"
+      }
+    ],
+    "rh-l3q1-d1e6071": [
+      {
+        "candidate_id": "neh9_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "iob12_24",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "rh-l3q1-d1e6184": [
+      {
+        "candidate_id": "num22_38",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l3q1-d1e6224": [
+      {
+        "candidate_id": "ier1_10",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "combined with end of Ier 1:5"
+      },
+      {
+        "candidate_id": "ier1_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quoted twice; loose wording"
+      },
+      {
+        "candidate_id": "ier20_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "rh-l4q1": {
+    "rh-l4q1-d1e587": [
+      {
+        "candidate_id": "mt28_20",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS attributes to Ioannes"
+      }
+    ],
+    "rh-l4q1-d1e698": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q1-d1e964": [
+      {
+        "candidate_id": "io3_5",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "rh-l4q1-d1e1803": [
+      {
+        "candidate_id": "Iio4_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ex9_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q1-d1e1965": [
+      {
+        "candidate_id": "io3_5",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "rh-l4q1-d1e2967": [
+      {
+        "candidate_id": "Ireg8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "num22_38",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q1-d1e3130": [
+      {
+        "candidate_id": "lc3_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mc1_4",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ]
+  },
+  "rh-l4q3": {
+    "rh-l4q3-d1e270": [
+      {
+        "candidate_id": "iudic20_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e969": [
+      {
+        "candidate_id": "ex22_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e1023": [
+      {
+        "candidate_id": "Icor11_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mc14_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt24_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt26_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e1152": [
+      {
+        "candidate_id": "Icor11_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mc14_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt26_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e1180": [
+      {
+        "candidate_id": "Icor11_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mc14_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt26_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e1269": [
+      {
+        "candidate_id": "Icor11_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mc14_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt26_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e1309": [
+      {
+        "candidate_id": "Icor11_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mc14_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt26_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e1378": [
+      {
+        "candidate_id": "ps72_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e1442": [
+      {
+        "candidate_id": "Ipetr4_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "io6_52",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "rh-l4q3-d1e1725": [
+      {
+        "candidate_id": "prov30_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e1772": [
+      {
+        "candidate_id": "IImac1_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "Ireg13_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "ez21_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "gen28_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "iudic20_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lev1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e2051": [
+      {
+        "candidate_id": "act12_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e3017": [
+      {
+        "candidate_id": "is59_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "rom3_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e3180": [
+      {
+        "candidate_id": "sir21_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q3-d1e3553": [
+      {
+        "candidate_id": "Icor11_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "lc22_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mc14_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "mt26_26",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "words of institution as recited in canon of the Mass"
+      }
+    ]
+  },
+  "rh-l4q4": {
+    "rh-l4q4-d1e188": [
+      {
+        "candidate_id": "iob31_33",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "rh-l4q4-d1e274": [
+      {
+        "candidate_id": "io20_23",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "combined with Io 20:22"
+      },
+      {
+        "candidate_id": "io20_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "rh-l4q5": {
+    "rh-l4q5-d1e176": [
+      {
+        "candidate_id": "prov27_23",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "rh-l4q5-d1e632": [
+      {
+        "candidate_id": "ez18_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q5-d1e1035": [
+      {
+        "candidate_id": "prov27_23",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "rh-l4q7": {
+    "rh-l4q7-d1e442": [
+      {
+        "candidate_id": "IIreg20_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "IIreg20_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "Isam9_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ]
+  },
+  "rh-l4q8": {
+    "rh-l4q8-d1e836": [
+      {
+        "candidate_id": "ex33_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q8-d1e1481": [
+      {
+        "candidate_id": "sir1_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ],
+    "rh-l4q8-d1e2670": [
+      {
+        "candidate_id": "IIcor11_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      },
+      {
+        "candidate_id": "rom1_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "incidental shared phrase; no quotation"
+      }
+    ]
+  }
+}
