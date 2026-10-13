@@ -1,0 +1,3181 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l1q1": {
+    "summary": "Holcot's prologue question asks whether a wayfarer in grace merits eternal life by assenting to the articles of faith. It becomes a sustained case for doxastic involuntarism and a covenantal account of merit. Holcot argues that belief is not in the will's power: one assents only to what appears true, through evidence, testimony, miracles, custom, or grace. He rejects the common view that the will commands assent for the sake of reward, and holds that the articles are contrary to, not merely above, natural reason. Merit, by contrast, rests entirely on God's freely established law and acceptance. It is not in a creature's power that its act be meritorious, God could reward natural acts, and no inference to merit is formal. Hence the question is false on its conditional and causal readings and true only temporally, for one who wills to believe and whose act God accepts. Bare assent is meritorious only broadly; willing to believe is meritorious strictly. In the doubts and replies Holcot criticizes Anselm's definition of free will. He grants that by God's absolute power one could merit by false belief and God could deceive, that heresy requires pertinacity, that truth has no degrees, and that merit does not require final perseverance.",
+    "claims": [
+      "Belief is not in the will's free power.",
+      "The articles of faith are contrary to natural reason.",
+      "Merit depends wholly on God's freely established law and acceptance.",
+      "Assent to the articles is meritorious only broadly; willing to believe is strictly meritorious.",
+      "By absolute power God could make one merit by believing falsehood."
+    ],
+    "concepts": [
+      "doxastic involuntarism",
+      "merit",
+      "divine acceptation",
+      "pactum",
+      "faith and reason",
+      "testimony",
+      "potentia absoluta",
+      "free will"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-Dd1e97",
+        "rh-l1q1-Dd1e115",
+        "rh-l1q1-Dd1e941",
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-Dd1e1730",
+        "rh-l1q1-Dd1e1864",
+        "rh-l1q1-Dd1e2031",
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-Dd1e2476"
+      ]
+    }
+  },
+  "rh-l1q1-Dd1e97": {
+    "summary": "Opening statement of the question: whether every wayfarer in grace merits eternal life by assenting to the articles of faith.",
+    "claims": [],
+    "concepts": [
+      "merit",
+      "faith",
+      "eternal life"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-d1e3497"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3497": {
+    "summary": "States the question: whether every wayfarer in grace merits eternal life by assenting to the articles of faith.",
+    "claims": [],
+    "concepts": [
+      "merit",
+      "faith",
+      "articles of faith",
+      "eternal life",
+      "viator"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1"
+      ]
+    }
+  },
+  "rh-l1q1-Dd1e115": {
+    "summary": "Eight principal arguments attack the thesis that assent to the articles is meritorious. A commanded belief in one's own damnation would make one merit and sin at once. A first act meriting eternal life implies that better acts would merit more than an infinite reward, and that a sinner's minimal contrition outweighs a saint's martyrdom. Both a maximum and no maximum of merit are incoherent. Contingent articles could be false, so one could merit by false faith and Christ could deceive. Implicit faith lets the simple merit by believing heresy. Contingent and necessary articles cannot be believed equally. No act in life is accompanied by final perseverance. Hebrews 11 is cited for the opposite.",
+    "claims": [
+      "The meritoriousness of faith generates paradoxes about reward, degrees of merit, false belief, and perseverance."
+    ],
+    "concepts": [
+      "merit",
+      "contrition",
+      "degrees of merit",
+      "future contingents",
+      "implicit faith",
+      "final perseverance"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-d1e3518",
+        "rh-l1q1-d1e3571",
+        "rh-l1q1-d1e3665",
+        "rh-l1q1-d1e3750",
+        "rh-l1q1-d1e3766",
+        "rh-l1q1-d1e3830",
+        "rh-l1q1-d1e3869",
+        "rh-l1q1-d1e3887",
+        "rh-l1q1-d1e3953",
+        "rh-l1q1-d1e3993",
+        "rh-l1q1-d1e4051",
+        "rh-l1q1-d1e4109",
+        "rh-l1q1-d1e4165",
+        "rh-l1q1-d1e4217",
+        "rh-l1q1-d1e4224",
+        "rh-l1q1-d1e4252",
+        "rh-l1q1-d1e4300"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3518": {
+    "summary": "First principal argument. Suppose God commands Socrates to believe that he will be damned, and Socrates obeys. He then merits by believing on God's authority, yet believing himself damned he despairs and sins mortally, so he would simultaneously merit and sin mortally, having and lacking grace.",
+    "claims": [
+      "Believing a divinely commanded proposition of one's own damnation would be both meritorious and despair."
+    ],
+    "concepts": [
+      "merit",
+      "despair",
+      "divine command",
+      "mortal sin",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3571": {
+    "summary": "Second principal argument. If Socrates merits eternal life by his first act of faith a, then an act twice as good would merit a reward double an infinite reward, which is contradictory. Denying that he can later perform a better act is irrational, and an equal act would be either under-rewarded or rewarded beyond what God can give.",
+    "claims": [
+      "If one act merits eternal life, a better act would merit more than an infinite reward."
+    ],
+    "concepts": [
+      "condign merit",
+      "infinite reward",
+      "proportion of merit and reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3665": {
+    "summary": "Third principal argument. Suppose Socrates is the best of men and Plato the worst unbeliever. Socrates performs a supremely good act a, such as martyrdom, while Plato has a minimal act of contrition b. Socrates merits by a only an additional degree f of beatitude, while Plato merits eternal life g, which is better than f. So the worst man would merit more by a minimal act than the best by an excellent one, contrary to distributive justice.",
+    "claims": [
+      "A sinner's minimal contrition would merit more than a saint's best act."
+    ],
+    "concepts": [
+      "distributive justice",
+      "degrees of beatitude",
+      "contrition",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3750": {
+    "summary": "A possible response: Socrates merits by a not merely eternal life anew but eternal life at degree f, which is more than Plato's eternal life at a lower degree.",
+    "claims": [
+      "Socrates merits eternal life at a higher degree."
+    ],
+    "concepts": [
+      "degrees of beatitude",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115",
+        "rh-l1q1-d1e3665"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3766": {
+    "summary": "Rebuts the response. No one is justly rewarded for a new act with the same reward already owed for an earlier one, or the new act would be in vain. Everything essential to beatitude was already owed Socrates before a, yet all of it is due to Plato for b alone. So Plato merits more. Generalizing, no one persisting in grace can merit as much as by sinning mortally and repenting, and no work can be better than one's first meritorious work.",
+    "claims": [
+      "A new act cannot be rewarded by what was already owed.",
+      "Persisting in grace would merit less than sinning and repenting."
+    ],
+    "concepts": [
+      "justice of reward",
+      "essential beatitude",
+      "repentance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115",
+        "rh-l1q1-d1e3750"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3830": {
+    "summary": "Confirms by showing that minimal contrition is at least twice as meritorious as any martyrdom. The contrite sinner merits two infinite goods, release from eternal punishment (as great a good as the obligation was an evil) and the gift of eternal life. The saint merits only a degree of greater joy.",
+    "claims": [
+      "Contrition merits two infinite goods, release from punishment and eternal life."
+    ],
+    "concepts": [
+      "contrition",
+      "eternal punishment",
+      "infinite goods",
+      "martyrdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115",
+        "rh-l1q1-d1e3766"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3869": {
+    "summary": "Further confirmation: had Plato always been innocent, his first good work would have merited only eternal life, so prior sin makes him merit more, and sin would oddly be a cause of greater reward.",
+    "claims": [
+      "Prior sin would increase merit."
+    ],
+    "concepts": [
+      "sin and merit",
+      "innocence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115",
+        "rh-l1q1-d1e3830"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3887": {
+    "summary": "Fourth principal argument: is there a highest degree of merit possible to Socrates? If not, his reward could equal or exceed Christ's finite reward, and his soul would not have finite power, against Aristotle's De caelo. If so, God could prolong his life after he reaches it, and he would be a perfect wayfarer in grace unable to merit, though he could act from greater grace with equal effort.",
+    "claims": [
+      "Neither a maximum nor no maximum of merit is coherent."
+    ],
+    "concepts": [
+      "degrees of merit",
+      "finite power",
+      "maximum and minimum",
+      "Christ's merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3953": {
+    "summary": "Continues: if there is a maximum, take one who reached it at the world's beginning and an equal who reaches it a thousand years later. God cannot justly reward the latter equally, since a longer-lasting good is better, and the reward cannot be made up by intensity if each is rewarded to the full capacity of his nature.",
+    "claims": [
+      "Duration of reward makes equal merits unequally rewarded."
+    ],
+    "concepts": [
+      "duration of beatitude",
+      "justice of reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115",
+        "rh-l1q1-d1e3887"
+      ]
+    }
+  },
+  "rh-l1q1-d1e3993": {
+    "summary": "Fifth principal argument. If God wills us to merit by believing the articles, one could merit by a false faith. 'The resurrection will be' is contingent, depending on God's free will, so it could be false, and Socrates who merited by believing it would have merited by believing falsehood. This contradicts Anselm (Cur Deus homo II.16), who says a false faith in Christ's future death could have profited nothing.",
+    "claims": [
+      "Contingent articles could be false, so merit could rest on false faith."
+    ],
+    "concepts": [
+      "future contingents",
+      "contingency of articles",
+      "false faith",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4051": {
+    "summary": "Further: it would follow that Christ could deceive us, since he freely caused faith in the contingent 'the resurrection will be', which could be false. Augustine (83 Questions, q. 13) argues that if Christ deceived he would not be truth, which is impossible.",
+    "claims": [
+      "Christ could have deceived if the articles he taught are contingent."
+    ],
+    "concepts": [
+      "divine deception",
+      "Christ as truth",
+      "contingency",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115",
+        "rh-l1q1-d1e3993"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4109": {
+    "summary": "Sixth principal argument. Either everyone is bound to believe all the articles explicitly, so every old woman must know all scripture, or not, yet everyone must avoid heresy and so know each article's opposite. If a simple woman believes her heretical prelate and dies for a heresy she thinks Catholic, she either is a martyr, though not a witness to truth, or not, though she does what is in her with invincible ignorance. So one could merit, even as a martyr, by believing the opposite of an article.",
+    "claims": [
+      "Implicit faith would allow merit through believing heresy."
+    ],
+    "concepts": [
+      "implicit faith",
+      "invincible ignorance",
+      "heresy",
+      "martyrdom",
+      "facere quod in se est"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4165": {
+    "summary": "Seventh principal argument. Must all articles be believed with equal certainty? If so, a proposition believed contingent ('the resurrection will be') would be held as firmly as one believed necessary ('Christ was born of a virgin'), which seems impossible.",
+    "claims": [
+      "One cannot assent equally to contingent and necessary propositions."
+    ],
+    "concepts": [
+      "certainty of faith",
+      "contingent and necessary articles",
+      "degrees of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4217": {
+    "summary": "Proposes that one need not assent equally to all articles, but more to some.",
+    "claims": [
+      "Assent to different articles may differ in firmness."
+    ],
+    "concepts": [
+      "degrees of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115",
+        "rh-l1q1-d1e4165"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4224": {
+    "summary": "Rebuts: the same revelation and miracles confirm both articles, so their evidence is equal, and Augustine (actually Fulgentius, De fide ad Petrum) says whatever faith teaches must be believed most firmly, so all equally.",
+    "claims": [
+      "All articles must be believed equally and most firmly."
+    ],
+    "concepts": [
+      "certainty of faith",
+      "revelation",
+      "miracles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115",
+        "rh-l1q1-d1e4217"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4252": {
+    "summary": "Eighth principal argument. No act of belief merits eternal life without final perseverance, but no act of belief in this life is accompanied by final perseverance. After the act's midpoint, 'he had final perseverance' would be necessary, yet at any later instant he could sin mortally.",
+    "claims": [
+      "No act of faith during life is accompanied by final perseverance."
+    ],
+    "concepts": [
+      "final perseverance",
+      "merit",
+      "temporal necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4300": {
+    "summary": "For the opposite: Hebrews 11, 'the saints by faith conquered kingdoms, wrought justice, obtained promises', and obtaining promises is meriting eternal life.",
+    "claims": [
+      "The saints merited eternal life through faith."
+    ],
+    "concepts": [
+      "Hebrews 11",
+      "faith and merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-Dd1e941": {
+    "summary": "Divides the question into seven parts: whether belief is in human free power; whether the merit of an act is in human power; whether God can cause assent without the creature's co-agency; whether one can merit without free will; the answer to the question; doubts; and replies to the principal arguments.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "divisio quaestionis",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-d1e4326"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4326": {
+    "summary": "Divides the question into seven parts: whether believing the articles is in one's free power; whether it is in one's power that one's act be meritorious or demeritorious; whether God can cause assent or dissent in a creature without its cooperation; whether one can merit without use of free will; the answer to the question; doubts; and replies to the principal arguments.",
+    "claims": [],
+    "concepts": [
+      "structure of the question",
+      "voluntariness of belief",
+      "merit",
+      "free will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e941"
+      ]
+    }
+  },
+  "rh-l1q1-Dd1e978": {
+    "summary": "Holcot argues that believing any proposition, including the articles of faith, is not in a person's free power. Assent cannot be produced by a command of the will without evidence. One cannot even freely opine, the articles are maximally inevident, and one believes only what appears true. He then attacks the common voluntarist view that the articles are merely above reason and that the will, moved by promised reward, commands the intellect to assent. Against it he argues that the articles are contrary to natural reason. Rewards cannot buy belief, and voluntary belief would make doubt optional and lying impossible. Testimony and miracles cause firm assent, and demons believe without willing. Erroneous consciences hold beliefs against their will. The voluntarist account presupposes faith, and voluntary belief would make joy and grief optional.",
+    "claims": [
+      "Belief is not in the will's free power.",
+      "One believes only what appears true.",
+      "The articles of faith are contrary to, not merely above, natural reason.",
+      "Testimony and miracles can cause firm assent without the will's command."
+    ],
+    "concepts": [
+      "doxastic involuntarism",
+      "imperium voluntatis",
+      "evidence",
+      "testimony",
+      "contra rationem",
+      "faith and reason"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-d1e4358",
+        "rh-l1q1-d1e4406",
+        "rh-l1q1-d1e4417",
+        "rh-l1q1-d1e4488",
+        "rh-l1q1-d1e4531",
+        "rh-l1q1-d1e4570",
+        "rh-l1q1-d1e4619",
+        "rh-l1q1-d1e4639",
+        "rh-l1q1-d1e4763",
+        "rh-l1q1-d1e4820",
+        "rh-l1q1-d1e4838",
+        "rh-l1q1-d1e4858",
+        "rh-l1q1-d1e4875",
+        "rh-l1q1-d1e4895",
+        "rh-l1q1-d1e4936",
+        "rh-l1q1-d1e4970",
+        "rh-l1q1-d1e5019"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4358": {
+    "summary": "Defines the first article. The issue is not whether one with the habit of faith can produce or withhold the act, but whether someone without faith, hearing the Trinity preached with the promise of eternal life, can at once by a command of the will and with no further evidence assent to it. More generally, can the will cause assent to a doubtful proposition?",
+    "claims": [
+      "The issue is whether the will can cause assent to a doubtful proposition without evidence."
+    ],
+    "concepts": [
+      "voluntariness of belief",
+      "imperium voluntatis",
+      "assent",
+      "doubt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4406": {
+    "summary": "Holcot's thesis: believing the articles of faith, or any proposition, is not in a person's free power. He will prove it with three arguments.",
+    "claims": [
+      "Believing any proposition is not in a person's free power."
+    ],
+    "concepts": [
+      "doxastic involuntarism",
+      "faith",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4417": {
+    "summary": "First argument. One cannot freely form even an opinion about a doubtful proposition, so one cannot freely form firm assent without fear of the opposite, which is greater and harder. Experience shows that a neutral proposition such as 'the king is sitting' remains doubtful whatever one wills until assent is compelled. That happens by its connection to something believed, by credible testimony, by new intuitive cognition, or by the matter appearing otherwise.",
+    "claims": [
+      "One cannot freely form an opinion about a doubtful proposition.",
+      "Assent is caused by evidence, testimony, intuition, or appearance, not by will."
+    ],
+    "concepts": [
+      "doxastic involuntarism",
+      "opinion",
+      "testimony",
+      "intuitive cognition",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4406"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4488": {
+    "summary": "Supports the first argument from Averroes on De anima II. We can imagine at will but cannot opine at will, since opinion follows what appears true, so for Aristotle and Averroes opining is not in our free power.",
+    "claims": [
+      "We can imagine but not opine at will."
+    ],
+    "concepts": [
+      "Averroes",
+      "imagination and opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4417"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4531": {
+    "summary": "Second argument. The articles of faith are the most inevident of all propositions believed true, being contrary to natural reason (one thing is three; a virgin bears God's son). If one could freely assent to them, one could freely assent to anything less difficult, yet one must doubt 'the king sits' whether one wills or not.",
+    "claims": [
+      "The articles are maximally inevident.",
+      "If one could freely believe the articles, one could freely believe anything."
+    ],
+    "concepts": [
+      "inevidence",
+      "articles of faith",
+      "natural reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4406"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4570": {
+    "summary": "Third argument. It is not in one's power that things appear as a proposition says, and one believes a proposition only if it appears true, so belief is not in one's power. 'I believe this is true and it does not appear true to me' is contradictory. Hence the description of faith as 'of things not apparent' is literally false.",
+    "claims": [
+      "One believes only what appears true.",
+      "Faith is not literally 'of things not apparent'."
+    ],
+    "concepts": [
+      "appearance",
+      "belief",
+      "definition of faith",
+      "Hebrews 11"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4406"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4619": {
+    "summary": "Defers the treatment of the Apostle's description of faith in Hebrews 11 to later.",
+    "claims": [],
+    "concepts": [
+      "Hebrews 11",
+      "definition of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4570"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4639": {
+    "summary": "Presents the opposing opinion. The articles are above rather than against natural reason; they seem contrary only to natural apprehension, as the sun's being larger than the earth seems to a rustic. The promised reward does not compel the intellect but moves the will, which commands the intellect to assent to one side of a contradiction. Faith is therefore meritorious because it is commanded by the will, not caused by evidence. Arguments and miracles can cause opinion in the unpersuaded but not firm assent without the will's command.",
+    "claims": [
+      "According to the opponents, the articles are above but not against reason.",
+      "According to the opponents, the will commands the intellect to assent for the sake of reward.",
+      "According to the opponents, faith is meritorious because it is commanded by the will."
+    ],
+    "concepts": [
+      "voluntarism about belief",
+      "imperium voluntatis",
+      "supra rationem",
+      "reward",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4531"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4763": {
+    "summary": "Argues against the opposing opinion that the articles are contrary to natural reason, not merely above it. Philosophers conclude it impossible for a woman to conceive without a man. Something is against natural reason when it is against the wise who follow experience and the most certain knowledge, as the sun's size would be if astronomers denied it.",
+    "claims": [
+      "The articles are contrary to natural reason, not merely above it."
+    ],
+    "concepts": [
+      "contra rationem",
+      "natural reason",
+      "philosophers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4639"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4820": {
+    "summary": "Against the claim that the will chooses assent for a promised reward: then if one man offered ten to believe the king sits and another twenty to believe he does not, one could choose either belief, which experience refutes.",
+    "claims": [
+      "Rewards cannot make one believe a proposition."
+    ],
+    "concepts": [
+      "incentives and belief",
+      "doxastic involuntarism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4639"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4838": {
+    "summary": "Further: if the will could determine assent to doubtful propositions, no one would ever need to doubt in disputation unless he willed to, contrary to experience.",
+    "claims": [
+      "If belief were voluntary, doubt would be voluntary."
+    ],
+    "concepts": [
+      "doubt",
+      "disputation",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4639"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4858": {
+    "summary": "Further: one could then assert anything without lying, by willing to believe it true.",
+    "claims": [
+      "Voluntary belief would make lying impossible."
+    ],
+    "concepts": [
+      "lying",
+      "assertion",
+      "belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4639"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4875": {
+    "summary": "Further: preaching miracles and arguments to unbelievers would be pointless unless they naturally cause assent. They cause at least as much assent as human testimony and histories, which cause assent without fear of the opposite.",
+    "claims": [
+      "Miracles and testimony cause firm assent."
+    ],
+    "concepts": [
+      "testimony",
+      "miracles",
+      "preaching",
+      "firm assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4639"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4895": {
+    "summary": "Against the claim that miracles cause only opinion in the uninclined: demons believe and tremble (James 2), not from seeing God's essence nor by command of their will, but from the miracles they have seen. So assent of faith can occur without the will's command, and what moves the demon's intellect could move a man's.",
+    "claims": [
+      "Demons' faith shows assent of faith without will's command."
+    ],
+    "concepts": [
+      "demonic faith",
+      "miracles",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4639"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4936": {
+    "summary": "Further: one with an erroneous conscience who believes lifting a straw is mortal sin would, if belief were free, be able to drop it and so never be perplexed. But such people suffer greatly because they cannot drop such beliefs though they would gladly. So belief can occur even against the will.",
+    "claims": [
+      "Erroneous consciences show belief can be against the will."
+    ],
+    "concepts": [
+      "erroneous conscience",
+      "scrupulosity",
+      "belief against the will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4639"
+      ]
+    }
+  },
+  "rh-l1q1-d1e4970": {
+    "summary": "Further: the will commands assent because it conceives that eternal reward will be given to believers, but that is itself an article of faith. So the opinion requires believing an article before any assent of faith, which is contradictory.",
+    "claims": [
+      "The voluntarist account presupposes belief in an article before assent of faith."
+    ],
+    "concepts": [
+      "circularity",
+      "reward",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4639"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5019": {
+    "summary": "Further: belief brings joy or sorrow, as certainty of a father's death saddens a son. If belief were free, the son could choose not to grieve, and one could cause in oneself unlimited joy by believing oneself tomorrow twice, then three times as blessed as St Peter, contrary to experience.",
+    "claims": [
+      "If belief were free, one could produce joy or sorrow at will."
+    ],
+    "concepts": [
+      "belief and emotion",
+      "joy and sorrow",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e978",
+        "rh-l1q1-d1e4639"
+      ]
+    }
+  },
+  "rh-l1q1-Dd1e1730": {
+    "summary": "Holcot argues that it is not in a created will's power that its act be meritorious or demeritorious. Merit is conformity to a divine law God need not impose, it consists in God's free acceptance, and it requires grace, which is in one's power only through God's revocable pact to give grace to those who place no obstacle.",
+    "claims": [
+      "It is not in a created will's power that its act be meritorious.",
+      "Merit depends on divine law, acceptance, and pact."
+    ],
+    "concepts": [
+      "divine acceptation",
+      "pactum",
+      "divine law",
+      "grace",
+      "covenantal theology"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-d1e5094",
+        "rh-l1q1-d1e5103",
+        "rh-l1q1-d1e5112",
+        "rh-l1q1-d1e5142",
+        "rh-l1q1-d1e5166"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5094": {
+    "summary": "States the second article: whether it is in a person's power that his act be meritorious or demeritorious.",
+    "claims": [],
+    "concepts": [
+      "merit",
+      "demerit",
+      "human power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e1730"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5103": {
+    "summary": "Conclusion: it is not in the power of a created will that its act be meritorious of some good, or demeritorious so that a penalty corresponds to it.",
+    "claims": [
+      "It is not in a created will's power that its act be meritorious or demeritorious."
+    ],
+    "concepts": [
+      "merit",
+      "demerit",
+      "divine law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e1730"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5112": {
+    "summary": "First proof. Merit and demerit consist in an act's conformity or nonconformity to divine law, doing what God wills by precept or counsel. Whether any law is imposed on a creature is not in its power, since God could leave humans without law, as he does beasts.",
+    "claims": [
+      "Merit and demerit consist in conformity to divine law.",
+      "God could leave humans without law as he does beasts."
+    ],
+    "concepts": [
+      "divine law",
+      "merit as conformity",
+      "divine freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e1730",
+        "rh-l1q1-d1e5103"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5142": {
+    "summary": "Second proof. An act is meritorious only because God accepts it, and demeritorious only because he reproves it, and God's acceptance is not in the creature's power.",
+    "claims": [
+      "An act is meritorious only because God accepts it."
+    ],
+    "concepts": [
+      "divine acceptation",
+      "merit",
+      "demerit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e1730",
+        "rh-l1q1-d1e5103"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5166": {
+    "summary": "Third proof. Merit requires a free act done in grace, and having grace is not absolutely in one's power. It is so de facto only by the pact God has made to give grace to every rational creature who does not place an obstacle. God could abrogate that pact, accept no act without grace, or ordain that a given person never have grace and so never merit.",
+    "claims": [
+      "Having grace is in one's power only through God's pact.",
+      "God could ordain that a person never merit."
+    ],
+    "concepts": [
+      "pactum",
+      "grace",
+      "obex",
+      "potentia absoluta",
+      "covenantal theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e1730",
+        "rh-l1q1-d1e5103"
+      ]
+    }
+  },
+  "rh-l1q1-Dd1e1864": {
+    "summary": "Holcot holds that God cannot cause assent or dissent in a rational creature without its co-agency, since judgment is an action of the intellect. God can produce the entity that is an assent, but so produced it would not be an assent, just as an act produced without the will would not be meritorious.",
+    "claims": [
+      "God cannot cause assent in a creature without its co-agency.",
+      "Judgment is an action of the intellect."
+    ],
+    "concepts": [
+      "assent as action",
+      "judgment",
+      "divine omnipotence"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-d1e5219"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5219": {
+    "summary": "Third article: whether God can cause assent or dissent in a rational creature without its cooperation. Holcot holds he cannot. Every judgment of a created intellect is its action, and assent and dissent are judgments, so they require the intellect's co-agency. God can produce the very thing that is an assent without the intellect, but then it would not be an assent, just as he can produce a meritorious act without the will but not as a meritorious act. If God annihilated a soul with a meritorious act and recreated both ten years later, the act would not then be meritorious, since merit requires elicitation by the meriter's will. Averroes on De anima II confirms that judging is acting.",
+    "claims": [
+      "God cannot cause assent in a creature without its co-agency.",
+      "Judgment is an action of the intellect.",
+      "God could produce the entity of an assent without the intellect, but it would not be an assent.",
+      "Merit requires that the act be elicited by the meriter's will."
+    ],
+    "concepts": [
+      "assent as action",
+      "judgment",
+      "divine omnipotence",
+      "co-causality",
+      "Averroes",
+      "elicited act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e1864"
+      ]
+    }
+  },
+  "rh-l1q1-Dd1e2031": {
+    "summary": "Distinguishing a broad sense of merit, doing an act rewarded by law, from a strict sense, doing it freely, Holcot argues that God could accept natural acts for eternal life and make free acts non-meritorious. He could set laws rewarding chance or natural events, as he accepted the deaths of the Holy Innocents. Omitting an act of will can also be meritorious or demeritorious. A note records that the article is incomplete.",
+    "claims": [
+      "God could make natural acts meritorious by law.",
+      "Merit in the broad sense does not require free will."
+    ],
+    "concepts": [
+      "divine acceptation",
+      "broad and strict merit",
+      "natural acts",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-d1e5375",
+        "rh-l1q1-d1e5382",
+        "rh-l1q1-d1e5400",
+        "rh-l1q1-d1e5411",
+        "rh-l1q1-d1e5482",
+        "rh-l1q1-d1e5511"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5375": {
+    "summary": "States the fourth article: whether one can merit or demerit without use of free will.",
+    "claims": [],
+    "concepts": [
+      "merit",
+      "free will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2031"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5382": {
+    "summary": "Distinguishes two senses of 'merit': simply doing an act to which a reward is due by an established law, or doing such an act freely and spontaneously.",
+    "claims": [
+      "'Merit' is equivocal between doing a rewarded act and doing it freely."
+    ],
+    "concepts": [
+      "equivocity of merit",
+      "law",
+      "freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2031"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5400": {
+    "summary": "Conclusion: God can accept all a person's natural acts for eternal life, and make all free acts indifferent or non-meritorious.",
+    "claims": [
+      "God can accept natural acts as meritorious and make free acts non-meritorious."
+    ],
+    "concepts": [
+      "divine acceptation",
+      "natural acts",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2031",
+        "rh-l1q1-d1e5382"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5411": {
+    "summary": "Proves the conclusion: it involves no contradiction, and God accepts acts freely, necessitated neither by himself nor by creatures. He could establish a law that whoever slips unexpectedly, or on whom the sun shines, or who is born under a certain constellation will be saved, and acts conforming to it would be meritorious in the first sense. God seems to have accepted the death of the Holy Innocents in this way, without any use of free will.",
+    "claims": [
+      "God could make natural acts meritorious by law.",
+      "God's acceptance is not necessitated.",
+      "The Holy Innocents were accepted without use of free will."
+    ],
+    "concepts": [
+      "divine acceptation",
+      "potentia absoluta",
+      "law",
+      "Holy Innocents",
+      "natural acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2031",
+        "rh-l1q1-d1e5400"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5482": {
+    "summary": "Adds a further conclusion to develop later: omitting an act of will can be meritorious or demeritorious, as when God commands willing nothing until tomorrow, or commands loving him and one acts against the command.",
+    "claims": [
+      "Omitting an act of will can be meritorious or demeritorious."
+    ],
+    "concepts": [
+      "omission",
+      "merit",
+      "divine precept"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2031"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5511": {
+    "summary": "A note that this article is truncated and incomplete, and no complete version is to be found.",
+    "claims": [],
+    "concepts": [
+      "textual incompleteness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2031"
+      ]
+    }
+  },
+  "rh-l1q1-Dd1e2182": {
+    "summary": "Holcot answers the question by distinguishing three readings of the gerund. On the conditional and causal readings the answer is no. Assent may be necessitated and so not strictly meritorious, and since merit depends on divine law, no consequence such as 'he is in grace and assents (or dies for the faith), so he merits' is formal. On the temporal reading, one in grace who assents does merit, because he wills to believe and God accepts the act.",
+    "claims": [
+      "The question is false on its conditional and causal readings.",
+      "No consequence depending on divine law is formal.",
+      "One in grace who wills to believe merits through God's acceptance."
+    ],
+    "concepts": [
+      "gerund",
+      "formal consequence",
+      "divine acceptation",
+      "contingency of merit"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-d1e5519",
+        "rh-l1q1-d1e5544",
+        "rh-l1q1-d1e5549",
+        "rh-l1q1-d1e5564",
+        "rh-l1q1-d1e5571",
+        "rh-l1q1-d1e5595",
+        "rh-l1q1-d1e5628",
+        "rh-l1q1-d1e5650",
+        "rh-l1q1-d1e5757",
+        "rh-l1q1-d1e5783"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5519": {
+    "summary": "Fifth article, on the form of the question. Because of the gerund 'assentiendo', the question can be read conditionally ('if'), causally ('because'), or temporally ('while'), and each needs a different answer.",
+    "claims": [
+      "The gerund can be read conditionally, causally, or temporally."
+    ],
+    "concepts": [
+      "gerund",
+      "conditional",
+      "causal",
+      "temporal propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5544": {
+    "summary": "First sense: whether, if a wayfarer assents to the articles, he merits.",
+    "claims": [],
+    "concepts": [
+      "conditional proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-d1e5519"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5549": {
+    "summary": "Second sense: whether because a wayfarer assents he therefore merits, assuming he is in grace, since without grace there is no merit unless God pleases.",
+    "claims": [],
+    "concepts": [
+      "causal proposition",
+      "grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-d1e5519"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5564": {
+    "summary": "Third sense: whether, while a wayfarer assents, he merits.",
+    "claims": [],
+    "concepts": [
+      "temporal proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-d1e5519"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5571": {
+    "summary": "Answers the conditional sense negatively: the antecedent can be true while the consequent is false, so the inference 'he is in grace and assents, so he merits' is invalid.",
+    "claims": [
+      "The conditional reading of the question is false."
+    ],
+    "concepts": [
+      "consequence",
+      "validity",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-d1e5544"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5595": {
+    "summary": "First proof: one in grace may assent necessarily, through a reason that seems demonstrative or through habituation, so that he cannot not believe. He does not merit in the strict sense, which requires free assent.",
+    "claims": [
+      "Necessitated assent is not meritorious in the strict sense."
+    ],
+    "concepts": [
+      "necessitated assent",
+      "habituation",
+      "strict merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-d1e5571"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5628": {
+    "summary": "Further: since no one assents freely to the articles, as shown in article 1, no one merits in the strict sense by assenting, on the conditional or causal reading.",
+    "claims": [
+      "No one merits strictly by assenting to the articles."
+    ],
+    "concepts": [
+      "doxastic involuntarism",
+      "strict merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-Dd1e978"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5650": {
+    "summary": "Second proof: God can change the law of merit so that one in grace who believes all the articles merits nothing, as shown in article 2. Like 'man is an ass' if instituted to mean 'God is eternal', no consequence whose antecedent depends on divine law is formal. So 'he loves God with maximal effort', 'dies for the faith', or 'does the highest work of charity', therefore he merits, are all invalid. God freely legislates and is no more necessitated to accept an act in grace than a natural act.",
+    "claims": [
+      "No consequence depending on divine law is formal.",
+      "God could ordain that acts in grace merit nothing.",
+      "Even martyrdom does not formally entail merit."
+    ],
+    "concepts": [
+      "formal consequence",
+      "divine law",
+      "contingency of merit",
+      "imposition of terms",
+      "divine freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-Dd1e1730",
+        "rh-l1q1-d1e5571"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5757": {
+    "summary": "Answers the causal sense negatively, a fortiori, since a true causal proposition implies the corresponding conditional.",
+    "claims": [
+      "The causal reading of the question is false.",
+      "A true causal implies a true conditional."
+    ],
+    "concepts": [
+      "causal proposition",
+      "conditional"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-d1e5549"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5783": {
+    "summary": "On the temporal sense the answer depends on whether someone actually assents. If one in grace assents, he merits, not because he believes or wills to believe alone, but because he wills to believe and God accepts his act as worthy of reward, which is the principal cause.",
+    "claims": [
+      "One in grace who assents merits because he wills to believe and God accepts the act.",
+      "Divine acceptation is the principal cause of merit."
+    ],
+    "concepts": [
+      "temporal proposition",
+      "willing to believe",
+      "divine acceptation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2182",
+        "rh-l1q1-d1e5564"
+      ]
+    }
+  },
+  "rh-l1q1-Dd1e2476": {
+    "summary": "Holcot resolves three doubts and then replies to the principal arguments. Against the doubt that involuntary belief cannot be commanded or meritorious, he distinguishes senses of 'meritorious', broad and strict merit, and three senses of 'believe'. Only belief that includes willing is strictly meritorious, while bare assent is meritorious broadly and virtuous denominatively. The will can will to believe and rejoice in belief but cannot cause assent. An unbeliever can be necessitated to believe by miracles and credible testimony, and much faith rests on trust in reliable predecessors, custom, complexion, and grace. Heresy requires pertinacity. Arguments against the faith must be believed sophistical, and human nature in any state errs unless taught by God. Against Anselm he argues that keeping rectitude is not absolutely in human power, and that defining free will by rectitude wrongly includes a connotation of God's will. In the replies he holds the following: one could merit by despairing or by believing falsehood if God so ordained. God can deceive in the sense of causing error. The first meritorious act and contrition outweigh later acts. Absolutely there is no maximum of merit, and a wayfarer could equal Christ's merit. Simple believers may err without sin and even merit as martyrs. Truth has no degrees. An act can merit without final perseverance.",
+    "claims": [
+      "Only belief that includes an act of will is strictly meritorious.",
+      "An unbeliever can be necessitated to believe by evidence and testimony.",
+      "Every argument against faith must be believed sophistical.",
+      "Anselm's definition of free will by rectitude is faulty.",
+      "One could merit by believing falsehood.",
+      "Truth admits no degrees."
+    ],
+    "concepts": [
+      "senses of credere",
+      "broad and strict merit",
+      "testimony",
+      "heresy",
+      "rectitude",
+      "divine deception",
+      "degrees of merit",
+      "final perseverance"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1-d1e5809",
+        "rh-l1q1-d1e2490",
+        "rh-l1q1-d1e5822",
+        "rh-l1q1-d1e5851",
+        "rh-l1q1-d1e5902",
+        "rh-l1q1-d1e5911",
+        "rh-l1q1-d1e5932",
+        "rh-l1q1-d1e5955",
+        "rh-l1q1-d1e5966",
+        "rh-l1q1-d1e5985",
+        "rh-l1q1-d1e6019",
+        "rh-l1q1-d1e6028",
+        "rh-l1q1-d1e6083",
+        "rh-l1q1-d1e6088",
+        "rh-l1q1-d1e6142",
+        "rh-l1q1-d1e6160",
+        "rh-l1q1-d1e6173",
+        "rh-l1q1-d1e6191",
+        "rh-l1q1-d1e6276",
+        "rh-l1q1-d1e6289",
+        "rh-l1q1-d1e6334",
+        "rh-l1q1-d1e6362",
+        "rh-l1q1-d1e6474",
+        "rh-l1q1-d1e6541",
+        "rh-l1q1-d1e6567",
+        "rh-l1q1-d1e6587",
+        "rh-l1q1-d1e6595",
+        "rh-l1q1-d1e6631",
+        "rh-l1q1-d1e6670",
+        "rh-l1q1-d1e6694",
+        "rh-l1q1-d1e6703",
+        "rh-l1q1-d1e6725",
+        "rh-l1q1-d1e6750",
+        "rh-l1q1-d1e6799",
+        "rh-l1q1-d1e6853",
+        "rh-l1q1-d1e6887",
+        "rh-l1q1-d1e6909",
+        "rh-l1q1-d1e6933",
+        "rh-l1q1-d1e6945",
+        "rh-l1q1-d1e7023",
+        "rh-l1q1-d1e7059",
+        "rh-l1q1-d1e7083",
+        "rh-l1q1-d1e7096",
+        "rh-l1q1-d1e7125",
+        "rh-l1q1-d1e7151",
+        "rh-l1q1-d1e7186",
+        "rh-l1q1-d1e7266",
+        "rh-l1q1-d1e7290",
+        "rh-l1q1-d1e7301",
+        "rh-l1q1-d1e7326",
+        "rh-l1q1-d1e7336",
+        "rh-l1q1-d1e7354",
+        "rh-l1q1-d1e7370",
+        "rh-l1q1-d1e7416",
+        "rh-l1q1-d1e7453",
+        "rh-l1q1-d1e7502",
+        "rh-l1q1-d1e7593",
+        "rh-l1q1-d1e7607",
+        "rh-l1q1-d1e7623",
+        "rh-l1q1-d1e7668",
+        "rh-l1q1-d1e7694",
+        "rh-l1q1-d1e7716",
+        "rh-l1q1-d1e7739",
+        "rh-l1q1-d1e7767",
+        "rh-l1q1-d1e7834",
+        "rh-l1q1-d1e7847",
+        "rh-l1q1-d1e7868",
+        "rh-l1q1-d1e7879",
+        "rh-l1q1-d1e7902",
+        "rh-l1q1-d1e7929",
+        "rh-l1q1-d1e8035",
+        "rh-l1q1-d1e8055",
+        "rh-l1q1-d1e8094",
+        "rh-l1q1-d1e8124",
+        "rh-l1q1-d1e8185",
+        "rh-l1q1-d1e8258",
+        "rh-l1q1-d1e8291",
+        "rh-l1q1-d1e8323",
+        "rh-l1q1-d1e8345",
+        "rh-l1q1-d1e8438",
+        "rh-l1q1-d1e8483",
+        "rh-l1q1-d1e8531",
+        "rh-l1q1-d1e8551",
+        "rh-l1q1-d1e8582",
+        "rh-l1q1-d1e8593",
+        "rh-l1q1-d1e8616",
+        "rh-l1q1-d1e8679",
+        "rh-l1q1-d1e8699",
+        "rh-l1q1-d1e8715"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5809": {
+    "summary": "Sixth article: resolving doubts about what has been said.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476"
+      ]
+    }
+  },
+  "rh-l1q1-d1e2490": {
+    "summary": "First doubt, about article 1's conclusion that believing the articles is not in the will's free power, which seems false for many reasons.",
+    "claims": [],
+    "concepts": [
+      "doxastic involuntarism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-Dd1e978"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5822": {
+    "summary": "First reason: then God would unreasonably command belief and punish unbelief, yet Mark 16 says he does both.",
+    "claims": [
+      "God commands belief and punishes unbelief."
+    ],
+    "concepts": [
+      "command to believe",
+      "punishment of unbelief",
+      "Mark 16"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e2490"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5851": {
+    "summary": "Second reason: Augustine's 'hold most firmly and doubt not' (actually Fulgentius) would be pointless. If reason could compel belief, people could be necessitated to faith as to physical conclusions, contrary to Augustine on John: one can do other things unwillingly but cannot believe unless willing.",
+    "claims": [
+      "According to Augustine, no one believes unless willing."
+    ],
+    "concepts": [
+      "credere non potest nisi volens",
+      "Augustine",
+      "voluntariness of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e2490"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5902": {
+    "summary": "Third reason: if assent is not free, it is neither virtuous nor meritorious.",
+    "claims": [
+      "Unfree assent is not virtuous or meritorious."
+    ],
+    "concepts": [
+      "virtue",
+      "merit",
+      "freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e2490"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5911": {
+    "summary": "Fourth reason: then unbelief and heresy would not be sins for someone who cannot solve a sophism against the faith, since an unanswerable argument would compel him as much as a good argument compels belief.",
+    "claims": [
+      "Unbelief compelled by unanswerable arguments would not be sin."
+    ],
+    "concepts": [
+      "heresy",
+      "sophism",
+      "culpability of unbelief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e2490"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5932": {
+    "summary": "Second doubt, about the claim that the faith is contrary to and not merely above natural reason. Whatever is contrary to faith is false, so a conclusion of natural reason, i.e. of demonstration, would be false.",
+    "claims": [
+      "If reason contradicts faith, demonstrated conclusions would be false."
+    ],
+    "concepts": [
+      "contra rationem",
+      "demonstration",
+      "faith and reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e4763"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5955": {
+    "summary": "Further: grace perfects and does not destroy nature, so Christian faith does not contradict nature or natural reason.",
+    "claims": [
+      "Grace perfects nature."
+    ],
+    "concepts": [
+      "gratia perficit naturam",
+      "faith and reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5932"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5966": {
+    "summary": "Further: if natural reason dictated the opposite of faith, it would compel the intellect to unbelief, and arguments against the faith could no more be solved than demonstrations.",
+    "claims": [
+      "Reason contrary to faith would necessitate unbelief."
+    ],
+    "concepts": [
+      "demonstration",
+      "unbelief",
+      "necessitation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5932"
+      ]
+    }
+  },
+  "rh-l1q1-d1e5985": {
+    "summary": "Further: all human nature would err naturally, God having made it apt to believe falsehoods. Since first principles are naturally implanted by God, God would be the sufficient cause of human error.",
+    "claims": [
+      "If reason led naturally to error, God would cause error."
+    ],
+    "concepts": [
+      "natural error",
+      "first principles",
+      "God as cause of error"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5932"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6019": {
+    "summary": "Third doubt, about article 2's conclusion that it is not in one's power that one's act be meritorious or demeritorious.",
+    "claims": [],
+    "concepts": [
+      "merit",
+      "human power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-Dd1e1730"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6028": {
+    "summary": "Argues against it from Anselm's definition of free will as the power to preserve rectitude of will for its own sake. Whoever can preserve or abandon rectitude can merit or demerit, and every human has free will.",
+    "claims": [
+      "According to Anselm, free will is the power to keep rectitude for its own sake.",
+      "Whoever can keep or abandon rectitude can merit or demerit."
+    ],
+    "concepts": [
+      "Anselm",
+      "rectitude",
+      "definition of free will",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6019"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6083": {
+    "summary": "Announces replies to the three doubts, passing over many others.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6088": {
+    "summary": "Reply to the first doubt. The core difficulty lies in three options, one of which must be granted. Either belief is not meritorious, since it is not in the will's power, against the doctors. Or belief is meritorious and voluntary, against Holcot's arguments and common experience. Or belief is meritorious though not voluntary, against authorities who say nothing is praiseworthy, virtuous, or meritorious unless freely elicited or commanded.",
+    "claims": [
+      "One must accept that belief is unmeritorious, or voluntary, or meritorious though involuntary."
+    ],
+    "concepts": [
+      "trilemma",
+      "voluntariness of belief",
+      "merit",
+      "praise and blame"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e2490"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6142": {
+    "summary": "First distinction on 'meritorious': dispositively and antecedently, as having grace or use of free will is a prerequisite of merit, though this is an improper usage.",
+    "claims": [
+      "Something can be called meritorious as a prerequisite of merit."
+    ],
+    "concepts": [
+      "dispositive merit",
+      "senses of merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6088"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6160": {
+    "summary": "Second sense: formally and essentially meritorious, being merit itself, as many hold only an act of will assisted by grace is.",
+    "claims": [
+      "Only an act of will in grace is formally meritorious, according to many."
+    ],
+    "concepts": [
+      "formal merit",
+      "act of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6088"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6173": {
+    "summary": "Third sense: meritorious as caused by an essential merit, as almsgiving and similar acts commanded by the will in conformity with a law promising reward.",
+    "claims": [
+      "Commanded acts are meritorious as effects of essential merit."
+    ],
+    "concepts": [
+      "commanded acts",
+      "derivative merit",
+      "almsgiving"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6088"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6191": {
+    "summary": "Second distinction: merit broadly is any operation or omission conforming to a divine law that promises reward, whether free, chance, or natural. Merit strictly is a free operation or omission so conforming. Every merit requires a law promising reward. If God commanded without promising reward or forbade without fixing a penalty, obeying would not be merit and transgressing not demerit, though perhaps sin.",
+    "claims": [
+      "Merit broadly includes unfree acts conforming to a law with reward.",
+      "Merit strictly requires a free act.",
+      "Merit requires a law promising reward."
+    ],
+    "concepts": [
+      "broad and strict merit",
+      "divine law",
+      "reward and penalty",
+      "covenant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6088"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6276": {
+    "summary": "Third, distinguishes 'believe' as actual or habitual, and notes that the saints use 'believe' in several senses.",
+    "claims": [
+      "'Believe' is said actually or habitually and in several senses."
+    ],
+    "concepts": [
+      "senses of credere",
+      "act and habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6289": {
+    "summary": "First sense: to believe is to assent that things are as a proposition says. In this sense we believe both what we know and what we opine. Augustine ('to think with assent') and Hugh of St Victor define it so, with nothing pertaining to freedom.",
+    "claims": [
+      "In its broadest sense, belief is assent and includes knowledge and opinion."
+    ],
+    "concepts": [
+      "assent",
+      "belief",
+      "Augustine",
+      "Hugh of St Victor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6276"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6334": {
+    "summary": "Second sense, stricter: assenting to propositions whose truth is known only by another's testimony, believing what we do not see by sense or reason.",
+    "claims": [
+      "In the stricter sense, belief is assent on testimony."
+    ],
+    "concepts": [
+      "testimony",
+      "belief",
+      "unseen things"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6276"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6362": {
+    "summary": "Third sense, strictest: assenting to what God has revealed and attested by miracles, together with willing to live by it, which includes acts of both will and intellect. Only this is meritorious in the strict sense, as in Augustine's 'to believe in God is to love by believing'. Strictly, assenting is not merit, but willing to assent, accepting, or rejoicing in assent is, since merit is essentially an act of will (Anselm). Belief can, however, be commanded by the will, as considering a geometric conclusion is, and so be meritorious with good circumstances, like almsgiving.",
+    "claims": [
+      "Only belief that includes willing to live by revelation is strictly meritorious.",
+      "Assent itself is not merit, but willing or rejoicing in assent is.",
+      "Belief can be commanded by the will and be meritorious like other commanded acts."
+    ],
+    "concepts": [
+      "credere in Deum",
+      "fides formata",
+      "merit as act of will",
+      "commanded acts",
+      "Anselm",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6276",
+        "rh-l1q1-d1e6191"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6474": {
+    "summary": "Reply to the first argument of the first doubt. God cannot command irrationally, since his will suffices as reason (Anselm, Cur Deus homo I.8). Human laws likewise command people to know practical and speculative sciences and punish the ignorant, and Damascene says it is in our power to learn an art or not.",
+    "claims": [
+      "God's will suffices as the reason for his commands.",
+      "Laws rightly require knowledge that is not directly voluntary."
+    ],
+    "concepts": [
+      "divine will as reason",
+      "command to believe",
+      "Anselm",
+      "John Damascene"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5822"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6541": {
+    "summary": "Continues the authorities: Damascene says learning an art is in our power, and Aristotle (Ethics) says those ignorant through negligence of laws they ought to know are punished.",
+    "claims": [
+      "Negligent ignorance of laws is punishable."
+    ],
+    "concepts": [
+      "culpable ignorance",
+      "Aristotle",
+      "John Damascene"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6474"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6567": {
+    "summary": "It does not follow that one can assent to a conclusion by command alone. One must learn so that reason causes assent, and likewise God ordains that people be solicitous for their salvation and inquire and learn the faith.",
+    "claims": [
+      "Assent to knowledge comes by learning, not command.",
+      "God requires people to inquire and learn the faith."
+    ],
+    "concepts": [
+      "learning",
+      "inquiry",
+      "duty to believe"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6474"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6587": {
+    "summary": "Holcot judges that for one who inquires sufficiently, reasons sufficient to cause the assent of faith are available.",
+    "claims": [
+      "Sufficient inquiry yields reasons sufficient for the assent of faith."
+    ],
+    "concepts": [
+      "inquiry",
+      "grounds of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6567"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6595": {
+    "summary": "Reply to the second argument. Augustine's 'hold most firmly' does not imply one can doubt at will. It informs the faithful which things are to be believed, since one may believe in general as the Church does yet not know in particular what is to be believed.",
+    "claims": [
+      "'Hold most firmly' specifies the content of faith, not an act of will."
+    ],
+    "concepts": [
+      "implicit and explicit faith",
+      "Fulgentius",
+      "content of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5851"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6631": {
+    "summary": "Although the will cannot command the intellect to assent to a doubtful proposition before it is certified, it can will to believe it. One can desire to know a geometric theorem by demonstration, and should will to believe the articles as needed for salvation. Once believing, one can rejoice in and accept the act. Such volitions are free and strictly meritorious.",
+    "claims": [
+      "The will can will to believe but cannot directly cause belief.",
+      "Volitions about belief are free and strictly meritorious."
+    ],
+    "concepts": [
+      "willing to believe",
+      "doxastic involuntarism",
+      "merit",
+      "second-order volition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6595"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6670": {
+    "summary": "Restates the objection: if belief follows evidence, any unbeliever could be necessitated to assent, against Augustine's 'one can do other things unwillingly, but cannot believe unless willing'.",
+    "claims": [
+      "If belief follows evidence, unbelievers could be compelled to believe."
+    ],
+    "concepts": [
+      "necessitation of faith",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5851"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6694": {
+    "summary": "Announces a two-part reply: to the inferred absurdity and to Augustine's meaning.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6670"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6703": {
+    "summary": "Grants that any unbeliever could be necessitated to believe. If unusual miracles were done to show the articles' truth, such as the dead raised by preaching who testify to it, he would be compelled to believe.",
+    "claims": [
+      "An unbeliever can be necessitated to believe by miracles."
+    ],
+    "concepts": [
+      "miracles",
+      "necessitation of faith",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6670"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6725": {
+    "summary": "Similarly, if it were evident to an unbeliever that a multitude of people truthful in word, honest in life, and expert in natural knowledge constantly asserted things beyond natural reason, he could be necessitated to assent. Miracles and probable reasons serve this purpose.",
+    "claims": [
+      "Credible testimony of wise and honest witnesses can necessitate assent.",
+      "Miracles and probable reasons suffice to cause faith."
+    ],
+    "concepts": [
+      "testimony",
+      "credibility",
+      "probable reasons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6703"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6750": {
+    "summary": "The testimony of two or three people we think truthful resolves doubt about hidden matters, since humans are naturally made to believe others' testimony. God has also implanted a readiness to believe the world is governed by higher causes, shown by religion in every people. God himself also communicates the assent of faith to unbelievers, as the Church believes.",
+    "claims": [
+      "Humans naturally believe testimony.",
+      "Religion in every people shows a natural readiness to believe.",
+      "God communicates the assent of faith."
+    ],
+    "concepts": [
+      "testimony",
+      "natural religion",
+      "infused faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6725"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6799": {
+    "summary": "A prudent person, knowing how often he has erred, would begin to doubt even an evident belief if a multitude of experts asserted the opposite. Holcot would doubt, even reject, a geometric proposition about right angles if all geometers said he was deceived. Likewise many believers today believe because they know expert and truthful people, who could neither deceive nor be deceived, believed the articles.",
+    "claims": [
+      "Expert testimony can override apparent evidence.",
+      "Much present-day faith rests on the testimony of trustworthy predecessors."
+    ],
+    "concepts": [
+      "testimony",
+      "epistemic humility",
+      "authority",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6750"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6853": {
+    "summary": "Reply to Augustine's 'cannot believe unless willing'. Augustine equivocates on 'believe', here meaning an act including will and intellect. He also means only that no one can be compelled to believe by bodily force, as his words 'if one believed with the body, it would happen in the unwilling' show.",
+    "claims": [
+      "Augustine's 'believe' includes an act of will.",
+      "Augustine means belief cannot be compelled by bodily force."
+    ],
+    "concepts": [
+      "equivocation on credere",
+      "Augustine",
+      "compulsion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6670"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6887": {
+    "summary": "Objection: Augustine still thought faith in the unwilling absurd. Reply: he meant formed faith working through love, whose name connotes a free act of will and so cannot exist in the unwilling.",
+    "claims": [
+      "Formed faith connotes a free act of will."
+    ],
+    "concepts": [
+      "fides formata",
+      "connotation",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6853"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6909": {
+    "summary": "Reply to the third argument. Belief is not meritorious in the strict sense of the modern school, which calls only a free act of will formally meritorious. It is meritorious broadly, as conforming to a law promising reward. It is virtuous denominatively from an intellectual virtue, as a work of wisdom or prudence.",
+    "claims": [
+      "Belief is meritorious broadly but not strictly.",
+      "Belief is virtuous denominatively from intellectual virtue."
+    ],
+    "concepts": [
+      "broad and strict merit",
+      "intellectual virtue",
+      "schola moderna"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5902",
+        "rh-l1q1-d1e6191"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6933": {
+    "summary": "Restates the fourth argument: then unbelief and heresy would not be sins, since a sophism could cause assent to the opposite of the articles unwillingly.",
+    "claims": [],
+    "concepts": [
+      "heresy",
+      "sophism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5911"
+      ]
+    }
+  },
+  "rh-l1q1-d1e6945": {
+    "summary": "Reply. Unbelief is not willing to believe what the Church believes, or not willing to live by the faith, such as hating Christian faith and rites. Not every error in matters of faith is heresy. One who generally wills to believe all the Spirit has revealed to the Church, but errs about a subtle article not everyone must explicitly believe, and is ready to believe the Church, is not a heretic. Papias, the founder of chiliasm, is counted among the saints; Irenaeus and Victorinus followed him and were martyrs; and Cyprian erred on rebaptism. Their errors came from simplicity, not pertinacity.",
+    "claims": [
+      "Unbelief is unwillingness to believe what the Church believes.",
+      "Error without pertinacity is not heresy.",
+      "Saints and martyrs have held erroneous doctrines without heresy."
+    ],
+    "concepts": [
+      "heresy",
+      "pertinacity",
+      "implicit faith",
+      "chiliasm",
+      "Papias",
+      "Cyprian"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6933"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7023": {
+    "summary": "Reply to the first argument of the second doubt. Grants that whatever is contrary to faith is false, and so a natural argument concluding against faith is not a demonstration but a sophism. Any such argument, even if no one can solve it, must be believed sophistical, as Anselm holds.",
+    "claims": [
+      "Any natural argument concluding against faith is a sophism.",
+      "Such arguments must be believed sophistical even if unsolved."
+    ],
+    "concepts": [
+      "sophisma",
+      "demonstration",
+      "faith and reason",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5932"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7059": {
+    "summary": "Reply to the second. Faith does perfect nature, and in this life it is ordered to believing rather than knowing. The natural desire to know is satisfied only by seeing God. Contradicting natural reason does not keep faith from perfecting nature; rather nature, imperfect without the grace of faith, errs, and faith perfects it by excluding error.",
+    "claims": [
+      "Faith perfects nature by correcting its errors.",
+      "The natural desire to know is fulfilled only in seeing God."
+    ],
+    "concepts": [
+      "gratia perficit naturam",
+      "natural desire to know",
+      "beatific vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5955"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7083": {
+    "summary": "Reply to the third. Denies that one is necessitated to unbelief, since every natural argument against faith must be called and believed sophistical.",
+    "claims": [
+      "Arguments against faith must be believed sophistical."
+    ],
+    "concepts": [
+      "sophisma",
+      "unbelief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5966"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7096": {
+    "summary": "Counter-objection using the syllogism 'no one thing is three distinct things; God is one thing; so God is not three things'. It is in valid mood and figure, so if one is necessitated to think it sophistical, that must be by a reason about its matter, which could necessitate others too.",
+    "claims": [
+      "Believing a valid trinitarian syllogism sophistical requires some necessitating reason."
+    ],
+    "concepts": [
+      "trinitarian syllogism",
+      "form and matter of argument",
+      "necessitation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7083"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7125": {
+    "summary": "Holcot replies that he believes this and every argument concluding against faith to be a sophism failing in matter or form. He believes so not spontaneously, because he wills it, but by necessity, because he believes the articles were revealed by God and sufficiently proved by miracles.",
+    "claims": [
+      "Every argument concluding against faith fails in matter or form.",
+      "Holcot believes this by necessity, from belief in revelation confirmed by miracles."
+    ],
+    "concepts": [
+      "sophisma",
+      "necessitated belief",
+      "revelation",
+      "miracles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7096"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7151": {
+    "summary": "Further objection: either one believes the articles were revealed spontaneously, or because of some other proposition, and to avoid regress there must be a first proposition believed for itself. That one either is chosen freely, which concedes the point, or necessitates assent, in which case it would necessitate anyone, since the same agent produces like effects in like patients.",
+    "claims": [
+      "A first believed proposition is either freely chosen or necessitates everyone."
+    ],
+    "concepts": [
+      "regress of reasons",
+      "first belief",
+      "necessitation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7125"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7186": {
+    "summary": "Concedes that there is a first proposition believed, in time and in order of consequence, believed for itself because it seems so. One person believes it and another does not, and the believer can give no reason except that it seems so to him, though experience shows the belief is not free or commanded by will alone. Such diversity comes from different habits or customs, as Averroes and Aristotle (Metaphysics II) say we accept what we are accustomed to hear.",
+    "claims": [
+      "There is a first belief held because it seems true.",
+      "Different people believe differently through habit and custom, not choice."
+    ],
+    "concepts": [
+      "basic belief",
+      "appearance",
+      "custom",
+      "habit",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7151"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7266": {
+    "summary": "Another cause of differing belief is the natural complexion of the imagination: those disposed by Mercury are said to be ready to believe supernatural things. Many Christians today believe because they were raised among believers, heard the articles from childhood, and saw their elders and honest people believe them.",
+    "claims": [
+      "Bodily complexion influences readiness to believe.",
+      "Upbringing among believers causes much Christian belief."
+    ],
+    "concepts": [
+      "complexion",
+      "astrological influence",
+      "upbringing",
+      "custom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7186"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7290": {
+    "summary": "Among the causes, God sometimes gives the grace of believing to one and not another, and some are led to faith by the prayers of saints.",
+    "claims": [
+      "God gives the grace of believing to some and not others."
+    ],
+    "concepts": [
+      "grace of faith",
+      "intercession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7186"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7301": {
+    "summary": "Some, solicitous for salvation, want to know what is necessary for it, and on learning that belief is necessary desire to believe and are ready to do whatever is necessary. Holcot believes such people, in whatever sect, will somehow be saved by divine grace.",
+    "claims": [
+      "Those who sincerely desire salvation and are ready to believe will be saved, in whatever sect."
+    ],
+    "concepts": [
+      "salvation of non-Christians",
+      "desire to believe",
+      "facere quod in se est"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7186"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7326": {
+    "summary": "Objection: if one is bound to will to believe, and it is natural to do so, belief depends on the will as knowledge does.",
+    "claims": [
+      "Belief depends on the will."
+    ],
+    "concepts": [
+      "willing to believe"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7301"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7336": {
+    "summary": "Grants that belief depends on the will as knowledge does, but not that it is wholly caused by the will, as 'I move my finger because I will' is true.",
+    "claims": [
+      "Belief depends on the will only as knowledge does, not as bodily movement."
+    ],
+    "concepts": [
+      "partial dependence on will",
+      "voluntary action"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7326"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7354": {
+    "summary": "Example: one can will to know that a triangle has three angles equal to two right angles but cannot know it by command alone, though willed study helps greatly. Belief is in the will's power no more than knowledge or opinion.",
+    "claims": [
+      "Belief is in the will's power only as knowledge and opinion are."
+    ],
+    "concepts": [
+      "study",
+      "knowledge",
+      "doxastic involuntarism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7336"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7370": {
+    "summary": "Reply to the fourth argument. As bodily defects such as hunger, thirst, and suffering from heat and cold follow human nature, so error and false belief follow the human intellect, especially after sin wounded nature. As Augustine and Lombard grant that free will was corrupted, so is the intellect, and faith heals these errors by 'taking the intellect captive'.",
+    "claims": [
+      "Error follows human intellect especially after the Fall.",
+      "Faith heals the intellect's errors."
+    ],
+    "concepts": [
+      "wounded nature",
+      "original sin",
+      "error",
+      "captivity of intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e5985"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7416": {
+    "summary": "Rejects that answer as insufficient, since faith about unseen things would have been needed in innocence too and would have opposed reason drawn from sense. Gives another answer: in both states human nature is apt to err in cognition unless taught by God. As Adam would have hungered unless fed, his intellect would have erred unless instructed in belief. God never fails in gifts of grace any more than in nature, so Adam would not have erred unless he first sinned.",
+    "claims": [
+      "Human nature in any state is apt to err unless taught by God.",
+      "In innocence God would have prevented error by instruction."
+    ],
+    "concepts": [
+      "state of innocence",
+      "natural fallibility",
+      "divine instruction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7370"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7453": {
+    "summary": "Reply to the third doubt. With reverence to Anselm, whom he does not understand here, Holcot denies that it is absolutely in one's power to keep or abandon rectitude, though it is under the present established law. Anselm should not have so defined free will, nor tried to prove God cannot remove rectitude from a will, since rectitude involves things distinct from the will, both the act and the divine law.",
+    "claims": [
+      "It is not absolutely in human power to keep rectitude.",
+      "Anselm's definition of free will is faulty.",
+      "Rectitude involves the divine law, distinct from the will."
+    ],
+    "concepts": [
+      "rectitude",
+      "Anselm",
+      "definition of free will",
+      "divine law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e6019",
+        "rh-l1q1-d1e6028"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7502": {
+    "summary": "Argues against Anselm's definition. A good definition converts with the defined term in every possible case, but 'a is liberty' can be true while 'a is the power to keep rectitude' is false. If God creates a man and gives him no law, his will is free, being able to do opposites, but he cannot will what God wills him to will, since God wills him to will nothing. Since rectitude is willing what God wills one to will, he cannot keep rectitude.",
+    "claims": [
+      "A will without any divine law is free but cannot keep rectitude.",
+      "A definition must convert with the defined in every possible case."
+    ],
+    "concepts": [
+      "definition",
+      "rectitude",
+      "freedom",
+      "lawless creature",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7453"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7593": {
+    "summary": "A possible response: in that case the will is necessarily right whatever it wills, since without a law whatever it does accords with God's will.",
+    "claims": [
+      "A lawless will is right whatever it wills."
+    ],
+    "concepts": [
+      "rectitude",
+      "divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7502"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7607": {
+    "summary": "Another response: by willing a man to be a man God wills him to live by right reason, so his will is right if he follows right reason, and since he can, he has power to keep rectitude.",
+    "claims": [
+      "God wills humans to live by right reason, so following it keeps rectitude."
+    ],
+    "concepts": [
+      "right reason",
+      "natural law",
+      "rectitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7502"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7623": {
+    "summary": "Argues against the second, more reasonable response. Does a keep rectitude naturally or voluntarily? If naturally, he cannot abandon it, does not merit, and on Anselm's view does not properly keep rectitude. If voluntarily, he wills rectitude and so knows it, i.e. knows that God wills him to will something, and so knows God. But naturally he could have no knowledge of God.",
+    "claims": [
+      "Keeping rectitude voluntarily would require knowledge of God's will, which a lawless creature lacks."
+    ],
+    "concepts": [
+      "rectitude",
+      "natural knowledge of God",
+      "voluntariness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7607"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7668": {
+    "summary": "Further: a power that is only a partial cause of an operation, needing other concurrents not in its power, does not have that operation in its power. The created will is only a partial cause of keeping rectitude, needing grace and divine acceptance, which is God himself.",
+    "claims": [
+      "The will is only a partial cause of keeping rectitude.",
+      "Keeping rectitude requires grace and divine acceptance outside the will's power."
+    ],
+    "concepts": [
+      "partial causality",
+      "grace",
+      "divine acceptation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7453"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7694": {
+    "summary": "A possible response: the will has power to keep rectitude because it can have grace if it wills. If it disposes itself and places no obstacle by living against natural reason, God infuses grace and accepts, so all that is required is in the will's power.",
+    "claims": [
+      "Disposing oneself and placing no obstacle secures grace."
+    ],
+    "concepts": [
+      "obex",
+      "disposition for grace",
+      "facere quod in se est"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7668"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7716": {
+    "summary": "Rebuts: nothing that depends on another's free will is in my power simply, only conditionally and as things now stand. Whether to give grace is purely in God's free will whatever I do.",
+    "claims": [
+      "What depends on another's free will is not simply in my power.",
+      "Grace depends purely on God's free will."
+    ],
+    "concepts": [
+      "divine freedom",
+      "grace",
+      "conditional power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7694"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7739": {
+    "summary": "Confirms by example. If a king knighted Socrates, Plato, Cicero and others for lifting a hundred pounds, it would be wrong to define John's equal power as 'the power to become a knight'; it should be defined as 'the power to lift a hundred pounds'. So too free will should not be defined by a reward God attaches to it.",
+    "claims": [
+      "Powers should be defined by their intrinsic acts, not by rewards attached by another's will."
+    ],
+    "concepts": [
+      "definition of powers",
+      "king analogy",
+      "covenantal reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7716"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7767": {
+    "summary": "Further: when a power is defined by its operation, the term must not connote anything extrinsic or accidental to the operation. 'Power to see moving light' is a bad definition of sight. A goldsmith cannot be said to have power to make sacred vessels, since consecration depends on the bishop, nor a silversmith to make money if the king forbids silver as currency. 'Keeping rectitude' connotes God's willing that the will will something, so it does not belong in the definition of freedom.",
+    "claims": [
+      "Definitions of powers must not include connotations extrinsic to the operation.",
+      "'Keeping rectitude' connotes God's will and so does not define freedom."
+    ],
+    "concepts": [
+      "connotative terms",
+      "definition of powers",
+      "rectitude",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7453"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7834": {
+    "summary": "Introduces the replies to the principal arguments. Although they support one side, showing that assent is not properly meritorious, some conclude insufficiently or assume doubtful things, so each is answered.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7847": {
+    "summary": "Reply to the first principal argument. The case of God commanding Socrates to believe he will be damned can be posed in two ways: God abrogates the present law requiring hope, or he does not.",
+    "claims": [
+      "The case can be posed with or without abrogating the law of hope."
+    ],
+    "concepts": [
+      "casus",
+      "divine command",
+      "law of hope"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e3518"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7868": {
+    "summary": "In the first way the case is admitted: Socrates merits by believing he will be damned, since God commands it and accepts the act.",
+    "claims": [
+      "Believing one's own damnation at God's command could be meritorious."
+    ],
+    "concepts": [
+      "divine acceptation",
+      "merit",
+      "despair"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7847"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7879": {
+    "summary": "Denies that he sins. Grants that he despairs, but denies that despair implies sin, since no such consequence is formal. If God pleased, one could merit by despairing as by hoping, taking despair's nominal definition as the belief that one will be damned.",
+    "claims": [
+      "Despair does not formally entail sin.",
+      "One could merit by despairing if God so ordained."
+    ],
+    "concepts": [
+      "despair",
+      "formal consequence",
+      "nominal definition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7868"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7902": {
+    "summary": "In the second way the case is not admitted, since God would command contraries, to despair and hope at once, which seems irrational. He could command them alternately at different times.",
+    "claims": [
+      "God would not command simultaneous hope and despair.",
+      "God could command contraries at different times."
+    ],
+    "concepts": [
+      "contrary commands",
+      "divine freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e7847"
+      ]
+    }
+  },
+  "rh-l1q1-d1e7929": {
+    "summary": "Reply to the second argument. Grants that the first meritorious act merits more than any later act, and contrition more than martyrdom or entering religion, taking the reward proper to the later act as distinct from that of the first. Otherwise some reward would be better than eternal life at a low degree, which is false. A baptized infant receives a greater good through Christ's merit than Peter merited by martyrdom alone. God does not reward irrationally, since his will suffices (Anselm). A contrite sinner can never again do so good an act unless he falls and repents again. Contrition is at least twice as good as any other good act.",
+    "claims": [
+      "The first meritorious act merits more than any later one.",
+      "Meritorious contrition is better than any other good act.",
+      "God's rewards are not irrational because his will suffices as reason."
+    ],
+    "concepts": [
+      "first merit",
+      "contrition",
+      "martyrdom",
+      "divine will as reason",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e3571",
+        "rh-l1q1-d1e3665",
+        "rh-l1q1-d1e3830"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8035": {
+    "summary": "Reply to the third argument: the same, except that it falsely assumes a later moral act can be morally better, i.e. worthy of a greater reward, than the first meritorious act.",
+    "claims": [
+      "No later act is worthy of greater reward than the first meritorious act."
+    ],
+    "concepts": [
+      "first merit",
+      "moral goodness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e3665",
+        "rh-l1q1-d1e7929"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8055": {
+    "summary": "Reply to the fourth argument. There is no highest degree of merit such that at some instant of life it is true that one now has it, since there is always time left to merit. But the argument asks whether there is a highest possible degree in life or death. He distinguishes: given Socrates' natural condition and God's present law, or absolutely.",
+    "claims": [
+      "No instant of life has the highest degree of merit."
+    ],
+    "concepts": [
+      "degrees of merit",
+      "first and last instants",
+      "absolute and ordained power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e3887"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8094": {
+    "summary": "On the first reading, there is a highest degree possible to Socrates: his life has a maximal natural span and his will a maximal effort extensively and intensively, and grace is given by common law accordingly. Since merit corresponds to intensity and duration, both of which have a maximum, there is a maximum merit, and likewise demerit.",
+    "claims": [
+      "Under present law and natural conditions there is a maximum degree of merit.",
+      "Merit corresponds to the intensity and duration of the will's act."
+    ],
+    "concepts": [
+      "maximum of merit",
+      "intensity and duration",
+      "lex communis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8055"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8124": {
+    "summary": "Denies that God can prolong Socrates' life after he reaches it, since that contradicts the case: merit grows by intensity and duration, so he never has the maximum while alive. Only at the first instant of non-being is it true that he merited degree a. Merit is either a collective name for a person's good acts or common to each act, and either way is nothing once the acts are past. To say a separated soul has great merit is improper and metaphorical, meaning it did good things for which God is bound by his law.",
+    "claims": [
+      "The maximum of merit is reached only at the first instant of death.",
+      "Merit is nothing after the acts are past.",
+      "Saying a soul has merit is a metaphor for its past good acts and God's law."
+    ],
+    "concepts": [
+      "first instant of non-being",
+      "nominalist analysis of merit",
+      "collective names",
+      "metaphor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8094"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8185": {
+    "summary": "Objection: if Socrates died at his maximum and were raised, he could merit, since he would then live miraculously beyond his natural span. So absolutely there is no maximum. God could accept a minimal act, such as two steps taken for his love, for an endlessly increasing reward (a, then half a more, and so on), so that no maximum exists, each reward is finite, and none equals Christ's. Or God could ordain that the blessed keep meriting while rewarded, like servants who keep serving after reward, and the damned keep demeriting while punished, as some moderns say.",
+    "claims": [
+      "Absolutely there is no maximum degree of merit.",
+      "God could reward a minimal act with an endlessly increasing finite reward.",
+      "The blessed could continually merit and the damned continually demerit."
+    ],
+    "concepts": [
+      "potentia absoluta",
+      "infinite series",
+      "merit of the blessed",
+      "demerit of the damned"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8055"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8258": {
+    "summary": "Answers the alleged absurdities. Neither follows: Socrates can be rewarded more and more indefinitely by proportional parts, like half then half of half, while his soul's power remains finite. The second absurdity, equality with Christ in merit, is taken up next.",
+    "claims": [
+      "Indefinite increase by proportional parts is compatible with finite power."
+    ],
+    "concepts": [
+      "proportional parts",
+      "finite power",
+      "infinite series"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8185",
+        "rh-l1q1-d1e3887"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8291": {
+    "summary": "Without prejudice, grants that a wayfarer could equal Christ in merit, whether Christ's merit is finite or infinite. Another person, or the same person in a better nature, could merit as much extensively and intensively. Since God accepts merit not by the condignity of the work but as he pleases, he could accept lifting a straw as much as founding a monastery. Whether Christ's merit is finite is left to Book III.",
+    "claims": [
+      "A wayfarer could in principle equal Christ in merit.",
+      "God accepts merit not by condignity but as he pleases.",
+      "God could accept lifting a straw as much as founding a monastery."
+    ],
+    "concepts": [
+      "merit of Christ",
+      "acceptatio divina",
+      "condign merit",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8258"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8323": {
+    "summary": "Objection: then Socrates could have greater merit and joy than any given. Holcot doubts whether Christ's soul rejoices as much as it can by God's absolute power, and says the joy of Christ's soul was not precisely the reward corresponding to his merit.",
+    "claims": [
+      "The joy of Christ's soul was not precisely the reward of his merit."
+    ],
+    "concepts": [
+      "joy of Christ's soul",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8291"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8345": {
+    "summary": "Reply to the fifth argument. The Anselm passage is the disciple's argument, not the master's determination. Weighing the proposition itself, Holcot grants that one can merit by false faith: willing to believe a proposition commanded to be believed merits even if it is false. The truth of what is believed does not pertain to merit, only voluntary belief as God wills. God can command belief in a falsehood. Abraham believed he would kill his son, David that he would build the temple, and the disciples believed 'Christ will die' and 'Christ will rise' after these had happened, believing falsehoods.",
+    "claims": [
+      "One can merit by believing a falsehood.",
+      "The truth of what is believed does not pertain to merit.",
+      "God can command belief in a falsehood.",
+      "Abraham, David, and the disciples believed falsehoods."
+    ],
+    "concepts": [
+      "false faith",
+      "merit",
+      "Abraham",
+      "David",
+      "future contingents",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e3993"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8438": {
+    "summary": "Reply to the claim that God could deceive. Disregarding authority and attending to the meaning of the words, he grants that God can deceive, i.e. voluntarily cause error and make someone believe otherwise than things are. Augustine includes 'unjustly' or 'inordinately causing error' in the nominal definition of deceiving, which cannot fit God, and on that reading his argument holds. Taken literally, it concludes only as anything follows from the impossible, since 'Christ deceived in this deed' is now impossible.",
+    "claims": [
+      "God can deceive, in the sense of voluntarily causing error.",
+      "Augustine's argument holds only if deception includes injustice."
+    ],
+    "concepts": [
+      "divine deception",
+      "nominal definition",
+      "Augustine",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e4051"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8483": {
+    "summary": "Reply to the sixth argument. Not everyone is bound to believe every article explicitly, but some explicitly, such as the Trinity, Incarnation, Passion, and Resurrection. Not everyone must avoid every error under pain of mortal sin. The simple may err in obscure matters if they will to believe as the Catholic Church believes, as a simple person who believes Abraham did not have two wives does not sin mortally.",
+    "claims": [
+      "Only certain articles must be believed explicitly by all.",
+      "Simple believers may err in obscure matters without mortal sin."
+    ],
+    "concepts": [
+      "explicit and implicit faith",
+      "simple believers",
+      "error"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e4109"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8531": {
+    "summary": "Restates the confirmation: an old woman obeying a heretical prelate could merit by willing to believe heresy and could become a martyr while dying for error.",
+    "claims": [],
+    "concepts": [
+      "implicit faith",
+      "martyrdom",
+      "heresy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e4109"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8551": {
+    "summary": "Reply. She must believe some articles explicitly but not the subtle ones. If her prelate preaches an error she does not know to be one, she does not sin and is even bound to err, since she must believe him unless she knows for certain that he errs. Her conscience may dictate that she must obey and believe, and her simplicity and ignorance excuse her, so she can merit by willing to believe error.",
+    "claims": [
+      "A simple believer may be bound to believe her prelate's error.",
+      "Ignorance and simplicity excuse such error.",
+      "One can merit by willing to believe an error one is bound to believe."
+    ],
+    "concepts": [
+      "obedience to prelates",
+      "conscience",
+      "invincible ignorance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8531"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8582": {
+    "summary": "Grants that she can obtain the merit due a martyr if killed for an error she believes to be an article of faith, since the error is invincible to her and does not diminish merit.",
+    "claims": [
+      "One can merit as a martyr while dying for an invincible error."
+    ],
+    "concepts": [
+      "martyrdom",
+      "invincible ignorance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8551"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8593": {
+    "summary": "Restates the seventh argument on whether contingent and necessary articles must be believed equally firmly.",
+    "claims": [],
+    "concepts": [
+      "certainty of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e4165"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8616": {
+    "summary": "Reply: one must believe 'the resurrection will be' as firmly as 'Christ rose', though the first is contingent. Truth does not admit of more and less, since it consists in an indivisible: things are or are not as the proposition signifies. 'God exists' is no truer than 'Socrates runs', and the necessary is no truer than the contingent, as a white thing that will become black is now as white as one that never will.",
+    "claims": [
+      "All articles must be believed equally firmly.",
+      "Truth admits no degrees.",
+      "Necessary propositions are no truer than contingent ones."
+    ],
+    "concepts": [
+      "degrees of truth",
+      "contingent and necessary truth",
+      "certainty of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8593"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8679": {
+    "summary": "Objection: believing one can be false and the other cannot implies greater assent to the latter. Denied: though he believes it can be false, he believes it is in fact true, and as true as the other, so he believes all the articles equally.",
+    "claims": [
+      "Believing a proposition could be false does not lessen assent to its truth."
+    ],
+    "concepts": [
+      "degrees of assent",
+      "modal belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8616"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8699": {
+    "summary": "Restates the last argument from final perseverance.",
+    "claims": [],
+    "concepts": [
+      "final perseverance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e4252"
+      ]
+    }
+  },
+  "rh-l1q1-d1e8715": {
+    "summary": "Reply: denies that no act is meritorious without final perseverance. A reprobate can perform as good and meritorious an act as one predestined, though only those who persevere to the end receive eternal life. One foreknown to damnation but now in charity is worthy of eternal life, more so than a predestined person in lesser charity, since, as Augustine says, goodness is measured by love. Perseverance is not a thing in the soul; the abstract noun is used for eloquence in place of the verb 'to persevere'. This ends the first question.",
+    "claims": [
+      "An act can be meritorious without final perseverance.",
+      "A reprobate in charity is now worthy of eternal life.",
+      "Goodness is measured by love.",
+      "Perseverance is not a thing in the soul; the abstract noun stands for the verb."
+    ],
+    "concepts": [
+      "final perseverance",
+      "predestination",
+      "reprobation",
+      "charity",
+      "nominalist analysis of abstract terms",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q1-Dd1e2476",
+        "rh-l1q1-d1e8699"
+      ]
+    }
+  }
+}

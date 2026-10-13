@@ -1,0 +1,2511 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l4q3": {
+    "summary": "Book IV, question 3 asks whether Christ's body is truly and really present under the bread's species. Holcot first assembles ten long principal arguments. They cover conversion as annihilation, skepticism about appearances, how 'from bread comes Christ's body' should be read, Christ's dimensions and visibility, the priest's intention, the reference of 'this is my body', the identity of Christ's body, the Last Supper and triduum, and accidents without a subject. He answers yes on faith: in miracles the whole reason is the doer's power. He shows transubstantiation is no harder to believe than transformations philosophers accepted, and that whole-in-every-part presence has philosophical parallels. Five points follow on form, matter, minister, how transubstantiation differs from other changes, and practical cases about mass obligations and the fast. Holcot is notably tentative about the accidents and changed his view on them. His replies rely on logical analysis (proper vs improper senses, connotation, reduplication, recitative use) and on divine ordination of the words. They stop after the sixth argument.",
+    "claims": [
+      "Real presence is held on faith in divine power, not demonstrated.",
+      "Christ is present really but not locally or dimensively.",
+      "Valid consecration needs a determinate intention about believed bread.",
+      "A mass's satisfactory value is finite and divided among beneficiaries.",
+      "Holcot answers only six of the ten principal arguments."
+    ],
+    "concepts": [
+      "real presence",
+      "transubstantiation",
+      "limits of reason",
+      "intention",
+      "demonstrative reference",
+      "mass value"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q3-Dd1e103",
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-Dd1e2726"
+      ]
+    }
+  },
+  "rh-l4q3-Dd1e103": {
+    "summary": "States the question of Christ's real presence under the species of bread.",
+    "claims": [],
+    "concepts": [
+      "real presence"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q3-d1e105"
+      ]
+    }
+  },
+  "rh-l4q3-d1e105": {
+    "summary": "States the question: whether in the sacrament of the Eucharist Christ's body truly and really exists under the species of bread.",
+    "claims": [],
+    "concepts": [
+      "Eucharist",
+      "real presence",
+      "transubstantiation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3"
+      ]
+    }
+  },
+  "rh-l4q3-Dd1e123": {
+    "summary": "Ten principal arguments against real presence, many with sub-arguments.\n\n1. Conversion is annihilation, and it undermines experiential certainty.\n2. 'From bread comes Christ's body' and similar propositions fail.\n3. Christ's eye would see itself, and his dimensions cannot fit the host.\n4. Berengar's oath implies Christ is seen and touched.\n5. A series of intention puzzles: some of the hosts, indivisibles, odd proportional parts, a heretic intending meat, stolen loaves, an unknown number of hosts, conditional adoration.\n6. Thomas's and Scotus's readings of 'this' in 'this is my body' each fail.\n7. Bread would ascend to heaven.\n8. Christ's body now differs materially from the body born of Mary.\n9. Puzzles about Christ's communion and consecration during the triduum.\n10. Accidents without subject nourish, are burned, and move.\nThe Catholic faith (Berengar's confession, Cum Marthae) is the authority on the other side.",
+    "claims": [
+      "Real presence seems to entail annihilation, skepticism, and semantic and physical absurdities."
+    ],
+    "concepts": [
+      "objections",
+      "casus",
+      "Berengar"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q3-d1e128",
+        "rh-l4q3-d1e159",
+        "rh-l4q3-d1e198",
+        "rh-l4q3-d1e270",
+        "rh-l4q3-d1e323",
+        "rh-l4q3-d1e394",
+        "rh-l4q3-d1e407",
+        "rh-l4q3-d1e420",
+        "rh-l4q3-d1e459",
+        "rh-l4q3-d1e470",
+        "rh-l4q3-d1e489",
+        "rh-l4q3-d1e530",
+        "rh-l4q3-d1e543",
+        "rh-l4q3-d1e569",
+        "rh-l4q3-d1e580",
+        "rh-l4q3-d1e596",
+        "rh-l4q3-d1e610",
+        "rh-l4q3-d1e653",
+        "rh-l4q3-d1e677",
+        "rh-l4q3-d1e712",
+        "rh-l4q3-d1e732",
+        "rh-l4q3-d1e778",
+        "rh-l4q3-d1e838",
+        "rh-l4q3-d1e873",
+        "rh-l4q3-d1e882",
+        "rh-l4q3-d1e918",
+        "rh-l4q3-d1e938",
+        "rh-l4q3-d1e969",
+        "rh-l4q3-d1e983",
+        "rh-l4q3-d1e1005",
+        "rh-l4q3-d1e1023",
+        "rh-l4q3-d1e1054",
+        "rh-l4q3-d1e1143",
+        "rh-l4q3-d1e1152",
+        "rh-l4q3-d1e1166",
+        "rh-l4q3-d1e1180",
+        "rh-l4q3-d1e1193",
+        "rh-l4q3-d1e1202",
+        "rh-l4q3-d1e1211",
+        "rh-l4q3-d1e1222",
+        "rh-l4q3-d1e1245",
+        "rh-l4q3-d1e1256",
+        "rh-l4q3-d1e1269",
+        "rh-l4q3-d1e1291",
+        "rh-l4q3-d1e1309",
+        "rh-l4q3-d1e1331",
+        "rh-l4q3-d1e1358",
+        "rh-l4q3-d1e1378",
+        "rh-l4q3-d1e1413",
+        "rh-l4q3-d1e1431",
+        "rh-l4q3-d1e1442",
+        "rh-l4q3-d1e1504",
+        "rh-l4q3-d1e1534",
+        "rh-l4q3-d1e1547",
+        "rh-l4q3-d1e1554",
+        "rh-l4q3-d1e1572",
+        "rh-l4q3-d1e1581",
+        "rh-l4q3-d1e1605",
+        "rh-l4q3-d1e1613",
+        "rh-l4q3-d1e1635",
+        "rh-l4q3-d1e1648",
+        "rh-l4q3-d1e1668",
+        "rh-l4q3-d1e1690",
+        "rh-l4q3-d1e1725",
+        "rh-l4q3-d1e1745",
+        "rh-l4q3-d1e1756",
+        "rh-l4q3-d1e1772",
+        "rh-l4q3-d1e1809"
+      ]
+    }
+  },
+  "rh-l4q3-d1e128": {
+    "summary": "First principal argument: it would be by conversion of bread into Christ's body, which is impossible: either bread remains, so there is no conversion, or nothing of it remains and nothing is generated from it, so it is annihilated, since it is not corrupted without a new form in its matter.",
+    "claims": [
+      "Conversion of bread amounts to annihilation."
+    ],
+    "concepts": [
+      "transubstantiation",
+      "annihilation",
+      "corruption"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e159": {
+    "summary": "Confirmation: after consecration either no part of the bread remains, so it is annihilated, or some part, quantitative (then bread remains) or essential (matter or form), so a substance distinct from Christ remains and the whole bread is not converted.",
+    "claims": [
+      "Either the bread is annihilated or something of it remains."
+    ],
+    "concepts": [
+      "parts of bread",
+      "matter and form"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e128"
+      ]
+    }
+  },
+  "rh-l4q3-d1e198": {
+    "summary": "Further: if one thing could be converted into another without increase, God could convert the whole world into a fly's substance, or place a donkey, or a thousand, under a man's appearance, and all certainty of experience and science from experience would perish (against Aristotle). We could never tell stone from wood or man from non-man, or whether a host is consecrated, since God could do this unknown to us.",
+    "claims": [
+      "Transubstantiation would destroy the certainty of experience."
+    ],
+    "concepts": [
+      "skepticism",
+      "certainty of experience",
+      "Aristotle",
+      "divine deception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e128"
+      ]
+    }
+  },
+  "rh-l4q3-d1e270": {
+    "summary": "Further: God could transubstantiate a man into a stone with the man's accidents remaining, and since Eucharistic species nourish and act as bread would, the man's species could laugh, understand, and generate a man, so a non-man could do what only man can, and someone be generated without father or mother.",
+    "claims": [
+      "Accidents acting without their substance yield absurdities."
+    ],
+    "concepts": [
+      "accidents without subject",
+      "proper operations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e128"
+      ]
+    }
+  },
+  "rh-l4q3-d1e323": {
+    "summary": "Second principal argument: it would be by consecration, so propositions like 'from bread comes Christ's body', 'bread can be Christ's body', 'what was bread is Christ's body' would be true, as Ambrose says (via Lombard) and as the verses 'flesh is created from bread on the altar; this bread is God' say.",
+    "claims": [
+      "Ambrose's statements imply bread becomes Christ's body."
+    ],
+    "concepts": [
+      "Ambrose",
+      "Lombard",
+      "Eucharistic predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e394": {
+    "summary": "These are false: 'from bread comes Christ's body' implies Christ's body comes to be anew.",
+    "claims": [
+      "Christ's body does not come to be anew."
+    ],
+    "concepts": [
+      "becoming"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e323"
+      ]
+    }
+  },
+  "rh-l4q3-d1e407": {
+    "summary": "Further: 'from bread comes Christ's body' implies 'Christ's body comes to be', since its opposite implies the antecedent's opposite.",
+    "claims": [
+      "Becoming from bread implies becoming."
+    ],
+    "concepts": [
+      "consequence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e323"
+      ]
+    }
+  },
+  "rh-l4q3-d1e420": {
+    "summary": "Further: it implies something of the bread will be under the form of Christ's body and informed by his soul. 'Bread can be Christ's body' posited yields 'bread is Christ's body' or 'what was bread is Christ's body', both impossible, since 'what' refers either to Christ's body, which never was bread, or to something else, which is not Christ's body.",
+    "claims": [
+      "'What was bread is Christ's body' is impossible."
+    ],
+    "concepts": [
+      "relative pronouns",
+      "reference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e323"
+      ]
+    }
+  },
+  "rh-l4q3-d1e459": {
+    "summary": "Further: whatever is Christ's body was born of the Virgin and ascended; what was bread is Christ's body; so what was bread was born of the Virgin.",
+    "claims": [
+      "Bread would have been born of the Virgin."
+    ],
+    "concepts": [
+      "syllogism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e323"
+      ]
+    }
+  },
+  "rh-l4q3-d1e470": {
+    "summary": "Further: whatever will be Christ's body is in heaven; this bread will be Christ's body; so this bread is in heaven.",
+    "claims": [
+      "This bread would be in heaven."
+    ],
+    "concepts": [
+      "syllogism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e323"
+      ]
+    }
+  },
+  "rh-l4q3-d1e489": {
+    "summary": "Further: whatever can be this body is this body; this bread can be this body; so it is. Something will be Christ's body that is not now, so something will be assumed by the Word that is not now, so the faithful must grant this bread will be assumed by the Son. When will this bread be Christ's body?",
+    "claims": [
+      "Bread would be assumed by the Word."
+    ],
+    "concepts": [
+      "hypostatic union",
+      "modal syllogism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e323"
+      ]
+    }
+  },
+  "rh-l4q3-d1e530": {
+    "summary": "If when it will not exist, then not, since it will be nothing; if when it will exist, then 'bread is Christ's body', 'bread lives', 'bread is flesh' would be true.",
+    "claims": [
+      "Bread becoming Christ's body yields false predications."
+    ],
+    "concepts": [
+      "temporal reference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e489"
+      ]
+    }
+  },
+  "rh-l4q3-d1e543": {
+    "summary": "One might say with Lombard that 'bread is Christ's body' is distinguished: as 'the bread's substance, remaining, is Christ's body', false; or 'the bread's substance is changed into what is Christ's body'. But this is unintelligible, since everything changed remains under both termini.",
+    "claims": [
+      "Lombard's distinction is unintelligible, since change needs a persisting subject."
+    ],
+    "concepts": [
+      "Lombard",
+      "subject of change"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e323"
+      ]
+    }
+  },
+  "rh-l4q3-d1e569": {
+    "summary": "Let a be what is changed: it was bread and now is Christ's body, so something was bread and is Christ's body.",
+    "claims": [
+      "Change implies something was bread and is Christ's body."
+    ],
+    "concepts": [
+      "subject of change"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e543"
+      ]
+    }
+  },
+  "rh-l4q3-d1e580": {
+    "summary": "Further: a is changed locally, by alteration, or by some species of change, but none verifies that it becomes Christ's body, so positing change does not help.",
+    "claims": [
+      "No species of change fits transubstantiation."
+    ],
+    "concepts": [
+      "species of change"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e543"
+      ]
+    }
+  },
+  "rh-l4q3-d1e596": {
+    "summary": "Further: the bread's substance changed into Christ's body is Christ's body; everything changed is otherwise than before; so the bread's substance remains after consecration.",
+    "claims": [
+      "Change implies the bread's substance persists."
+    ],
+    "concepts": [
+      "persistence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e543"
+      ]
+    }
+  },
+  "rh-l4q3-d1e610": {
+    "summary": "Third principal argument: then Christ's eye in one host could see himself in another, the medium being lit and Christ visible, but the seen is distant from the seer in a visual pyramid, so base and apex would coincide.",
+    "claims": [
+      "Christ's eye in the host could see itself."
+    ],
+    "concepts": [
+      "optics",
+      "visual pyramid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e653": {
+    "summary": "Further: Christ's body in the sacrament would alter the medium by species, so another eye could see it, contrary to experience. If one says Christ's eye cannot see or move his hand there: his hand is really there and alive, so he can move it and touch, so see.",
+    "claims": [
+      "Christ's sacramental body would be visible."
+    ],
+    "concepts": [
+      "species in medium",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e610"
+      ]
+    }
+  },
+  "rh-l4q3-d1e677": {
+    "summary": "Further: Christ's head-to-foot line, seven feet long, is in the host, either straight, so seven feet within the smallest space, or curved, but there is no smallest part under which Christ is and folding would destroy human figure.",
+    "claims": [
+      "Christ's dimensions cannot fit in the host."
+    ],
+    "concepts": [
+      "dimensive quantity",
+      "figure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e610"
+      ]
+    }
+  },
+  "rh-l4q3-d1e712": {
+    "summary": "Further: if Christ's body is there with its quantities, its figure is there, so its distances, so it is there corporeally and locally, with a cubit between hand and elbow.",
+    "claims": [
+      "Real presence with quantity implies local presence."
+    ],
+    "concepts": [
+      "figure",
+      "local presence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e610"
+      ]
+    }
+  },
+  "rh-l4q3-d1e732": {
+    "summary": "Fourth: either we see Christ's body, though we see no part of it, or not, though we touch it, and sight is nobler, and Berengar's confession says Christ's true body is sensibly handled by priests and crushed by teeth; and people say 'today I saw the Lord's body'.",
+    "claims": [
+      "Berengar's oath implies Christ's body is sensibly touched."
+    ],
+    "concepts": [
+      "Berengar",
+      "seeing and touching Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e778": {
+    "summary": "Fifth: consecration requires the priest's intention. If he has eight hosts and intends to consecrate only two, either none is consecrated though form, matter, and general intention are present, and general intention suffices, as one cannot distinctly intend infinitely many parts or a thousand hosts at Easter; or some are, but there is no reason for these two rather than those, so all or none.",
+    "claims": [
+      "Indeterminate intention to consecrate some hosts is paradoxical."
+    ],
+    "concepts": [
+      "intention to consecrate",
+      "indeterminacy",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e838": {
+    "summary": "Further: a priest believing the continuum composed of indivisibles intends to consecrate one of the host's five indivisibles each day. Either he consecrated, though he never intended any real part, or not, though he intended bread and said the words.",
+    "claims": [
+      "Intention based on false physics is paradoxical."
+    ],
+    "concepts": [
+      "indivisibles",
+      "intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e778"
+      ]
+    }
+  },
+  "rh-l4q3-d1e873": {
+    "summary": "Further: he intended no bread, since no indivisible is bread.",
+    "claims": [
+      "Indivisibles are not bread."
+    ],
+    "concepts": [
+      "indivisibles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e838"
+      ]
+    }
+  },
+  "rh-l4q3-d1e882": {
+    "summary": "Further: a priest intends to consecrate the odd-numbered proportional parts of a loaf only. Then he consecrated infinitely many hosts, each separated from the next by unconsecrated bread, and infinitely many discontinuous breads, with Christ between any two.",
+    "claims": [
+      "Consecrating proportional parts yields infinitely many hosts."
+    ],
+    "concepts": [
+      "proportional parts",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e778"
+      ]
+    }
+  },
+  "rh-l4q3-d1e918": {
+    "summary": "Further: does one touching the far surface touch Christ's body? If so, there is a last odd part; if not, he touches bread, yet every part toward that surface has an odd part, so he touches consecrated bread.",
+    "claims": [
+      "Touching the boundary of interleaved parts is paradoxical."
+    ],
+    "concepts": [
+      "boundaries",
+      "continuum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e882"
+      ]
+    }
+  },
+  "rh-l4q3-d1e938": {
+    "summary": "Further: a heretic priest wanting to consecrate meat, as some wished with bread and cheese, is deceived and has bread. Either he does not consecrate, though only erroneous intention impedes, which does not, since he intends this, which is bread; or he does, though he intends only meat.",
+    "claims": [
+      "Mistaken intention about matter is paradoxical."
+    ],
+    "concepts": [
+      "intention and matter",
+      "heresy",
+      "de re and de dicto intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e778"
+      ]
+    }
+  },
+  "rh-l4q3-d1e969": {
+    "summary": "Further: a priest consecrates all the breads in a baker's window and steals the species; accused of stealing bread, may he lawfully deny it, since it is false?",
+    "claims": [
+      "Stealing consecrated species is not stealing bread."
+    ],
+    "concepts": [
+      "theft",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e778"
+      ]
+    }
+  },
+  "rh-l4q3-d1e983": {
+    "summary": "Further: at Easter a priest takes over a hundred hosts, not knowing how many, intending to consecrate only a hundred, or all if he has so many parishioners.",
+    "claims": [
+      "Numerical intention with uncertain quantity is puzzling."
+    ],
+    "concepts": [
+      "intention",
+      "Easter communion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e778"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1005": {
+    "summary": "Further: if intention is required, everyone at the elevation must doubt whether the host is consecrated, and adoring absolutely would risk idolatry, so all must adore conditionally, against the Church's rite.",
+    "claims": [
+      "Required intention would make adoration conditional."
+    ],
+    "concepts": [
+      "adoration",
+      "latria",
+      "certainty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e778"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1023": {
+    "summary": "Sixth principal argument: Ambrose says nothing false is in the sacrifice of truth, but the form is false: in 'this is my body', 'this' points to the priest's body (irrelevant), to Christ's body in heaven (false), or to bread (false).",
+    "claims": [
+      "The consecration formula seems false whatever 'this' refers to."
+    ],
+    "concepts": [
+      "Ambrose",
+      "demonstrative reference",
+      "hoc est corpus meum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1054": {
+    "summary": "Common reply (Thomas, IV d. 8): the priest speaks the words recitatively in Christ's person and significatively of the matter; 'this' points to what remains under both termini, the sensible accidents and no substance, meaning 'what is contained under these species is my body', with no noun added lest it be limited to a species of substance. Against: terms are judged at the last instant of utterance; 'this' then points either to Christ's body, so transubstantiation precedes the other words, or to bread, making it false. And does the consecrating power belong to the words as these sounds?",
+    "claims": [
+      "According to Thomas, 'this' refers to what is contained under the species.",
+      "At the last instant 'this' must refer to bread or Christ's body."
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "demonstrative reference",
+      "last instant of utterance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1023"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1143": {
+    "summary": "Then if the words lost their meaning, a priest could still consecrate with meaningless sounds.",
+    "claims": [
+      "Sounds alone would consecrate."
+    ],
+    "concepts": [
+      "signification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1054"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1152": {
+    "summary": "And if in some barbarian language these sounds meant 'Socrates runs', a barbarian priest saying 'Socrates runs' would consecrate.",
+    "claims": [
+      "Homophony across languages would consecrate."
+    ],
+    "concepts": [
+      "conventional signification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1054"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1166": {
+    "summary": "And Christ did not say these Latin words. If one says the power belongs to them as significant:",
+    "claims": [
+      "Christ spoke not Latin."
+    ],
+    "concepts": [
+      "language of institution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1054"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1180": {
+    "summary": "then if a were instituted to mean 'this is my body', a priest could consecrate by saying 'a', and people could change sacramental forms by changing meanings.",
+    "claims": [
+      "Synonymous terms would consecrate."
+    ],
+    "concepts": [
+      "imposition",
+      "sacramental form"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1166"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1193": {
+    "summary": "Further: if the priest does not understand the words and no one hears, they signify nothing, signifying to no one.",
+    "claims": [
+      "Unheard words signify nothing."
+    ],
+    "concepts": [
+      "signification to someone"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1166"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1202": {
+    "summary": "Further: the terminus a quo does not remain at the end, nor is the terminus ad quem at the beginning, so nothing contained could be pointed to.",
+    "claims": [
+      "Nothing persists to be pointed to."
+    ],
+    "concepts": [
+      "termini of conversion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1054"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1211": {
+    "summary": "Further: nothing is common to Christ's body and bread except a word or concept, which is not what is pointed to.",
+    "claims": [
+      "Nothing is common to bread and Christ's body."
+    ],
+    "concepts": [
+      "common referent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1054"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1222": {
+    "summary": "If the species are common successively, first with bread then with Christ's body: on that view 'this' does not point to the species, which would make the locution impossible, since accidents cannot be Christ's body.",
+    "claims": [
+      "The species cannot be what 'this' refers to."
+    ],
+    "concepts": [
+      "accidents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1211"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1245": {
+    "summary": "The view also says what is pointed to is something contained under these species.",
+    "claims": [],
+    "concepts": [
+      "Thomistic reading"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1054"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1256": {
+    "summary": "Against: nothing is contained under them successively but Christ's body (present before the words end) or another substance (making it false).",
+    "claims": [
+      "What is contained must be bread or Christ's body."
+    ],
+    "concepts": [
+      "dilemma"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1245"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1269": {
+    "summary": "Further: 'what is contained under these species is my body' is indefinite, so true only by a true singular: 'this is my body' pointing to bread (false) or to Christ's body in heaven, and then the words would not make what they signify, making bread Christ's body.",
+    "claims": [
+      "The indefinite reading lacks a suitable true singular."
+    ],
+    "concepts": [
+      "indefinite propositions",
+      "efficacious signification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1245"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1291": {
+    "summary": "Further: 'the substance contained under these species is my body' is affirmative, so subject and predicate supposit for the same, namely Christ's body, the terminus ad quem, which the view denies.",
+    "claims": [
+      "Affirmative predication requires co-supposition with Christ's body."
+    ],
+    "concepts": [
+      "supposition",
+      "affirmative propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1245"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1309": {
+    "summary": "Scotus says each universal has its proper singular: 'this being', 'this substance', so the sense is 'this being contained under these species is my body'.",
+    "claims": [
+      "According to Scotus, 'this' is 'this being' under the species."
+    ],
+    "concepts": [
+      "Scotus",
+      "proper singulars"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1245"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1331": {
+    "summary": "This fails: 'this being is a man', 'this substance is a man', 'this animal is a man' differ in words but supposit for the same, and one cannot be true without the others, so the difficulty returns.",
+    "claims": [
+      "Different determiners still supposit for the same thing."
+    ],
+    "concepts": [
+      "supposition",
+      "critique of Scotus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1309"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1358": {
+    "summary": "Seventh principal argument: bread would be changed into Christ's body (Ambrose: he changes the creature), which is not moved locally, so the bread ascends to heaven, as a canon says it is carried by angels to heaven.",
+    "claims": [
+      "Converted bread would ascend to heaven."
+    ],
+    "concepts": [
+      "Ambrose",
+      "local motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1378": {
+    "summary": "Eighth: the conversion would be into the same body born of the Virgin, crucified, and ascended (Ambrose, Lombard), but the body now in heaven is not the same, since parts generated by nutrition at thirty were never in the Virgin's womb.",
+    "claims": [
+      "Christ's body in heaven differs materially from the body in the womb."
+    ],
+    "concepts": [
+      "identity of Christ's body",
+      "nutrition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1413": {
+    "summary": "Further: the body in the womb was smaller, yet not all the substance now in heaven was in the womb, else it would have been denser.",
+    "claims": [
+      "Growth implies material difference."
+    ],
+    "concepts": [
+      "growth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1378"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1431": {
+    "summary": "Further: the blood shed is not all resumed, since some claim to have the blood he shed.",
+    "claims": [
+      "Relics of Christ's blood show not all was resumed."
+    ],
+    "concepts": [
+      "blood relics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1378"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1442": {
+    "summary": "Confirmation from a canon: 'you will not eat this body you see nor drink the blood those who crucify me will shed'. Contrary canons: Augustine 'drink securely the blood you shed'; Ambrose 'none other than that born of Mary'; Jerome distinguishes the host made in commemoration from that offered on the cross.",
+    "claims": [
+      "Canons conflict on identity of Eucharistic and historical body."
+    ],
+    "concepts": [
+      "Augustine",
+      "Ambrose",
+      "Jerome",
+      "Decretum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1378"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1504": {
+    "summary": "Ninth: then Christ consecrated, gave his body, and gave power to consecrate ('he holds himself in his hands, himself is food'). Either he received only sacramentally, less fruitfully than the apostles, like Judas, or also spiritually, so his grace increased.",
+    "claims": [
+      "Christ's own communion is problematic."
+    ],
+    "concepts": [
+      "Last Supper",
+      "sacramental and spiritual eating"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1534": {
+    "summary": "Further: then any priest could now confect a nobler body than Christ did, since Christ gave a passible body, not a glorified one.",
+    "claims": [
+      "Priests now confect a glorified body, nobler than at the Supper."
+    ],
+    "concepts": [
+      "glorified body",
+      "Last Supper"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1504"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1547": {
+    "summary": "Further: if he ate his body, it was inside and outside himself at once.",
+    "claims": [
+      "Christ would be inside himself."
+    ],
+    "concepts": [
+      "self-containment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1504"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1554": {
+    "summary": "Further: one consecrating on Holy Saturday would not have confected our sacrament, since the body was not alive nor all the blood present.",
+    "claims": [
+      "Consecration during the triduum is problematic."
+    ],
+    "concepts": [
+      "triduum",
+      "separation of blood"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1504"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1572": {
+    "summary": "Further: he would have spoken falsely; if Christ's soul then said 'this is my body', it would be false, having no body.",
+    "claims": [
+      "Christ's soul in death could not say 'my body'."
+    ],
+    "concepts": [
+      "death of Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1504"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1581": {
+    "summary": "Further: a host reserved from the Supper in house a on Friday at the ninth hour: Christ dies and is in a, so dies in a, and with a thousand hosts he would be crucified in a thousand places.",
+    "claims": [
+      "Reserved hosts would make Christ die in many places."
+    ],
+    "concepts": [
+      "reservation",
+      "multilocation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1504"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1605": {
+    "summary": "Likewise 'Christ's soul left a at the sixth hour' would be true, as we say it descended to hell.",
+    "claims": [
+      "Christ's soul would depart from each host."
+    ],
+    "concepts": [
+      "descent into hell"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1581"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1613": {
+    "summary": "Further: if the separated soul came to those species, either Christ's body there would be animated and the same body dead in the tomb, alive and dead at once, or not, though soul and body are together and make one.",
+    "claims": [
+      "The same body would be alive and dead."
+    ],
+    "concepts": [
+      "contradiction",
+      "triduum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1581"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1635": {
+    "summary": "Tenth principal argument: then accidents remain without subject, but the species nourish, and what nourishes does so as substance and increases as quantity (De anima II), so substance is there.",
+    "claims": [
+      "Nourishing species imply remaining substance."
+    ],
+    "concepts": [
+      "accidents without subject",
+      "nutrition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1648": {
+    "summary": "Further: if the species nourish, they are food distinct from Christ's body, so one who eats them breaks the natural fast, and so may not then receive under wine, violating the Church's precept of fasting communion.",
+    "claims": [
+      "Nourishing species would break the Eucharistic fast."
+    ],
+    "concepts": [
+      "Eucharistic fast",
+      "communion under both kinds"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1635"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1668": {
+    "summary": "Confirmation: a priest eating consecrated hosts all Good Friday would never break the Church's fast, and one who consecrated a tavern's wine could get drunk while fasting. Since the species nourish, one can never receive under both species without breaking the natural fast.",
+    "claims": [
+      "Nourishing species make the fast incoherent."
+    ],
+    "concepts": [
+      "Eucharistic fast",
+      "drunkenness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1648"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1690": {
+    "summary": "Further: fire applied to the species generates fire. Either that fire has no matter, so it is not fire, or its matter pre-existed, so a substance was under the species, or it is produced new, so fire creates from nothing.",
+    "claims": [
+      "Fire generated from the species needs a material substance there."
+    ],
+    "concepts": [
+      "generation from the species",
+      "prime matter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1635"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1725": {
+    "summary": "Further: if the species are rarefied or condensed, there would be motion without a mobile subject, against Aristotle, Physics III.",
+    "claims": [
+      "Changing species would be motion without a subject."
+    ],
+    "concepts": [
+      "rarefaction",
+      "subject of motion",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1635"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1745": {
+    "summary": "If the qualities themselves are the subject of rarefaction, then motion would be nothing but those qualities, and motion would be the moved, against the Philosopher.",
+    "claims": [
+      "Qualities cannot be the subject of their own motion."
+    ],
+    "concepts": [
+      "motion and mobile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1725"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1756": {
+    "summary": "Further: when the host is rarefied it fills a larger place, so Christ's body would come to be where it was not, without local motion or a new consecration, which is unimaginable.",
+    "claims": [
+      "Rarefaction of the host would relocate Christ without motion."
+    ],
+    "concepts": [
+      "place",
+      "local motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1635"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1772": {
+    "summary": "Further: when the host is carried, either Christ's body moves locally, though it gains and loses places, or it does. Then when one priest elevates and another lowers it, the same body rises and falls, moves east and west, and rests in heaven while moving on the altar. And you in London would have to doubt whether some man in Rome has been converted into you.",
+    "claims": [
+      "Moving hosts make Christ move in contrary ways at once."
+    ],
+    "concepts": [
+      "contrary motions",
+      "multilocation",
+      "skepticism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123",
+        "rh-l4q3-d1e1635"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1809": {
+    "summary": "On the opposite side stands the Catholic faith, as in Berengar's confession (De consecratione d. 2) and the decretal Cum Marthae.",
+    "claims": [
+      "Real presence is Catholic faith."
+    ],
+    "concepts": [
+      "Berengar",
+      "Cum Marthae",
+      "Decretum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-Dd1e1821": {
+    "summary": "Holcot affirms real presence on the principle that in miracles the whole reason is divine power. Reason can defend the faith but cannot give a perfect account. Transubstantiation is no less credible than the metamorphoses Varro and Ovid report, and Christ's being whole in every part has parallels in the soul, angels, and Averroes's intellect. Five points follow.\n1. Form: words are needed, but no particular words or language.\n2. Matter: wheat bread, wine, and water.\n3. Minister: a priest, with an unresolved case of putative priests.\n4. How transubstantiation differs from other change: nothing remains, nothing is changed, and accidents persist. Holcot tentatively suggests that only species or intentions remain, and admits he changed his mind.\n5. Cases: one mass cannot discharge two principal obligations, since its satisfactory value is finite and divided. The precept of integrity can override the fasting precept.",
+    "claims": [
+      "Faith in divine power grounds real presence.",
+      "Accidents remain without substance, perhaps only as species.",
+      "A mass avails more for one than for many."
+    ],
+    "concepts": [
+      "divine power",
+      "transubstantiation",
+      "form and matter",
+      "minister",
+      "mass value",
+      "Eucharistic fast"
+    ],
+    "_metadata": {
+      "level": "responsio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q3-d1e1826",
+        "rh-l4q3-d1e1848",
+        "rh-l4q3-d1e1909",
+        "rh-l4q3-d1e1970",
+        "rh-l4q3-d1e2020",
+        "rh-l4q3-d1e2029",
+        "rh-l4q3-d1e2051",
+        "rh-l4q3-d1e2090",
+        "rh-l4q3-d1e2119",
+        "rh-l4q3-d1e2156",
+        "rh-l4q3-d1e2231",
+        "rh-l4q3-d1e2291",
+        "rh-l4q3-d1e2302",
+        "rh-l4q3-d1e2339",
+        "rh-l4q3-d1e2363",
+        "rh-l4q3-d1e2404",
+        "rh-l4q3-d1e2479",
+        "rh-l4q3-d1e2490",
+        "rh-l4q3-d1e2574",
+        "rh-l4q3-d1e2581",
+        "rh-l4q3-d1e2592",
+        "rh-l4q3-d1e2706"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1826": {
+    "summary": "Holcot answers yes without doubt. He builds his case on Augustine's maxim that in things done miraculously the whole reason for the deed is the power of the one who does it.",
+    "claims": [
+      "Christ's body is truly present.",
+      "In miracles the whole reason is the doer's power."
+    ],
+    "concepts": [
+      "Augustine",
+      "divine power",
+      "miracle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1848": {
+    "summary": "Since God can do more than we understand, it does not follow that what we cannot explain is not so or should not be believed. We must captivate the intellect in what is revealed, since our intellect cannot grasp even the least thing's nature. With Lombard, the mystery can be believed but not investigated, which does not forbid arguing about it, only claiming a perfect account.",
+    "claims": [
+      "Failure to explain the mode does not count against belief.",
+      "Theologians may argue but not claim a perfect reason."
+    ],
+    "concepts": [
+      "captivity of the intellect",
+      "limits of reason",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e1826"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1909": {
+    "summary": "Second, conversion of one substance into another is no more repugnant to reason than transformations that philosophers believed: Augustine reports Varro on Circe, the Arcadians turned into wolves, and Demaenetus. Ovid tells of Ulysses' companions, and Scripture of Lot's wife turned to salt.",
+    "claims": [
+      "Transubstantiation is no less credible than accepted transformations."
+    ],
+    "concepts": [
+      "Augustine",
+      "Varro",
+      "Ovid",
+      "metamorphosis",
+      "Lot's wife"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821"
+      ]
+    }
+  },
+  "rh-l4q3-d1e1970": {
+    "summary": "Third, Christ is whole under every part of the species, whole in many places at once. This has parallels: the intellective soul, intelligences in their orbs, angels defined in place, and Averroes's single intellect for all men. None is easier to understand than Christ's body on many altars.",
+    "claims": [
+      "Christ is whole in the whole and in each part.",
+      "Philosophers accepted comparable modes of presence."
+    ],
+    "concepts": [
+      "whole in every part",
+      "angelic place",
+      "Averroes",
+      "unity of intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2020": {
+    "summary": "Against the objection that bodily organization requires distance between parts: real distinction of parts suffices without local distance.",
+    "claims": [
+      "Organic parts need real distinction, not local distance."
+    ],
+    "concepts": [
+      "organization of parts",
+      "local distance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e1970"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2029": {
+    "summary": "So the answer is yes. Reasons should not and cannot sufficiently be given, since in miracles the reason is the doer's power, knowledge, and will. Holcot remarks that few are persuaded, and he sets out five main points for clarification.",
+    "claims": [
+      "No sufficient demonstration is possible.",
+      "Five points will clarify the matter."
+    ],
+    "concepts": [
+      "miracle",
+      "faith and reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2051": {
+    "summary": "Point one, the form. One should not speak too logically: no particular words, speaker, language, or loaf is required, though some words, some language, and some bread are. The form over the host is 'hoc est enim corpus meum'. Omitting 'enim' does not invalidate it, but omitting it deliberately is mortal sin. Over the wine it is 'hic est enim calix'.",
+    "claims": [
+      "Words are needed, but no particular token.",
+      "Deliberately omitting 'enim' is mortal sin."
+    ],
+    "concepts": [
+      "sacramental form",
+      "indeterminate necessity",
+      "enim"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2029"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2090": {
+    "summary": "Point two, the matter is bread, wine, and water. Bread must be mostly wheat and, in the Roman Church, unleavened, though leavened suffices. Any wine suffices. Water should be elemental, though artificial water would be consecrated, and it must be mixed in the chalice, not the cask.",
+    "claims": [
+      "Matter is wheat bread, wine, and water."
+    ],
+    "concepts": [
+      "sacramental matter",
+      "unleavened bread",
+      "Thomas Aquinas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2029"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2119": {
+    "summary": "Point three, only a priest, or one reputed a priest, is minister. If the Church were deceived about someone unbaptized or invalidly ordained, it would be hard to deny they consecrate, since sinners would be defrauded. So either they consecrate or God consecrates in them without a minister. Which is true cannot be known without revelation.",
+    "claims": [
+      "Only a priest ministers.",
+      "Reputed priests' sacraments are valid in some way, but how is unknown."
+    ],
+    "concepts": [
+      "minister",
+      "putative priest",
+      "ecclesial error"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2029"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2156": {
+    "summary": "Point four, transubstantiation differs from other changes in four ways. Nothing of the converted remains under both termini. The terminus, Christ's body, is neither increased nor changed. Properly nothing is changed: the bread is not corrupted, since in corruption matter remains. And all accidents remain, which shows accidents are distinct from material substances. Holcot notes he once held the opposite and, offering it without assertion, suggests what remains may be only 'intentions' or species of accidents, which is why they are called species.",
+    "claims": [
+      "Transubstantiation differs from natural change in four ways.",
+      "Remaining accidents show accidents are distinct from substance.",
+      "Holcot changed his view on accidents and speaks without assertion."
+    ],
+    "concepts": [
+      "transubstantiation",
+      "accidents and substance",
+      "species",
+      "change of mind"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2029"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2231": {
+    "summary": "Point five, cases. A priest obliged to a mass for a and later another for b cannot satisfy both by one mass, else one mass could discharge a thousand obligations. But if he promised two persons one lesson each in the same form, one can satisfy both.",
+    "claims": [
+      "Successive mass obligations need separate masses."
+    ],
+    "concepts": [
+      "mass stipends",
+      "obligation",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2029"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2291": {
+    "summary": "Next case: can a priest obliged to say masses principally for Peter's soul and another for John's satisfy both with one mass? It seems not.",
+    "claims": [],
+    "concepts": [
+      "mass for the dead",
+      "principal intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2231"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2302": {
+    "summary": "To celebrate principally for John can mean intending the mass to benefit many but John most, which is possible, or applying it so it satisfies for John alone. In the latter sense one mass cannot satisfy both.",
+    "claims": [
+      "'Principally for' is ambiguous.",
+      "One mass cannot be exclusively applied to two."
+    ],
+    "concepts": [
+      "application of the mass",
+      "satisfaction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2291"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2339": {
+    "summary": "If one intends equally principally for both, he celebrates principally for neither. 'He celebrates principally for both' (collective) is possible but does not fulfil the obligation, while the distributive conjunction is impossible with one mass.",
+    "claims": [
+      "Collective and distributive readings differ."
+    ],
+    "concepts": [
+      "collective and distributive",
+      "scope"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2302"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2363": {
+    "summary": "Hence a mass said for many is not worth as much to each as one said for one alone: its satisfactory value is finite and is divided in proportion to the number. Otherwise many masses would be pointless.",
+    "claims": [
+      "A mass's satisfactory value is finite and shared."
+    ],
+    "concepts": [
+      "finite value of the mass",
+      "purgatory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2291"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2404": {
+    "summary": "Otherwise the Church would err in permitting masses for one person. A mass helps the dead either by supplication, where it can benefit each fully, or by satisfaction, where it is divided. Analogy: ten debtors owing a king ten pounds each are freed equally by a petition, but a ten-pound payment for all pays only a tenth of each debt.",
+    "claims": [
+      "Supplication can benefit all equally, but satisfaction is divided."
+    ],
+    "concepts": [
+      "supplication and satisfaction",
+      "king's debtors analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2363"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2479": {
+    "summary": "Objection: then by way of prayer a mass could avail each of ten as much as one.",
+    "claims": [],
+    "concepts": [
+      "supplication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2404"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2490": {
+    "summary": "Judging by human politics, God would not as readily grant a petition for many debtors as an equally intense one for one. So Holcot holds that a mass regularly avails one more if said for him alone, both as prayer and as satisfaction. A priest bound to masses for a cannot say them principally for b. A parish priest bound to pray for his parishioners may not add a friend, since that dilutes each one's share and defrauds them.",
+    "claims": [
+      "A mass avails more said for one than for many.",
+      "Adding names to a bound obligation defrauds the beneficiaries."
+    ],
+    "concepts": [
+      "mass value",
+      "parish obligations",
+      "fraud"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2479"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2574": {
+    "summary": "Objection: then it is better to live in a parish of three than of a thousand.",
+    "claims": [],
+    "concepts": [
+      "parish size"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2490"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2581": {
+    "summary": "With respect to the merit coming from the priest, this must be granted, though it is not better simply.",
+    "claims": [
+      "A smaller parish gives a larger share, but is not simply better."
+    ],
+    "concepts": [
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2574"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2592": {
+    "summary": "Second doubt: must one always receive fasting? No, in two cases. The viaticum may be given in danger of death. And a priest who discovers mid-mass that the host was not wheat, or the wine was water, must consecrate valid matter and consume it though no longer fasting. The precept of integrity, which concerns the sacrament's substance, outranks the precept of fasting, which concerns reverence. So the Summa confessorum is wrong that only at death may one receive non-fasting.",
+    "claims": [
+      "The integrity precept outranks the fasting precept.",
+      "There are two exceptions to the fast, not one."
+    ],
+    "concepts": [
+      "Eucharistic fast",
+      "viaticum",
+      "conflict of precepts",
+      "Summa confessorum",
+      "Thomas Aquinas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2029"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2706": {
+    "summary": "A priest who ate after midnight may not celebrate that day, according to Thomas, since the day begins then. But one who ate in the evening after matins may celebrate the next day, since nothing forbids it.",
+    "claims": [
+      "The fast is counted from midnight."
+    ],
+    "concepts": [
+      "Eucharistic fast",
+      "reckoning of the day"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e1821",
+        "rh-l4q3-d1e2592"
+      ]
+    }
+  },
+  "rh-l4q3-Dd1e2726": {
+    "summary": "The replies to the first six principal arguments. Annihilation is granted in a sense, and conversion-talk names two miracles. Divine power can deceive experience, but the doubt this leaves is compatible with belief. 'From bread' marks a terminus a quo, not a material cause. Christ is present really but not locally: the thing that is his length is there, but not as length. One sees the species, not Christ's body. Consecration requires a determinate, conjunctive intention and belief that the matter is bread, and adoration carries a tacit condition. 'This' either points ahead to the end of the utterance or is used recitatively, and the words work by divine ordination. Holcot says there is no time for the remaining arguments.",
+    "claims": [
+      "Real presence is non-local presence.",
+      "Valid intention must be determinate and not opposed to bread.",
+      "The consecration formula is true recitatively or by forward reference."
+    ],
+    "concepts": [
+      "real vs local presence",
+      "connotation",
+      "intention",
+      "recitative speech",
+      "divine ordination"
+    ],
+    "_metadata": {
+      "level": "ad rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q3-d1e2731",
+        "rh-l4q3-d1e2802",
+        "rh-l4q3-d1e2833",
+        "rh-l4q3-d1e2844",
+        "rh-l4q3-d1e2893",
+        "rh-l4q3-d1e2924",
+        "rh-l4q3-d1e2970",
+        "rh-l4q3-d1e2986",
+        "rh-l4q3-d1e3017",
+        "rh-l4q3-d1e3075",
+        "rh-l4q3-d1e3102",
+        "rh-l4q3-d1e3122",
+        "rh-l4q3-d1e3138",
+        "rh-l4q3-d1e3147",
+        "rh-l4q3-d1e3154",
+        "rh-l4q3-d1e3180",
+        "rh-l4q3-d1e3216",
+        "rh-l4q3-d1e3249",
+        "rh-l4q3-d1e3280",
+        "rh-l4q3-d1e3302",
+        "rh-l4q3-d1e3315",
+        "rh-l4q3-d1e3340",
+        "rh-l4q3-d1e3409",
+        "rh-l4q3-d1e3431",
+        "rh-l4q3-d1e3463",
+        "rh-l4q3-d1e3498",
+        "rh-l4q3-d1e3518",
+        "rh-l4q3-d1e3523",
+        "rh-l4q3-d1e3553",
+        "rh-l4q3-d1e3626",
+        "rh-l4q3-d1e3648",
+        "rh-l4q3-d1e3661",
+        "rh-l4q3-d1e3668",
+        "rh-l4q3-d1e3681",
+        "rh-l4q3-d1e3706"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2731": {
+    "summary": "Reply to the first argument: no bread or part of it remains. Saying the bread is 'annihilated' is true in a good sense, since the bread was and now is not. Doctors prefer 'converted into Christ's body' because it expresses both miracles: the bread's substance ceases without corrupting action, and Christ's body begins to be there under remaining species. The terms say nothing more than that.",
+    "claims": [
+      "The bread is annihilated in a good sense.",
+      "'Conversion' names two miracles, ceasing and beginning-to-be."
+    ],
+    "concepts": [
+      "annihilation",
+      "conversion language",
+      "two miracles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e128",
+        "rh-l4q3-d1e159"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2802": {
+    "summary": "To the fly objection: God can do more than we understand, and could put the whole world under a fly's species. Just as he can make two bodies be together, there is no place so small that he cannot put the largest body there.",
+    "claims": [
+      "God could place the world under a fly's species."
+    ],
+    "concepts": [
+      "divine omnipotence",
+      "compenetration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e198"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2833": {
+    "summary": "As for certainty of experience: no created certainty about a present thing is so certain that it could not be false through a change hidden from us.",
+    "claims": [
+      "Experiential certainty is defeasible by hidden divine change."
+    ],
+    "concepts": [
+      "certainty",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e198"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2844": {
+    "summary": "Objection: then you must doubt. Reply: 'doubt' as opposed to knowledge is compatible with belief, and in that sense everyone doubts whether this is wood. But 'doubt' as complete indifference to assent, as with 'the king is sitting', does not apply, since we are sufficiently persuaded that God has not transformed such things: he has not revealed it and does nothing without great utility.",
+    "claims": [
+      "Doubt as lack of knowledge is universal, but doubt as indifference is not.",
+      "We may believe ordinary appearances since God does not transform without cause."
+    ],
+    "concepts": [
+      "kinds of doubt",
+      "belief",
+      "skepticism",
+      "divine providence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e2833"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2893": {
+    "summary": "To the third (accidents of a man): they could not laugh, understand, or generate, since these powers are the soul itself or include it. If such powers were accidents, it would have to be granted.",
+    "claims": [
+      "Rational powers are not separable accidents."
+    ],
+    "concepts": [
+      "powers of the soul"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e270"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2924": {
+    "summary": "Reply to the second argument: 'de pane fit corpus christi' is distinguished, because 'de' can mark the material cause (false) or the terminus a quo of conversion (true). In the true sense, Christ's body comes to be under the accidents under which bread was. Such phrases in the doctors are expounded as improper but true.",
+    "claims": [
+      "'De' expresses either the material cause or the terminus a quo.",
+      "The doctors' statements are true in an improper sense."
+    ],
+    "concepts": [
+      "material cause",
+      "terminus a quo",
+      "improper speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e323"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2970": {
+    "summary": "So 'from bread Christ's body comes to be anew, therefore Christ's body comes to be anew' is invalid in the true sense, as 'water becomes hot anew' does not imply 'water comes to be anew'. This answers the second and third.",
+    "claims": [
+      "Becoming-from does not imply becoming simply."
+    ],
+    "concepts": [
+      "fallacy of consequence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e394",
+        "rh-l4q3-d1e407",
+        "rh-l4q3-d1e420"
+      ]
+    }
+  },
+  "rh-l4q3-d1e2986": {
+    "summary": "To the fourth: 'bread can be Christ's body' is false properly and true improperly, posited as 'under the bread's species is Christ's body'. The four or five syllogisms take the propositions properly, so their minors are denied. The verses about the altar speak metaphorically, poetically: false in the sense the words make, true in the sense in which they are meant.",
+    "claims": [
+      "The syllogisms fail because their minors are false properly taken.",
+      "Poetic verses are true in their intended sense."
+    ],
+    "concepts": [
+      "proper and improper sense",
+      "poetic speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e420",
+        "rh-l4q3-d1e459",
+        "rh-l4q3-d1e489"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3017": {
+    "summary": "Reply to the third argument: Christ's eye is really in the host but not situally, locally, or circumscriptively, so it does not follow that it sees itself there. Holcot grants 'Christ's eye sees his hand which is in the host'. 'Christ can move his hand in the host' is amphibolous: true if it means the hand that is in the host, false if the motion proceeds from the host.",
+    "claims": [
+      "Real presence is not local presence.",
+      "Statements about Christ's acts in the host are amphibolous."
+    ],
+    "concepts": [
+      "real vs local presence",
+      "amphiboly"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e610",
+        "rh-l4q3-d1e653"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3075": {
+    "summary": "To the line argument: Christ's length is nothing but his body, but 'length' connotes distance between head and foot. So the whole thing that is his length is in the sacrament, but not as length, that is, not dimensively or locally, with part distant from part.",
+    "claims": [
+      "Quantity terms connote distance between parts.",
+      "Christ's body is present but not as extended."
+    ],
+    "concepts": [
+      "connotation",
+      "quantity",
+      "Ockhamist quantity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e677"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3102": {
+    "summary": "So the line there is neither straight nor curved: the thing that is the line is there, but it is not a line there. It is a length elsewhere.",
+    "claims": [
+      "The thing that is the line is there, but not as a line."
+    ],
+    "concepts": [
+      "reduplication",
+      "quantity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3075"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3122": {
+    "summary": "Objection: Christ's body there is divisible, so extended and local, or indivisible, so Christ's body is indivisible.",
+    "claims": [],
+    "concepts": [
+      "divisibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3075"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3138": {
+    "summary": "Reply: Christ's body is indivisible there, and 'it is extended or divided there in its parts' is false.",
+    "claims": [
+      "Christ's body is indivisible there."
+    ],
+    "concepts": [
+      "divisibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3122"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3147": {
+    "summary": "Objection: 'Christ's body is non-extended there, therefore Christ's body is non-extended' follows.",
+    "claims": [],
+    "concepts": [
+      "qualified and unqualified predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3138"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3154": {
+    "summary": "Further objection: then it lacks part outside part, so is not a body there. Properly taken, granted: it is not there having part outside part. Read as 'the thing that is Christ's body is not there', it is false and the consequence fails. So with the rest.",
+    "claims": [
+      "'Not a body there' is true of mode, false of thing."
+    ],
+    "concepts": [
+      "mode vs thing",
+      "exposition of propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3147"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3180": {
+    "summary": "To the figure argument: Christ's figure is there, but not as figure. To the fourth argument: 'I see' or 'I touch the body' should not be denied in the sense intended, namely that Christ's body is under the seen and touched species. It does not mean Christ's body is the object of sight or touch, since faith holds that the species are what are seen and broken.",
+    "claims": [
+      "Figure is present, but not as figure.",
+      "Seeing and touching Christ means seeing the species under which he is."
+    ],
+    "concepts": [
+      "figure",
+      "sensible species",
+      "Berengar"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e712",
+        "rh-l4q3-Dd1e123"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3216": {
+    "summary": "The species alone alter sight, as the canon Qui manducant says: what the eyes report is bread, what faith holds is Christ's body. One thing is seen, another understood. Properly one should not grant 'I touched' or 'I saw Christ's body', but one may speak with the many if one understands rightly.",
+    "claims": [
+      "Christ's body is understood, not seen.",
+      "Speak with the many, think with the few."
+    ],
+    "concepts": [
+      "sacramental signification",
+      "proper speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3180",
+        "rh-l4q3-d1e732"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3249": {
+    "summary": "Reply to the fifth argument: probably a priest intending some of the hosts consecrates none, since consecration requires a determinate intention about certain matter. Consecrating a host's infinitely many parts is still a determinate intention, since the host is those parts.",
+    "claims": [
+      "Consecration requires determinate intention.",
+      "Intending the host determinately covers its infinite parts."
+    ],
+    "concepts": [
+      "determinate intention",
+      "infinite parts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e778"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3280": {
+    "summary": "At Easter the number need not be known: an intention formed by a mental conjunction (this and this) suffices, but one formed by a disjunction is too vague, since it is compatible with intending no bread.",
+    "claims": [
+      "Conjunctive intentions suffice and disjunctive ones do not."
+    ],
+    "concepts": [
+      "mental propositions",
+      "conjunction and disjunction",
+      "intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e983"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3302": {
+    "summary": "To the priest who errs about the continuum: he does not consecrate, since he must intend visible, tangible bread, and indivisibles are not bread.",
+    "claims": [
+      "Intending indivisibles does not consecrate."
+    ],
+    "concepts": [
+      "indivisibles",
+      "due intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e838"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3315": {
+    "summary": "But if he also believes every indivisible is visible and intends one, he may consecrate, since not every falsehood in the intention impedes; he still truly intends the bread he sees.",
+    "claims": [
+      "Not every false belief invalidates intention."
+    ],
+    "concepts": [
+      "error and intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3302"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3340": {
+    "summary": "To the odd proportional parts: he consecrates them all, since each is bread. It does not follow that he makes infinitely many actual breads in Aristotle's sense, since the accidents remain continuous, so no part is reduced to act. In another sense of 'actual' (substances not continuous with one another), it may be granted. One touching the far surface touches consecrated and unconsecrated bread at once.",
+    "claims": [
+      "Consecrating alternating parts does not actualize an infinity in Aristotle's sense.",
+      "Continuity of accidents keeps the parts potential."
+    ],
+    "concepts": [
+      "actual and potential infinity",
+      "continuity of accidents",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e882",
+        "rh-l4q3-d1e918"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3409": {
+    "summary": "Alternatively, he does not consecrate as intended, since some proportional parts would be insensible, and no one should intend a distinct sacrament of insensible bread.",
+    "claims": [
+      "Insensible parts cannot be distinct sacraments."
+    ],
+    "concepts": [
+      "sensibility of species"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e882"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3431": {
+    "summary": "Each sacrament needs distinct sensible species. So he can consecrate every part by consecrating the whole as one sacrament, but not each part as distinct. He intends the impossible and does not do it, though he does consecrate some finite multitude of parts he cannot know.",
+    "claims": [
+      "A distinct sacrament needs sensible distinctness.",
+      "He consecrates an unknown finite multitude."
+    ],
+    "concepts": [
+      "sensibility of species",
+      "impossible intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3409"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3463": {
+    "summary": "To the heretic intending meat: he does not consecrate, since his intention is repugnant to the sacrament. The required intention is 'I will consecrate bread and believe this is bread'; he need not form it actually but must not oppose it. Whether 'this, whatever it is' suffices is doubtful. One may say belief that it is bread and intention to consecrate bread are required, so one who doubts it is bread does not consecrate.",
+    "claims": [
+      "Intention contrary to the bread nullifies consecration.",
+      "Belief that the matter is bread is required."
+    ],
+    "concepts": [
+      "intention and belief",
+      "valid matter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e938"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3498": {
+    "summary": "To the stolen species: if it is proven in court he must confess the fraud and repay the bread's value before consecration, not the sacrament's, without returning the species to a layman. Yet he may deny having taken bread.",
+    "claims": [
+      "The thief owes the bread's value, but may truthfully deny taking bread."
+    ],
+    "concepts": [
+      "restitution",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e969"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3518": {
+    "summary": "The sixth is clear from what was said.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e983",
+        "rh-l4q3-d1e3280"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3523": {
+    "summary": "To the seventh: believers should not doubt in the sense opposed to belief, but believe the priest acts in good faith and adore securely. A tacit condition, 'if it is consecrated', is understood, so adoring an unconsecrated host is no danger. The Church adores publicly without an expressed condition, but not without an understood one.",
+    "claims": [
+      "Adoration carries a tacit condition."
+    ],
+    "concepts": [
+      "adoration",
+      "tacit condition",
+      "idolatry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e1005"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3553": {
+    "summary": "Reply to the sixth argument, in three points. We treat a proposition as if it were whole at the last instant of utterance. At that instant Christ's body is under the species, and 'this' points to what will be there at the end of the utterance. And the priest speaks in Christ's person, recitatively, as the narrative frame ('he gave to his disciples saying') shows, so he speaks truly.",
+    "claims": [
+      "'This' points ahead to what will be present at the end.",
+      "The priest speaks recitatively in Christ's person."
+    ],
+    "concepts": [
+      "demonstrative reference",
+      "last instant of utterance",
+      "recitative speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e1023",
+        "rh-l4q3-d1e1054"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3626": {
+    "summary": "Alternatively, and probably, 'this' points to nothing, being taken recitatively and materially, as when reporting 'Christ said to Peter, you are Peter' does not use 'you' significatively. This is Innocent III's view in De officio missae.",
+    "claims": [
+      "'This' may be used materially, with no reference."
+    ],
+    "concepts": [
+      "material supposition",
+      "Innocent III",
+      "recitative speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e1023"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3648": {
+    "summary": "Thomas objects: the words would then have no relation to the present matter, so the word would not join the element, as Augustine requires.",
+    "claims": [
+      "Material use would sever word from element."
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "Augustine",
+      "accedit verbum ad elementum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3626"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3661": {
+    "summary": "Second, the same difficulty returns for Christ's own utterance.",
+    "claims": [],
+    "concepts": [
+      "Last Supper"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3626"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3668": {
+    "summary": "To the first: the consequence is denied, since it pleases God to transubstantiate the matter when the words are recited with intention to consecrate, and so the word joins the element.",
+    "claims": [
+      "The words' efficacy rests on divine ordination."
+    ],
+    "concepts": [
+      "divine ordination",
+      "covenantal causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3648"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3681": {
+    "summary": "To the second: Christ pointed intellectually and sensibly at one instant for another, or he consecrated by divine power before he spoke and said the words afterward to teach the disciples the form.",
+    "claims": [
+      "Christ may have consecrated before speaking the words."
+    ],
+    "concepts": [
+      "Last Supper",
+      "form of consecration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726",
+        "rh-l4q3-d1e3661"
+      ]
+    }
+  },
+  "rh-l4q3-d1e3706": {
+    "summary": "There is no time to answer the other arguments now, which concludes the question.",
+    "claims": [
+      "Replies to the seventh through tenth arguments are left unanswered."
+    ],
+    "concepts": [
+      "unanswered arguments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q3-Dd1e2726"
+      ]
+    }
+  }
+}

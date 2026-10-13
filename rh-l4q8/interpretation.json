@@ -1,0 +1,1870 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l4q8": {
+    "summary": "In the final question of the Sentences commentary, Holcot asks whether eternal beatitude is the wayfarer's final reward. He distinguishes seven senses of 'beatitude' and adopts Anselm's: sufficiency of fitting goods without want. Clear vision, enjoyment, and joy are each insufficient, since they coexisted with want in Christ, Moses, and Paul, and by absolute power vision could even stand with hatred of God. 'Created beatitude' is a collective name for an aggregate. Against arguments for infinite capacity and equality, he holds that beatific cognition and joy are finite though of a distinct kind, and that beatitude is unequal by the light of glory and God's free causation. The blessed are certain only that they will remain blessed, not that they cannot fall, since God could annihilate or deceive them.",
+    "claims": [
+      "The final reward is beatitude as sufficiency of fitting goods.",
+      "'Created beatitude' is a collective name.",
+      "Beatitude is finite and unequal among the blessed.",
+      "The blessed lack certainty that they cannot fall."
+    ],
+    "concepts": [
+      "beatitude",
+      "Anselm",
+      "beatific vision",
+      "collective names",
+      "light of glory",
+      "security of beatitude",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q8-Dd1e103",
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-Dd1e1299",
+        "rh-l4q8-Dd1e1319",
+        "rh-l4q8-Dd1e1418",
+        "rh-l4q8-Dd1e1717"
+      ]
+    }
+  },
+  "rh-l4q8-Dd1e103": {
+    "summary": "Opening statement: whether the final reward of a good wayfarer is eternal beatitude.",
+    "claims": [],
+    "concepts": [
+      "beatitude"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q8-d1e105"
+      ]
+    }
+  },
+  "rh-l4q8-d1e105": {
+    "summary": "States the question: whether the final reward of a good wayfarer is eternal beatitude.",
+    "claims": [],
+    "concepts": [
+      "beatitude",
+      "reward",
+      "eschatology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8"
+      ]
+    }
+  },
+  "rh-l4q8-Dd1e115": {
+    "summary": "Four principal arguments. Beatitude would require infinite joy or knowledge in a finite creature, through infinite objects, mutual joy, reflexive joy, endless gratitude, and eternal security. All the blessed would be equal, since all see God as he is, share joy, desire equally, and know everything. Security of beatitude is impossible, given God's power to annihilate. Beatitude as operation would be either revocable or unfree.",
+    "claims": [
+      "Beatitude seems to require infinite capacity, equality, impossible security, and unfree operation."
+    ],
+    "concepts": [
+      "infinite joy",
+      "equality of beatitude",
+      "security",
+      "freedom of the blessed"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q8-d1e120",
+        "rh-l4q8-d1e173",
+        "rh-l4q8-d1e184",
+        "rh-l4q8-d1e219",
+        "rh-l4q8-d1e246",
+        "rh-l4q8-d1e275",
+        "rh-l4q8-d1e297",
+        "rh-l4q8-d1e343",
+        "rh-l4q8-d1e398",
+        "rh-l4q8-d1e439",
+        "rh-l4q8-d1e462",
+        "rh-l4q8-d1e506",
+        "rh-l4q8-d1e537",
+        "rh-l4q8-d1e563",
+        "rh-l4q8-d1e626",
+        "rh-l4q8-d1e668",
+        "rh-l4q8-d1e696",
+        "rh-l4q8-d1e716",
+        "rh-l4q8-d1e732",
+        "rh-l4q8-d1e780",
+        "rh-l4q8-d1e789",
+        "rh-l4q8-d1e815",
+        "rh-l4q8-d1e836",
+        "rh-l4q8-d1e888",
+        "rh-l4q8-d1e914",
+        "rh-l4q8-d1e932",
+        "rh-l4q8-d1e957",
+        "rh-l4q8-d1e981",
+        "rh-l4q8-d1e991",
+        "rh-l4q8-d1e1067",
+        "rh-l4q8-d1e1104",
+        "rh-l4q8-d1e1139",
+        "rh-l4q8-d1e1172",
+        "rh-l4q8-d1e1208",
+        "rh-l4q8-d1e1238",
+        "rh-l4q8-d1e1245",
+        "rh-l4q8-d1e1265",
+        "rh-l4q8-d1e1291"
+      ]
+    }
+  },
+  "rh-l4q8-d1e120": {
+    "summary": "First principal argument: then the reward would be infinite joy, which a finite power cannot hold. An act knowing infinitely many things distinctly would be infinitely perfect, and the act of clearly seeing God is more perfect than such an act, since only it beatifies (Augustine: not blessed for other things but for you alone).",
+    "claims": [
+      "Beatific vision would be an act of infinite perfection."
+    ],
+    "concepts": [
+      "infinite joy",
+      "finite capacity",
+      "beatific vision",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q8-d1e173": {
+    "summary": "Second: cognition's perfection follows its object's (De anima II), and God infinitely exceeds every object, so knowledge of him is infinitely perfect.",
+    "claims": [
+      "Knowledge of an infinite object is infinitely perfect."
+    ],
+    "concepts": [
+      "object and act",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e184": {
+    "summary": "Third: per Anselm all the blessed know everything God makes knowable and rejoice in another's joy as in their own, so Peter and Paul seeing each other's growing joy would increase their joys endlessly, with no highest joy.",
+    "claims": [
+      "Mutual joy of the blessed would increase without limit."
+    ],
+    "concepts": [
+      "Anselm",
+      "joy of the blessed",
+      "infinite regress"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e219": {
+    "summary": "Fourth: if joy in God is finite (a), and creatures can cause joy b, ever more perfect creatures could eventually cause joy equal to a, so a creature would cause as much joy as beatitude.",
+    "claims": [
+      "Finite beatific joy could be matched by a creature."
+    ],
+    "concepts": [
+      "creaturely joy",
+      "proportion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e246": {
+    "summary": "Fifth: Peter rejoices in his vision by joy a; he must rejoice in a too, having nothing he should not rejoice in (Anselm). Either by another joy, giving an infinite regress of joys, or there will be an unrejoiced joy.",
+    "claims": [
+      "Rejoicing in one's joy yields infinite regress."
+    ],
+    "concepts": [
+      "reflexive joy",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e275": {
+    "summary": "If he rejoices in a by a itself, he has the same joy of God and creature, which is disordered, since one joy cannot be greater and lesser.",
+    "claims": [
+      "Joy in God and in a creature by one act would be disordered."
+    ],
+    "concepts": [
+      "order of joys"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e246"
+      ]
+    }
+  },
+  "rh-l4q8-d1e297": {
+    "summary": "Further: whether joy is an act of will or a passion, different objects cause different joys (Anselm: the will's use is multiplied by its objects), and the object as partial cause cannot cause itself, so joy in a is distinct from a.",
+    "claims": [
+      "Distinct objects cause distinct joys."
+    ],
+    "concepts": [
+      "Anselm",
+      "joy as act or passion",
+      "partial causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e246"
+      ]
+    }
+  },
+  "rh-l4q8-d1e343": {
+    "summary": "Sixth: the blessed's joy would increase infinitely, since love of God would: each day God does more for Plato by preserving his beatitude, a benefit infinitely greater than any temporal one, so he is more obliged and, unless ungrateful, loves and rejoices more, forever.",
+    "claims": [
+      "Daily conservation in beatitude would infinitely increase love and joy."
+    ],
+    "concepts": [
+      "gratitude",
+      "conservation",
+      "debt of love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e398": {
+    "summary": "Seventh: is the security of eternal joy a cause of infinite or finite joy? If finite, security for some finite number of days would cause as much, so seeing God a thousand years would gladden as much as forever, which is foolish.",
+    "claims": [
+      "Finite joy from eternal security would equal that from finite security."
+    ],
+    "concepts": [
+      "security of beatitude",
+      "proportion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e439": {
+    "summary": "Eighth: some object is most proportioned to human intellect, and God recedes infinitely from that proportion, so knowing God is infinitely difficult and a blessed intellect would be infinitely powerful.",
+    "claims": [
+      "Knowing God would require infinite power."
+    ],
+    "concepts": [
+      "proportion of intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e462": {
+    "summary": "Ninth: one should rationally grieve infinitely over some evil, since more over infinite than four days' punishment, and either infinitely more (so infinitely) or finitely (so equally for finite and infinite punishment). So one should rejoice infinitely over God seen.",
+    "claims": [
+      "Infinite grief over eternal punishment implies infinite joy in God."
+    ],
+    "concepts": [
+      "grief and joy",
+      "eternal punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e506": {
+    "summary": "Tenth: does God appear to the blessed as finite or infinite good? If finite, God could make a creature appear as good, which could then be loved equally. If infinite, the blessed comprehend God, since simples are known wholly or not at all (Metaphysics VII).",
+    "claims": [
+      "Clear vision of God implies either equal creatures or comprehension."
+    ],
+    "concepts": [
+      "comprehension of God",
+      "Aristotle",
+      "simples"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e537": {
+    "summary": "Confirmation: no creature can appear as good as it is unless comprehended, so if God appears as good as he is, he is comprehended, which requires infinite power.",
+    "claims": [
+      "Appearing as good as one is requires comprehension."
+    ],
+    "concepts": [
+      "comprehension"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e506"
+      ]
+    }
+  },
+  "rh-l4q8-d1e563": {
+    "summary": "Eleventh: a power that can know eight as distinctly as three, and so on without limit, is infinite. Every blessed knows and rejoices in each other's joy, and the damned grieve over each other, without diminution when new ones are added, so every created intellect would be infinitely powerful.",
+    "claims": [
+      "Unlimited simultaneous distinct cognition implies infinite power."
+    ],
+    "concepts": [
+      "finite capacity",
+      "communion of saints",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e626": {
+    "summary": "Twelfth: Socrates' intellect can receive a greater degree of beatitude beyond any given, so is infinitely capacious. If there were a maximum, a wayfarer who merited it and lived on in greater charity would merit beyond it.",
+    "claims": [
+      "There is no maximum degree of beatitude a soul can receive."
+    ],
+    "concepts": [
+      "capacity for beatitude",
+      "maximum and minimum",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e668": {
+    "summary": "If instead there is a minimum degree it cannot receive, finite degrees could be reached by longer merit; if infinite, every degree below is receivable, endlessly, so capacity is infinite.",
+    "claims": [
+      "Either way capacity seems infinite."
+    ],
+    "concepts": [
+      "minimum not receivable"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e626"
+      ]
+    }
+  },
+  "rh-l4q8-d1e696": {
+    "summary": "Second principal argument: then all would be rewarded equally, since beatitude consists in seeing and loving God, and all see God as he is, which is only one way.",
+    "claims": [
+      "Seeing God as he is implies equal vision."
+    ],
+    "concepts": [
+      "equality of beatitude",
+      "vision of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q8-d1e716": {
+    "summary": "Confirmation: Augustine (83 Questions 32): no one understands the same thing better than another, since either as it is or not at all.",
+    "claims": [
+      "According to Augustine, no one understands the same thing better than another."
+    ],
+    "concepts": [
+      "Augustine",
+      "degrees of understanding"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e732": {
+    "summary": "Second: Linus rejoices as much as the Virgin, since he rejoices in her joy as much as if it were his own (Anselm, Lombard IV d. 49), else he would love her less than himself.",
+    "claims": [
+      "Equal charity implies equal joy in others' joy."
+    ],
+    "concepts": [
+      "Anselm",
+      "Lombard",
+      "Blessed Virgin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e780": {
+    "summary": "Third: Augustine (Prosper's Sentences): there will be equal joy in unequal brightness.",
+    "claims": [
+      "According to Augustine, the blessed have equal joy."
+    ],
+    "concepts": [
+      "Augustine",
+      "Prosper"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e789": {
+    "summary": "Fourth: all naturally desire beatitude equally, and glory perfects nature, so all natural desire is satisfied equally.",
+    "claims": [
+      "Equal natural desire implies equal beatitude."
+    ],
+    "concepts": [
+      "natural desire for beatitude",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e815": {
+    "summary": "Confirmation: Linus naturally desires the Virgin's glory and may lawfully will it, and the blessed have whatever they may lawfully desire.",
+    "claims": [
+      "The blessed have whatever they may lawfully desire."
+    ],
+    "concepts": [
+      "lawful desire"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e789"
+      ]
+    }
+  },
+  "rh-l4q8-d1e836": {
+    "summary": "Fifth: all know God equally, since God is equally present and every intellect equally able; otherwise a wayfarer could merit more than God could give him.",
+    "claims": [
+      "All intellects can know God equally."
+    ],
+    "concepts": [
+      "presence of God",
+      "equal capacity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e888": {
+    "summary": "Confirmation: every soul can equally love God, the possible intellect is open to all intelligibles, and every soul is equally God's image and capable of him (Augustine).",
+    "claims": [
+      "Every soul is equally God's image and capable of him."
+    ],
+    "concepts": [
+      "imago Dei",
+      "Augustine",
+      "possible intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e836"
+      ]
+    }
+  },
+  "rh-l4q8-d1e914": {
+    "summary": "Sixth: every blessed loves God with all his heart, the precept being fulfilled in heaven (Augustine), so all enjoy God equally.",
+    "claims": [
+      "Total love in heaven implies equal enjoyment."
+    ],
+    "concepts": [
+      "precept of love",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e932": {
+    "summary": "Seventh: seeing the Virgin's greater joy, which he could have merited, Linus either desires it and so has it, or not.",
+    "claims": [
+      "The lesser blessed would desire and so have greater joy."
+    ],
+    "concepts": [
+      "desire of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e957": {
+    "summary": "If not, because conformed to justice: yet right reason tells him she loves and honors God more, so not desiring it he would love God less; and seeing his nature could be more beatified, he naturally desires it.",
+    "claims": [
+      "Not desiring greater beatitude would mean loving God less."
+    ],
+    "concepts": [
+      "right reason",
+      "honor of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e932"
+      ]
+    }
+  },
+  "rh-l4q8-d1e981": {
+    "summary": "Confirmation from Aristotle: if all men naturally desire to know, they desire nobler knowledge more.",
+    "claims": [
+      "Natural desire to know extends to nobler knowledge."
+    ],
+    "concepts": [
+      "Aristotle",
+      "desire to know"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e932"
+      ]
+    }
+  },
+  "rh-l4q8-d1e991": {
+    "summary": "Eighth: per Anselm every blessed knows all God made knowable, past and future, all persons and deeds, filled with wisdom, so all know equally, and infinitely many things.",
+    "claims": [
+      "According to Anselm, the blessed know all knowables."
+    ],
+    "concepts": [
+      "Anselm",
+      "omniscience of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1067": {
+    "summary": "Ninth: the natural desire to know will be satisfied in heaven, being the same in all and for all knowables, since nothing will be desired that is not present (Augustine), so all will know everything.",
+    "claims": [
+      "Satisfied desire to know implies omniscience of the blessed."
+    ],
+    "concepts": [
+      "natural desire to know",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1104": {
+    "summary": "Tenth: all will be equally glorious in bodily dowries, impassible, agile, subtle, bright, so equally in soul's dowries; and Boethius's beatitude as perfect aggregate of all goods is had by each.",
+    "claims": [
+      "Equal bodily dowries imply equal spiritual ones."
+    ],
+    "concepts": [
+      "dowries of glorified bodies",
+      "Boethius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e696"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1139": {
+    "summary": "Third principal argument: beatitude is impossible for man, since security of beatitude is its greatest part (Augustine, Anselm), and such security is impossible for a creature.",
+    "claims": [
+      "Security of beatitude is impossible for creatures."
+    ],
+    "concepts": [
+      "security of beatitude",
+      "Anselm",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1172": {
+    "summary": "First: either God cannot annihilate Peter, so is impotent and necessitated to conserve him, against Anselm; or he can, and could make Peter's security false, so deceive him.",
+    "claims": [
+      "God's power to annihilate undermines creaturely security."
+    ],
+    "concepts": [
+      "annihilation",
+      "divine power",
+      "deception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e1139"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1208": {
+    "summary": "If one says God cannot make 'a was' false but can make 'a was security' never true: but if God destroyed Peter, 'a was' would be false, so by parity God could make a never have been.",
+    "claims": [
+      "Undermining security implies undoing the past."
+    ],
+    "concepts": [
+      "necessity of the past"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e1172"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1238": {
+    "summary": "Further: a sometime was security, a never was security, so a never was.",
+    "claims": [
+      "A paradox about past security."
+    ],
+    "concepts": [
+      "past tense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e1172"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1245": {
+    "summary": "Second: every blessed will cease to be blessed before judgment day, since each is blessed before it and immediately after now will not be blessed before it, the exponents of 'cease'.",
+    "claims": [
+      "The blessed will 'cease to be blessed before judgment day'."
+    ],
+    "concepts": [
+      "exponible 'desinit'",
+      "sophisma"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115",
+        "rh-l4q8-d1e1139"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1265": {
+    "summary": "Fourth principal argument: the wayfarer would be rewarded by his own operation, since beatitude is enjoyment, vision, and love; but the blessed act either freely, so could stop, or naturally, so not spontaneously.",
+    "claims": [
+      "Beatitude as operation is either revocable or unfree."
+    ],
+    "concepts": [
+      "beatitude as operation",
+      "freedom of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1291": {
+    "summary": "For the opposite: scripture, the saints, and Lombard IV d. 49.",
+    "claims": [
+      "Authority affirms eternal beatitude as reward."
+    ],
+    "concepts": [
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q8-Dd1e1299": {
+    "summary": "Holcot announces distinctions, conclusions, and replies.",
+    "claims": [],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "divisio quaestionis",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q8-d1e1304"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1304": {
+    "summary": "Three steps: distinctions on 'beatitude', conclusions, and replies.",
+    "claims": [],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1299"
+      ]
+    }
+  },
+  "rh-l4q8-Dd1e1319": {
+    "summary": "Holcot distinguishes seven senses of 'beatitude': God, well-being, vision, enjoyment, delight, Boethius's aggregate of all goods, and Anselm's sufficiency of fitting goods without want, which he prefers.",
+    "claims": [
+      "Holcot prefers Anselm's definition of beatitude."
+    ],
+    "concepts": [
+      "senses of beatitude",
+      "Anselm",
+      "Boethius"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q8-d1e1324"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1324": {
+    "summary": "'Beatitude' stands for God (uncreated beatitude) or creatures. Created beatitude is taken in six ways: as well-being (Augustine: all desire beatitude); as clear vision of God's essence (John 17); as love or enjoyment of God seen (Augustine); as delight following vision (Augustine: joy in truth); as Boethius's state perfected by the aggregate of all goods; and as Anselm's 'sufficiency of fitting goods without any want', which Holcot prefers, since all take the blessed to be one who has every good befitting him. So seven senses in all.",
+    "claims": [
+      "'Beatitude' has seven senses.",
+      "Holcot prefers Anselm's definition: sufficiency of fitting goods without want."
+    ],
+    "concepts": [
+      "senses of beatitude",
+      "Anselm",
+      "Boethius",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1319"
+      ]
+    }
+  },
+  "rh-l4q8-Dd1e1418": {
+    "summary": "Holcot argues that neither vision, enjoyment, nor joy in God is perfect beatitude, since each stood with want in Christ, Moses, and Paul, and by absolute power vision could stand with sadness or hatred. No creature is yet perfectly blessed. Boethian beatitude belongs to God alone. 'Created beatitude' is a collective name. The final reward is beatitude in Anselm's sense.",
+    "claims": [
+      "Vision, enjoyment, and joy are not each perfect beatitude.",
+      "'Created beatitude' is a collective name.",
+      "The final reward is sufficiency of fitting goods."
+    ],
+    "concepts": [
+      "beatific vision",
+      "collective names",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q8-d1e1423",
+        "rh-l4q8-d1e1432",
+        "rh-l4q8-d1e1445",
+        "rh-l4q8-d1e1458",
+        "rh-l4q8-d1e1468",
+        "rh-l4q8-d1e1481",
+        "rh-l4q8-d1e1522",
+        "rh-l4q8-d1e1559",
+        "rh-l4q8-d1e1572",
+        "rh-l4q8-d1e1594",
+        "rh-l4q8-d1e1606",
+        "rh-l4q8-d1e1639",
+        "rh-l4q8-d1e1657",
+        "rh-l4q8-d1e1666",
+        "rh-l4q8-d1e1703"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1423": {
+    "summary": "First conclusion: vision of God by essence is not man's beatitude, proved four ways.",
+    "claims": [
+      "Vision of God is not man's beatitude."
+    ],
+    "concepts": [
+      "beatific vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1432": {
+    "summary": "First: with vision of God stand lack of many naturally desired goods, even the greatest pain of sense, as in Christ, and mortality, fear, pain.",
+    "claims": [
+      "Clear vision of God is compatible with suffering, as in Christ."
+    ],
+    "concepts": [
+      "Christ as viator and comprehensor",
+      "pain"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418",
+        "rh-l4q8-d1e1423"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1445": {
+    "summary": "Second: by absolute power vision of God can stand with sadness or lack of all delight, since delight is a distinct, posterior thing caused by vision.",
+    "claims": [
+      "Vision without delight is possible by absolute power."
+    ],
+    "concepts": [
+      "potentia absoluta",
+      "delight distinct from vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418",
+        "rh-l4q8-d1e1423"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1458": {
+    "summary": "Third: God can conserve the vision while annihilating the joy in the seer.",
+    "claims": [
+      "God can separate vision from joy."
+    ],
+    "concepts": [
+      "divine power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418",
+        "rh-l4q8-d1e1423"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1468": {
+    "summary": "Fourth: with clearest vision can stand hatred of God, if God co-acts, as if he showed his essence to a damned soul while continuing its hatred.",
+    "claims": [
+      "Vision of God is compatible with hatred of God."
+    ],
+    "concepts": [
+      "hatred of God",
+      "vision of the damned"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418",
+        "rh-l4q8-d1e1423"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1481": {
+    "summary": "Second conclusion: enjoyment of God is not perfect beatitude, since with it stand many wants: Christ enjoyed God supremely yet lacked many goods; Paul and Moses enjoyed God without security of beatitude or immortality.",
+    "claims": [
+      "Enjoyment of God is not perfect beatitude."
+    ],
+    "concepts": [
+      "fruitio",
+      "Paul and Moses",
+      "rapture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1522": {
+    "summary": "Further: blessed souls and angels are not yet free of all want: souls desire their bodies (Augustine, Genesis XII), angels the completion of the elect. So no creature, not even Christ's soul, is yet perfectly blessed.",
+    "claims": [
+      "No creature is yet perfectly blessed."
+    ],
+    "concepts": [
+      "separated soul",
+      "completion of the elect",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418",
+        "rh-l4q8-d1e1481"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1559": {
+    "summary": "Third conclusion: joy in God seen is not perfect beatitude, by the same reasoning (Christ, Moses, Paul).",
+    "claims": [
+      "Joy in God is not perfect beatitude."
+    ],
+    "concepts": [
+      "delight"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1572": {
+    "summary": "Fourth: beatitude in these three senses is not the final reward, which must give sufficiency of all fitting goods without want.",
+    "claims": [
+      "The final reward must give sufficiency of all fitting goods."
+    ],
+    "concepts": [
+      "final reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1594": {
+    "summary": "Further: it is repugnant for a wayfarer to receive his total final reward, but all three were in wayfarers (Christ, Moses, Paul).",
+    "claims": [
+      "Vision, enjoyment, and joy occurred in wayfarers, so are not the final reward."
+    ],
+    "concepts": [
+      "viator"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418",
+        "rh-l4q8-d1e1572"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1606": {
+    "summary": "Fifth: Boethius's beatitude is not the final reward of man or angel, belonging only to God, since it includes supreme power, and Boethius concludes beatitude is divinity, every blessed a god by participation.",
+    "claims": [
+      "Boethian beatitude belongs to God alone."
+    ],
+    "concepts": [
+      "Boethius",
+      "deification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1639": {
+    "summary": "Further: on it every blessed would have a state lacking nothing, and so all would be equal.",
+    "claims": [
+      "Boethian beatitude would make all equal."
+    ],
+    "concepts": [
+      "equality of beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418",
+        "rh-l4q8-d1e1606"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1657": {
+    "summary": "Sixth: no single thing is the wayfarer's final reward, since it would be vision, enjoyment, or joy, none of which is.",
+    "claims": [
+      "No single thing is the final reward."
+    ],
+    "concepts": [
+      "reward as aggregate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1666": {
+    "summary": "Seventh: 'created beatitude' is a collective name or equivalent, signifying many things not one per se, differing in species and number, including God and creatures: clear vision, enjoyment, consequent joy, union of lover and beloved. Since these are the chief goods and noblest operations, the saints call each beatitude, though properly none is.",
+    "claims": [
+      "'Created beatitude' is a collective name.",
+      "Properly no single item is beatitude."
+    ],
+    "concepts": [
+      "collective names",
+      "nominalist semantics",
+      "beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1703": {
+    "summary": "So the answer is yes: the final reward of the wayfarer is beatitude in Anselm's sense, sufficiency of fitting goods.",
+    "claims": [
+      "The final reward is beatitude as sufficiency of fitting goods."
+    ],
+    "concepts": [
+      "Anselm",
+      "final reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1418",
+        "rh-l4q8-d1e1324"
+      ]
+    }
+  },
+  "rh-l4q8-Dd1e1717": {
+    "summary": "Holcot replies at length. No creature can know infinitely many things distinctly, and concepts of God are nobler only denominatively. Beatific joy differs in species from creaturely joy. The blessed rejoice confusedly in their own joy. Conservation in beatitude creates no new obligation. There is a maximum beatitude for each intellect. Rewards are unequal through differing light of glory and God's voluntary causation, not natural capacity. The blessed know creatures successively through God as a quasi-habit. The blessed are certain they will remain blessed but not that they cannot fall, and God could have deceived them. They enjoy God naturally yet spontaneously.",
+    "claims": [
+      "Beatitude is unequal by light of glory and divine will.",
+      "The blessed cannot be certain they cannot fall.",
+      "Beatific joy differs in kind from creaturely joy."
+    ],
+    "concepts": [
+      "light of glory",
+      "degrees of beatitude",
+      "security",
+      "denominative perfection",
+      "freedom of the blessed"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q8-d1e1722",
+        "rh-l4q8-d1e1766",
+        "rh-l4q8-d1e1880",
+        "rh-l4q8-d1e1909",
+        "rh-l4q8-d1e1932",
+        "rh-l4q8-d1e1958",
+        "rh-l4q8-d1e1995",
+        "rh-l4q8-d1e2042",
+        "rh-l4q8-d1e2071",
+        "rh-l4q8-d1e2095",
+        "rh-l4q8-d1e2125",
+        "rh-l4q8-d1e2145",
+        "rh-l4q8-d1e2158",
+        "rh-l4q8-d1e2180",
+        "rh-l4q8-d1e2202",
+        "rh-l4q8-d1e2215",
+        "rh-l4q8-d1e2247",
+        "rh-l4q8-d1e2271",
+        "rh-l4q8-d1e2284",
+        "rh-l4q8-d1e2322",
+        "rh-l4q8-d1e2340",
+        "rh-l4q8-d1e2358",
+        "rh-l4q8-d1e2377",
+        "rh-l4q8-d1e2393",
+        "rh-l4q8-d1e2406",
+        "rh-l4q8-d1e2448",
+        "rh-l4q8-d1e2455",
+        "rh-l4q8-d1e2466",
+        "rh-l4q8-d1e2506",
+        "rh-l4q8-d1e2541",
+        "rh-l4q8-d1e2559",
+        "rh-l4q8-d1e2568",
+        "rh-l4q8-d1e2641",
+        "rh-l4q8-d1e2670",
+        "rh-l4q8-d1e2702"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1722": {
+    "summary": "Reply to the first argument: denies the inference. No finite power can know infinitely many things distinctly by one or several acts; only God can. Grants the major, but an act's perfection is intrinsic, as a quality, or extrinsic, by its object; intrinsically such an act would be more perfect than any finite vision of God, so the argument fails.",
+    "claims": [
+      "Act perfection is intrinsic or extrinsic by object.",
+      "No creature can distinctly know infinitely many things."
+    ],
+    "concepts": [
+      "intrinsic and extrinsic perfection",
+      "finite cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e120"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1766": {
+    "summary": "Reply to the second: knowledge is noble by certitude or by its object. Our wayfaring concepts of God ('highest being', 'infinite being') are composed of concepts abstracted from creatures, intrinsically no more perfect than their parts, called more perfect only denominatively, by what they stand for, as a king's name is more revered than a knight's, or a wooden crucifix nobler than a golden lion, though intrinsically a golden dog image is better than a wooden man. So four equally distinct visions of unequally perfect whitenesses need not differ in intrinsic perfection.",
+    "claims": [
+      "Concepts of God are composites of creaturely concepts.",
+      "Knowledge is nobler by its object only denominatively."
+    ],
+    "concepts": [
+      "composite concepts of God",
+      "denominative perfection",
+      "king's name"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e173"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1880": {
+    "summary": "Objection: distinct perfect visions of more perfect objects exceed in the same proportion, else equal visions would judge objects equal and so be erroneous, not distinct.",
+    "claims": [
+      "Equal visions would misjudge unequal objects."
+    ],
+    "concepts": [
+      "accuracy of vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1766"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1909": {
+    "summary": "Further: if a's vision equalled d's, God replacing a by the most perfect whiteness would leave the viewer unaware of seeing anything better, having the same act.",
+    "claims": [
+      "Unchanged acts could not register a better object."
+    ],
+    "concepts": [
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1766"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1932": {
+    "summary": "Further: improving one concurrent cause improves the effect, so a better object with the same power causes a better vision.",
+    "claims": [
+      "A better object causes a better vision."
+    ],
+    "concepts": [
+      "partial causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1766"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1958": {
+    "summary": "So another answer: perfect distinct knowledge of an infinite object is infinite, which belongs to God alone; confused or general knowledge, like the concept 'intellectual substance' common to God and creatures, need not be more perfect for a more perfect object. The argument is not fully answered and will be treated elsewhere.",
+    "claims": [
+      "Perfect knowledge of the infinite is God's alone.",
+      "Confused knowledge need not track object perfection."
+    ],
+    "concepts": [
+      "distinct and confused knowledge",
+      "infinite object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1880",
+        "rh-l4q8-d1e1909",
+        "rh-l4q8-d1e1932"
+      ]
+    }
+  },
+  "rh-l4q8-d1e1995": {
+    "summary": "Reply to the third: if another's essential joy increased one's own would, but accidental joy need not; essential joy concerns God and increases in all, while for joy concerning creatures the blessed receive at once the highest degree merited.",
+    "claims": [
+      "Accidental joy in creatures is given at its full merited degree at once."
+    ],
+    "concepts": [
+      "essential and accidental joy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e184"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2042": {
+    "summary": "Reply to the fourth: joy caused by God seen differs in species from any creature-caused joy, so ever more perfect creatures would never reach it, as making ever more perfect flies never yields a lion. There are good arguments against this, passed over for now.",
+    "claims": [
+      "Beatific joy differs in species from creaturely joy."
+    ],
+    "concepts": [
+      "specific difference",
+      "fly and lion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e219"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2071": {
+    "summary": "Reply to the fifth: by joy a the blessed rejoice distinctly in the vision and confusedly in a itself, as reflex and direct acts differ; they rejoice distinctly in God and indistinctly in all they have, including their joy.",
+    "claims": [
+      "The blessed rejoice distinctly in God and confusedly in their own joy."
+    ],
+    "concepts": [
+      "reflexive joy",
+      "distinct and confused"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e246",
+        "rh-l4q8-d1e275",
+        "rh-l4q8-d1e297"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2095": {
+    "summary": "Reply to the sixth: denies that God's doing more today increases Peter's obligation, since God does not will greater obligation, it is not evident, and nothing new is done: Peter was certain yesterday it would be done today, so the obligation was contracted when he was beatified and certified of perpetuity.",
+    "claims": [
+      "Continued conservation creates no new obligation."
+    ],
+    "concepts": [
+      "obligation of the blessed",
+      "certitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e343"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2125": {
+    "summary": "Reply to the seventh: apprehension of eternal security partially causes joy of another kind, though finite, as no perfecting of flies reaches a lion, yet a lion is finite.",
+    "claims": [
+      "Joy from eternal security is of a different kind yet finite."
+    ],
+    "concepts": [
+      "security",
+      "specific difference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e398"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2145": {
+    "summary": "Reply to the eighth: nothing recedes infinitely from that proportion.",
+    "claims": [
+      "Nothing is infinitely disproportionate to the human intellect."
+    ],
+    "concepts": [
+      "proportion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e439"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2158": {
+    "summary": "Reply to the ninth: apprehension of eternal pain can reasonably cause grief of another kind, equal to that caused by transitory pain, so the two griefs are not comparable.",
+    "claims": [
+      "Grief over eternal pain differs in kind from grief over temporal pain."
+    ],
+    "concepts": [
+      "specific difference",
+      "grief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e462"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2180": {
+    "summary": "Or: one can grieve so much over temporal pain that one could grieve no more, even dying of grief, so it is false that one should grieve more over greater pain; likewise one can rejoice as much over shorter as longer security, the power of joy being finite.",
+    "claims": [
+      "Finite emotional capacity caps grief and joy."
+    ],
+    "concepts": [
+      "finite capacity for emotion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e462",
+        "rh-l4q8-d1e2158"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2202": {
+    "summary": "Reply to the tenth: God appears as infinite good and as good as he is, but it does not follow that he is comprehended.",
+    "claims": [
+      "God appears infinitely good without being comprehended."
+    ],
+    "concepts": [
+      "comprehension"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e506",
+        "rh-l4q8-d1e537"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2215": {
+    "summary": "Reply to the eleventh: no created intellect can understand more things as distinctly as fewer; in Linus earlier cognitions are remitted or dropped when new ones arise, but cognition of God is never remitted. Regarding creatures there will be successions of new thoughts without end.",
+    "claims": [
+      "Created intellects cannot know more as distinctly as fewer.",
+      "Cognition of God in the blessed is never remitted."
+    ],
+    "concepts": [
+      "finite attention",
+      "beatific vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e563"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2247": {
+    "summary": "Doctors say angels' future cognitions will be infinite. Objection: then the blessed can forget. Denied: forgetting is lacking habitual knowledge; the blessed can consider any knowable at will, not through a habit but through God the beatific object.",
+    "claims": [
+      "The blessed know creatures at will through God, not habits."
+    ],
+    "concepts": [
+      "forgetting",
+      "God as quasi-habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e2215"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2271": {
+    "summary": "Objection from the text: those who see God's brightness can see everything done in creation. Reply: this supports Holcot, saying they can see, not that they do, and successively, not simultaneously.",
+    "claims": [
+      "The blessed can see all creaturely events successively."
+    ],
+    "concepts": [
+      "vision in the Word"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e2247"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2284": {
+    "summary": "Reply to the twelfth: probably there is a maximum clear cognition, delight, and light of glory a given intellect can receive. A wayfarer who merited it can still do virtuous acts meritorious in kind but merits nothing further, as Christ made due in another way what was already due him.",
+    "claims": [
+      "There is probably a maximum beatitude each intellect can receive.",
+      "Further acts can be meritorious in kind without merit of more."
+    ],
+    "concepts": [
+      "maximum capacity",
+      "Christ's merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e626",
+        "rh-l4q8-d1e668"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2322": {
+    "summary": "Reply to the second principal argument: grants all see God as he is but denies they see equally. Augustine's 'no one understands better' holds for definitional understanding; literally it is false.",
+    "claims": [
+      "Seeing God as he is does not imply equal vision."
+    ],
+    "concepts": [
+      "degrees of vision",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e696",
+        "rh-l4q8-d1e716"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2340": {
+    "summary": "Reply to the second: denies Linus rejoices as much as the Virgin; Anselm means charity there is perfect, not literally that one rejoices in another's joy as in one's own.",
+    "claims": [
+      "Anselm's equal joy claim is not literal."
+    ],
+    "concepts": [
+      "Anselm",
+      "hyperbole"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e732"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2358": {
+    "summary": "Reply to the third: Augustine calls 'joy' not the possession but the beatific object, which is equal, one for all.",
+    "claims": [
+      "'Equal joy' means one beatific object for all."
+    ],
+    "concepts": [
+      "Augustine",
+      "object of beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e780"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2377": {
+    "summary": "Reply to the fourth: natural appetite is not for beatitude as vision with the rest but for beatitude as well-being; and beatitude is given by measure of merit, not appetite.",
+    "claims": [
+      "Beatitude is given by merit, not natural appetite."
+    ],
+    "concepts": [
+      "natural desire",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e789",
+        "rh-l4q8-d1e815"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2393": {
+    "summary": "Objection: natural appetite would be unsatisfied. Reply: it is satisfied in each, even the least blessed, though rewards differ.",
+    "claims": [
+      "Natural appetite is satisfied in every blessed despite unequal rewards."
+    ],
+    "concepts": [
+      "satiation",
+      "unequal rewards"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e2377"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2406": {
+    "summary": "Reply to the fifth: though all souls are naturally equally able to know and love, they are not equally beatified, since the light of glory co-acts differently and the object causes voluntarily. The essence does not represent naturally, which would be causing knowledge as a partial cause. All souls are equally God's image and could enjoy him equally but do not.",
+    "claims": [
+      "Unequal beatitude comes from unequal light of glory and God's voluntary causation.",
+      "The divine essence does not represent naturally."
+    ],
+    "concepts": [
+      "light of glory",
+      "imago Dei",
+      "voluntary causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e836",
+        "rh-l4q8-d1e888"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2448": {
+    "summary": "Reply to the sixth: one blessed can love God more than another through greater light and God's greater co-action.",
+    "claims": [
+      "Greater light and co-action make greater love."
+    ],
+    "concepts": [
+      "light of glory",
+      "concurrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e914"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2455": {
+    "summary": "Reply to the seventh: Linus does not absolutely desire to honor God more than he does, and wills to honor God less than the Virgin does.",
+    "claims": [
+      "The lesser blessed accept their lesser degree."
+    ],
+    "concepts": [
+      "conformity of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e932",
+        "rh-l4q8-d1e957"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2466": {
+    "summary": "Reply to the eighth: whoever knows God can know all knowables if God reveals them successively. The blessed have proximate and remote capacity and receive all their proximate capacity, formed by merits. 'Nothing will be hidden' means nothing they wish to know; or God is in the blessed like a habit, as nothing in medicine is hidden from one with its habit, without knowing all by one or several acts or by any created habit.",
+    "claims": [
+      "The blessed can know all things successively as God reveals.",
+      "God functions in the blessed like a habit of knowledge."
+    ],
+    "concepts": [
+      "proximate and remote capacity",
+      "God as habit",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e991"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2506": {
+    "summary": "Reply to the ninth: the desire to know will be quieted not by actual omniscience but by seeing him who will cause any knowledge they wish, as appetite for food is sated by satiety. They will know habitually all geometric conclusions, but equal knowledge does not imply equal beatitude.",
+    "claims": [
+      "The desire to know is quieted by access to God, not actual omniscience."
+    ],
+    "concepts": [
+      "natural desire to know",
+      "satiety"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1067"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2541": {
+    "summary": "Reply to the tenth: not all will be equally endowed in body; all will be beyond corporeal resistance, but with latitude in subtlety and brightness; and equal bodily dowries would not imply equal spiritual ones.",
+    "claims": [
+      "Glorified bodies differ in degrees of dowries."
+    ],
+    "concepts": [
+      "dowries of glorified bodies"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1104"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2559": {
+    "summary": "Reply to the eleventh: Boethian beatitude belongs to God alone, as in the fifth conclusion.",
+    "claims": [
+      "Boethian beatitude is God's alone."
+    ],
+    "concepts": [
+      "Boethius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1606"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2568": {
+    "summary": "Reply to the third principal argument: security is a part of beatitude in imagination, not its chief part, God being more chief, though perhaps chief among complex cognitions. Certainty of eternal beatitude is either believing one will always be blessed, which the blessed have, or believing one cannot fall, which no creature can have. Denies that God could make the past not to have been: he can make 'a is security' false, but not 'this thing was'. So some knowledge can never have been knowledge and could have been error, and God could always have deceived the blessed if he willed.",
+    "claims": [
+      "The blessed believe they will always be blessed but not that they cannot fall.",
+      "Some knowledge could have been error.",
+      "God could have deceived the blessed."
+    ],
+    "concepts": [
+      "security of beatitude",
+      "potentia absoluta",
+      "divine deception",
+      "connotative terms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1139",
+        "rh-l4q8-d1e1172",
+        "rh-l4q8-d1e1208",
+        "rh-l4q8-d1e1238"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2641": {
+    "summary": "Reply to the second form: 'every blessed will cease to be blessed before judgment day' is ambiguous: 'cease' governing the whole sequel makes it true by its exponents; governing only 'to be blessed' with 'before judgment day' determining the ceasing, false.",
+    "claims": [
+      "The sophism depends on the scope of 'desinet'."
+    ],
+    "concepts": [
+      "exponibles",
+      "scope ambiguity",
+      "sophisma"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1245"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2670": {
+    "summary": "Reply to the fourth principal argument: grants the wayfarer is rewarded by operation as part of beatitude, sufficiency of fitting goods. If 'freely' means able not to enjoy, the blessed enjoy not freely but naturally; yet, with Lombard, the confirmed are borne to God with spontaneous will, compelled by no necessity, though unable not to love him.",
+    "claims": [
+      "The blessed enjoy God naturally yet spontaneously."
+    ],
+    "concepts": [
+      "necessity and spontaneity",
+      "Lombard",
+      "freedom of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717",
+        "rh-l4q8-d1e1265"
+      ]
+    }
+  },
+  "rh-l4q8-d1e2702": {
+    "summary": "This ends the questions on Book IV and the whole work on the Sentences; the Conferentiae follow.",
+    "claims": [],
+    "concepts": [
+      "colophon",
+      "Conferentiae"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q8-Dd1e1717"
+      ]
+    }
+  }
+}

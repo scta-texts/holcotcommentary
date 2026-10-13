@@ -1,0 +1,1157 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l2q3": {
+    "summary": "Holcot asks whether the demons sinned freely and answers yes, while admitting the manner of the sin is obscure and knowable only by revelation. Probably all angels were created in grace. The good thanked God and merited confirmation, while the bad enjoyed their own nobility without referring it to God, which is ingratitude and pride and amounts interpretatively to claiming equality with God. Against the principal arguments, he denies that error preceded the sin, since love can arise from incomplex apprehension without judgment. He uses the composite and divided senses to show the angel could avoid sin when it sinned. He explains the angels' self-motion to sin through naturally good affections in Anselm's scheme. He holds that the angel could not sin at the first instant of its creation: its first act was natural, and it sinned freely after an interval in which it merited without persevering, thereby losing natural justice.",
+    "claims": [
+      "The demons sinned freely.",
+      "The angels' sin was ingratitude and inordinate self-love.",
+      "No error preceded the angelic sin.",
+      "The angel could not sin at the first instant of creation."
+    ],
+    "concepts": [
+      "fall of the angels",
+      "free will",
+      "pride",
+      "ingratitude",
+      "composite and divided sense",
+      "first instant",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q3-Dd1e103",
+        "rh-l2q3-Dd1e113",
+        "rh-l2q3-Dd1e597",
+        "rh-l2q3-Dd1e804"
+      ]
+    }
+  },
+  "rh-l2q3-Dd1e103": {
+    "summary": "Opening statement of the question: whether the demons sinned freely.",
+    "claims": [],
+    "concepts": [
+      "fall of the angels"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q3-d1e105"
+      ]
+    }
+  },
+  "rh-l2q3-d1e105": {
+    "summary": "States the question: whether the demons sinned freely.",
+    "claims": [],
+    "concepts": [
+      "fall of the angels",
+      "free will",
+      "demons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3"
+      ]
+    }
+  },
+  "rh-l2q3-Dd1e113": {
+    "summary": "Eleven principal arguments challenge the angels' free sin. Willing the apparently advantageous implies prior error, so punishment before fault. The angel could avoid sin at no time. It could not choose an impossible end. A purely volitional sin could not occasion others' sins. Self-motion to bad willing requires a prior bad or a just volition. Foreknowledge of eternal punishment would prevent sin. The punished first angel would deter rather than tempt the others. There are puzzles about sinning at or after the first instant of creation, citing Christ's merit, original sin, and angelic cognition. Augustine says the devil fell from what he never had. Equality with God could not be desired. Faith, Augustine, Anselm, and Lombard are cited for the opposite.",
+    "claims": [
+      "The angelic fall seems to require prior error, impossible desire, or regress of volitions."
+    ],
+    "concepts": [
+      "fall of the angels",
+      "error and sin",
+      "first instant",
+      "Anselm",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q3-d1e118",
+        "rh-l2q3-d1e153",
+        "rh-l2q3-d1e182",
+        "rh-l2q3-d1e193",
+        "rh-l2q3-d1e227",
+        "rh-l2q3-d1e258",
+        "rh-l2q3-d1e274",
+        "rh-l2q3-d1e312",
+        "rh-l2q3-d1e360",
+        "rh-l2q3-d1e376",
+        "rh-l2q3-d1e408",
+        "rh-l2q3-d1e443",
+        "rh-l2q3-d1e452",
+        "rh-l2q3-d1e461",
+        "rh-l2q3-d1e481",
+        "rh-l2q3-d1e499",
+        "rh-l2q3-d1e544",
+        "rh-l2q3-d1e589"
+      ]
+    }
+  },
+  "rh-l2q3-d1e118": {
+    "summary": "First principal argument. By Anselm, one abandons justice only by willing what one should not, and one can will only what appears advantageous. Since what the angel willed was not truly advantageous, error preceded its sin, so punishment (deception) preceded fault.",
+    "claims": [
+      "The angel's sin presupposes prior error, which is itself a punishment."
+    ],
+    "concepts": [
+      "error and sin",
+      "Anselm",
+      "apparent good",
+      "poena and culpa"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e153": {
+    "summary": "Second: if it sinned it could have avoided sin (Augustine: no one sins in what he cannot avoid). But not after sinning, nor while sinning (it would both sin and lack sin), nor before, since before it acted as well as those who stood firm.",
+    "claims": [
+      "The angel could avoid sin neither before, during, nor after sinning."
+    ],
+    "concepts": [
+      "avoidability",
+      "Augustine",
+      "good and bad angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e182": {
+    "summary": "Third: either the bad angels hoped to obtain what they desired, and so were deceived, or not, in which case they did not choose it, since choice is not of impossibles (Ethics III).",
+    "claims": [
+      "The angels either chose an impossible end or were deceived."
+    ],
+    "concepts": [
+      "choice of impossibles",
+      "Aristotle",
+      "deception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e193": {
+    "summary": "Fourth: if all sinned by bad willing alone, the first could not have occasioned the others' sin (the dragon drawing a third of the stars, Apocalypse 12), since they would not know his volition; and if he did, the others fell by temptation, against Augustine.",
+    "claims": [
+      "A purely volitional first sin could not occasion others' sins."
+    ],
+    "concepts": [
+      "Apocalypse 12",
+      "occasion of sin",
+      "temptation of angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e227": {
+    "summary": "Fifth: an angel not created in bad volition must have moved itself to it by a prior volition. Either its first, natural volition, which would then be bad, or another bad one, giving infinite regress.",
+    "claims": [
+      "The first bad volition requires a prior volition, leading to regress or a bad natural volition."
+    ],
+    "concepts": [
+      "self-motion of will",
+      "infinite regress",
+      "natural volition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e258": {
+    "summary": "Confirms with Anselm (De casu diaboli 12): whatever moves itself to will first wills to move itself, so the angel willed to will badly before it willed badly, which is impossible.",
+    "claims": [
+      "According to Anselm, self-movement to will requires prior willing."
+    ],
+    "concepts": [
+      "Anselm",
+      "De casu diaboli",
+      "self-motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113",
+        "rh-l2q3-d1e227"
+      ]
+    }
+  },
+  "rh-l2q3-d1e274": {
+    "summary": "Sixth: every volition preceding malice was right, since the angel received justice from God (Anselm), so it moved itself to sin by a just volition, which is impossible.",
+    "claims": [
+      "The angel would have moved itself to sin by a just volition."
+    ],
+    "concepts": [
+      "rectitude",
+      "Anselm",
+      "origin of evil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e312": {
+    "summary": "Seventh: did the angel foreknow eternal punishment? If so, it could not will its own misery. If it expected only temporal punishment, it erred, so punishment preceded fault. And God would have acted unjustly in commanding without revealing the penalty, while it seems unreasonable that the angel was ignorant of its own condition.",
+    "claims": [
+      "Foreknowledge of eternal punishment would prevent sin; ignorance of it would be prior error."
+    ],
+    "concepts": [
+      "foreknowledge of punishment",
+      "Anselm",
+      "will to misery",
+      "divine justice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e360": {
+    "summary": "Eighth: if the others sinned on occasion of the first, they saw him sin first, and since punishment follows fault without interval, they saw him already deprived of grace and punished, which was an occasion of caution, not sin.",
+    "claims": [
+      "Seeing the first angel's immediate punishment would deter, not occasion, sin."
+    ],
+    "concepts": [
+      "occasion of sin",
+      "immediacy of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e376": {
+    "summary": "Ninth: could the angel sin at the first instant of creation? Not so, since then it was never good and never fell from good; a creature's first act is from God (Anselm), so God would make it bad; and it would be at once integral and corrupted in its natural powers (Lombard).",
+    "claims": [
+      "An angel could not sin at the first instant of its creation."
+    ],
+    "concepts": [
+      "first instant",
+      "Anselm",
+      "Lombard",
+      "corruption of nature"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e408": {
+    "summary": "Against the alternative that it could sin only after the first instant: either there is a first instant at which it could sin, leaving an intermediate time of impeccability, with infinitely many sub-intervals none sufficient for deliberation, or there is none, so before any instant at which it could sin it could already sin, to infinity.",
+    "claims": [
+      "Both a first instant of peccability and its absence lead to difficulties."
+    ],
+    "concepts": [
+      "first instant",
+      "continuity",
+      "deliberation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113",
+        "rh-l2q3-d1e376"
+      ]
+    }
+  },
+  "rh-l2q3-d1e443": {
+    "summary": "Further: Christ merited at the first instant of his conception, so the angel could sin at the first instant of its creation.",
+    "claims": [
+      "Christ's merit at conception suggests instantaneous free acts are possible."
+    ],
+    "concepts": [
+      "Christ's merit",
+      "first instant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113",
+        "rh-l2q3-d1e376"
+      ]
+    }
+  },
+  "rh-l2q3-d1e452": {
+    "summary": "Further: a child's soul contracts sin at the first instant of infusion, so an angel could be bad at its first instant.",
+    "claims": [
+      "Original sin is contracted at the first instant of the soul's infusion."
+    ],
+    "concepts": [
+      "original sin",
+      "infusion of soul"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113",
+        "rh-l2q3-d1e376"
+      ]
+    }
+  },
+  "rh-l2q3-d1e461": {
+    "summary": "Further: a man can sin at the first instant of his being, as when a sinning separated soul is united to a body at that instant; the man's will sins, so the man sins.",
+    "claims": [
+      "A man can sin at the first instant of his being, via a pre-existing soul."
+    ],
+    "concepts": [
+      "pre-existence of soul",
+      "casus",
+      "first instant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113",
+        "rh-l2q3-d1e376"
+      ]
+    }
+  },
+  "rh-l2q3-d1e481": {
+    "summary": "Further: at its first instant the angel had cognition of good and evil and a perfect will, as ready to will as the intellect to know, without discursive reasoning or composition, so it could will well or badly at once.",
+    "claims": [
+      "The angel's complete cognition at creation allowed immediate good or bad willing."
+    ],
+    "concepts": [
+      "angelic cognition",
+      "non-discursive intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113",
+        "rh-l2q3-d1e376"
+      ]
+    }
+  },
+  "rh-l2q3-d1e499": {
+    "summary": "Tenth: the devil never fell from a justice he had, so never sinned. Augustine (Genesis XI) says he fell not from what he received but from what he would have received had he been willing to submit to God. So he never had justice, never owed it (Anselm), and never sinned by deserting it.",
+    "claims": [
+      "According to Augustine, the devil fell not from what he had but from what he would have received."
+    ],
+    "concepts": [
+      "Augustine",
+      "Anselm",
+      "justice",
+      "debt of justice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e544": {
+    "summary": "Eleventh: what did the angel inordinately desire? Isaiah 14 ('I will ascend into heaven... above the stars') suggests equality with God, since it was already in the empyrean. But it knew this was impossible; Augustine says Adam, being spiritually minded, could not have believed he would be as a god.",
+    "claims": [
+      "The angel could not desire equality with God, knowing it impossible."
+    ],
+    "concepts": [
+      "Isaiah 14",
+      "equality with God",
+      "Augustine",
+      "pride"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-d1e589": {
+    "summary": "For the opposite: Catholic faith, Augustine on Genesis, Anselm's De casu diaboli, and Lombard Book II.",
+    "claims": [
+      "The faith holds that the demons sinned freely."
+    ],
+    "concepts": [
+      "authority",
+      "Augustine",
+      "Anselm",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e113"
+      ]
+    }
+  },
+  "rh-l2q3-Dd1e597": {
+    "summary": "Holcot affirms that the demons sinned freely but finds the manner obscure. As a probable account, all angels were created in grace. The good thanked God and merited confirmation de congruo, while the bad rested in and enjoyed their own nobility without referring it to God, so interpretatively claiming equality with God. Their sin was ingratitude, libido, and pride as inordinate self-love. He finds Anselm's account incoherent, mentions Thomas's view that the angel sought beatitude by nature without grace, and concludes the truth is knowable only by revelation.",
+    "claims": [
+      "The demons sinned freely.",
+      "The angels' sin was self-enjoyment without referring their goodness to God.",
+      "What the angels sought is knowable only by revelation."
+    ],
+    "concepts": [
+      "ingratitude",
+      "pride",
+      "self-enjoyment",
+      "creation in grace",
+      "Thomas Aquinas",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "responsio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q3-d1e602",
+        "rh-l2q3-d1e615",
+        "rh-l2q3-d1e726"
+      ]
+    }
+  },
+  "rh-l2q3-d1e602": {
+    "summary": "Holcot's answer: yes, since 'it sinned, so it sinned freely' follows. But how the angel sinned, what it sought, and whether the first sin was of omission or commission is hard to see.",
+    "claims": [
+      "The demons sinned freely.",
+      "Sin entails free action."
+    ],
+    "concepts": [
+      "fall of the angels",
+      "omission and commission"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e597"
+      ]
+    }
+  },
+  "rh-l2q3-d1e615": {
+    "summary": "A probable account. All angels were created in grace, against Lombard, and knew God and themselves and what to will. The good, recognizing themselves made by God, began to love and thank him, meriting beatitude and confirmation de congruo. The bad, considering their own nobility, did not refer it to God but rested in it, enjoying themselves and attributing their goodness to themselves. In this they usurped what belongs to God alone, loving something whose being has no cause, and so interpretatively sought equality with God. Their sin is ingratitude, the root of all vices; as an act, libido; and as inordinate love of their own excellence, pride, since loving one's excellence is not sinful except inordinately. So the angelic sin was not a desire for a nature not possessed except interpretatively, but disordered love of one really possessed.",
+    "claims": [
+      "All angels were created in grace.",
+      "The good angels merited confirmation de congruo by thanking God.",
+      "The bad angels sinned by enjoying themselves without referring their goodness to God.",
+      "The angels' sin was ingratitude, and also pride as inordinate self-love.",
+      "They sought equality with God only interpretatively."
+    ],
+    "concepts": [
+      "creation in grace",
+      "meritum de congruo",
+      "ingratitude",
+      "pride",
+      "self-enjoyment",
+      "interpretative desire"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e597",
+        "rh-l2q3-d1e544"
+      ]
+    }
+  },
+  "rh-l2q3-d1e726": {
+    "summary": "Against this seems Anselm, who says the angel desired something it could have attained by merit but did not yet have, while also saying it willed what God did not will it to will. Combined, God would will the angel to merit what he did not will it to will, which seems irrational, so Holcot does not understand Anselm this way. Perhaps instead the angel inordinately willed beatitude by its natural powers without grace, though from God, as Thomas says, which is a likeness to God's self-beatification. Either way matters little, since the truth can be known only by revelation.",
+    "claims": [
+      "Anselm's account of the angel's object seems incoherent.",
+      "According to Thomas, the angel sought beatitude by natural powers without grace.",
+      "What the angel sought can be known only by revelation."
+    ],
+    "concepts": [
+      "Anselm",
+      "Thomas Aquinas",
+      "beatitude without grace",
+      "limits of theological knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e597",
+        "rh-l2q3-d1e615"
+      ]
+    }
+  },
+  "rh-l2q3-Dd1e804": {
+    "summary": "Holcot argues that no error preceded the angelic sin, since love can arise from incomplex cognition without prior judgment. He weighs and criticizes an alternative on which the first sin was an omission of consideration. 'Could have avoided sin when it sinned' is true in the divided sense, with word order fixing the sense. The first angel made its love known by angelic speech, and the others fell without temptation; not all difficulty is punishment. The angel moved itself to sin through naturally, not morally, good affections, per Anselm's instrument-affection-use scheme. It knew its punishment habitually but did not consider it. It could not sin at its first instant. Its first act was natural; it merited briefly, did not persevere, and lost natural justice. Original sin needs no free act.",
+    "claims": [
+      "No error preceded the angelic sin.",
+      "'Could avoid when it sinned' is true in the divided sense.",
+      "The angel could not sin at the first instant of creation.",
+      "The angel's first act was natural; its free sin came after a brief interval."
+    ],
+    "concepts": [
+      "composite and divided sense",
+      "incomplex cognition",
+      "angelic speech",
+      "first instant",
+      "natural and moral justice",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "responsio ad rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q3-d1e809",
+        "rh-l2q3-d1e825",
+        "rh-l2q3-d1e855",
+        "rh-l2q3-d1e868",
+        "rh-l2q3-d1e889",
+        "rh-l2q3-d1e918",
+        "rh-l2q3-d1e955",
+        "rh-l2q3-d1e994",
+        "rh-l2q3-d1e1020",
+        "rh-l2q3-d1e1051",
+        "rh-l2q3-d1e1074",
+        "rh-l2q3-d1e1083",
+        "rh-l2q3-d1e1096",
+        "rh-l2q3-d1e1103",
+        "rh-l2q3-d1e1117",
+        "rh-l2q3-d1e1163",
+        "rh-l2q3-d1e1203",
+        "rh-l2q3-d1e1221",
+        "rh-l2q3-d1e1232",
+        "rh-l2q3-d1e1291",
+        "rh-l2q3-d1e1307",
+        "rh-l2q3-d1e1325",
+        "rh-l2q3-d1e1388",
+        "rh-l2q3-d1e1401",
+        "rh-l2q3-d1e1412",
+        "rh-l2q3-d1e1423",
+        "rh-l2q3-d1e1430",
+        "rh-l2q3-d1e1443",
+        "rh-l2q3-d1e1460",
+        "rh-l2q3-d1e1480",
+        "rh-l2q3-d1e1485"
+      ]
+    }
+  },
+  "rh-l2q3-d1e809": {
+    "summary": "Reply to the first: no erroneous cognition preceded the sin. From the sight of God, itself, and the other angels alone it could inordinately desire beatitude (second account) or love itself without reference to God (first account).",
+    "claims": [
+      "No error preceded the angel's sin."
+    ],
+    "concepts": [
+      "error and sin",
+      "angelic cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e118"
+      ]
+    }
+  },
+  "rh-l2q3-d1e825": {
+    "summary": "Another view: the first sin was an omission, a neglect to consider. First it omitted to consider the natural laws given it, then fell into erroneous judgment, then into disordered love. Then error followed the sin of omission, though it preceded the positive sin.",
+    "claims": [
+      "On another view, the angel's first sin was an omission of consideration that led to error."
+    ],
+    "concepts": [
+      "sin of omission",
+      "negligence",
+      "erroneous judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e118"
+      ]
+    }
+  },
+  "rh-l2q3-d1e855": {
+    "summary": "On that view one may grant that what it desired appeared advantageous, so it was deceived through negligence in using the habitual knowledge God gave it.",
+    "claims": [
+      "The angel was deceived through negligent use of its habitual knowledge."
+    ],
+    "concepts": [
+      "negligence",
+      "habitual knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e825"
+      ]
+    }
+  },
+  "rh-l2q3-d1e868": {
+    "summary": "Against this: such negligence could arise only from excessive attention to some good, distracting it from the law. That attention was voluntary, not casual, so willing to attend was the first sin.",
+    "claims": [
+      "Negligence presupposes a voluntary act of attention, which would be the first sin."
+    ],
+    "concepts": [
+      "attention",
+      "voluntariness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e825"
+      ]
+    }
+  },
+  "rh-l2q3-d1e889": {
+    "summary": "Easier to say that volition or love can occur without any preceding dictate or complex cognition: apprehending beatitude, it could burst at once into willing to be blessed by itself, though that is willing an impossible. The first account avoids both the impossible desire and prior error, since from mere cognition it could cling to itself in love without thanking God.",
+    "claims": [
+      "Volition can occur without a preceding judgment or complex cognition.",
+      "The self-love account avoids both impossible desire and prior error."
+    ],
+    "concepts": [
+      "volition without judgment",
+      "incomplex cognition",
+      "self-love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e868"
+      ]
+    }
+  },
+  "rh-l2q3-d1e918": {
+    "summary": "Reply to the second: the general form applies to any sinner. 'Could avoid sin when it sinned' must be distinguished: the composite sense, 'it is possible: it avoided sinning when it sinned', is false; the divided sense, 'at this time it could have avoided and at this time it sinned', is true.",
+    "claims": [
+      "'Could have avoided sin when it sinned' is true in the divided sense and false in the composite sense."
+    ],
+    "concepts": [
+      "composite and divided sense",
+      "avoidability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e153"
+      ]
+    }
+  },
+  "rh-l2q3-d1e955": {
+    "summary": "It could not avoid sin after sinning, but could before, in the divided sense. Literally, 'it could avoid when it sinned' imports the composite sense, since the predicate appellates its form, and is to be denied; 'when it sinned, it could avoid' imports the divided sense, since the temporal sign is not on the predicate side, and can be granted.",
+    "claims": [
+      "Word order of the temporal sign fixes composite or divided sense."
+    ],
+    "concepts": [
+      "appellation",
+      "composite and divided sense",
+      "word order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e918"
+      ]
+    }
+  },
+  "rh-l2q3-d1e994": {
+    "summary": "Grants that the bad angels did as well before sinning as those who stood. 'The good did not sin, the bad sinned, so they did not do equally well before a' fails, since 'sinned' depends on the future; the bad were as careful before a as the good.",
+    "claims": [
+      "Before their fall the bad angels acted as well as the good."
+    ],
+    "concepts": [
+      "future-dependent predicates",
+      "good and bad angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e153"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1020": {
+    "summary": "Reply to the third: the argument tries to show error preceded fault. If the first sin was an omission, error followed it. Or they desired interpretatively what they did not hope for: they did not distinctly desire equality with God, but loved themselves without reference to God, which belongs to no creature. No act of assent preceded that love, caused by incomplex apprehensions alone.",
+    "claims": [
+      "The angels desired equality with God only interpretatively.",
+      "Their disordered love was caused by incomplex apprehensions without prior assent."
+    ],
+    "concepts": [
+      "interpretative desire",
+      "incomplex cognition",
+      "self-love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e182"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1051": {
+    "summary": "Reply to the fourth: the angel burst into disordered love and at once wished to make it known to others, revealing it by angelic speech. This was no temptation, since temptation causes difficulty in the tempted and caused none in them; so the others fell without temptation.",
+    "claims": [
+      "The first angel communicated its disordered love by angelic speech.",
+      "The other angels fell without temptation."
+    ],
+    "concepts": [
+      "angelic speech",
+      "temptation",
+      "occasion of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e193"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1074": {
+    "summary": "Objection: if all temptation causes difficulty, our first parents felt difficulty before sinning, so punishment preceded fault in them.",
+    "claims": [
+      "Tempted first parents felt difficulty, which seems a punishment before fault."
+    ],
+    "concepts": [
+      "temptation of Adam",
+      "difficulty as punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e1051"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1083": {
+    "summary": "Reply: not all difficulty is punishment, as not all nescience is. There was difficulty in the state of innocence, since virtuous acts require difficulty, virtue concerning the difficult.",
+    "claims": [
+      "Not all difficulty is punishment.",
+      "Virtue in innocence involved difficulty."
+    ],
+    "concepts": [
+      "state of innocence",
+      "virtue and difficulty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e1074"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1096": {
+    "summary": "Objection: then there will be no virtues in heaven, or difficulties will remain there.",
+    "claims": [
+      "If virtue requires difficulty, heaven has no virtue or has difficulty."
+    ],
+    "concepts": [
+      "virtues in heaven"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e1083"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1103": {
+    "summary": "Reply: the habits of virtue remain in heaven but without their present use, as Lombard (III d. 33) and Augustine say.",
+    "claims": [
+      "Virtue habits remain in heaven without their present use."
+    ],
+    "concepts": [
+      "virtues in heaven",
+      "Lombard",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e1096"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1117": {
+    "summary": "Reply to the fifth, following Anselm: the bad angel moved itself to bad willing by a good volition. For Anselm 'will' is instrument, use, and affection, and nothing can be willed without the affection for advantage or justice, both good. Having the concreated affection for advantage, through the will as instrument and with cognition, the angel moved itself to will inordinately, loving itself without reference to God. All by which it moved itself were naturally, not morally, good, as the means of homicide are naturally good. So no distinct bad volition preceded the first.",
+    "claims": [
+      "The angel moved itself to sin by naturally good affections, not a prior bad volition.",
+      "Natural goodness differs from moral goodness."
+    ],
+    "concepts": [
+      "affectio commodi",
+      "Anselm",
+      "natural and moral goodness",
+      "instrument and use of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e227",
+        "rh-l2q3-d1e258"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1163": {
+    "summary": "Reply to the sixth: Anselm does not mean that a volition as use preceded every use, which would regress infinitely for a creature made in time, but that the concreated affection, the instrument, preceded the use; nature, affection, and will cause the use. So it moved itself to sin by a right volition, but that rightness is not moral, only the concreated affection, as heaviness might equivocally be called the rightness of a heavy body.",
+    "claims": [
+      "The rightness by which the angel moved itself was natural, not moral.",
+      "The concreated affection precedes the use of the will without regress."
+    ],
+    "concepts": [
+      "rectitude",
+      "concreated affection",
+      "equivocation",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e274"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1203": {
+    "summary": "Reply to the seventh: the angel habitually believed it would be punished eternally if it sinned but did not consider it, delighting too much in its own nobility. It could not have willed misery if it had actually considered the penalty.",
+    "claims": [
+      "The angel knew habitually but did not actually consider its punishment."
+    ],
+    "concepts": [
+      "habitual and actual knowledge",
+      "inattention",
+      "pride"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e312"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1221": {
+    "summary": "Reply to the eighth: they attended so intently to the first angel's speech that they noticed not the penalty but the sinner, and sinned at once with him; he was their occasion of sin only very improperly.",
+    "claims": [
+      "The other angels sinned simultaneously with the first, attending to his speech rather than his penalty."
+    ],
+    "concepts": [
+      "occasion of sin",
+      "attention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e360"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1232": {
+    "summary": "Reply to the ninth: at the first instant of its creation it could have sinned, but it could not have sinned at the first instant of its creation. God could have created it earlier, so that instant could have been the last instant of its sin. But free choice concerns only the future (Lombard), so it could not freely cause a bad act at the first instant. Still its first act of will could have been bad, if God created it to remain in cognition for a time without volition, then it willed badly; but a first act both at the first instant and bad is contradictory.",
+    "claims": [
+      "The angel could not sin at the first instant of its creation.",
+      "Free choice concerns only the future.",
+      "An angel's first act of will could be bad if it came after an interval."
+    ],
+    "concepts": [
+      "first instant",
+      "scope distinctions",
+      "free choice and the future",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e376"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1291": {
+    "summary": "Reply to the arguments about a first instant: grants there is no first instant at which it could begin to sin or could sin, and that it could have sinned at infinitely many times before it did.",
+    "claims": [
+      "There is no first instant at which the angel could sin."
+    ],
+    "concepts": [
+      "first instant",
+      "continuity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e408"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1307": {
+    "summary": "Objection: if it began to sin after the first instant, there was an intermediate time in which it did not sin; if at the first instant, it was in grace only for an instant, and it seems it could not freely begin to sin at the first instant.",
+    "claims": [
+      "Either the angel was sinless for a time or in grace only an instant."
+    ],
+    "concepts": [
+      "first instant",
+      "duration of grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e1291"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1325": {
+    "summary": "Reply: there is a first instant at which it in fact began to sin, though no first instant at which it could have sinned. In the intermediate time the devil willed well and merited, but did not persevere and so was never rewarded (Anselm), like a foreknown man who merits for a time. At its first instant it began a natural, not free, act toward God and itself, neither meriting nor demeriting; knowing itself free and commanded, after a brief delay it elicited a free act and sinned. It thereby abandoned the natural love by which it loved God and lost natural justice.",
+    "claims": [
+      "The angel's first act was natural, not free, and neither meritorious nor demeritorious.",
+      "The devil merited for a time but did not persevere.",
+      "In sinning the angel lost natural justice."
+    ],
+    "concepts": [
+      "natural and free acts",
+      "perseverance",
+      "natural justice",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e1307"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1388": {
+    "summary": "Anselm says of that will and power that it willed but did not persevere and fell from that justice. It was necessary that it be in grace for some time, but for no time was it necessarily in grace.",
+    "claims": [
+      "The angel was necessarily in grace for some time but for no particular time."
+    ],
+    "concepts": [
+      "scope of necessity",
+      "perseverance",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e1325"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1401": {
+    "summary": "As said, it could have sinned at infinitely many earlier times, but in fact there was a definite time between the instant of creation and the instant of the fall.",
+    "claims": [
+      "A definite interval separated the angel's creation from its fall."
+    ],
+    "concepts": [
+      "interval before the fall"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e1291"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1412": {
+    "summary": "Reply to the argument from Christ: granted the angel could have sinned at the first instant in the sense explained, since Christ too did not merit at the first instant of his conception but began to merit.",
+    "claims": [
+      "Christ began to merit at conception rather than meriting at that instant."
+    ],
+    "concepts": [
+      "Christ's merit",
+      "incipit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e443"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1423": {
+    "summary": "Reply to original sin: the inference fails, since contracting original sin requires no act of free will.",
+    "claims": [
+      "Original sin requires no act of free will."
+    ],
+    "concepts": [
+      "original sin",
+      "free will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e452"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1430": {
+    "summary": "Reply to the soul-before-body case: grants that a man could sin at the first instant of his being in the sense that he sins by the part (the soul) that first sins, but not that he could sin at the first instant.",
+    "claims": [
+      "A man sins at his first instant only through a pre-existing soul, not by his own first act."
+    ],
+    "concepts": [
+      "pre-existence of soul",
+      "part and whole"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e461"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1443": {
+    "summary": "Reply to the argument from angelic cognition: the angel did not have it at the first instant but began then to have cognition and love. It is said to be created in cognition because at creation it had all requisites for beginning acts of cognition and love.",
+    "claims": [
+      "The angel began to have cognition and love at its first instant, not had them."
+    ],
+    "concepts": [
+      "angelic cognition",
+      "first instant",
+      "requisites for acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e481"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1460": {
+    "summary": "Reply to the tenth: the angel fell from natural justice, though perhaps never from moral justice, which is freely and justly willing. It owed that justice: as it willed naturally from creation, it should have freely continued, and would then have been confirmed with the others.",
+    "claims": [
+      "The devil fell from natural justice, perhaps not from moral justice.",
+      "The angel owed free continuation of its natural love."
+    ],
+    "concepts": [
+      "natural and moral justice",
+      "confirmation in grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e499"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1480": {
+    "summary": "Reply to the eleventh: already answered above.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804",
+        "rh-l2q3-d1e544",
+        "rh-l2q3-d1e615"
+      ]
+    }
+  },
+  "rh-l2q3-d1e1485": {
+    "summary": "Transition: the fourth question follows.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q3-Dd1e804"
+      ]
+    }
+  }
+}

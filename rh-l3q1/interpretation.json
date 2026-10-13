@@ -1,0 +1,4086 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l3q1": {
+    "summary": "Book III's only question asks whether the Son of God could become incarnate. It answers yes in one line at the very end: he was incarnate, so he could be. The question's real substance is a defence of Holcot's earlier positions against a colleague (socius) who had attacked them. Three principal arguments raise mistaken worship of a look-alike Christ, whether vows bind more than oaths, and whether one could choose annihilation. These generate eight articles. (1) An oath binds at least as much as a vow, being a vow confirmed by divine attestation. Ecclesiastical penalties and dispensations do not measure obligation. (2) One can, and by right reason should, choose annihilation over damnation, and Augustine, read correctly, agrees. Annihilation can be a penalty. (3) Penalties can necessitate the will to will non-being, and unmerited necessity excuses. (4) A justly condemned criminal may flee to amend his life, by epieikeia. (5) Adoring the devil disguised as Christ in invincible error is not idolatry and is meritorious. Conditional adoration diminishes worship, and erroneous conscience binds. (6) The simple faithful can merit by believing a heresy their priest preaches. (7) Abraham believed absolutely that he had to kill Isaac, by God's testing command. (8) God can deceive, that is, cause error, though never unjustly.",
+    "claims": [
+      "The incarnation's possibility follows from its actuality.",
+      "Invincible error excuses and can be meritorious.",
+      "Oaths bind at least as much as vows.",
+      "Annihilation can be rationally preferred to damnation.",
+      "God can cause error without injustice."
+    ],
+    "concepts": [
+      "incarnation",
+      "vow and oath",
+      "annihilation",
+      "necessitation of the will",
+      "epieikeia",
+      "invincible error",
+      "erroneous conscience",
+      "implicit faith",
+      "Abraham",
+      "divine deception",
+      "disputation with socius"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-Dd1e103",
+        "rh-l3q1-Dd1e118",
+        "rh-l3q1-Dd1e198",
+        "rh-l3q1-Dd1e249",
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-Dd1e3252",
+        "rh-l3q1-Dd1e3572",
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-Dd1e4946",
+        "rh-l3q1-Dd1e5224",
+        "rh-l3q1-Dd1e5611"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e103": {
+    "summary": "States the question whether the Son of God could become incarnate.",
+    "claims": [],
+    "concepts": [
+      "incarnation"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e105"
+      ]
+    }
+  },
+  "rh-l3q1-d1e105": {
+    "summary": "States the question: whether the Son of God could become incarnate.",
+    "claims": [],
+    "concepts": [
+      "incarnation",
+      "divine power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e118": {
+    "summary": "Three arguments against. A Christ indistinguishable from James would make Peter merit by idolatry. A vow to Christ would bind more than an oath. And one would have to prefer non-existence to harming Christ, which seems to permit choosing annihilation. Against them stand Lombard and the Church's faith.",
+    "claims": [
+      "The incarnation seems to entail puzzles about worship, vows, and annihilation."
+    ],
+    "concepts": [
+      "latria",
+      "vow",
+      "annihilation"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e123",
+        "rh-l3q1-d1e167",
+        "rh-l3q1-d1e176",
+        "rh-l3q1-d1e192"
+      ]
+    }
+  },
+  "rh-l3q1-d1e123": {
+    "summary": "First principal argument: then Christ could have looked so like another man, say James, that Peter, in Christ's absence, adored James with latria. Peter would not sin, since his error was invincible. But if he merited, he merited by believing a falsehood and by idolatry, broadly speaking, which is absurd.",
+    "claims": [
+      "An indistinguishable Christ makes merit and idolatry paradoxical."
+    ],
+    "concepts": [
+      "latria",
+      "invincible error",
+      "idolatry",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e118"
+      ]
+    }
+  },
+  "rh-l3q1-d1e167": {
+    "summary": "Second: then a vow made to Christ would bind more than an oath about the same matter in like circumstances.",
+    "claims": [
+      "The incarnation seems to imply that vows bind more than oaths."
+    ],
+    "concepts": [
+      "vow",
+      "oath"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e118"
+      ]
+    }
+  },
+  "rh-l3q1-d1e176": {
+    "summary": "Third: then, following Anselm (Cur Deus homo II.14), one should rather will not to exist than maliciously harm that man. But then one could choose non-existence and annihilation, contrary to Anselm and Augustine.",
+    "claims": [
+      "The incarnation seems to imply one could choose annihilation."
+    ],
+    "concepts": [
+      "Anselm",
+      "Augustine",
+      "annihilation",
+      "choice of non-being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e118"
+      ]
+    }
+  },
+  "rh-l3q1-d1e192": {
+    "summary": "For the opposite are Lombard in the text and the whole faith of the Church.",
+    "claims": [
+      "The incarnation is possible by faith."
+    ],
+    "concepts": [
+      "Lombard",
+      "faith of the Church"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e118"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e198": {
+    "summary": "Lists the eight articles drawn from the principal arguments, with a ninth reserved for the question and arguments.",
+    "claims": [
+      "The question unfolds into eight disputed articles."
+    ],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "divisio quaestionis",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e203"
+      ]
+    }
+  },
+  "rh-l3q1-d1e203": {
+    "summary": "The arguments introduce eight articles, with a ninth for the answer to the question and the principal arguments. (1) Does a vow by its nature bind more than an oath, other things equal? (2) Given free choice by God, should one choose annihilation over eternal hell? (3) Can the will be necessitated by penalties to will not to exist? (4) May someone justly condemned to death flee without injustice if he can? (5) Is one who adores the devil disguised as Christ excused from idolatry by invincible error? (6) Can one merit through false faith? (7) Did Abraham believe absolutely that he had to sacrifice his son? (8) Can God deceive anyone?",
+    "claims": [
+      "The question divides into eight articles plus a ninth."
+    ],
+    "concepts": [
+      "vow and oath",
+      "annihilation",
+      "necessitation of the will",
+      "flight from punishment",
+      "invincible error",
+      "merit and false belief",
+      "Abraham",
+      "divine deception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e198"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e249": {
+    "summary": "Article 1 defends Holcot's thesis that, other things equal, a vow binds no more than an oath, and that the form of oath binds more, against a colleague's nine canonistic objections. Holcot argues that penalties, reservations, and dispensations reflect deterrence, scandal, and public utility rather than the strength of obligation. When vows prevail over oaths, it is because they bind to a greater good. He concludes that an oath is a vow confirmed by divine attestation, citing God's oath to Abraham in Hebrews 6.",
+    "claims": [
+      "Oaths bind at least as much as vows.",
+      "Canonical practice does not measure obligation."
+    ],
+    "concepts": [
+      "vow",
+      "oath",
+      "obligation",
+      "canon law",
+      "Hebrews 6"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-Dd1e254",
+        "rh-l3q1-Dd1e273",
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-Dd1e1172"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e254": {
+    "summary": "Announces the three-part treatment of Article 1: recite the colleague's reasons, answer them, restate Holcot's.",
+    "claims": [],
+    "concepts": [
+      "method"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e256"
+      ]
+    }
+  },
+  "rh-l3q1-d1e256": {
+    "summary": "For the first article Holcot will do three things: recite the article with a colleague's (socius's) reasons, respond to them, and restate his own reasons.",
+    "claims": [
+      "Article 1 is a reply to a socius's objections."
+    ],
+    "concepts": [
+      "socius",
+      "disputation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e254"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e273": {
+    "summary": "Holcot's thesis that a vow does not bind more than an oath, and the colleague's nine objections. Breaking a vow is worse than adultery and is penalized by excommunication. A later vow overrides an oath to marry, and a solemn vow dissolves marriage. Monastic obedience outweighs sworn obedience. Religious vows absolve pilgrimage oaths. Vows are reserved cases and harder to dispense. And vow-breaking is directly against God.",
+    "claims": [
+      "Canonical practice seems to show vows bind more than oaths."
+    ],
+    "concepts": [
+      "vow",
+      "oath",
+      "canon law"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e278",
+        "rh-l3q1-d1e294",
+        "rh-l3q1-d1e312",
+        "rh-l3q1-d1e328",
+        "rh-l3q1-d1e351",
+        "rh-l3q1-d1e364",
+        "rh-l3q1-d1e401",
+        "rh-l3q1-d1e423",
+        "rh-l3q1-d1e445",
+        "rh-l3q1-d1e467"
+      ]
+    }
+  },
+  "rh-l3q1-d1e278": {
+    "summary": "Holcot's position: given equal deliberation, consent, and circumstances of matter, a vow binds no more than an oath. He had argued this with four reasons.",
+    "claims": [
+      "A vow does not bind more than an oath, other things equal."
+    ],
+    "concepts": [
+      "vow",
+      "oath",
+      "obligation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-d1e294": {
+    "summary": "A colleague argued subtly against this with nine reasons. First: those who break a vow of continence are worse than adulterers (Decretum, from Augustine De bono coniugali). Both transgress a precept, but adulterers break an oath, the given faith, while the others break a vow.",
+    "claims": [
+      "Vow-breakers are worse than adulterers."
+    ],
+    "concepts": [
+      "Augustine",
+      "Decretum",
+      "continence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-d1e312": {
+    "summary": "Second: those who marry after a solemn vow are excommunicated by law (Clementines), but those who marry after perjury are not, so vow-breakers sin more gravely.",
+    "claims": [
+      "Canonical penalties are heavier for breaking vows."
+    ],
+    "concepts": [
+      "excommunication",
+      "solemn vow",
+      "Clementines"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-d1e328": {
+    "summary": "Third: if someone lawfully swears to marry and then solemnly vows continence, and an oath binds more, he must marry after the vow for salvation. That is false, since before consummation either party may enter religion.",
+    "claims": [
+      "A later vow overrides an earlier oath."
+    ],
+    "concepts": [
+      "marriage",
+      "entry into religion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-d1e351": {
+    "summary": "Fourth: if someone first vows continence and then swears to marry, and the oath bound more, a solemn vow would neither impede nor dissolve the marriage, which everyone denies.",
+    "claims": [
+      "A solemn vow dissolves marriage, which an oath cannot."
+    ],
+    "concepts": [
+      "impediment",
+      "solemn vow"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-d1e364": {
+    "summary": "Fifth: a layman obeying an abbot by oath would merit as much as a monk obeying by vow, and a disobedient monk would sin no worse than a layman breaking an oath of fealty, contrary to Anselm. The canonical conditions for a solemn vow are noted.",
+    "claims": [
+      "The oath view would equate lay and monastic obedience."
+    ],
+    "concepts": [
+      "obedience",
+      "oath of fealty",
+      "Anselm",
+      "solemn vow"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-d1e401": {
+    "summary": "Sixth: one who swore to go to the Holy Land is absolved by entering religion, so the oath binds less than the vow.",
+    "claims": [
+      "Religious vows absolve pilgrimage oaths."
+    ],
+    "concepts": [
+      "pilgrimage",
+      "commutation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-d1e423": {
+    "summary": "Seventh: absolution from a vow is harder, since it is reserved to the pope or bishop, while any priest can absolve perjury except in blood or inheritance cases.",
+    "claims": [
+      "Reserved cases show vows are graver."
+    ],
+    "concepts": [
+      "reserved cases",
+      "absolution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-d1e445": {
+    "summary": "Eighth: dispensation from a vow is harder; many say the pope cannot dispense from a vow of continence (Innocent III, Cum ad monasterium), but easily from an oath.",
+    "claims": [
+      "Dispensation from vows is harder."
+    ],
+    "concepts": [
+      "dispensation",
+      "Innocent III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-d1e467": {
+    "summary": "Ninth: a sin directly against God and oneself is graver than one against a neighbor. Breaking a vow is against God and oneself, perjury against a neighbor.",
+    "claims": [
+      "Vow-breaking offends God directly."
+    ],
+    "concepts": [
+      "gravity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e273"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e484": {
+    "summary": "Replies to the nine objections, based on two propositions: Church penalties do not track gravity of sin, and ease of dispensation does not track strength of obligation. When a vow prevails over an oath, it is because it binds to a greater good, not more strongly. Commuting an oath to a better good is not perjury. Merit does not measure the bond. Reservations serve deterrence. An oath is a vow confirmed by divine attestation.",
+    "claims": [
+      "Penalty and dispensation do not measure obligation.",
+      "An oath is a vow plus divine attestation."
+    ],
+    "concepts": [
+      "greater good",
+      "dispensation",
+      "commutation",
+      "oath as confirmed vow"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e489",
+        "rh-l3q1-d1e500",
+        "rh-l3q1-d1e542",
+        "rh-l3q1-d1e582",
+        "rh-l3q1-d1e605",
+        "rh-l3q1-d1e623",
+        "rh-l3q1-d1e639",
+        "rh-l3q1-d1e652",
+        "rh-l3q1-d1e687",
+        "rh-l3q1-d1e707",
+        "rh-l3q1-d1e737",
+        "rh-l3q1-d1e811",
+        "rh-l3q1-d1e895",
+        "rh-l3q1-d1e976",
+        "rh-l3q1-d1e1037",
+        "rh-l3q1-d1e1066",
+        "rh-l3q1-d1e1103",
+        "rh-l3q1-d1e1136"
+      ]
+    }
+  },
+  "rh-l3q1-d1e489": {
+    "summary": "The second part answers these reasons by first laying down two propositions.",
+    "claims": [],
+    "concepts": [
+      "method"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484"
+      ]
+    }
+  },
+  "rh-l3q1-d1e500": {
+    "summary": "First proposition: the graver crime before God is not always punished more gravely by the Church. Striking a cleric in passing anger incurs automatic excommunication, while deliberately willing to kill one's parents does not. A wife-killer is punished more than a parricide though he sins less, because of the vice's frequency. Scandal also matters: fornication is punished more than the strongest will to adultery.",
+    "claims": [
+      "Ecclesiastical penalty does not track gravity of sin."
+    ],
+    "concepts": [
+      "penalty and guilt",
+      "scandal",
+      "deterrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484"
+      ]
+    }
+  },
+  "rh-l3q1-d1e542": {
+    "summary": "Second proposition: in human obligations God or the Church judges and dispenses differently, so difficulty of dispensation does not show greater obligation. If a king and a poor man vow a pilgrimage with equal devotion, they are equally bound, but the Church dispenses the poor man more easily because more good follows from the king's fulfilment.",
+    "claims": [
+      "Ease of dispensation does not measure obligation."
+    ],
+    "concepts": [
+      "dispensation",
+      "public good"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484"
+      ]
+    }
+  },
+  "rh-l3q1-d1e582": {
+    "summary": "Likewise if Socrates and Plato profess with equal devotion and Socrates inherits a kingdom, the Church dispenses Socrates and refuses Plato, since dispensation needs a cause.",
+    "claims": [
+      "Dispensation requires a cause."
+    ],
+    "concepts": [
+      "dispensation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e542"
+      ]
+    }
+  },
+  "rh-l3q1-d1e605": {
+    "summary": "And if both vow or swear money for the Holy Land, the poorer is dispensed more easily. So 'the Church absolves this more easily, so it binds less' is invalid.",
+    "claims": [
+      "Ease of absolution is not a measure of bond."
+    ],
+    "concepts": [
+      "dispensation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e542"
+      ]
+    }
+  },
+  "rh-l3q1-d1e623": {
+    "summary": "To the first: the gloss explains that vow-breakers are 'worse' not because they sin more but because they fall from a greater good, or because the sin is specially against God.",
+    "claims": [
+      "Vow-breakers fall from a greater good."
+    ],
+    "concepts": [
+      "gloss",
+      "greater good"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e294"
+      ]
+    }
+  },
+  "rh-l3q1-d1e639": {
+    "summary": "To the second: the inference from excommunication fails, by the first proposition, just as striking a cleric incurs excommunication and killing a layman does not.",
+    "claims": [
+      "Penalty does not measure sin."
+    ],
+    "concepts": [
+      "excommunication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e312",
+        "rh-l3q1-d1e500"
+      ]
+    }
+  },
+  "rh-l3q1-d1e652": {
+    "summary": "To the third, Holcot turns the form against the objector. If someone vows to marry and later solemnly vows continence, the Church favors the second vow, so by the same logic one vow would bind more than an equal vow. Rather, one vow prevails because it concerns a better good. The whole force of obligation comes from the deliberate assent of the one promising to God.",
+    "claims": [
+      "The better good, not stronger obligation, decides conflicts.",
+      "Obligation comes from deliberate assent."
+    ],
+    "concepts": [
+      "retorsion",
+      "greater good",
+      "source of obligation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e328"
+      ]
+    }
+  },
+  "rh-l3q1-d1e687": {
+    "summary": "Further: a woman who secretly vows continence and then marries publicly must keep the marriage, so marital faith binds more than the earlier vow.",
+    "claims": [
+      "A secret vow yields to public marriage."
+    ],
+    "concepts": [
+      "secret vow",
+      "marriage"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e652"
+      ]
+    }
+  },
+  "rh-l3q1-d1e707": {
+    "summary": "Further: one who vows a pilgrimage and later swears to enter religion has the oath prevail. So sometimes vows prevail over oaths and sometimes the reverse. A later vow of continence prevails not because it binds more but because it binds equally to a greater good, and one who keeps it does not perjure himself but commutes the oath to something better.",
+    "claims": [
+      "Vows and oaths each sometimes prevail.",
+      "Commuting an oath to a greater good is not perjury."
+    ],
+    "concepts": [
+      "commutation in melius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e328"
+      ]
+    }
+  },
+  "rh-l3q1-d1e737": {
+    "summary": "To the fourth: an oath to marry after a vow of continence is unlawful and binds neither more nor less. The Church lets a solemn vow dissolve marriage because continence is generally the better good, judging by what usually happens, not because the vow binds more. A solemn oath of continence would likewise prevail over a later vow to marry. The canon says a simple vow binds no less before God than a solemn one, and the gloss says it is the Church's constitution, not the vow's nature, that dissolves marriage.",
+    "claims": [
+      "The Church's law, not the vow's nature, dissolves marriage.",
+      "A simple vow binds no less before God than a solemn one."
+    ],
+    "concepts": [
+      "solemn and simple vows",
+      "ecclesiastical constitution",
+      "continence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e351"
+      ]
+    }
+  },
+  "rh-l3q1-d1e811": {
+    "summary": "To the fifth: neither inference holds. It is false that doing what one is more bound to do merits more, since keeping 'thou shalt not steal' would then outmerit a vow of perpetual continence. And a layman obeying by oath can merit more: a priest sworn to an abbot who converts infidels and is martyred outmerits a monk reciting a psalter at the abbot's command. The same holds for an esquire who frees an innocent or defends the homeland. Merit does not reveal the strength of the bond.",
+    "claims": [
+      "Degree of obligation does not determine degree of merit."
+    ],
+    "concepts": [
+      "merit",
+      "obligation",
+      "martyrdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e364"
+      ]
+    }
+  },
+  "rh-l3q1-d1e895": {
+    "summary": "If everything is made equal, the case is self-contradictory, since a layman who swears lifelong total obedience is already a monk. Profession is by vow rather than oath to signal that it is fully voluntary and for love of God. But in a case where a monk vows something extra and a layman swears the same to the abbot, equally and out of charity, Holcot grants the layman is more bound. That a disobedient monk sins no worse is fitting: it would be harsh if every small disobedience were worse than treason or murder. So the arguments do not refute Holcot's main claim that the form of oath binds more than the form of vow.",
+    "claims": [
+      "The form of oath binds more than the form of vow.",
+      "Small monastic disobedience is not graver than great crimes."
+    ],
+    "concepts": [
+      "form of oath",
+      "religious profession",
+      "gravity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e811"
+      ]
+    }
+  },
+  "rh-l3q1-d1e976": {
+    "summary": "To the sixth: the inference fails, since the same form would prove an oath binds less than an oath, a vow less than a vow, and so on. A later religious vow overrides a pilgrimage oath because it binds to a greater good. The oath is not broken, by the Church's interpretation, but commuted to something better.",
+    "claims": [
+      "Overriding shows a greater good, not a stronger bond."
+    ],
+    "concepts": [
+      "commutation",
+      "reductio of argument form"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e401"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1037": {
+    "summary": "To the seventh: the inference fails, by the second proposition. Bishops reserve cases sometimes to deter, not because of gravity. A mother who negligently smothers her child does not sin mortally, yet only the bishop absolves her, to make parents careful.",
+    "claims": [
+      "Reservation serves deterrence."
+    ],
+    "concepts": [
+      "reserved cases",
+      "deterrence",
+      "infant overlying"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e423",
+        "rh-l3q1-d1e542"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1066": {
+    "summary": "To the eighth: the inference fails. And other things equal, the pope would not dispense from an oath more easily than from a vow, but less easily. If it happens, it is because people swear with less deliberation than they vow.",
+    "claims": [
+      "Other things equal, oaths are harder to dispense."
+    ],
+    "concepts": [
+      "dispensation",
+      "deliberation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e445"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1103": {
+    "summary": "To the ninth: both premises are false. Every sin is against God, since it breaks a divine precept. And breaking a lawful oath is directly against God and the swearer, and sometimes also against a neighbor. Oaths can be made to God or to men by God, and whoever swears to a man binds himself to God (Debitores).",
+    "claims": [
+      "Every sin is against God.",
+      "Oaths also bind to God."
+    ],
+    "concepts": [
+      "nature of sin",
+      "oath to God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e467"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1136": {
+    "summary": "Objection: then one could not release another from a sworn promise. Reply: if the promise concerns only a man's favor, he can release it; if it concerns God's honor too, he cannot. So the oath virtually includes the vow's obligation and adds divine attestation, a greater bond, and can be called a vow confirmed by divine attestation.",
+    "claims": [
+      "An oath is a vow plus divine attestation."
+    ],
+    "concepts": [
+      "oath as confirmed vow",
+      "release from oaths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e484",
+        "rh-l3q1-d1e1103"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e1172": {
+    "summary": "Holcot restates his own five reasons. An oath contains all the vow's obligation plus invocation of God. Perjury involves more irreverence, falsifying God as witness. Oaths bind by divine and human truth. Canon law and Thomas treat perjury as graver than homicide, and Hebrews 6 shows God's oath as a greater bond than his promise. A lord can annul a serf's vow but not his marriage.",
+    "claims": [
+      "Oaths bind more than vows."
+    ],
+    "concepts": [
+      "perjury",
+      "Hebrews 6",
+      "Thomas Aquinas"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e1179",
+        "rh-l3q1-d1e1212",
+        "rh-l3q1-d1e1232",
+        "rh-l3q1-d1e1251",
+        "rh-l3q1-d1e1297",
+        "rh-l3q1-d1e1306",
+        "rh-l3q1-d1e1418",
+        "rh-l3q1-d1e1527"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1179": {
+    "summary": "Third part: Holcot restates his reasons. First: every ground of obligation in a vow is in an oath, but not conversely. A vow binds by deliberate promise, which is mental; an oath has as much deliberation and assent, plus invocation of God's name as witness. This was not answered.",
+    "claims": [
+      "The oath contains all the vow's obligation plus divine invocation."
+    ],
+    "concepts": [
+      "deliberate promise",
+      "invocation of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1172"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1212": {
+    "summary": "Second: breaking an oath shows more irreverence to God than breaking a private vow, since the perjurer, interpretively a blasphemer, falsifies both himself and God, while the vow-breaker falsifies only himself.",
+    "claims": [
+      "Perjury falsifies God as witness."
+    ],
+    "concepts": [
+      "irreverence",
+      "blasphemy",
+      "perjury"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1172"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1232": {
+    "summary": "The colleague replied that the inference fails, since otherwise despair, impenitence, or the worst murders would be lesser sins than perjury.",
+    "claims": [
+      "Making God false does not make perjury the gravest sin."
+    ],
+    "concepts": [
+      "gravity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1172",
+        "rh-l3q1-d1e1212"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1251": {
+    "summary": "Holcot rejoins that the argument was only that perjury contains more irreverence than vow-breaking, since the main deformity of vow-breaking, infidelity, is in perjury and more besides. The counterexamples have other deformities that may equal or exceed perjury. Even so, by aggravating circumstances perjury could be graver than murder or heresy.",
+    "claims": [
+      "Perjury contains vow-breaking's deformity and more.",
+      "The comparison concerns a single species of deformity."
+    ],
+    "concepts": [
+      "deformity of sin",
+      "circumstances"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1172",
+        "rh-l3q1-d1e1232"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1297": {
+    "summary": "Third: an oath binds by both divine and human truth, a vow only by human truth.",
+    "claims": [
+      "Oaths bind by divine and human truth."
+    ],
+    "concepts": [
+      "truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1172"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1306": {
+    "summary": "Fourth: canon law punishes perjury more gravely. Perjurers are infamous and presumed guilty, perjured clerics are deposed, and civil law leaves perjury to God's vengeance. Thomas, who wrote specifically against Holcot's position, says in a quodlibet that perjury is graver than homicide, second only to idolatry. His argument from Hebrews 6 is that an oath ends every controversy, and is admitted in homicide cases, so perjury is graver than any crime it is used to prove.",
+    "claims": [
+      "Canon and civil law treat perjury as very grave.",
+      "Thomas holds perjury graver than homicide."
+    ],
+    "concepts": [
+      "infamy",
+      "canon law",
+      "Thomas Aquinas",
+      "Hebrews 6",
+      "purgation by oath"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1172"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1418": {
+    "summary": "Hence: what God instituted to certify truth in every case binds most to truth-telling, and the oath is such. Hebrews 6 confirms this: God bound himself to Abraham first by promise and then by oath, using the oath as a greater bond than promise, 'that by two immutable things... we might have the strongest comfort'. Since all a vow's obligation comes from promise, the oath is a greater bond. Holcot also notes that before God a simple vow binds as much as a solemn one, and Hostiensis judges vows and oaths equally firm.",
+    "claims": [
+      "God's own oath shows an oath binds more than a promise.",
+      "Simple and solemn vows bind equally before God."
+    ],
+    "concepts": [
+      "Hebrews 6",
+      "Abraham",
+      "divine oath",
+      "Hostiensis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1172",
+        "rh-l3q1-d1e1306"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1527": {
+    "summary": "Fifth, in the jurists' manner: a lord can annul a serf's religious vow but cannot dissolve a serf's marriage contracted against his will, so the bond of marriage, made by oath, is stronger than that of a solemn vow.",
+    "claims": [
+      "Some can loose vows but not sworn marriages."
+    ],
+    "concepts": [
+      "serfdom",
+      "marriage",
+      "jurists"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1172"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e1562": {
+    "summary": "Article 2: could and should one choose annihilation over eternal damnation? The colleague holds one may will but not choose non-being, citing Augustine. Holcot argues that choice can be of impossibles, that non-being is not impossible, and that right reason should prefer annihilation to eternal hatred of God. He adds that the damned do want not to exist, and that pagan courage can choose death. He reads Augustine (De libero arbitrio III) as holding that non-being is not choiceworthy in itself but is to escape pain, like mud for gold. He defends the claim that annihilation can be a penalty: moral predicates apply to things that are not things (dicta, privations), annihilation connotes prior existence, and a penalty is whatever one would shun. He also argues the damned have no delight exceeding their sorrow.",
+    "claims": [
+      "One can choose non-being over damnation.",
+      "Annihilation can be a penalty.",
+      "Augustine allows choosing non-being to escape pain."
+    ],
+    "concepts": [
+      "annihilation",
+      "choice of impossibles",
+      "Augustine",
+      "the damned",
+      "privation",
+      "penalty"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e1567",
+        "rh-l3q1-d1e1589",
+        "rh-l3q1-d1e1671",
+        "rh-l3q1-d1e1693",
+        "rh-l3q1-d1e1703",
+        "rh-l3q1-d1e1725",
+        "rh-l3q1-d1e1749",
+        "rh-l3q1-d1e1769",
+        "rh-l3q1-d1e1780",
+        "rh-l3q1-d1e1789",
+        "rh-l3q1-d1e1801",
+        "rh-l3q1-d1e1843",
+        "rh-l3q1-d1e1869",
+        "rh-l3q1-d1e1935",
+        "rh-l3q1-d1e1966",
+        "rh-l3q1-d1e2003",
+        "rh-l3q1-d1e2061",
+        "rh-l3q1-d1e2077",
+        "rh-l3q1-d1e2108",
+        "rh-l3q1-d1e2117",
+        "rh-l3q1-d1e2126",
+        "rh-l3q1-d1e2135",
+        "rh-l3q1-d1e2166",
+        "rh-l3q1-d1e2307",
+        "rh-l3q1-d1e2359",
+        "rh-l3q1-d1e2390",
+        "rh-l3q1-d1e2464",
+        "rh-l3q1-d1e2484",
+        "rh-l3q1-d1e2514",
+        "rh-l3q1-d1e2543",
+        "rh-l3q1-d1e2554",
+        "rh-l3q1-d1e2589",
+        "rh-l3q1-d1e2666",
+        "rh-l3q1-d1e2682",
+        "rh-l3q1-d1e2716",
+        "rh-l3q1-d1e2740",
+        "rh-l3q1-d1e2749",
+        "rh-l3q1-d1e2760",
+        "rh-l3q1-d1e2778",
+        "rh-l3q1-d1e2789",
+        "rh-l3q1-d1e2819",
+        "rh-l3q1-d1e2826",
+        "rh-l3q1-d1e2848",
+        "rh-l3q1-d1e2890",
+        "rh-l3q1-d1e2954",
+        "rh-l3q1-d1e2978",
+        "rh-l3q1-d1e3008",
+        "rh-l3q1-d1e3019",
+        "rh-l3q1-d1e3032",
+        "rh-l3q1-d1e3078",
+        "rh-l3q1-d1e3100",
+        "rh-l3q1-d1e3122",
+        "rh-l3q1-d1e3175",
+        "rh-l3q1-d1e3186",
+        "rh-l3q1-d1e3195",
+        "rh-l3q1-d1e3227",
+        "rh-l3q1-d1e3238"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1567": {
+    "summary": "Article 2: if God gave someone free choice between eternal hellfire and annihilation, should or could they choose non-existence? Holcot will (1) state the opposing view and reasons, (2) argue against it, (3) show it was not Augustine's mind, (4) give Augustine's meaning, and (5) restate his own reasons.",
+    "claims": [
+      "Article 2 has a five-part plan."
+    ],
+    "concepts": [
+      "annihilation",
+      "eternal punishment",
+      "choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1589": {
+    "summary": "The colleague's view: one can will not to exist, since will can be of impossibles, but cannot choose it. He cites Augustine, De libero arbitrio III: 'you lie' to anyone who says they prefer not to be than to be wretched, since even the wretched want to be. The suicide has an erroneous opinion of total cessation but a natural desire for rest, and rest is more being, not nothing. Holcot had added that suicides join to the intention of not being an intention of negative rest from misery.",
+    "claims": [
+      "Willing non-being is possible, but choosing it is not, according to the socius.",
+      "Suicides seek negative rest from misery, according to Holcot."
+    ],
+    "concepts": [
+      "Augustine",
+      "De libero arbitrio",
+      "suicide",
+      "will and choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1671": {
+    "summary": "Against Holcot the colleague cites Augustine: intention is the most constant affection, and the one who wills death intends not non-being but rest, and so desires more being. So non-being can please no one.",
+    "claims": [
+      "Non-being cannot delight, according to Augustine."
+    ],
+    "concepts": [
+      "intention",
+      "rest"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1589"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1693": {
+    "summary": "In sum, the colleague holds one can will not to be but not choose it, since will is of impossibles but choice is not.",
+    "claims": [
+      "Choice is not of impossibles, according to the socius."
+    ],
+    "concepts": [
+      "will vs choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1589"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1703": {
+    "summary": "Against this: choice, broadly taken, can be of impossibles as much as will. Whatever can be preferred after comparing two things can be chosen. Someone can compare whether he prefers God not to exist or himself not to exist and, after deliberation, prefer God's non-existence, so he chooses the impossible.",
+    "claims": [
+      "Choice can be of impossibles."
+    ],
+    "concepts": [
+      "choice of impossibles",
+      "preference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1693"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1725": {
+    "summary": "Further: Eve, transgressing, chose a kind of equality with God (Lombard, II). Either she chose the impossible, as claimed, or equality with God was possible.",
+    "claims": [
+      "Eve chose the impossible."
+    ],
+    "concepts": [
+      "Eve",
+      "Lombard",
+      "pride"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1703"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1749": {
+    "summary": "Further: the colleague conceded that under a changed law about the soul's immortality, right reason could choose to be annihilated for some days as a means to beatitude.",
+    "claims": [
+      "The socius conceded choice of annihilation under a changed law."
+    ],
+    "concepts": [
+      "immortality of the soul",
+      "means to beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1703"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1769": {
+    "summary": "The colleague replies that this is not against him, since he spoke of the present law, under which one cannot choose not to be.",
+    "claims": [
+      "The socius's claim is restricted to the present law."
+    ],
+    "concepts": [
+      "present law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1749"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1780": {
+    "summary": "Against: if one can choose non-being under a changed law, and the law can change, then choosing non-being is possible.",
+    "claims": [
+      "Choosing non-being is possible."
+    ],
+    "concepts": [
+      "modal reasoning"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1769"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1789": {
+    "summary": "Further: God can annihilate a man, according to Augustine and Anselm (De libertate arbitrii 8), since what he created from nothing he can return to nothing.",
+    "claims": [
+      "God can annihilate."
+    ],
+    "concepts": [
+      "annihilation",
+      "Anselm",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1703"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1801": {
+    "summary": "So man's annihilation is possible, and nothing impossible prevents choosing it as one can will it. Christ says of Judas that it would be better had he not been born, and Jerome glosses that it is better not to subsist than to subsist badly (also Mark, 'better not to be than to be in torment', and Theophylact). Augustine's moral reading does not exclude this literal sense.",
+    "claims": [
+      "Scripture says non-being can be better than evil being."
+    ],
+    "concepts": [
+      "Judas",
+      "Jerome",
+      "Theophylact",
+      "better not to be"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1789"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1843": {
+    "summary": "Further: can a true choice follow an erroneous judgment? If so, someone who believed it possible to build a tower beyond heaven, like the sons of Noah, could choose it. Suetonius reports that Caligula ordered archers to shoot at Jupiter for raining on a royal feast.",
+    "claims": [
+      "Erroneous judgment permits choice of impossibles."
+    ],
+    "concepts": [
+      "Babel",
+      "Caligula",
+      "Suetonius",
+      "erroneous judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1703"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1869": {
+    "summary": "If not, Saracens and pagans acting for false sects would not truly choose. Aristotle's 'choice is not of impossibles' means choice strictly, as the immediate principle of action, which concerns only what seems possible. But one can will what one knows is impossible. In any case non-being is not impossible, which removes the colleague's main reason. Also, as Holcot showed elsewhere, either Augustine contradicts himself or he means one can choose non-being, since he speaks of pagans who killed themselves believing they would wholly cease.",
+    "claims": [
+      "Aristotle's dictum concerns choice strictly as principle of action.",
+      "Non-being is not impossible."
+    ],
+    "concepts": [
+      "Aristotle",
+      "choice strictly taken",
+      "pagans",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1843"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1935": {
+    "summary": "Further: according to Augustine and Anselm, no one can will misery, or knowingly will what makes him miserable. If God offered the devil annihilation or misery, leaving his freedom intact, he could choose neither, which is irrational. It would mean he supremely hates misery and supremely hates non-being in misery, which looks contradictory.",
+    "claims": [
+      "One who supremely hates misery must be able to choose non-being."
+    ],
+    "concepts": [
+      "Anselm",
+      "De casu diaboli",
+      "misery"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e1966": {
+    "summary": "Further: one should rather choose non-being than misery if God offers it. The wretched, as such, hate God and sin continually, and know only non-being frees them. If they should choose misery, right reason would dictate choosing to sin and hate God forever, and one who follows right choice would sin without sinning. This is directly against the colleague, who says one should rather sin eternally and be damned than be annihilated.",
+    "claims": [
+      "Right reason prefers annihilation to eternal sin."
+    ],
+    "concepts": [
+      "right reason",
+      "eternal sin",
+      "hatred of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2003": {
+    "summary": "Further: the damned actually want not to exist. Anselm says those who deserted justice can neither have nor will any good they do not lack, and that they can have nothing they want and want nothing they have. They have being, so they do not want it. Doctors on IV d. ult., such as Thomas and Richard of Middleton, hold the damned would will not to be with deliberate will.",
+    "claims": [
+      "The damned will not to exist."
+    ],
+    "concepts": [
+      "the damned",
+      "Anselm",
+      "Thomas Aquinas",
+      "Richard of Middleton"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2061": {
+    "summary": "Further: Aristotle says death is more choiceworthy to the brave than shameful flight, and one can be brave with no hope of another life, so the virtuous can choose non-being.",
+    "claims": [
+      "Courage without belief in an afterlife can choose non-being."
+    ],
+    "concepts": [
+      "Aristotle",
+      "courage",
+      "death"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2077": {
+    "summary": "Confirmation: the brave should bear death to avoid the shameful, and eternal hatred of God is the most shameful, so annihilation is preferable to damnation. And those who deny another life clearly can have moral virtues, so among them dying for the republic, thus being annihilated, would be more virtuous.",
+    "claims": [
+      "Pagan virtue can choose annihilation."
+    ],
+    "concepts": [
+      "pagan virtue",
+      "death for the republic"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2061"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2108": {
+    "summary": "So, though arranged hastily, the conclusions are: first, a man can choose non-being rather than damnation.",
+    "claims": [
+      "One can choose non-being over damnation."
+    ],
+    "concepts": [
+      "conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2117": {
+    "summary": "Second, by right reason one should choose non-being rather than damnation, on condition that God wills the annihilation.",
+    "claims": [
+      "Right reason should choose annihilation, conditionally."
+    ],
+    "concepts": [
+      "right reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2126": {
+    "summary": "Third, the damned in fact prefer not to be, though viciously, since they want non-being to escape penalty, not guilt.",
+    "claims": [
+      "The damned prefer non-being for vicious reasons."
+    ],
+    "concepts": [
+      "the damned",
+      "penalty and guilt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2135": {
+    "summary": "Fourth, on Augustine's procedure in De libero arbitrio III: his main aim is to show that the rational creature's sin is not imputable to God. Here he opposes those who said it would be better for the soul not to exist than to be sinful, which leads him to ask whether non-being is preferable to misery.",
+    "claims": [
+      "Augustine's context is theodicy."
+    ],
+    "concepts": [
+      "Augustine",
+      "theodicy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2166": {
+    "summary": "Augustine first argues disputatively, then determines in ch. 13. The suicide has two notions and two affections: 'it would be good to be without penalty' and 'if I were not, I would lack this penalty'. With these, a person can choose non-being, whether or not they believe the soul is mortal. Augustine means non-being is not choiceworthy for its own sake but for something else, just as being in mud is not choiceworthy in itself but is for a hundred marks of gold. This agrees with Aristotle (Ethics V, IX) that the lesser evil is choiceworthy, and that being is pleasant to all except those in vicious life, melancholy, or excessive pains. So the damned do not will non-being absolutely, but do will it in order to lack pain. Otherwise Augustine would contradict himself.",
+    "claims": [
+      "Non-being is choiceworthy not for itself but to escape pain.",
+      "Augustine's determination agrees with Holcot."
+    ],
+    "concepts": [
+      "Augustine",
+      "Aristotle",
+      "lesser evil",
+      "mud and gold example",
+      "conditional willing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2135"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2307": {
+    "summary": "To Augustine's 'you lie': 'prefer' (malle) is taken properly, meaning to will more, which implies willing both, or improperly, meaning to will one and not the other, as in 'I'd rather be hanged than commit adultery'. Properly, Augustine is right. Improperly, the damned can say it without lying.",
+    "claims": [
+      "'Malle' has proper and extended senses."
+    ],
+    "concepts": [
+      "malle",
+      "proper and improper senses"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1589"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2359": {
+    "summary": "To Augustine's second text: he rightly rejects the claim that it is misery that keeps the wretched from willing non-being, and the idea that one would choose non-being before existing is unintelligible. That the wretched want to be and yet prefer non-being to misery is compatible. These texts are in the disputative, not determinative, part.",
+    "claims": [
+      "Wanting to be and preferring non-being to misery are compatible."
+    ],
+    "concepts": [
+      "disputative vs determinative"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1589"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2390": {
+    "summary": "To ch. 13: it favors Holcot, since it says someone who believes he will wholly cease seeks death, from an erroneous opinion and a desire for negative rest. Augustine describes what usually happens in suicides absorbed in grief, who will antecedents to contradictories. But one offered the choice before misery knows he will rest negatively, and chooses non-being so as not to be tormented, though he would prefer being without torment. Natural affection desires being, while deliberate will chooses non-being, as the volition behind suicide shows.",
+    "claims": [
+      "Natural affection desires being, while deliberate will can choose non-being.",
+      "Negative rest is the absence of torment."
+    ],
+    "concepts": [
+      "negative rest",
+      "natural vs deliberate will",
+      "suicide"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1671"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2464": {
+    "summary": "Fifth, restating Holcot's reasons. First: whatever right or erroneous reason can judge better or less bad can be chosen, by the will's freedom. Non-being can be so judged, so it can be chosen.",
+    "claims": [
+      "What reason judges less bad, the will can choose."
+    ],
+    "concepts": [
+      "freedom of will",
+      "judgment of reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2484": {
+    "summary": "The colleague denies the minor, since according to Augustine annihilation is not something, so it is neither better nor a lesser evil, since every evil is something. Holcot counters: if God revealed that being annihilated for five days would lead to eternal life, annihilation would not be evil.",
+    "claims": [
+      "Annihilation is neither good nor evil, according to the socius."
+    ],
+    "concepts": [
+      "non-being",
+      "good and evil as something"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2464"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2514": {
+    "summary": "The colleague also argues that annihilation is neither guilt nor penalty, since by Anselm (Monologion), a soul annihilated after sin would return to the state before all guilt.",
+    "claims": [
+      "Annihilation cannot be a penalty, according to Anselm as cited."
+    ],
+    "concepts": [
+      "Anselm",
+      "penalty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2484"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2543": {
+    "summary": "Holcot sums up the reply: annihilation is neither good nor evil, since it is not something, and in particular it is no penal evil, since the sinful soul cannot be fittingly punished by it.",
+    "claims": [],
+    "concepts": [
+      "summary"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2484",
+        "rh-l3q1-d1e2514"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2554": {
+    "summary": "Neither claim fits ordinary or philosophical moral speech. 'Good' and 'evil' are predicated of infinitive phrases and dicta, which do not supposit for things, as in 'to die for the republic is good'. So 'it is not something, therefore not good' is invalid.",
+    "claims": [
+      "Moral predicates apply to dicta that name no things."
+    ],
+    "concepts": [
+      "supposition",
+      "dicta",
+      "moral predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2543"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2589": {
+    "summary": "Likewise 'to steal is evil', 'to kill unjustly is evil', though these are not things, and they are equivalent to 'whoever steals does evil'. Otherwise blinding or beheading would not be penal evils, since separation and blindness are not things (Anselm, De conceptu virginali), and sin itself is nothing according to Augustine and Anselm, though it is evil.",
+    "claims": [
+      "Privations and acts are evil without being things.",
+      "Sin is nothing yet evil."
+    ],
+    "concepts": [
+      "privation",
+      "Anselm",
+      "Augustine",
+      "evil as nothing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2554"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2666": {
+    "summary": "Further: Anselm says every good is as good as its destruction is evil, but destruction is no thing. Killing Christ was no thing, yet evil.",
+    "claims": [
+      "Destruction of good is evil and not a thing."
+    ],
+    "concepts": [
+      "Anselm",
+      "Cur Deus homo"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2554"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2682": {
+    "summary": "Further: impoverishing a rich man is evil to him but no thing. Annihilation can also be a penal evil, of sense and of loss. Gradual annihilation would cause pain, and a man would grieve on noticing that an eye had been painlessly removed.",
+    "claims": [
+      "Annihilation can be penalty of sense and of loss."
+    ],
+    "concepts": [
+      "poena sensus",
+      "poena damni"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2543"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2716": {
+    "summary": "Further: whatever contradicts the will's appetite can be penal. Annihilation does so supremely, and God could decree it for sin. The claim that a penalty needs a remaining subject would exclude death as a penalty.",
+    "claims": [
+      "Annihilation could be decreed as a penalty."
+    ],
+    "concepts": [
+      "penalty",
+      "death"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2682"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2740": {
+    "summary": "And laws punish people beyond their lifetime, in their heirs, by exile of offspring, and so on.",
+    "claims": [
+      "Penalties reach beyond the person's existence."
+    ],
+    "concepts": [
+      "legal penalties"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2716"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2749": {
+    "summary": "Confirmation: Augustine (City of God XXI.11) shows penalties outlast sins under all laws, so there is no more reason to deny annihilation is a penalty than death.",
+    "claims": [
+      "Annihilation is as much a penalty as death."
+    ],
+    "concepts": [
+      "Augustine",
+      "duration of penalty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2716"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2760": {
+    "summary": "If death is a penalty only because suffering precedes it, consider sudden death: a killer inflicts it no less.",
+    "claims": [
+      "Sudden death is still a penalty."
+    ],
+    "concepts": [
+      "sudden death"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2749"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2778": {
+    "summary": "That reply holds only for pain of sense, as if every penalty were sensory. Rather, a penalty to someone is whatever they would shun and detest if they existed.",
+    "claims": [
+      "Definition: a penalty is what one would shun."
+    ],
+    "concepts": [
+      "definition of penalty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2760"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2789": {
+    "summary": "Further: giving being is a benefit (Aristotle, Ethics VIII), so taking it is a harm. Objection from Anselm: then the Antichrist, not yet existing, would be punished, man from eternity would have been punished, and penalty would precede guilt.",
+    "claims": [
+      "Taking being is a harm."
+    ],
+    "concepts": [
+      "benefit of being",
+      "Aristotle",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2819": {
+    "summary": "Likewise the Virgin and Christ's soul would have been punished, since neither always existed.",
+    "claims": [
+      "Non-existence is not punishment."
+    ],
+    "concepts": [
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2789"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2826": {
+    "summary": "Further: every penalty is a penalty to someone. Socrates's annihilation is no penalty to him when he does not exist, nor when he exists, since then annihilation is not.",
+    "claims": [
+      "Annihilation lacks a subject to be penal to."
+    ],
+    "concepts": [
+      "subject of penalty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2789"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2848": {
+    "summary": "Reply to the first: 'not to be' and 'to be annihilated' do not convert. 'Antichrist is not' is true, 'Antichrist is annihilated' false. To be annihilated is to have existed and then to exist in no part, so it can imply a penalty, while non-being does not. So neither the Antichrist nor man from eternity was punished.",
+    "claims": [
+      "Annihilation connotes prior existence.",
+      "Non-being alone is not penal."
+    ],
+    "concepts": [
+      "nominal definition",
+      "annihilation vs non-being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2789",
+        "rh-l3q1-d1e2819"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2890": {
+    "summary": "Reply to the second: that form would prove no action is a penalty and death no penalty of loss. It treats 'penalty' as an absolute term suppositing for a thing. 'Death is a loss' and 'annihilation is a penalty' are false by force of the words but expounded improperly: 'what is and will not be is harmed' and so on. People speak thus for brevity. The premises are true improperly, false properly.",
+    "claims": [
+      "'Penalty' is not an absolute term.",
+      "Statements about penalties need exposition."
+    ],
+    "concepts": [
+      "absolute and connotative terms",
+      "exposition",
+      "improper speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2826"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2954": {
+    "summary": "So annihilation is Socrates's harm 'when he is not': at the first instant he is not, it is true that he was just before and now is not, and his being would reasonably be judged better than his not being. One should not ask what thing this is.",
+    "claims": [
+      "Harm is located in a true complex, not a thing."
+    ],
+    "concepts": [
+      "instant of ceasing",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2890"
+      ]
+    }
+  },
+  "rh-l3q1-d1e2978": {
+    "summary": "Holcot's second reason: the damned deliberately will not to be, since their penalty is more disagreeable to them than their being is agreeable. Otherwise they would take more joy in being than sorrow in misery. So they hate misery more than they love being, and prefer non-being.",
+    "claims": [
+      "The damned's penalty outweighs the agreeableness of being."
+    ],
+    "concepts": [
+      "the damned",
+      "joy and sorrow"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3008": {
+    "summary": "The colleague denies the premise, since the being of the damned is nothing but the damned person.",
+    "claims": [
+      "Being is not a distinct thing, according to the socius."
+    ],
+    "concepts": [
+      "being and essence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2978"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3019": {
+    "summary": "This misses the point. Holcot grants being is not something added, but takes the proposition that the damned person's apprehending himself as miserable is more disagreeable than apprehending himself as existing is agreeable.",
+    "claims": [
+      "The argument does not rely on being as a distinct thing."
+    ],
+    "concepts": [
+      "being and essence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e3008"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3032": {
+    "summary": "The colleague distinguishes delight as elicited act, which the damned do not have about their being, since they are their being, from natural complacency, in which they rejoice more in being than they grieve in misery. Against the first: then the blessed would not rejoice in their being by an elicited act either, yet they rejoice in themselves and thank God for their being.",
+    "claims": [
+      "The elicited-act reply would rob the blessed of joy in being."
+    ],
+    "concepts": [
+      "elicited act",
+      "natural complacency",
+      "joy of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e2978"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3078": {
+    "summary": "Further: the colleague says man loves his being first and flees non-being because non-being signifies privation of all good. But whoever principally loves something principally delights in it, so the damned would principally delight in their being.",
+    "claims": [
+      "Principal love implies principal delight."
+    ],
+    "concepts": [
+      "love and delight"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e3032"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3100": {
+    "summary": "Confirmation: delight is not distinct from the one delighting. Against natural complacency: either it is an act of the will or not. If not, the will does not delight. If so, it is caused by the will, which the colleague holds is merely passive.",
+    "claims": [
+      "Natural complacency must be an act of will or no delight."
+    ],
+    "concepts": [
+      "passivity of will",
+      "delight"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e3032"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3122": {
+    "summary": "Further: then the damned would have more delight than sorrow, against Anselm. Taking a wayfarer's most intense delight and an equal sorrow, the damned's sorrow exceeds it and their delight exceeds their sorrow, so their delight would exceed any wayfarer's. And such delight would continually diminish their sorrow. So it is better to say with Scotus that there is no delight in the damned that could exceed their sorrow.",
+    "claims": [
+      "The damned have no delight exceeding their sorrow."
+    ],
+    "concepts": [
+      "intensity of affections",
+      "Scotus",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e3032"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3175": {
+    "summary": "Third reason: someone can will another's annihilation principally for the republic's good, so love of the republic can be so intense that he wills his own annihilation for it.",
+    "claims": [
+      "Love of the republic could will self-annihilation."
+    ],
+    "concepts": [
+      "love of the republic"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3186": {
+    "summary": "The colleague denies the consequence, taking 'will' as 'choose', because one can will but not choose the impossible.",
+    "claims": [],
+    "concepts": [
+      "will vs choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e3175"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3195": {
+    "summary": "This assumes a falsehood, since choosing annihilation is not choosing the impossible, and it does not refute. Someone can love the republic so intensely as to will whatever promotes it, and judge his own annihilation does so.",
+    "claims": [
+      "Choosing annihilation is not choosing the impossible."
+    ],
+    "concepts": [
+      "patriotism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e3186"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3227": {
+    "summary": "Confirmation from Codrus, king of Athens, who died for his people (Augustine, City of God XVIII). Courage does not require faith in immortality or in the soul's return.",
+    "claims": [
+      "Pagan courage does not require belief in immortality."
+    ],
+    "concepts": [
+      "Codrus",
+      "courage"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e3195"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3238": {
+    "summary": "The fourth reason has been restated enough, and the colleague's reply concedes Holcot's position, since it grants that one could be annihilated under a changed law of immortality, though he recites Holcot's arguments differently.",
+    "claims": [
+      "The socius's reply concedes the point."
+    ],
+    "concepts": [
+      "concession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e1562",
+        "rh-l3q1-d1e1749"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e3252": {
+    "summary": "Article 3: penalties can necessitate the will to will non-being, as Augustine's suicide passage shows. Unmerited necessity excuses from sin, while self-incurred necessity, as in the damned, does not. Augustine's 'no one sins in what he cannot avoid' refers to earlier avoidability. 1 Cor 10 presupposes that people could be necessitated, though God's goodness prevents it in fact unless someone deserves abandonment.",
+    "claims": [
+      "The will can be necessitated by penalties.",
+      "Unmerited necessity excuses."
+    ],
+    "concepts": [
+      "necessitation of will",
+      "Augustine",
+      "1 Corinthians 10",
+      "the damned"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e3260",
+        "rh-l3q1-d1e3267",
+        "rh-l3q1-d1e3296",
+        "rh-l3q1-d1e3334",
+        "rh-l3q1-d1e3350",
+        "rh-l3q1-d1e3363",
+        "rh-l3q1-d1e3441",
+        "rh-l3q1-d1e3495",
+        "rh-l3q1-d1e3513",
+        "rh-l3q1-d1e3521"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3260": {
+    "summary": "Article 3: can the will be necessitated by penalties to will not to exist?",
+    "claims": [],
+    "concepts": [
+      "necessitation of the will",
+      "penalty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3267": {
+    "summary": "Holcot had said yes, in passing, proving it from Augustine (De libero arbitrio III.13): someone who believes he will not exist after death is driven by intolerable troubles to desire death.",
+    "claims": [
+      "Penalties can necessitate willing non-being."
+    ],
+    "concepts": [
+      "Augustine",
+      "suicide"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3296": {
+    "summary": "The colleague objects four ways. First: then a temptation to suicide could be so heavy that the will is necessitated to sin. Either it can resist, so it is not necessitated, or it must consent, and then, by Augustine, it does not sin, since no one sins in what cannot be avoided. Then the pagans who killed themselves, such as those in Augustine, Trogus Pompeius, and Valerius Maximus, would not have sinned.",
+    "claims": [
+      "Necessitation would excuse suicides."
+    ],
+    "concepts": [
+      "temptation",
+      "unavoidable sin",
+      "pagan suicides"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252",
+        "rh-l3q1-d1e3267"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3334": {
+    "summary": "Second: according to Augustine, the will is the first cause of sin, and no nature can overcome the will. Anselm says temptation can attack the will but not conquer it unwilling.",
+    "claims": [
+      "No nature overcomes the will."
+    ],
+    "concepts": [
+      "Augustine",
+      "Anselm",
+      "freedom of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252",
+        "rh-l3q1-d1e3296"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3350": {
+    "summary": "Third: 1 Cor 10, God does not let you be tempted beyond what you can bear.",
+    "claims": [
+      "God does not permit unbearable temptation."
+    ],
+    "concepts": [
+      "1 Corinthians 10",
+      "temptation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252",
+        "rh-l3q1-d1e3296"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3363": {
+    "summary": "Reply to the first: neither the inference nor the consequent is impossible. Under unmerited violent necessity the will does not sin, since necessity diminishes voluntariness and choice. Mortal sin, like virtue, requires acting knowingly and choosing (Aristotle, Ethics II), so 'necessitated to will suicide' does not imply 'necessitated to sin', just as taking another's goods or killing in necessity is not sin. Many also say the damned are necessitated to sin and sin continually, unexcused because they caused their own necessity.",
+    "claims": [
+      "Unmerited necessity excuses.",
+      "Self-caused necessity does not excuse."
+    ],
+    "concepts": [
+      "necessity and voluntariness",
+      "Aristotle",
+      "the damned",
+      "self-incurred necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252",
+        "rh-l3q1-d1e3296"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3441": {
+    "summary": "Augustine's 'no one sins in what he cannot avoid' means no one sins except in what he could once have avoided before sinning, since in sinning everyone sins in what he cannot then avoid. The pagan suicides may have merited their disordered necessity by prior fault, or may be excused by violence or ignorance. A simple person who killed himself thinking, by God's permission and the devil's suggestion, that it served God would not truly be damned, though the Church militant would judge him so.",
+    "claims": [
+      "Avoidability is judged at an earlier time.",
+      "Erroneous suicide may be excused before God."
+    ],
+    "concepts": [
+      "avoidability",
+      "prior fault",
+      "Church militant",
+      "suicide"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252",
+        "rh-l3q1-d1e3363"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3495": {
+    "summary": "To the second: Augustine means that, under the established law, no nature can force the will to sin unless it wills, or unless prior disordered willing merits necessitation as a penalty, as with the devil and the damned.",
+    "claims": [
+      "The will cannot be forced except as penalty for prior sin."
+    ],
+    "concepts": [
+      "established law",
+      "penal necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252",
+        "rh-l3q1-d1e3334"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3513": {
+    "summary": "To the third, from Anselm: answered at greater length in the first question of Book I.",
+    "claims": [],
+    "concepts": [
+      "cross-reference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252",
+        "rh-l3q1-d1e3334"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3521": {
+    "summary": "To the fourth: Paul's text favors Holcot, since praising God for not permitting temptation beyond strength presupposes that people could be necessitated. By nature, despite freedom, a person could be necessitated by excessive sorrow or delight to will against a divine precept, but would not sin in doing so. God in his goodness does not let temptation grow so strong unless the person deserves abandonment. So Holcot holds that the damned's will is in fact necessitated to will non-being. If they willed it freely, that contradicts the colleague's position in the previous article.",
+    "claims": [
+      "Human nature can be necessitated by extreme pain or pleasure.",
+      "God's goodness prevents unbearable temptation in fact.",
+      "The damned are necessitated to will non-being."
+    ],
+    "concepts": [
+      "necessitation",
+      "divine goodness",
+      "the damned"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3252",
+        "rh-l3q1-d1e3350"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e3572": {
+    "summary": "Article 4: may a justly condemned criminal flee if he can do so without harm? Holcot says yes, if his aim is amendment, since penalties are medicinal and serve the common good. The colleague holds that flight is never lawful without revelation or revocation. Holcot answers with Aristotle's epieikeia: legal justice must be directed by natural justice and the legislator's intent, not the law's letter. Martyrs may also flee when living better serves God.",
+    "claims": [
+      "Penalties are medicinal.",
+      "Epieikeia permits flight for amendment."
+    ],
+    "concepts": [
+      "epieikeia",
+      "medicinal punishment",
+      "legislative intent",
+      "martyrdom"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e3580",
+        "rh-l3q1-d1e3593",
+        "rh-l3q1-d1e3622",
+        "rh-l3q1-d1e3660",
+        "rh-l3q1-d1e3673",
+        "rh-l3q1-d1e3691",
+        "rh-l3q1-d1e3726",
+        "rh-l3q1-d1e3838",
+        "rh-l3q1-d1e3903"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3580": {
+    "summary": "Article 4: may a criminal justly condemned to death lawfully avoid death by flight, when he can flee without harming anyone?",
+    "claims": [],
+    "concepts": [
+      "flight from execution",
+      "just punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3572"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3593": {
+    "summary": "Holcot had said yes, in certain cases. Penalties are medicines, intended not for themselves but for the good of the republic, which results from the goodness of individuals. If the condemned person's conscience dictates that they will become good, die later for the republic, or enter religion for penance, they may flee lawfully and even meritoriously.",
+    "claims": [
+      "Penalties are medicinal and aimed at the common good.",
+      "Flight for amendment can be lawful."
+    ],
+    "concepts": [
+      "medicinal punishment",
+      "common good",
+      "penance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3572"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3622": {
+    "summary": "Confirmation: such a person keeps the legislator's intent, since law commands death only for the republic's good. If that good, or a greater one, could be gained without the death, the legislator would not command it. The fugitive may improve and correct more people by his life than by his punishment.",
+    "claims": [
+      "Flight can serve the legislator's intent."
+    ],
+    "concepts": [
+      "legislative intent",
+      "correction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3572",
+        "rh-l3q1-d1e3593"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3660": {
+    "summary": "The colleague objects: what is done by force against law and justice does not stand (Liber Sextus, De regulis iuris), and he is justly condemned, so escaping is against justice.",
+    "claims": [
+      "Escaping just sentence is unjust, according to the socius."
+    ],
+    "concepts": [
+      "regulae iuris",
+      "justice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3572"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3673": {
+    "summary": "Further: then martyrs whose conscience dictated dying for Christ could have fled and merited more by converting more people, which is false, since they would have sinned against conscience.",
+    "claims": [
+      "The argument would excuse fleeing martyrdom."
+    ],
+    "concepts": [
+      "martyrdom",
+      "conscience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3572",
+        "rh-l3q1-d1e3660"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3691": {
+    "summary": "So the colleague holds the condemned may never flee, however useful their life, without special revelation or revocation of the sentence. If the executioners delay, the prisoner may not kill himself, but must notify or go to the judge and declare himself ready for justice.",
+    "claims": [
+      "The condemned may never flee, according to the socius."
+    ],
+    "concepts": [
+      "obedience to sentence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3572",
+        "rh-l3q1-d1e3660"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3726": {
+    "summary": "To Holcot's argument that a man condemned to starve may eat bread placed near him, the colleague denies the parity, though he grants flight is lawful before sentence. But Holcot distinguishes natural justice from legal justice (Aristotle, Ethics V, on epieikeia). Natural justice admits no exception, while legal justice is stated universally and sometimes should not be observed. Epieikeia directs legal justice by natural justice: a law forbidding foreigners to climb the city walls on pain of death does not apply to foreigners who climbed them to defend the city. The epieikes lessens penalties and seeks no more punishment than is needed to restrain sin. So a criminal who can do something more useful for the republic and himself, harming no one by fleeing, may lawfully escape the gallows to amend his life.",
+    "claims": [
+      "Epieikeia directs legal justice by natural justice.",
+      "Penalties should not exceed what restrains sin.",
+      "Flight for amendment is lawful."
+    ],
+    "concepts": [
+      "epieikeia",
+      "natural and legal justice",
+      "Aristotle",
+      "wall-climbing case"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3572",
+        "rh-l3q1-d1e3691"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3838": {
+    "summary": "To the first: the rule is not in that title, and in any case it means that what is done against the legislator's intention does not stand. Keeping the law is keeping its intention, not its letter or rind, since 'the letter kills'. 'He is justly condemned, therefore cannot justly escape' fails, since it only means the judge could lawfully inflict death. He may justly undergo death for his sins or justly avoid it to do something more useful for his soul, as in fleeing to a church with sanctuary. Otherwise friends who ransom the condemned would sin.",
+    "claims": [
+      "The law's intention, not its letter, binds.",
+      "Just condemnation permits but does not require undergoing death."
+    ],
+    "concepts": [
+      "letter and spirit",
+      "sanctuary",
+      "ransom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3572",
+        "rh-l3q1-d1e3660"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3903": {
+    "summary": "To the martyrs: there is no parity. But without a conscience dictating death, and with one dictating that living better serves God's honor, they may flee, by Christ's counsel in Matthew 10. The apostles fled to the gentiles, and Christ himself avoided death by passing through the crowd when it was not fitting to die.",
+    "claims": [
+      "Martyrs may flee when living serves God better."
+    ],
+    "concepts": [
+      "Matthew 10",
+      "martyrdom",
+      "flight of Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3572",
+        "rh-l3q1-d1e3673"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e3935": {
+    "summary": "Article 5: one who adores the devil disguised as Christ in invincible error is excused and merits. The colleague's view that such a person adores God interiorly would make idolatry impossible. Conditional adoration ('if you are Christ') diminishes worship and expresses doubt in faith. Erroneous conscience binds as strongly as right conscience while it lasts. Error is dangerous or non-dangerous, and only dangerous error leaves a perplexity, which is in the person, not God's law. On Romans 1, Holcot argues that pagan philosophers knew one God from patriarchal tradition, that some were saved, and that idolatry requires losing that faith. Invincible ignorance excuses wholly, even in the hypothetical case of Mary adoring a man Christ had left.",
+    "claims": [
+      "Invincible error excuses and can merit.",
+      "Erroneous conscience binds while it remains.",
+      "Pagan philosophers knew one God, and some were saved."
+    ],
+    "concepts": [
+      "invincible error",
+      "idolatry",
+      "conditional adoration",
+      "erroneous conscience",
+      "pagan philosophers",
+      "perplexity"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e3943",
+        "rh-l3q1-d1e3952",
+        "rh-l3q1-d1e3961",
+        "rh-l3q1-d1e3984",
+        "rh-l3q1-d1e4000",
+        "rh-l3q1-d1e4046",
+        "rh-l3q1-d1e4075",
+        "rh-l3q1-d1e4095",
+        "rh-l3q1-d1e4128",
+        "rh-l3q1-d1e4160",
+        "rh-l3q1-d1e4189",
+        "rh-l3q1-d1e4198",
+        "rh-l3q1-d1e4209",
+        "rh-l3q1-d1e4231",
+        "rh-l3q1-d1e4270",
+        "rh-l3q1-d1e4293",
+        "rh-l3q1-d1e4321",
+        "rh-l3q1-d1e4352",
+        "rh-l3q1-d1e4370",
+        "rh-l3q1-d1e4383",
+        "rh-l3q1-d1e4392",
+        "rh-l3q1-d1e4458",
+        "rh-l3q1-d1e4478",
+        "rh-l3q1-d1e4504",
+        "rh-l3q1-d1e4509",
+        "rh-l3q1-d1e4546",
+        "rh-l3q1-d1e4619",
+        "rh-l3q1-d1e4642",
+        "rh-l3q1-d1e4662",
+        "rh-l3q1-d1e4734",
+        "rh-l3q1-d1e4802",
+        "rh-l3q1-d1e4892",
+        "rh-l3q1-d1e4914"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3943": {
+    "summary": "Article 5: is one who adores the devil transfigured into Christ's likeness, deceived by invincible error, excused from idolatry by such ignorance?",
+    "claims": [],
+    "concepts": [
+      "invincible error",
+      "idolatry",
+      "devil disguised as Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3952": {
+    "summary": "Holcot had said such a person is not only excused but merits as much as if they adored Christ, provided they did what they could to discern.",
+    "claims": [
+      "Invincibly deceived adoration merits as true adoration."
+    ],
+    "concepts": [
+      "merit",
+      "doing what is in one"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3961": {
+    "summary": "One of his reasons: Christ appears to Peter in an unfamiliar likeness, and Peter adores him with latria. God lets the devil appear to John in exactly the same likeness, and John adores. If John sins, so does Peter, since Peter has no more certainty. If not, Holcot's point is granted.",
+    "claims": [
+      "Equal epistemic states yield equal moral status."
+    ],
+    "concepts": [
+      "parity argument",
+      "certainty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935"
+      ]
+    }
+  },
+  "rh-l3q1-d1e3984": {
+    "summary": "The colleague replies that if both are good and do their best, neither sins, since both adore God by interior adoration. John does not adore the devil, but God.",
+    "claims": [
+      "Interior adoration is directed to God, according to the socius."
+    ],
+    "concepts": [
+      "interior adoration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e3961"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4000": {
+    "summary": "This reply concedes Holcot's point, is inconsistent with what the colleague said elsewhere (that such error does not excuse from idolatry and is against faith), and assumes a falsehood, since John does adore the one who appears.",
+    "claims": [
+      "The socius's reply concedes and contradicts himself."
+    ],
+    "concepts": [
+      "consistency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e3984"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4046": {
+    "summary": "Take an idolater who believes an idol is God. By the same reasoning he does not adore the idol but God, since he intends God. If so, no one could ever commit idolatry.",
+    "claims": [
+      "The reply makes idolatry impossible."
+    ],
+    "concepts": [
+      "idolatry",
+      "intention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e3984"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4075": {
+    "summary": "Further: if the likeness were Christ's humanity, or James's body, and John kissed its feet believing it Christ's humanity, the reply must say he adores Christ's humanity and touches Christ's body in heaven.",
+    "claims": [
+      "The reply yields absurd claims about touching."
+    ],
+    "concepts": [
+      "reference of adoration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e3984"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4095": {
+    "summary": "Further: on this reply no one could adore the devil with latria, since latria requires believing the devil is God, which contradicts the admitted case. Interior adoration is just a mental affection or proposition: John forms 'I adore this' and 'this is Christ', so he adores this one with interior latria.",
+    "claims": [
+      "Interior adoration is a mental proposition about the demonstrated object."
+    ],
+    "concepts": [
+      "mental propositions",
+      "latria"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e3984"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4128": {
+    "summary": "Further: if John adores Socrates and God swaps Plato's soul into Socrates's body, the reply must say John adores only Socrates, though he plainly adores this composite. So the reply grants Holcot's main conclusion: one can meritoriously form and assent to 'I love this as God', pointing to any creature, excused by invincible error.",
+    "claims": [
+      "One can meritoriously assent to 'I love this as God' of a creature in invincible error."
+    ],
+    "concepts": [
+      "demonstrative reference",
+      "soul swap case"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e3984"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4160": {
+    "summary": "Holcot's second reason was against the colleague's earlier view that one should adore conditionally: 'I adore you if you are Christ'. Either the condition diminishes worship, so it is not latria, against conscience, or it does not, so it is pointless.",
+    "claims": [
+      "Conditional adoration is either deficient or pointless."
+    ],
+    "concepts": [
+      "conditional adoration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4189": {
+    "summary": "The colleague replies that the condition does not diminish worship, and denies that it then fails to excuse from idolatry.",
+    "claims": [],
+    "concepts": [
+      "conditional adoration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4160"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4198": {
+    "summary": "Holcot finds two falsehoods in this, first that the condition does not diminish latria.",
+    "claims": [],
+    "concepts": [
+      "critique"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4189"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4209": {
+    "summary": "Against: without the condition it follows John adores the devil he sees; with it, the opposite follows ('I adore him if he is Christ; he is not; so I do not adore him'). So the condition diminishes adoration.",
+    "claims": [
+      "The condition blocks the inference to adoring the devil."
+    ],
+    "concepts": [
+      "conditionals"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4198"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4231": {
+    "summary": "Further: the condition shows doubt about whether the object is God, which lessens love, and latria consists in love, reverence, and sacrifice (Lombard III d. 9). Second, the denied consequence holds: if the condition does not diminish adoration, he adores as absolutely as without it, and so, by the colleague's own view, commits idolatry.",
+    "claims": [
+      "Doubt lessens latria.",
+      "On the socius's view the condition cannot save from idolatry."
+    ],
+    "concepts": [
+      "doubt",
+      "latria",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4189"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4270": {
+    "summary": "Further: if conditions did not diminish adoration, the Church could pray 'I adore you if you are Christ', 'I swear by Christ if Christ is God', or 'Mary, if you are God's mother, help me'. But that expresses doubt in matters of faith, and the doubter in faith is an infidel.",
+    "claims": [
+      "Conditional worship expresses doubt in faith."
+    ],
+    "concepts": [
+      "doubt in faith",
+      "liturgy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4189"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4293": {
+    "summary": "Further: in other acts and contracts, conditions diminish the act, so 'I take you as wife if my father agrees' is compatible with 'I do not take you'. Likewise 'I adore you if you are the king of glory' is compatible with 'I do not adore you'.",
+    "claims": [
+      "Conditional acts are compatible with the absolute negation."
+    ],
+    "concepts": [
+      "conditional contracts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4189"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4321": {
+    "summary": "Holcot's third reason: an erroneous conscience binds as much as a true one, and John's conscience dictates he must adore what appears or sin mortally. The colleague objects that then the Jews, the priests who crucified Christ, and Judas, who sold him and hanged himself in despair, did not sin, since erroneous conscience bound them.",
+    "claims": [
+      "Erroneous conscience binds.",
+      "The objection is that it would excuse Christ's killers."
+    ],
+    "concepts": [
+      "erroneous conscience",
+      "Judas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4352": {
+    "summary": "Further objections: one whose erroneous conscience dictates that he is God should will to be loved by all for his own sake; one could will God to be killed; and someone convinced God should be hated and that fornication is required would merit by every sin.",
+    "claims": [
+      "Erroneous conscience would license every sin, according to the objection."
+    ],
+    "concepts": [
+      "erroneous conscience",
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4321"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4370": {
+    "summary": "Further: if an erroneous conscience bound equally, it would not need to be set aside. But an erroneous conscience must be set aside and a right one kept, so they do not bind equally.",
+    "claims": [
+      "Erroneous conscience must be set aside, so it binds less, according to the objection."
+    ],
+    "concepts": [
+      "setting aside conscience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4321"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4383": {
+    "summary": "Further: then God's law would contain perplexity, contrary to Gregory on Job 40.",
+    "claims": [
+      "Equal binding would make God's law perplexing, according to the objection."
+    ],
+    "concepts": [
+      "perplexity",
+      "Gregory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4321"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4392": {
+    "summary": "Reply: there is dangerous error, against articles of faith or divine precepts, and non-dangerous error, approving falsehoods under invincible ignorance. John's error, taking the devil for God, is invincible and against no article or morals, so it is not dangerous. Lombard (IV d. 30), Augustine (Enchiridion), and the gloss on 2 Cor 11 say that believing Satan disguised as an angel of light to be good is no dangerous error. So there are two kinds of erroneous conscience.",
+    "claims": [
+      "Error is dangerous or non-dangerous.",
+      "Invincible error about the devil's disguise is not dangerous."
+    ],
+    "concepts": [
+      "dangerous error",
+      "invincible ignorance",
+      "angel of light",
+      "Lombard",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4321"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4458": {
+    "summary": "A dangerously erroneous conscience binds so that acting against it is sin, yet acting on it is also sin, so the person is perplexed until it is set aside. A non-dangerously erroneous conscience binds so that disobeying it is sin, and obeying it is excused by invincible ignorance.",
+    "claims": [
+      "Dangerous erroneous conscience perplexes.",
+      "Non-dangerous erroneous conscience excuses."
+    ],
+    "concepts": [
+      "perplexity",
+      "erroneous conscience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4392"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4478": {
+    "summary": "To the first: the inference fails. John's error is non-dangerous and from invincible ignorance of fact, while the priests and rulers who killed Christ had a dangerous error from vincible, indeed crass, supine, and affected ignorance.",
+    "claims": [
+      "Christ's killers had culpable ignorance."
+    ],
+    "concepts": [
+      "affected ignorance",
+      "ignorance of fact"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4321"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4504": {
+    "summary": "The same answers the second and third.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4352"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4509": {
+    "summary": "To the fourth: an erroneous conscience must be set aside, but while it remains it binds as strongly as a right one. If Socrates's conscience says lifting a straw is as sinful as theft, he is equally bound to avoid both. Conscience binds precisely because one sins by not following it, and one sins equally against an erroneous and a right conscience.",
+    "claims": [
+      "While it lasts, erroneous conscience binds as much as right conscience."
+    ],
+    "concepts": [
+      "binding force of conscience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4370"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4546": {
+    "summary": "To the fifth: erroneous conscience is not imposed by God's law but arises from human error, so the perplexity is in the erring person, not the law, and it is only conditional, since it lasts until the conscience is set aside. Perplexity of fact, where one sins whether acting or not, is common. Gregory (Moralia, in the Decretum, Nervi) advises choosing the lesser sin when trapped.",
+    "claims": [
+      "Perplexity lies in the person, not the law.",
+      "Perplexity is conditional only.",
+      "When trapped, choose the lesser sin."
+    ],
+    "concepts": [
+      "perplexity",
+      "Gregory",
+      "lesser evil",
+      "Decretum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4383"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4619": {
+    "summary": "Holcot's fourth reason: any adoration is lawful that is compatible with the continuing intention 'I will adore only the one God', given true belief about God. John's mistaken adoration of the devil is compatible with it, so it is lawful.",
+    "claims": [
+      "Adoration compatible with intending the one God is lawful."
+    ],
+    "concepts": [
+      "intention to worship one God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4642": {
+    "summary": "The colleague denies the major: the worldly wise of Romans 1, who knew God, served the creature and committed idolatry, though their adoration was compatible with assent to 'there is only one God', otherwise they would be excusable.",
+    "claims": [
+      "Pagan philosophers knew one God yet committed idolatry, according to the socius."
+    ],
+    "concepts": [
+      "Romans 1",
+      "pagan philosophers",
+      "idolatry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4619"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4662": {
+    "summary": "The reply contradicts itself and misreads Paul. Knowingly adoring idol a means believing a alone is God, so not believing the true God b is God. Either the philosopher believed the creature was God, and so was not knowingly idolatrous, or he did not, and only feigned bodily worship without interior worship. Holcot makes four points about Paul's meaning: first, pagan philosophers never denied God exists; second, many believed in one God and argued for it.",
+    "claims": [
+      "Latria to a creature is incompatible with believing only one God.",
+      "Pagan philosophers affirmed one God."
+    ],
+    "concepts": [
+      "Romans 1",
+      "interior worship",
+      "pagan monotheism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4642"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4734": {
+    "summary": "Third, they got this faith from the worship of God since the beginning, by Adam, Noah, and the prophets, whose fame reached Egyptian, Arabic, Greek, and Chaldean philosophers. Following Augustine (City of God XVIII), Holcot argues that the prophets and patriarchs preceded all worldly wisdom: Thales, Orpheus, and Linus came after Moses, and Abraham long preceded Isis, with whom Egyptian wisdom began.",
+    "claims": [
+      "Pagan knowledge of God derives from patriarchal and prophetic tradition."
+    ],
+    "concepts": [
+      "prisca theologia",
+      "Augustine",
+      "chronology of wisdom",
+      "Moses"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4662"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4802": {
+    "summary": "Fourth, some philosophers persisted in worship and were saved, such as Job, Socrates, Plato, Aristotle, and many Stoics. Others fell into vice, their hearts darkened as punishment, and lost their faith in one God and became idolaters. They could not have worshipped a creature as creator while keeping that knowledge, since worship includes believing the object is God. So the colleague's argument fails: those who kept the assent could not truly worship creatures, only feign it, as Judas greeted Christ. Worship is by faith, hope, and charity (Augustine).",
+    "claims": [
+      "Some pagan philosophers were saved.",
+      "Idolatry requires loss of belief in the one God.",
+      "True worship is interior."
+    ],
+    "concepts": [
+      "salvation of pagans",
+      "Socrates",
+      "Plato",
+      "Aristotle",
+      "Romans 1",
+      "Judas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4662"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4892": {
+    "summary": "Holcot's fifth reason, as the colleague recited it, though Holcot had framed it as an instance: if Christ had laid aside his assumed humanity as an adult without the Virgin knowing, she would have adored that man as before. She would err, but not sin, since the error of fact was invincible.",
+    "claims": [
+      "Mary would invincibly err without sin."
+    ],
+    "concepts": [
+      "Virgin Mary",
+      "laying aside the humanity",
+      "error of fact"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4914": {
+    "summary": "The colleague replies that Christ would have enlightened her and prevented the adoration, and otherwise she would have sinned. This fails: it denies a possible case, restricting divine power, which can do whatever implies no contradiction, and it holds that invincible ignorance does not excuse, though such ignorance causes involuntariness.",
+    "claims": [
+      "The reply restricts divine power.",
+      "Invincible ignorance excuses wholly."
+    ],
+    "concepts": [
+      "divine omnipotence",
+      "involuntariness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e3935",
+        "rh-l3q1-d1e4892"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e4946": {
+    "summary": "Article 6: one can merit through false faith. The simple old woman who believes her priest's heresy out of obedience merits, since her implicit faith in the Church is true. Against William of Auxerre, Holcot argues the faithful cannot discern true from false preaching. Examples of meritorious false belief: Mary seeking the boy Jesus, Magdalene and the gardener, the apostles trusting Judas, mistaken judges, almsgivers, and putative fathers.",
+    "claims": [
+      "False belief from invincible error can be meritorious.",
+      "Implicit faith saves despite explicit error."
+    ],
+    "concepts": [
+      "implicit faith",
+      "William of Auxerre",
+      "meritorious error"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e4954",
+        "rh-l3q1-d1e4961",
+        "rh-l3q1-d1e4998",
+        "rh-l3q1-d1e5064",
+        "rh-l3q1-d1e5109",
+        "rh-l3q1-d1e5120",
+        "rh-l3q1-d1e5138",
+        "rh-l3q1-d1e5154",
+        "rh-l3q1-d1e5200"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4954": {
+    "summary": "Article 6: can one merit through false faith?",
+    "claims": [],
+    "concepts": [
+      "merit",
+      "false belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e4946"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4961": {
+    "summary": "Holcot says yes, in many cases. In the common case, an old woman hears her priest preach a heretical article she is not bound to believe explicitly, for example that Christ was pierced by the lance before death. Out of obedience and the will to believe whatever the Church believes, she assents, thinking the Church holds it. She merits, since she assents from good will and errs invincibly.",
+    "claims": [
+      "The simple faithful can merit by believing a heresy preached to them."
+    ],
+    "concepts": [
+      "vetula",
+      "implicit faith",
+      "obedience",
+      "lance wound"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e4946"
+      ]
+    }
+  },
+  "rh-l3q1-d1e4998": {
+    "summary": "The colleague, with William of Auxerre, holds she should not believe, since then she would not believe what the Church believes and would sin mortally. This is irrational. Either I am bound to believe my priest about things I would otherwise doubt, or I am never bound to believe him beyond what I know otherwise, which makes him no better than a shepherd. If I am bound in one doubtful case, I am bound in any, since I cannot discern whether what is preached is true.",
+    "claims": [
+      "The faithful must trust preachers on doubtful matters.",
+      "They cannot discern true from false preaching."
+    ],
+    "concepts": [
+      "William of Auxerre",
+      "authority of preachers",
+      "explicit and implicit faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e4946",
+        "rh-l3q1-d1e4961"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5064": {
+    "summary": "Further: when the twelve-year-old Jesus stayed in Jerusalem, Mary believed he was among relatives. Every act of her belief after the conception was meritorious, so she meritoriously believed a falsehood.",
+    "claims": [
+      "Mary meritoriously believed a falsehood."
+    ],
+    "concepts": [
+      "Luke 2",
+      "Virgin Mary"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e4946"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5109": {
+    "summary": "Further: Mary Magdalene believed Christ was the gardener, so believed of Christ that he was not God, and probably merited, since Christ willed her to believe so.",
+    "claims": [
+      "Magdalene merited in false belief."
+    ],
+    "concepts": [
+      "Mary Magdalene"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e4946"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5120": {
+    "summary": "Further: the apostles loved Judas and believed him predestined, erring yet meriting. Indeed the good must think well of the secretly wicked, so they were bound to err, and under the present law would sin if they did not.",
+    "claims": [
+      "Charity can oblige false belief."
+    ],
+    "concepts": [
+      "Judas",
+      "judgment of charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e4946"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5138": {
+    "summary": "Further: some disciples believed Christ dead after he had risen, so believed falsely, but did not sin, since the ignorance was invincible.",
+    "claims": [
+      "Invincible false belief is not sin."
+    ],
+    "concepts": [
+      "resurrection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e4946"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5154": {
+    "summary": "Many cases of meritorious error. A judge believes witnesses against an innocent person. An ecclesiastical judge, deceived, holds an adulteress to be the lawful wife and excommunicates the husband who rejects her, and the canon says this error does not diminish merit. An almsgiver helps a tyrant thought poor. Lot received angels as men. A putative father raises another's child. A layman adores an unconsecrated host. Someone who believes they are baptized but is not is saved by that faith.",
+    "claims": [
+      "Many ordinary errors are meritorious."
+    ],
+    "concepts": [
+      "judicial error",
+      "putative father",
+      "unconsecrated host",
+      "putative baptism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e4946"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5200": {
+    "summary": "So the old woman merits in believing heresy, since the error cannot be imputed to her. Implicitly she believes the opposite, believing that nothing is true except what the Church holds. Her implicit faith is true though her explicit belief is not, and she is not bound to the latter, so she is in no danger.",
+    "claims": [
+      "Implicit faith can be true while explicit belief errs."
+    ],
+    "concepts": [
+      "implicit faith",
+      "fides implicita"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e4946",
+        "rh-l3q1-d1e4961"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e5224": {
+    "summary": "Article 7: Abraham believed absolutely that he must kill Isaac. The colleague's conclusions contradict each other, since acting while doubting would be mortal sin. Hebrews, Augustine, and Ambrose show a real command, which God gave without willing its execution, to test Abraham. The colleague's gloss is misquoted ('not immediately') and misattributed. The event prefigures the Father's sacrifice of the Son.",
+    "claims": [
+      "Abraham believed absolutely, by divine will.",
+      "God can command what he does not will by good pleasure."
+    ],
+    "concepts": [
+      "Abraham",
+      "testing command",
+      "typology",
+      "textual criticism"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e5232",
+        "rh-l3q1-d1e5241",
+        "rh-l3q1-d1e5261",
+        "rh-l3q1-d1e5269",
+        "rh-l3q1-d1e5282",
+        "rh-l3q1-d1e5300",
+        "rh-l3q1-d1e5352",
+        "rh-l3q1-d1e5419",
+        "rh-l3q1-d1e5435",
+        "rh-l3q1-d1e5460",
+        "rh-l3q1-d1e5519",
+        "rh-l3q1-d1e5571"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5232": {
+    "summary": "Article 7: about Genesis 22, did Abraham believe absolutely that he really had to sacrifice his son?",
+    "claims": [],
+    "concepts": [
+      "Abraham",
+      "Isaac",
+      "Genesis 22"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5241": {
+    "summary": "One can only argue from Genesis or the saints' opinions, but the story's sequence makes it clear enough to Holcot that Abraham believed absolutely he had to sacrifice his son.",
+    "claims": [
+      "Abraham believed absolutely."
+    ],
+    "concepts": [
+      "scriptural narrative"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5261": {
+    "summary": "The colleague offers three conclusions against this.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5269": {
+    "summary": "First: Abraham did not believe absolutely, since the gloss, attributed to Augustine, says he was not commanded to kill his son but to lead him three days to sacrifice.",
+    "claims": [
+      "Abraham was told only to lead Isaac, according to the socius."
+    ],
+    "concepts": [
+      "gloss",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224",
+        "rh-l3q1-d1e5261"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5282": {
+    "summary": "Second: Abraham merited by willing to kill his son while believing in resurrection, with an undoubting mind (gloss attributed to Augustine; Hebrews 11).",
+    "claims": [
+      "Abraham merited by willing in faith of resurrection."
+    ],
+    "concepts": [
+      "resurrection faith",
+      "Hebrews 11"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224",
+        "rh-l3q1-d1e5261"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5300": {
+    "summary": "Third: Abraham was bound by divine precept to go to the place shown. But the first conclusion is false and contradicts the second. Abraham willed with an undoubting mind to kill his son. Either he believed absolutely he should, as Holcot holds, or he willed against conscience, or he doubted, and then willed foolishly, knowing that killing an innocent displeases God, and sinned mortally, since acting in doubt of mortal sin is mortal sin.",
+    "claims": [
+      "The socius's conclusions contradict each other.",
+      "Acting while doubting mortal sin is mortal sin."
+    ],
+    "concepts": [
+      "conscience",
+      "doubt",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224",
+        "rh-l3q1-d1e5261"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5352": {
+    "summary": "Further: Hebrews says Abraham by faith offered Isaac, in will if not in deed (gloss), so he willed and believed absolutely. The gloss attributed to Augustine says he held the promise faithfully and did not hesitate, since God who gave a son to the aged could raise him from death. God commanded him to kill his son, he set no conditions, and he stretched out his hand to do it until the angel stopped him.",
+    "claims": [
+      "Abraham willed absolutely and made no conditions."
+    ],
+    "concepts": [
+      "Hebrews 11",
+      "faith in resurrection",
+      "Genesis 22"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224",
+        "rh-l3q1-d1e5300"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5419": {
+    "summary": "If he believed he should sacrifice his son if it pleased God, it does not follow he believed only conditionally. He believed he should kill his son and also believed the condition, so he believed absolutely.",
+    "claims": [
+      "Believing a condition alongside does not make belief conditional."
+    ],
+    "concepts": [
+      "absolute and conditional belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224",
+        "rh-l3q1-d1e5352"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5435": {
+    "summary": "Further: Augustine (City of God I.21) praises Abraham for willing to kill his son obediently, not wickedly. No one wills obediently unless believing they ought to, so he believed he ought to kill his son.",
+    "claims": [
+      "Obedient willing implies belief in obligation."
+    ],
+    "concepts": [
+      "Augustine",
+      "obedience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224",
+        "rh-l3q1-d1e5300"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5460": {
+    "summary": "Further: Ambrose (De patriarchis) says commands sometimes signify willing what is not willed, to test obedience, as God did not want Abraham to kill Isaac. Ambrose also excuses Abraham's 'we will return' from lying as unwitting prophecy. Augustine (City of God I, De Trinitate III) says God commanded Abraham to kill his son. So Abraham believed absolutely, and God willed that he believe this erroneously, to show the world his faith and obedience. The error neither commends nor blames his faith, since it was invincible.",
+    "claims": [
+      "God willed Abraham to believe erroneously.",
+      "Commands can test without the commanded act being willed."
+    ],
+    "concepts": [
+      "Ambrose",
+      "Augustine",
+      "testing command",
+      "invincible error"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224",
+        "rh-l3q1-d1e5300"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5519": {
+    "summary": "To the colleague's authority: it is misquoted. The gloss says 'Abraham was not immediately commanded to kill', with the negation governing 'immediately'. Neither gloss is by Augustine but by an older author. The gloss itself implies he was commanded to kill, though after three days of waiting, which increased his merit.",
+    "claims": [
+      "The socius misquoted and misattributed the gloss."
+    ],
+    "concepts": [
+      "textual criticism",
+      "gloss",
+      "misattribution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224",
+        "rh-l3q1-d1e5269"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5571": {
+    "summary": "The whole event prefigured Christ's sacrifice (Hebrews 11, Romans 8): as Abraham willingly offered his son, so the Father did not spare his Son. According to Josephus, Abraham told Isaac the story and Isaac accepted death, so both willed it absolutely, which better signifies Christ's death. So Abraham was bound by divine precept to will to kill his son, and God commanded what he did not will by his will of good pleasure (Lombard I dd. 45, 47).",
+    "claims": [
+      "Abraham's sacrifice prefigures the Father's.",
+      "God can command what he does not will by good pleasure."
+    ],
+    "concepts": [
+      "typology",
+      "Josephus",
+      "voluntas beneplaciti",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5224"
+      ]
+    }
+  },
+  "rh-l3q1-Dd1e5611": {
+    "summary": "Article 8: God can deceive, meaning cause error, though not unjustly or disorderedly. Augustine allows God to deceive the wicked justly through others. Holcot argues God can cause error immediately, for instance by conserving an assent after its truth changes. God is first cause of every error, and error is not always sin. Scripture is full of divinely caused errors: Mary, Abraham, Peter, Herod, Emmaus, the patriarchs, and angels in assumed bodies. The saints deny only deception in the strict sense, which includes injustice. The colleague misread Jeremiah 20. Holcot then answers the question, yes, the Son could be incarnate, since he was, and refers the principal arguments to the articles.",
+    "claims": [
+      "God can cause error without injustice.",
+      "Divine causation of belief extends to false belief.",
+      "The incarnation was possible because it was actual."
+    ],
+    "concepts": [
+      "divine deception",
+      "first cause",
+      "proper and improper senses",
+      "Jeremiah 20",
+      "incarnation"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1-d1e5619",
+        "rh-l3q1-d1e5632",
+        "rh-l3q1-d1e5657",
+        "rh-l3q1-d1e5691",
+        "rh-l3q1-d1e5772",
+        "rh-l3q1-d1e5818",
+        "rh-l3q1-d1e5838",
+        "rh-l3q1-d1e5847",
+        "rh-l3q1-d1e5856",
+        "rh-l3q1-d1e5881",
+        "rh-l3q1-d1e5930",
+        "rh-l3q1-d1e5956",
+        "rh-l3q1-d1e5963",
+        "rh-l3q1-d1e6005",
+        "rh-l3q1-d1e6016",
+        "rh-l3q1-d1e6035",
+        "rh-l3q1-d1e6051",
+        "rh-l3q1-d1e6062",
+        "rh-l3q1-d1e6071",
+        "rh-l3q1-d1e6130",
+        "rh-l3q1-d1e6167",
+        "rh-l3q1-d1e6184",
+        "rh-l3q1-d1e6224",
+        "rh-l3q1-d1e6287",
+        "rh-l3q1-d1e6305"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5619": {
+    "summary": "Article 8: can God deceive anyone? Holcot had said, discussing future contingents, that God can deceive, though not unjustly, viciously, or disorderedly. The colleague objects twice.",
+    "claims": [
+      "God can deceive, but not unjustly."
+    ],
+    "concepts": [
+      "divine deception",
+      "future contingents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5632": {
+    "summary": "First: if God could lie and act against conscience, he could tell someone that the triune God is not the highest good, since deceiving once would mean deceiving in all, and a single falsehood in Scripture would discredit the rest (Augustine). And the gloss on Gen 22 says Abraham knew most certainly that God cannot deceive.",
+    "claims": [
+      "Divine deception would undermine all revelation, according to the socius."
+    ],
+    "concepts": [
+      "authority of Scripture",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5619"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5657": {
+    "summary": "Second: the colleague dismisses Jeremiah 20, 'you deceived me, Lord', as spoken by the false prophet Pashur. Holcot will proceed in four steps: Augustine's view, reasons that deception is not repugnant to God, Scripture, and replies.",
+    "claims": [
+      "The socius denies Jeremiah 20 is relevant.",
+      "Article 8 has a four-part plan."
+    ],
+    "concepts": [
+      "Jeremiah 20",
+      "Pashur"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5619"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5691": {
+    "summary": "First, Augustine (83 Questions, q. 53) holds God does not deceive anyone by himself, and does not deceive the good at all, but deceives the wicked by just judgment through wicked men or angels, as Ahab through a lying spirit and the Egyptians through the Israelites. As a judge punishes through a servant or a dog, God is not a deceiver but a most just distributor of deserts.",
+    "claims": [
+      "God deceives only the deserving and only through others, according to Augustine."
+    ],
+    "concepts": [
+      "Augustine",
+      "Ahab",
+      "spoiling of Egypt",
+      "just judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5657"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5772": {
+    "summary": "Second, God can deceive rational creatures immediately, and through good men and angels. God can immediately cause true assent to a contingent proposition. If he reveals that the pope is sitting and conserves the assent after the pope stands, the assent becomes an error that God causes and conserves.",
+    "claims": [
+      "God can cause error by conserving an assent whose truth changes."
+    ],
+    "concepts": [
+      "contingent propositions",
+      "change of truth value",
+      "divine causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5657"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5818": {
+    "summary": "Further: God is the first cause of all things and motions (Augustine, De Trinitate III), and error is a thing and an operation, so every error is from God as first cause. And what God can do through another, he can do alone, and he causes error through bad angels, according to Augustine.",
+    "claims": [
+      "God is first cause of every error.",
+      "What God does through others he can do alone."
+    ],
+    "concepts": [
+      "first cause",
+      "error as entity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5772"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5838": {
+    "summary": "Confirmation: this implies no contradiction, so it should not be denied to divine power.",
+    "claims": [
+      "Non-contradictory acts fall under divine power."
+    ],
+    "concepts": [
+      "omnipotence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5818"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5847": {
+    "summary": "Further: what God can do through a bad angel he can do through a good one.",
+    "claims": [],
+    "concepts": [
+      "angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5818"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5856": {
+    "summary": "Further: God can cause what benefits the mind, and error sometimes does. Augustine (Enchiridion 17) says a mistake about the road once saved him from a Donatist ambush, and he thanked God for it.",
+    "claims": [
+      "Some errors are good.",
+      "Augustine thanked God for an error."
+    ],
+    "concepts": [
+      "Augustine",
+      "Donatists",
+      "beneficial error"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5772"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5881": {
+    "summary": "Further: error can be without sin, so God causing error does not make him cause sin. Augustine (Enchiridion 19–20) rejects the Academics' view that every error is sin, citing Peter thinking he saw a vision and Jacob thinking Joseph was killed. Such errors, while keeping faith, are penalties of this life, not faults.",
+    "claims": [
+      "Not every error is sin.",
+      "Such errors are penalties, not faults."
+    ],
+    "concepts": [
+      "Augustine",
+      "Academics",
+      "error and sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5772"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5930": {
+    "summary": "Third, Scripture suggests God in fact caused error through good and bad agents and immediately. Christ was a partial cause of Mary's error by secretly staying in Jerusalem. It is no more unfitting to say she erred than that she thirsted.",
+    "claims": [
+      "Christ caused Mary's error."
+    ],
+    "concepts": [
+      "Luke 2",
+      "Virgin Mary"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5657"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5956": {
+    "summary": "Further: God's command to Abraham caused an error, as shown in Article 7.",
+    "claims": [
+      "God's command caused Abraham's error."
+    ],
+    "concepts": [
+      "Abraham"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5930",
+        "rh-l3q1-Dd1e5224"
+      ]
+    }
+  },
+  "rh-l3q1-d1e5963": {
+    "summary": "Further: the angel who freed Peter partly caused his error, since Peter thought it a vision. Augustine (Literal Commentary on Genesis XII) says Peter was deceived both about the sheet from heaven and about his release.",
+    "claims": [
+      "A good angel caused Peter's error."
+    ],
+    "concepts": [
+      "Peter",
+      "Acts 10 and 12",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5930"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6005": {
+    "summary": "Further: the angel told the Magi to return another way, deceiving Herod, so God deceived the wicked through the good.",
+    "claims": [
+      "God deceived Herod through an angel."
+    ],
+    "concepts": [
+      "Magi",
+      "Herod"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5930"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6016": {
+    "summary": "Further: Christ made the disciples at Emmaus err, since their eyes were held. And Rebecca and Jacob, excused from lying by the Holy Spirit's counsel, deceived Isaac.",
+    "claims": [
+      "Christ and the Holy Spirit caused deceptions."
+    ],
+    "concepts": [
+      "Emmaus",
+      "Jacob and Isaac"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5930"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6035": {
+    "summary": "Further: Abraham led Abimelech to think Sara was not his wife; though excused from lying, he caused the error. Likewise Isaac and Rebecca.",
+    "claims": [
+      "Patriarchs caused error without lying."
+    ],
+    "concepts": [
+      "Abimelech",
+      "Sara"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5930"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6051": {
+    "summary": "Further: Jacob deceived Laban with the varied fleeces.",
+    "claims": [],
+    "concepts": [
+      "Jacob and Laban"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5930"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6062": {
+    "summary": "Further: Judith adorned herself to deceive Holofernes.",
+    "claims": [],
+    "concepts": [
+      "Judith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5930"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6071": {
+    "summary": "Further examples: Job 12, God deceives princes; the Holy Spirit through Daniel deceived Bel's priests; Elisha led the Syrian servants into Samaria; David feigned madness; Samuel concealed his purpose in anointing David; angels in assumed bodies made people think they had living bodies (Tobias's angel, the three visiting Abraham, the two received by Lot); the ambush in Joshua; Moses and the ring (Historia scholastica); Joseph's cup in Benjamin's sack.",
+    "claims": [
+      "Scripture abounds in divinely sanctioned deceptions."
+    ],
+    "concepts": [
+      "biblical deceptions",
+      "assumed bodies of angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5930"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6130": {
+    "summary": "Fourth, replies. 'Deceive', 'mislead', 'cause error' are taken either broadly and properly, meaning to cause someone's error, which is the article's sense, or strictly and improperly, when the definition includes syncategoremata such as 'unjustly' or 'viciously'. The saints deny the strict sense of God.",
+    "claims": [
+      "'Deceive' broadly means to cause error.",
+      "The saints deny only unjust deception of God."
+    ],
+    "concepts": [
+      "proper and improper senses",
+      "syncategoremata",
+      "nominal definition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5657"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6167": {
+    "summary": "This answers Augustine's texts, the colleague's gloss on Genesis 22, and the canon saying divine judgment neither deceives nor is deceived.",
+    "claims": [
+      "The authorities deny only unjust deception."
+    ],
+    "concepts": [
+      "Augustine",
+      "gloss",
+      "canon law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e6130",
+        "rh-l3q1-d1e5632"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6184": {
+    "summary": "To the colleague's first argument: if 'to lie' means only that God causes a spoken proposition he knows is false, intending the hearer to believe it, this is not unfitting. If it implies disorder, it does not follow. And 'if he could deceive in one, then in all' fails, since he cannot deceive by causing assent to truth.",
+    "claims": [
+      "God may cause a known falsehood to be believed, but never disorderly."
+    ],
+    "concepts": [
+      "divine lying",
+      "authority of revelation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5632"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6224": {
+    "summary": "To the second: with respect, the colleague misreads Scripture against the gloss. 'You deceived me' are Jeremiah's words: he thought he was made a prophet to the nations, not against the Jews, and found himself preaching Jerusalem's captivity. The colleague was misled by haste or a corrupt book. This defends all the articles the colleague attacked. To the unanswered question, whether the Son of God could become incarnate: yes, since he did, as faith holds.",
+    "claims": [
+      "Jeremiah's 'you deceived me' is Jeremiah's own.",
+      "The Son could be incarnate because he was."
+    ],
+    "concepts": [
+      "Jeremiah 20",
+      "gloss",
+      "ab esse ad posse"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-d1e5657",
+        "rh-l3q1"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6287": {
+    "summary": "The three principal arguments are answered by the articles: the first by Article 5, the second by Article 1, the third by Articles 2 or 3. This ends the question and the commentary on Book III.",
+    "claims": [
+      "The articles answer the principal arguments."
+    ],
+    "concepts": [
+      "cross-reference",
+      "end of Book III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611",
+        "rh-l3q1-Dd1e118"
+      ]
+    }
+  },
+  "rh-l3q1-d1e6305": {
+    "summary": "Transitional rubric: there follows Book IV, question 1.",
+    "claims": [],
+    "concepts": [
+      "rubric"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l3q1-Dd1e5611"
+      ]
+    }
+  }
+}

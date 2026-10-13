@@ -1,0 +1,926 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l4q5": {
+    "summary": "Holcot addresses the mendicant controversy: must one who confessed to a friar holding a general commission confess again to his parish priest? Following John XXII's condemnation of John of Pouilly in Vas electionis, he answers no. 'Own priest' in Lateran IV's Omnis utriusque sexus is opposed to an alien priest, not to a common one, so pope, bishop, penitentiaries, and commissioned friars are all one's own priests. A literal reading is absurd and contrary to custom. He defends papal plenitude of power to grant privileges against general decrees for the common good, denies that curates are prejudiced since jurisdiction serves the people, and dismisses Johannes Monachus's contrary gloss as erroneous.",
+    "claims": [
+      "Penitents of commissioned friars need not reconfess to curates.",
+      "'Own priest' in Omnis utriusque sexus includes commissioned confessors.",
+      "The pope may grant privileges against general canons for the common good."
+    ],
+    "concepts": [
+      "mendicant controversy",
+      "Omnis utriusque sexus",
+      "John of Pouilly",
+      "John XXII",
+      "papal plenitude of power",
+      "jurisdiction"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q5-Dd1e103",
+        "rh-l4q5-Dd1e124",
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-Dd1e867"
+      ]
+    }
+  },
+  "rh-l4q5-Dd1e103": {
+    "summary": "Opening statement: whether one confessed to a commissioned priest must reconfess to his own priest.",
+    "claims": [],
+    "concepts": [
+      "confession",
+      "mendicant privileges"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q5-d1e105"
+      ]
+    }
+  },
+  "rh-l4q5-d1e105": {
+    "summary": "States the question: whether a penitent who confessed to a priest not his own but holding a general commission to hear confessions must confess the same sins again to his own priest.",
+    "claims": [],
+    "concepts": [
+      "confession",
+      "mendicant privileges",
+      "proprius sacerdos"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5"
+      ]
+    }
+  },
+  "rh-l4q5-Dd1e124": {
+    "summary": "Arguments for reconfession: Omnis utriusque sexus requires confession to one's own priest; friars' privileges prejudice curates, who must know their flock and give the Eucharist; several immediate judges are unreasonable; disregarding parochial jurisdiction confounds church order. Universal custom is cited for the opposite.",
+    "claims": [
+      "Lateran IV and pastoral duty seem to require reconfession to curates."
+    ],
+    "concepts": [
+      "Omnis utriusque sexus",
+      "prejudice to curates",
+      "custom"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q5-d1e129",
+        "rh-l4q5-d1e149",
+        "rh-l4q5-d1e160",
+        "rh-l4q5-d1e176",
+        "rh-l4q5-d1e186",
+        "rh-l4q5-d1e197",
+        "rh-l4q5-d1e218"
+      ]
+    }
+  },
+  "rh-l4q5-d1e129": {
+    "summary": "First argument for: Omnis utriusque sexus requires annual confession of all sins to one's own priest, and a commissioned confessor such as a Dominican or Franciscan is not one's own priest.",
+    "claims": [
+      "Lateran IV requires confession to one's own priest."
+    ],
+    "concepts": [
+      "Omnis utriusque sexus",
+      "friars"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e124"
+      ]
+    }
+  },
+  "rh-l4q5-d1e149": {
+    "summary": "Further: a privilege cannot be granted to another's prejudice, and absolving a curate's subjects without his leave prejudices curates, as shown several ways.",
+    "claims": [
+      "Friars' privileges prejudice curates."
+    ],
+    "concepts": [
+      "privilege",
+      "prejudice to curates"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e124"
+      ]
+    }
+  },
+  "rh-l4q5-d1e160": {
+    "summary": "First: the parish priest must give the Eucharist and render account for the soul, so must know its state through confession.",
+    "claims": [
+      "The curate must know his subjects' state of soul."
+    ],
+    "concepts": [
+      "pastoral responsibility",
+      "Eucharist"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e124",
+        "rh-l4q5-d1e149"
+      ]
+    }
+  },
+  "rh-l4q5-d1e176": {
+    "summary": "Second: Proverbs 27, 'know diligently the face of your flock', which is best done by confession.",
+    "claims": [
+      "According to Proverbs 27, pastors must know their flock."
+    ],
+    "concepts": [
+      "Proverbs 27",
+      "pastoral knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e124",
+        "rh-l4q5-d1e149"
+      ]
+    }
+  },
+  "rh-l4q5-d1e186": {
+    "summary": "Third: it is unreasonable for one man to have several immediate judges, who might command contraries and occasion contempt.",
+    "claims": [
+      "Several immediate judges are unreasonable."
+    ],
+    "concepts": [
+      "jurisdiction",
+      "conflicting judges"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e124",
+        "rh-l4q5-d1e149"
+      ]
+    }
+  },
+  "rh-l4q5-d1e197": {
+    "summary": "Further: the Decretum (C. 11) says ignoring each bishop's jurisdiction confounds ecclesiastical order, so likewise ignoring the parish priest's.",
+    "claims": [
+      "Disregarding parochial jurisdiction confounds church order."
+    ],
+    "concepts": [
+      "Decretum",
+      "ecclesiastical order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e124"
+      ]
+    }
+  },
+  "rh-l4q5-d1e218": {
+    "summary": "For the opposite: custom is the best interpreter of law, and throughout the Church clergy and laity, kings and nobles, confess to commissioned friars without confessing the same sins again.",
+    "claims": [
+      "Universal custom permits confession to commissioned friars."
+    ],
+    "concepts": [
+      "custom as interpreter of law",
+      "friars"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e124"
+      ]
+    }
+  },
+  "rh-l4q5-Dd1e245": {
+    "summary": "Holcot reports John of Pouilly's three condemned errors and John XXII's Vas electionis. He argues from papal and episcopal practice, the literal absurdity of the statute, and church custom that 'own priest' in Omnis utriusque sexus is opposed to 'alien', not to 'common'. So commissioned confessors, from the pope to friars, are one's own priests, and the dispute rests on an equivocation.",
+    "claims": [
+      "Friars' penitents need not reconfess to curates.",
+      "'Own priest' means not alien, so includes commissioned confessors."
+    ],
+    "concepts": [
+      "John of Pouilly",
+      "Vas electionis",
+      "proprius sacerdos",
+      "papal plenitude of power"
+    ],
+    "_metadata": {
+      "level": "responsio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q5-d1e250",
+        "rh-l4q5-d1e276",
+        "rh-l4q5-d1e285",
+        "rh-l4q5-d1e301",
+        "rh-l4q5-d1e413",
+        "rh-l4q5-d1e431",
+        "rh-l4q5-d1e489",
+        "rh-l4q5-d1e505",
+        "rh-l4q5-d1e560",
+        "rh-l4q5-d1e589",
+        "rh-l4q5-d1e632",
+        "rh-l4q5-d1e667",
+        "rh-l4q5-d1e715",
+        "rh-l4q5-d1e854"
+      ]
+    }
+  },
+  "rh-l4q5-d1e250": {
+    "summary": "The difficulty arises from Omnis utriusque sexus. In 1321 (anno 26) the Paris master John of Pouilly taught three errors, condemned in John XXII's extravagant Vas electionis.",
+    "claims": [
+      "John of Pouilly's errors were condemned by John XXII."
+    ],
+    "concepts": [
+      "John of Pouilly",
+      "Vas electionis",
+      "John XXII"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245"
+      ]
+    }
+  },
+  "rh-l4q5-d1e276": {
+    "summary": "First error: those confessed to friars with general license must confess the same sins again to their own priest.",
+    "claims": [
+      "John of Pouilly held that friars' penitents must reconfess."
+    ],
+    "concepts": [
+      "John of Pouilly"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e250"
+      ]
+    }
+  },
+  "rh-l4q5-d1e285": {
+    "summary": "Second: given the statute, the pope, and even God, cannot make parishioners not bound to confess to their curate, since that implies contradiction.",
+    "claims": [
+      "John of Pouilly denied papal power to dispense from confession to curates."
+    ],
+    "concepts": [
+      "John of Pouilly",
+      "papal power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e250"
+      ]
+    }
+  },
+  "rh-l4q5-d1e301": {
+    "summary": "Third: the pope, even God, cannot license confessors so that penitents need not reconfess to their curate. John defended these until examined before pope and cardinals, then publicly revoked them, saying he could not answer the arguments. The constitution condemned the articles as false and erroneous and affirmed that those who confess to friars need no more reconfess than if they had confessed to their own priest. So the pope determined: friars' penitents need not reconfess; the pope can exempt parishioners from confessing to their own priest; and the pope can grant general license to hear confessions.",
+    "claims": [
+      "Friars' penitents need not reconfess to their curate.",
+      "The pope can grant general licenses to hear confessions."
+    ],
+    "concepts": [
+      "Vas electionis",
+      "papal plenitude of power",
+      "mendicant controversy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e250"
+      ]
+    }
+  },
+  "rh-l4q5-d1e413": {
+    "summary": "Three steps follow: recite Omnis utriusque sexus; show its maker never intended 'own priest' to mean only the parish priest; and give its true sense.",
+    "claims": [],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245"
+      ]
+    }
+  },
+  "rh-l4q5-d1e431": {
+    "summary": "Text of the statute: every faithful of either sex after the years of discretion shall confess all sins to his own priest once a year, fulfill the penance, and receive the Eucharist at least at Easter, under pain of exclusion from church and Christian burial; whoever wishes for just cause to confess to another priest must first seek and obtain leave from his own priest.",
+    "claims": [
+      "Lateran IV requires annual confession and Easter communion."
+    ],
+    "concepts": [
+      "Omnis utriusque sexus",
+      "Easter duty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e413"
+      ]
+    }
+  },
+  "rh-l4q5-d1e489": {
+    "summary": "Second: the maker never intended 'own priest' to mean only the parish priest, proved several ways.",
+    "claims": [
+      "'Own priest' does not mean only the parish priest."
+    ],
+    "concepts": [
+      "interpretation of canon law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e413"
+      ]
+    }
+  },
+  "rh-l4q5-d1e505": {
+    "summary": "First: otherwise one confessed to the pope or his penitentiary would have to reconfess to his parish priest, which is foolish. The pope, Christ's general vicar, cannot lose immediate jurisdiction over every Catholic, so he can absolve anyone, and cannot make the absolved need the sacrament again, else the first sacrament were insufficient; not even God could oblige reconfession of sins fully satisfied.",
+    "claims": [
+      "The pope has immediate jurisdiction over every Catholic.",
+      "Sins validly absolved need not be confessed again."
+    ],
+    "concepts": [
+      "papal jurisdiction",
+      "sufficiency of absolution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e489"
+      ]
+    }
+  },
+  "rh-l4q5-d1e560": {
+    "summary": "Third: the statute requires leave from one's own priest to confess to another; if 'own priest' meant only the parish priest, only he could commit power to absolve, and the pope could not without his leave, which is absurd.",
+    "claims": [
+      "The pope can commission confessors without curates' leave."
+    ],
+    "concepts": [
+      "delegation",
+      "papal authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e489"
+      ]
+    }
+  },
+  "rh-l4q5-d1e589": {
+    "summary": "Fourth: 'omnis utriusque sexus' distributes either over hermaphrodites, which is frivolous, or over every man and woman, so read literally the pope, bishops, and legates would have to confess to parish priests, which experience refutes and the maker himself did not observe.",
+    "claims": [
+      "The statute cannot be read literally."
+    ],
+    "concepts": [
+      "literal interpretation",
+      "hermaphrodites",
+      "distribution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e489"
+      ]
+    }
+  },
+  "rh-l4q5-d1e632": {
+    "summary": "Fifth: the Church's whole custom is contrary, since bishops appoint penitentiaries over their dioceses, reserve grave sins from curates, and the pope has a general penitentiary; it is foolish that one absolved at the Curia on Easter Eve must go to his parish priest before communion.",
+    "claims": [
+      "Church custom contradicts the literal reading."
+    ],
+    "concepts": [
+      "penitentiaries",
+      "custom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e489"
+      ]
+    }
+  },
+  "rh-l4q5-d1e667": {
+    "summary": "Sixth: either the pope can commit to another as much as to the curate, so one absolved by the commissioned priest is as fully absolved and need not reconfess; or not, but the pope commits more to bishops and penitentiaries than to curates, and can make anyone a penitentiary with more, equal, or less power; likewise any bishop.",
+    "claims": [
+      "Commissioned confessors can have equal or greater power than curates."
+    ],
+    "concepts": [
+      "delegated jurisdiction",
+      "penitentiaries"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e489"
+      ]
+    }
+  },
+  "rh-l4q5-d1e715": {
+    "summary": "Third, the true sense: the statute aims to bring people to confess fully once a year and communicate at Easter. 'Own priest' is opposed either to 'alien' or to 'common'. Opposed to alien, the pope is every Catholic's own priest and the bishop of his diocesans; opposed to common, the parish priest is own to his parishioners and alien to others. Commissioned friars are 'own' in the first sense, not alien but common, which is the statute's sense; otherwise it would contradict papal and episcopal jurisdiction. So John XXII takes 'own priest'; Pouilly took it only as parish priest, and the term is equivocal between them. Hostiensis agrees, listing pope, diocesan, parish priest, and specially licensed priests. So a parishioner may confess to the pope, his general penitentiaries, the diocesan bishop,",
+    "claims": [
+      "'Own priest' in the statute is opposed to 'alien', not to 'common'.",
+      "Commissioned friars are one's own priests in the statute's sense.",
+      "The dispute rests on an equivocation on 'proprius'."
+    ],
+    "concepts": [
+      "proprius sacerdos",
+      "equivocation",
+      "Hostiensis",
+      "John XXII",
+      "papal plenitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e413"
+      ]
+    }
+  },
+  "rh-l4q5-d1e854": {
+    "summary": "and anyone commissioned by the apostolic see, the diocesan, or the parish priest, since each of these can license over the parish priest's subjects.",
+    "claims": [
+      "Pope, bishop, and curate can all license confessors."
+    ],
+    "concepts": [
+      "licensed confessors"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e245",
+        "rh-l4q5-d1e715"
+      ]
+    }
+  },
+  "rh-l4q5-Dd1e867": {
+    "summary": "Holcot replies that a commissioned confessor is not alien. The common good outweighs curates' interests, since jurisdiction exists for the people's good. Priests must trust penitents in occult matters, and no one is bound to the impossible. Multiple judges are expedient, and curates cannot forbid privileged confession. He then rejects Johannes Monachus's gloss on Super cathedram requiring reconfession as the error of a theological layman, holding that the Roman Church is not bound by the canons and may grant privileges against them.",
+    "claims": [
+      "The common good outweighs curates' particular interests.",
+      "The Roman Church is not bound by the canons."
+    ],
+    "concepts": [
+      "common good",
+      "Johannes Monachus",
+      "papal privilege",
+      "mendicant controversy"
+    ],
+    "_metadata": {
+      "level": "ad rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q5-d1e872",
+        "rh-l4q5-d1e909",
+        "rh-l4q5-d1e977",
+        "rh-l4q5-d1e1035",
+        "rh-l4q5-d1e1080",
+        "rh-l4q5-d1e1093",
+        "rh-l4q5-d1e1113",
+        "rh-l4q5-d1e1163",
+        "rh-l4q5-d1e1213",
+        "rh-l4q5-d1e1226",
+        "rh-l4q5-d1e1234",
+        "rh-l4q5-d1e1247",
+        "rh-l4q5-d1e1254",
+        "rh-l4q5-d1e1265",
+        "rh-l4q5-d1e1308",
+        "rh-l4q5-d1e1350",
+        "rh-l4q5-d1e1358",
+        "rh-l4q5-d1e1382",
+        "rh-l4q5-d1e1415",
+        "rh-l4q5-d1e1422",
+        "rh-l4q5-d1e1431"
+      ]
+    }
+  },
+  "rh-l4q5-d1e872": {
+    "summary": "Reply to the first: the statute's 'own priest' is opposed to an alien priest, not a common one, as its clause about seeking leave to confess to an alien priest shows. It restrains parishioners from going to another parish's priest lacking commission; one with commission is not alien but one's own.",
+    "claims": [
+      "A commissioned priest is not alien but one's own."
+    ],
+    "concepts": [
+      "proprius and alienus",
+      "Omnis utriusque sexus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e129"
+      ]
+    }
+  },
+  "rh-l4q5-d1e909": {
+    "summary": "Reply to the second: the major is false, since the Church's common good outweighs a particular good, and a ruler may for the common good prejudice a person, though properly what promotes the common good of which one is part is not prejudice. Doctors say curates suffer no prejudice, since jurisdiction is given not as a personal favor but for the people's benefit and God's honor, so superiors may commission others; as a papal legate in England would not prejudice bishops.",
+    "claims": [
+      "The common good outweighs particular interests.",
+      "Jurisdiction is given for the people's good, not as a personal favor."
+    ],
+    "concepts": [
+      "common good",
+      "prejudice",
+      "jurisdiction as service"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e149"
+      ]
+    }
+  },
+  "rh-l4q5-d1e977": {
+    "summary": "To the first motive: the priest need only be told that the subject confessed to one with power, since even hearing the confession he could only believe the penitent. In occult matters he must believe him; in public matters, especially public executions, he may require letters or testimony. If he knows of a judicial impediment he must withhold the Eucharist unless absolution is shown; if a penitential impediment, he must believe.",
+    "claims": [
+      "In occult matters the priest must believe the penitent's word.",
+      "Public impediments require proof of absolution."
+    ],
+    "concepts": [
+      "Eucharist",
+      "occult and public",
+      "pastoral trust"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e160"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1035": {
+    "summary": "To Proverbs 27: no one is bound to the impossible, and knowing consciences is impossible, so it means chiefly knowledge from outward conduct, secondarily of conscience in occult matters where the prelate must believe his subject. If it required hearing personally, rectors could not delegate, as they commonly do.",
+    "claims": [
+      "No one is bound to the impossible.",
+      "Pastoral knowledge is chiefly of outward conduct."
+    ],
+    "concepts": [
+      "Proverbs 27",
+      "ad impossibile nemo tenetur"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e176"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1080": {
+    "summary": "To the third: having several immediate judges is not inappropriate but expedient, provided they do not exercise judgment on the same matter at once.",
+    "claims": [
+      "Several immediate judges are expedient."
+    ],
+    "concepts": [
+      "concurrent jurisdiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e186"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1093": {
+    "summary": "Reply to the third principal argument: that canon concerns public jurisdiction. When a bishop commissions confessors he does not remove the inferior prelate's jurisdiction but gives him a coadjutor in exercising it, which belongs more principally to the bishop.",
+    "claims": [
+      "Episcopal commissions supply coadjutors, not usurpers."
+    ],
+    "concepts": [
+      "coadjutors",
+      "episcopal jurisdiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e197"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1113": {
+    "summary": "If a curate forbids his subject to confess to a privileged confessor, the prohibition is void, since equals have no authority over equals, and he should be punished by his superior or the privileges' conservator. Must the privileged confessor enjoin confession in general to the parish priest? Albert distinguishes: if the priest is a perpetual rector or vicar, it suffices that the penitent assure him he has confessed to one with papal or episcopal authority; if a hired priest, not needed. If the subject could deceive, still in the secret forum one must stand by the penitent's word.",
+    "claims": [
+      "Curates cannot forbid confession to privileged friars.",
+      "In the secret forum the penitent's word must be trusted."
+    ],
+    "concepts": [
+      "Albert the Great",
+      "privileges",
+      "par in parem"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e872"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1163": {
+    "summary": "Against this seem claims of Johannes Monachus in his gloss on Boniface VIII's Super cathedram: the statute and the bull are compatible, and one confessed to a friar must confess again to his own priest, not by sacramental necessity but by obligation, having voluntarily left his parish priest. He argues several ways.",
+    "claims": [
+      "According to Johannes Monachus, friars' penitents must still confess to curates."
+    ],
+    "concepts": [
+      "Johannes Monachus",
+      "Super cathedram",
+      "Boniface VIII"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1213": {
+    "summary": "First: otherwise the curate's power could be wholly emptied, and a privilege causing enormous harm to another does not hold.",
+    "claims": [
+      "Privileges must not annihilate curates' power."
+    ],
+    "concepts": [
+      "privilege",
+      "enormous harm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1226": {
+    "summary": "Second: the subject could wholly abandon his curate, who cannot cure a disease he does not know.",
+    "claims": [
+      "Curates cannot cure unknown spiritual diseases."
+    ],
+    "concepts": [
+      "pastoral care"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1234": {
+    "summary": "Third: even if the penitent need not, the curate must know his flock for his own sake (Luke 10, 'take care of him').",
+    "claims": [
+      "Curates need knowledge of their flock for their own duty."
+    ],
+    "concepts": [
+      "Luke 10",
+      "pastoral duty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1247": {
+    "summary": "Fourth: the subject could never come to confession, claiming to have confessed to a friar.",
+    "claims": [
+      "Claims of friar confession could be abused."
+    ],
+    "concepts": [
+      "abuse"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1254": {
+    "summary": "Fifth: how will the curate give sacraments to someone whose disposition he does not know, especially if notorious crimes were confessed that the friar cannot reveal?",
+    "claims": [
+      "Curates need to know dispositions to give sacraments."
+    ],
+    "concepts": [
+      "sacraments",
+      "notorious crimes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1265": {
+    "summary": "Sixth, objecting to himself: friar and curate have power in solidum, so after one acts the other cannot. He answers that this would hold if both were given equally from the start, but the curate's power is ancient, from the Church's foundation, the friar's new, presumed given to aid not remove it; common law favoring the prelate is stronger than privilege, as necessary versus voluntary.",
+    "claims": [
+      "According to Johannes Monachus, the curate's ancient right outweighs the friar's new privilege."
+    ],
+    "concepts": [
+      "in solidum",
+      "common law and privilege"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1308": {
+    "summary": "Seventh, objecting: the friars' power comes from a greater authority, pope or bishop, so is stronger. He answers that voluntary and necessary are contrary and there is a fallacy of figure of speech, since exceeding in quantity does not mean exceeding in every respect. Finally he concludes with Hostiensis, William Durand, and Thomas (IV d. 19) two conclusions.",
+    "claims": [
+      "Greater source does not mean greater power in every respect."
+    ],
+    "concepts": [
+      "fallacy of figure of speech",
+      "Hostiensis",
+      "William Durand",
+      "Thomas Aquinas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1350": {
+    "summary": "First: every priest by power of order can regularly absolve from any sin.",
+    "claims": [
+      "Power of order extends to every sin."
+    ],
+    "concepts": [
+      "power of order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1358": {
+    "summary": "Second: though every priest has power of order, he exercises jurisdiction only over subjects, as in the judicial forum, and as he cannot consecrate without matter, he cannot absolve without subject matter. These are excerpts from Johannes Monachus's gloss.",
+    "claims": [
+      "Jurisdiction is exercised only over subjects."
+    ],
+    "concepts": [
+      "jurisdiction",
+      "subject matter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1382": {
+    "summary": "These claims are erroneous and frivolous, written by a layman in theology, as their manner and the reasons against Pouilly show. Johannes cites Causa 25: what is ordained for perpetual common utility should not be changed or turned to private advantage, and no one should usurp another's.",
+    "claims": [
+      "Johannes Monachus's view is erroneous, the work of a theological layman."
+    ],
+    "concepts": [
+      "critique of canonists",
+      "Decretum C. 25"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1163"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1415": {
+    "summary": "Also: no one should more keep the decrees of the canons than the apostolic see.",
+    "claims": [
+      "The apostolic see must keep the canons."
+    ],
+    "concepts": [
+      "Decretum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1382"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1422": {
+    "summary": "Also: not even this see's authority can establish or change anything against the fathers' statutes.",
+    "claims": [
+      "Papal authority cannot contravene the fathers' statutes."
+    ],
+    "concepts": [
+      "limits of papal authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1382"
+      ]
+    }
+  },
+  "rh-l4q5-d1e1431": {
+    "summary": "These are all resolved in Causa 25: the Roman Church gives canons their authority but is not bound by them, may grant special privileges against general decrees, and canons are to be kept unless Rome commands or permits otherwise. Human statutes may vary with the times for urgent necessity or evident utility, as the marriage prohibition was limited to the fourth degree, and a Roman sentence can be changed for the better. So the opinion ends; further counsels follow in the next question.",
+    "claims": [
+      "The Roman Church is not bound by the canons it authorizes.",
+      "Human statutes may change for necessity or utility."
+    ],
+    "concepts": [
+      "papal plenitude of power",
+      "privilege",
+      "mutability of human law",
+      "consanguinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q5-Dd1e867",
+        "rh-l4q5-d1e1382",
+        "rh-l4q5-d1e1415",
+        "rh-l4q5-d1e1422"
+      ]
+    }
+  }
+}

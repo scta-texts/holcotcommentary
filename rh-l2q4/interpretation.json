@@ -1,0 +1,4743 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l2q4": {
+    "summary": "Holcot asks whether confirmed angels are fittingly assigned to guard human wayfarers. He affirms it on the basis of revelation and miracles, and uses the replies for a wide-ranging and self-consciously skeptical angelology. He confesses he knows of angels only by faith in the saints, whose teachings he finds obscure and even contradictory. A blessed angel could err about creatures without losing beatitude. Angels know hidden thoughts, speak, and are illuminated only as God concurs: speech is God causing knowledge of a concept at the speaker's will, and illumination is a superior co-causing clearer knowledge. Angels are in place definitively. They cannot move instantaneously by themselves but can move successively, with negative resistance from distance and no maximal speed, against Aristotle's void argument. He weighs Ockham's total-causation account of confirmation and obstinacy and rejects it for making God cause fault, preferring Thomas or necessitating habits of grace and of hardening. Merit and demerit depend on a law promising reward, so confirmed angels act virtuously without meriting new essential reward, and demons outside precept do not demerit.",
+    "claims": [
+      "Confirmed angels guard humans.",
+      "A blessed angel could err without losing beatitude.",
+      "Angelic knowledge of thoughts and angelic speech depend on God's concurrence.",
+      "Angels move successively by negative resistance.",
+      "Confirmation and obstinacy come from necessitating habits.",
+      "Angelic merit depends on God's law, not intrinsic worth."
+    ],
+    "concepts": [
+      "guardian angels",
+      "angelic cognition",
+      "angelic speech",
+      "angelic motion",
+      "confirmation and obstinacy",
+      "divine concurrence",
+      "covenantal merit",
+      "skepticism about angelology"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q4-Dd1e103",
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-Dd1e2054",
+        "rh-l2q4-Dd1e2068"
+      ]
+    }
+  },
+  "rh-l2q4-Dd1e103": {
+    "summary": "Opening statement of the question: whether it befits a confirmed angel to guard a human wayfarer.",
+    "claims": [],
+    "concepts": [
+      "guardian angels"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q4-d1e105"
+      ]
+    }
+  },
+  "rh-l2q4-d1e105": {
+    "summary": "States the question: whether it befits a confirmed angel to be assigned to guard a human wayfarer.",
+    "claims": [],
+    "concepts": [
+      "guardian angels",
+      "confirmation of angels",
+      "viator"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4"
+      ]
+    }
+  },
+  "rh-l2q4-Dd1e117": {
+    "summary": "Ten principal arguments challenge guardian angels. A guardian would err about its charge's salvation, rejoice or not in his loss of grace, resist God's will regarding tempters, fail through negligence, make fallible promises, conflict with other good angels (Daniel 10), respect persons, or be confounded by alternation over proportional parts. Guardianship would require knowing hidden thoughts, which only God knows. Knowledge of all things raises problems for essence, species, habits, and acquired knowledge. Angelic speech is puzzling. Angelic local motion seems impossible. Confirmation and obstinacy seem to destroy freedom. Everyone would need discernment of spirits. Assumed bodies would perform vital acts. Changing thoughts would mar beatitude. Christ would need a guardian. Jerome, Lombard, and Psalm 91 are cited for the opposite.",
+    "claims": [
+      "Guardianship seems to require angelic error, knowledge of hearts, impossible motion, and loss of freedom."
+    ],
+    "concepts": [
+      "guardian angels",
+      "angelic error",
+      "knowledge of hearts",
+      "angelic speech",
+      "angelic motion",
+      "confirmation"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q4-d1e122",
+        "rh-l2q4-d1e170",
+        "rh-l2q4-d1e192",
+        "rh-l2q4-d1e212",
+        "rh-l2q4-d1e246",
+        "rh-l2q4-d1e268",
+        "rh-l2q4-d1e287",
+        "rh-l2q4-d1e316",
+        "rh-l2q4-d1e336",
+        "rh-l2q4-d1e360",
+        "rh-l2q4-d1e394",
+        "rh-l2q4-d1e420",
+        "rh-l2q4-d1e470",
+        "rh-l2q4-d1e496",
+        "rh-l2q4-d1e556",
+        "rh-l2q4-d1e600",
+        "rh-l2q4-d1e610",
+        "rh-l2q4-d1e628",
+        "rh-l2q4-d1e704",
+        "rh-l2q4-d1e717",
+        "rh-l2q4-d1e743",
+        "rh-l2q4-d1e759",
+        "rh-l2q4-d1e782",
+        "rh-l2q4-d1e802",
+        "rh-l2q4-d1e821",
+        "rh-l2q4-d1e860",
+        "rh-l2q4-d1e876",
+        "rh-l2q4-d1e929",
+        "rh-l2q4-d1e1046",
+        "rh-l2q4-d1e1108",
+        "rh-l2q4-d1e1139",
+        "rh-l2q4-d1e1163",
+        "rh-l2q4-d1e1184",
+        "rh-l2q4-d1e1195",
+        "rh-l2q4-d1e1265",
+        "rh-l2q4-d1e1289",
+        "rh-l2q4-d1e1300",
+        "rh-l2q4-d1e1311",
+        "rh-l2q4-d1e1359",
+        "rh-l2q4-d1e1383",
+        "rh-l2q4-d1e1420",
+        "rh-l2q4-d1e1444",
+        "rh-l2q4-d1e1453",
+        "rh-l2q4-d1e1460",
+        "rh-l2q4-d1e1492",
+        "rh-l2q4-d1e1503",
+        "rh-l2q4-d1e1527",
+        "rh-l2q4-d1e1540",
+        "rh-l2q4-d1e1569",
+        "rh-l2q4-d1e1644",
+        "rh-l2q4-d1e1687",
+        "rh-l2q4-d1e1748",
+        "rh-l2q4-d1e1787",
+        "rh-l2q4-d1e1809",
+        "rh-l2q4-d1e1844",
+        "rh-l2q4-d1e1874",
+        "rh-l2q4-d1e1897",
+        "rh-l2q4-d1e1921",
+        "rh-l2q4-d1e1937",
+        "rh-l2q4-d1e1959",
+        "rh-l2q4-d1e1983",
+        "rh-l2q4-d1e2016",
+        "rh-l2q4-d1e2035"
+      ]
+    }
+  },
+  "rh-l2q4-d1e122": {
+    "summary": "First principal argument: a confirmed angel guardian would both err and be blessed, but every error is repugnant to beatitude (Augustine), and all ignorance is penalty or fault (Lombard, Augustine), while angels have neither.",
+    "claims": [
+      "A guardian angel would err while being blessed."
+    ],
+    "concepts": [
+      "error and beatitude",
+      "ignorance as penalty",
+      "Augustine",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e170": {
+    "summary": "First proof: the good angel of one foreknown to damnation either believes he will be saved, and errs, or not, and then does not will his final grace or love him to eternal life, against right reason.",
+    "claims": [
+      "The guardian of a reprobate must either err or not will his salvation."
+    ],
+    "concepts": [
+      "reprobation",
+      "guardian angels",
+      "right reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e192": {
+    "summary": "Second: the guardian of a reprobate now in grace must desire either that he lose grace or never lose it; it cannot be indifferent to his salvation.",
+    "claims": [
+      "A guardian cannot be indifferent to its charge's salvation."
+    ],
+    "concepts": [
+      "desire of angels",
+      "reprobation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e212": {
+    "summary": "Confirmation: the angel is more bound to will its charge's salvation than a prelate his subject's. If it desires he lose grace it does not help him persevere; if it desires he never lose it, it desires otherwise than will be, and since it desires only what it believes God wills, it is deceived.",
+    "claims": [
+      "The guardian of a reprobate is deceived about God's will."
+    ],
+    "concepts": [
+      "prelate analogy",
+      "conformity to God's will",
+      "deception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e192"
+      ]
+    }
+  },
+  "rh-l2q4-d1e246": {
+    "summary": "Third: when its charge sins and loses grace, does the angel rejoice? If so, it rejoices in his harm; if not, it does not rejoice in what God justly wills, so is not just (Ethics II: the just rejoice in just operations).",
+    "claims": [
+      "The guardian either rejoices in harm or fails to rejoice in God's justice."
+    ],
+    "concepts": [
+      "joy and justice",
+      "Aristotle",
+      "withdrawal of grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e268": {
+    "summary": "Confirmation: Aristotle says one who does not rejoice in just operations is not just, and God justly withdraws grace from a sinner.",
+    "claims": [
+      "According to Aristotle, the just rejoice in just operations."
+    ],
+    "concepts": [
+      "Aristotle",
+      "Nicomachean Ethics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e246"
+      ]
+    }
+  },
+  "rh-l2q4-d1e287": {
+    "summary": "Fourth: the good angel knows a bad angel is assigned by God's will to tempt its charge. If it does not impede the tempter, it guards badly; if it does, it opposes what God wills.",
+    "claims": [
+      "Resisting a divinely permitted tempter opposes God's will."
+    ],
+    "concepts": [
+      "temptation",
+      "bad angels",
+      "conformity of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e316": {
+    "summary": "Fifth: either the angel guards as much as it can, knows, and should, and being wiser and stronger than the demon would always prevent sin from temptation, which is false; or it does not, and errs by negligence.",
+    "claims": [
+      "A fully diligent guardian would prevent all temptation-caused sin."
+    ],
+    "concepts": [
+      "guardian diligence",
+      "temptation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e336": {
+    "summary": "Sixth: an angel could promise something depending on human free will, as Raphael promised Tobit to bring his son back safely (Tobit 5), yet Tobias could have refused or killed himself, and then the angel would have spoken falsely and erred.",
+    "claims": [
+      "Angelic promises about free acts could prove false."
+    ],
+    "concepts": [
+      "Raphael",
+      "Tobit",
+      "future contingents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e360": {
+    "summary": "Seventh: good angels will opposites and resist one another, so one errs. In Daniel 10 the angel was resisted by the prince of Persia for twenty-one days, and per Gregory both princes were good angels.",
+    "claims": [
+      "Good angels resisting each other implies error in one."
+    ],
+    "concepts": [
+      "Daniel 10",
+      "prince of Persia",
+      "Gregory",
+      "angelic conflict"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e394": {
+    "summary": "Eighth: if God commands an angel to care equally for a and b, both in equal need in one hour when it can help only one, choosing a is preferring what should not be preferred, respect of persons, so error.",
+    "claims": [
+      "Choosing between equally needy charges is respect of persons."
+    ],
+    "concepts": [
+      "acceptio personarum",
+      "equal claims"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e420": {
+    "summary": "Ninth: if angels a and b alternate guarding Socrates over the proportional parts of a day ending at c, when he dies, neither guarded him up to c, since any interval d before c would contain parts of both; so neither can present his soul to Christ, and both erred.",
+    "claims": [
+      "Alternation over proportional parts leaves no guardian at death."
+    ],
+    "concepts": [
+      "proportional parts",
+      "last instant",
+      "presentation of souls"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e470": {
+    "summary": "Further: neither knew Socrates' highest grace, since his grace increased continually and had no maximum, so neither can present his merits.",
+    "claims": [
+      "Continuously increasing grace has no knowable maximum."
+    ],
+    "concepts": [
+      "maximum and minimum",
+      "merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e496": {
+    "summary": "Tenth: adding three bad angels alternating attacks in the same way, the good guardians could not know which resisted more often, since each resisted infinitely often, and any finite difference would violate the case.",
+    "claims": [
+      "Alternating infinite resistances make counting impossible."
+    ],
+    "concepts": [
+      "infinite alternation",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e556": {
+    "summary": "Second principal argument: a guardian angel would know hidden thoughts and affections, and bad angels too, since the demon knows when he is defeated by a hidden act of will, and merit and sin lie in interior acts. Otherwise much human goodness would be hidden from the guardian.",
+    "claims": [
+      "Guardianship requires knowing hidden thoughts."
+    ],
+    "concepts": [
+      "knowledge of hearts",
+      "interior acts",
+      "demons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e600": {
+    "summary": "Further: prayer is the mind's ascent to God (Augustine), which the angel cannot know without knowing hidden thoughts, so it could not present prayers.",
+    "claims": [
+      "Presenting prayers requires knowing hidden thoughts."
+    ],
+    "concepts": [
+      "prayer",
+      "Augustine",
+      "angelic mediation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e556"
+      ]
+    }
+  },
+  "rh-l2q4-d1e610": {
+    "summary": "Further: a mental act is no less knowable than grace or an infused habit, so if the guardian cannot see hidden thoughts it cannot know whether its charge is in grace.",
+    "claims": [
+      "Without knowing thoughts the guardian cannot know its charge's state of grace."
+    ],
+    "concepts": [
+      "state of grace",
+      "infused habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e556"
+      ]
+    }
+  },
+  "rh-l2q4-d1e628": {
+    "summary": "Further: Gabriel would not have known of the Incarnation before the Virgin's vocal assent. But scripture and the saints deny angels see hearts: Augustine (De ecclesiasticis dogmatibus) says the devil does not see inner thoughts but infers them from bodily signs; Jeremiah 17 and the gloss say God alone searches hearts and reins; so God alone sees hidden merits and demerits.",
+    "claims": [
+      "According to scripture and Augustine, God alone knows hidden thoughts."
+    ],
+    "concepts": [
+      "Jeremiah 17",
+      "searcher of hearts",
+      "Annunciation",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e556"
+      ]
+    }
+  },
+  "rh-l2q4-d1e704": {
+    "summary": "One reply: good angels know things in two ways, in the Word and in their own genus, through concreated species, infused habits, or habits acquired from things, according to different views.",
+    "claims": [
+      "Angels know in the Word and in their own genus."
+    ],
+    "concepts": [
+      "morning and evening knowledge",
+      "species",
+      "angelic cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e556"
+      ]
+    }
+  },
+  "rh-l2q4-d1e717": {
+    "summary": "In the Word they can know hidden thoughts if revealed; otherwise only by bodily signs, such as joy and sadness in bodily motions. Against this: a thought is a thing like heat in wood or light in air, so there is no more reason it should be hidden from an angel than a fly.",
+    "claims": [
+      "If thoughts are things, they should be as knowable as any thing."
+    ],
+    "concepts": [
+      "thoughts as qualities",
+      "bodily signs"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e704"
+      ]
+    }
+  },
+  "rh-l2q4-d1e743": {
+    "summary": "Further: if angels know only in the Word, which shows freely, a guardian could desire to know what it lacks, which is incompatible with beatitude.",
+    "claims": [
+      "Unfulfilled desire is incompatible with beatitude."
+    ],
+    "concepts": [
+      "desire of the blessed",
+      "vision in the Word"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e704"
+      ]
+    }
+  },
+  "rh-l2q4-d1e759": {
+    "summary": "Further: God and nature do nothing in vain, and two cognitions of the same thing, in the Word and in its own genus, are superfluous, the weaker like a candle in sunlight.",
+    "claims": [
+      "Two cognitions of the same object would be superfluous."
+    ],
+    "concepts": [
+      "parsimony",
+      "candle in sunlight"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e704"
+      ]
+    }
+  },
+  "rh-l2q4-d1e782": {
+    "summary": "Further: if an angel has morning and evening knowledge and can use either at will, it could freely see or not see the Word, so would not be confirmed and could beatify itself at will.",
+    "claims": [
+      "Free use of vision in the Word would undermine confirmation."
+    ],
+    "concepts": [
+      "morning and evening knowledge",
+      "confirmation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e704"
+      ]
+    }
+  },
+  "rh-l2q4-d1e802": {
+    "summary": "If only knowledge in its own genus is at will: having clearer knowledge in the Word, it would cause a weaker one in vain.",
+    "claims": [
+      "Weaker natural knowledge would be in vain alongside vision in the Word."
+    ],
+    "concepts": [
+      "superfluity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e782"
+      ]
+    }
+  },
+  "rh-l2q4-d1e821": {
+    "summary": "Third principal argument: a guardian would need knowledge of everything humans need, material and immaterial. Not through its essence, which neither resembles nor causes lower things, nor through species, since knowing Gabriel through a species requires knowing the species through another, to infinity.",
+    "claims": [
+      "Angelic knowledge of all things cannot come from its essence or species."
+    ],
+    "concepts": [
+      "angelic knowledge",
+      "species",
+      "infinite regress"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e860": {
+    "summary": "Confirmation: one natural likeness does not represent dissimilar things as such, so an angel would need as many species as things known, infinitely many, since infinitely many conclusions about numbers and figures are knowable.",
+    "claims": [
+      "An angel would need infinitely many species."
+    ],
+    "concepts": [
+      "species",
+      "infinite knowables"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e821"
+      ]
+    }
+  },
+  "rh-l2q4-d1e876": {
+    "summary": "Further: if by Socrates' species the angel judges intuitively that Socrates is in Rome, and Socrates leaves, either the same cognition remains and the angel errs, or it changes, so Socrates causes alteration in the angel as efficient cause, since what follows upon a thing's presence and fails upon its absence is caused by it.",
+    "claims": [
+      "Material things would alter angels by efficient causation."
+    ],
+    "concepts": [
+      "intuitive cognition",
+      "alteration of angels",
+      "presence-absence test of causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e821"
+      ]
+    }
+  },
+  "rh-l2q4-d1e929": {
+    "summary": "Further: if all species were concreated, angels could not progress in knowledge (against Lombard) or illuminate one another (against Dionysius); if not, angels acquire knowledge anew, against Augustine, who says creatures were made first in angelic cognition, all species concreated, known first in the Word (morning) then in themselves (evening).",
+    "claims": [
+      "Concreated species conflict with angelic progress; acquired species conflict with Augustine."
+    ],
+    "concepts": [
+      "Augustine on Genesis",
+      "concreated species",
+      "Dionysius",
+      "illumination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e821"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1046": {
+    "summary": "Third: not through habits, concreated or acquired, since a habit does not represent; if it did it would be a species, and there would be as many habits as conclusions. Either there is no maximum number of things an angel knows at once, so it is infinitely perfect, or there is, so it could know nothing more without losing something; yet a maximum plus one is no harder than God, whom the angel knows.",
+    "claims": [
+      "Habits cannot ground angelic knowledge.",
+      "The angel's capacity for simultaneous objects has no coherent limit."
+    ],
+    "concepts": [
+      "habits",
+      "maximum and minimum",
+      "angelic capacity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e821"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1108": {
+    "summary": "Fourth: not by taking knowledge from things, since angels would be continually altered and deceived, and infinitely many cognitions would arise by mutual reflection; and Augustine says angels do not progress by taking knowledge from things as we do.",
+    "claims": [
+      "Angels do not take knowledge from things."
+    ],
+    "concepts": [
+      "Augustine",
+      "reflexive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e821"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1139": {
+    "summary": "Fourth principal argument: one angel could speak to another about its charge, but speech serves to reveal the unknown, so angels could hide affections from one another, and one would not know how good another is or how much to love it.",
+    "claims": [
+      "Angelic speech implies angels can hide their affections from one another."
+    ],
+    "concepts": [
+      "angelic speech",
+      "hidden affections"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1163": {
+    "summary": "Second: if four speak on distinct matters, either one hears all perfectly, so infinitely many, which is infinite power, or not, so enough could speak that it understands nothing.",
+    "claims": [
+      "Hearing many speakers implies infinite power or none."
+    ],
+    "concepts": [
+      "angelic hearing",
+      "infinite power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1184": {
+    "summary": "Third: if any angel could speak to another and cause knowledge, any could illuminate another, against Dionysius, who says only superiors illuminate inferiors.",
+    "claims": [
+      "Universal angelic speech would contradict Dionysius' hierarchy."
+    ],
+    "concepts": [
+      "Dionysius",
+      "illumination",
+      "hierarchy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1195": {
+    "summary": "Fourth: speech requires a sign, natural or conventional. If natural, anyone seeing it understands, so one cannot speak to one only. If conventional, its meaning must be taught by prior speech, and so on, or by common consent, which requires already seeing each other's wills. If the will makes its cognition known, that volition would cause knowledge of itself or another cognition, both problematic, since then one could speak to another against its will.",
+    "claims": [
+      "Angelic speech by natural or conventional signs is problematic."
+    ],
+    "concepts": [
+      "natural and conventional signs",
+      "regress of conventions",
+      "private communication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1265": {
+    "summary": "Fifth: then one angel could say to another 'man is disyllabic' or 'man is a part of speech'. If the subject supposits materially or simply it stands for a concept, which is not disyllabic; if significatively, it is false, unless angels have other suppositions than ours.",
+    "claims": [
+      "Angelic speech cannot handle material supposition."
+    ],
+    "concepts": [
+      "material supposition",
+      "grammar and logic"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1289": {
+    "summary": "Sixth: with such signs one angel could deceive another through equivocation about what a sign stands for.",
+    "claims": [
+      "Angelic signs would allow deception by equivocation."
+    ],
+    "concepts": [
+      "equivocation",
+      "deception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1300": {
+    "summary": "Seventh: one could not tell when another speaks assertively or recitatively, since the same mental proposition corresponds to both.",
+    "claims": [
+      "Assertion and recitation are indistinguishable in mental propositions."
+    ],
+    "concepts": [
+      "assertion and recitation",
+      "mental language"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1311": {
+    "summary": "Eighth: an angel could speak to a distant one, as from heaven to hell, and causing intellections across every proportional part of a league would require infinite power. Ninth: if a bad angel lies to a good one, the good either believes and is deceived, or does not, and by parity would not believe a good angel; to say it detects the lie is to grant it sees hidden thoughts, which belongs to God alone.",
+    "claims": [
+      "Distant angelic speech would require infinite power.",
+      "Detecting angelic lies would require seeing thoughts."
+    ],
+    "concepts": [
+      "action at a distance",
+      "lying",
+      "knowledge of hearts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1359": {
+    "summary": "Tenth: if one angel could make known any complex it knows, a superior could certify an inferior of 'you do not apprehend a', which requires apprehending a, a contradiction.",
+    "claims": [
+      "Some truths cannot be communicated without falsifying them."
+    ],
+    "concepts": [
+      "self-defeating communication",
+      "apprehension"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1383": {
+    "summary": "Eleventh: then a superior could cause in an inferior knowledge of something forgotten and of the forgetting, against Augustine (Confessions X), who argues forgetting cannot be in memory by its image, since it removes rather than imprints.",
+    "claims": [
+      "Knowledge of one's own forgetting is problematic, according to Augustine."
+    ],
+    "concepts": [
+      "forgetting",
+      "Augustine",
+      "memory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1420": {
+    "summary": "Fifth principal argument: then angels move locally, as Damascene and Lombard say they are circumscribed in place, pass quickly, and Jacob saw them on the ladder. But this is false for many reasons.",
+    "claims": [
+      "Guardian angels would have to move locally."
+    ],
+    "concepts": [
+      "angelic motion",
+      "Damascene",
+      "Jacob's ladder"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1444": {
+    "summary": "First: Aristotle (Physics VI) proves the indivisible does not move, since what moves is partly in the starting place and partly in the goal.",
+    "claims": [
+      "According to Aristotle, the indivisible cannot move."
+    ],
+    "concepts": [
+      "Aristotle",
+      "Physics VI",
+      "indivisibles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1453": {
+    "summary": "Second: whatever moves first traverses less than itself before an equal; nothing is less than an indivisible.",
+    "claims": [
+      "Motion requires traversing something less than oneself."
+    ],
+    "concepts": [
+      "indivisibles",
+      "motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1460": {
+    "summary": "Third: motion is instantaneous or successive. Not instantaneous, since all motion is in time (Aristotle; Augustine). Successive motion has definite speed from resistance of medium or mobile, but there is none for an angel, so it has no local motion.",
+    "claims": [
+      "Without resistance there is no successive motion."
+    ],
+    "concepts": [
+      "resistance",
+      "speed",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1492": {
+    "summary": "Fourth: an angel has no proportion to bodies in subtlety, so its motion has no proportion in speed, and it could move with infinite speed.",
+    "claims": [
+      "Angelic motion would be infinitely fast."
+    ],
+    "concepts": [
+      "infinite speed",
+      "proportion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1503": {
+    "summary": "Fifth: the medium resists an angel no more than a void would resist a heavy body, which would move instantaneously (Aristotle, Physics IV; Thomas; Averroes).",
+    "claims": [
+      "Motion without resistance would be instantaneous."
+    ],
+    "concepts": [
+      "void",
+      "Physics IV",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1527": {
+    "summary": "Sixth: between two immediate places a and b, an indivisible angel cannot be partly in b, so it moves either while in a or in b, both impossible.",
+    "claims": [
+      "An indivisible cannot be partly in two places."
+    ],
+    "concepts": [
+      "indivisibles",
+      "place"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1540": {
+    "summary": "Seventh: angels are not moved when sent, since they are at once in heaven and on earth, as the Church's prayer asks that those who always attend God in heaven protect us on earth, and Raphael says 'I am one of the seven who stand before God' (Tobit 12) while on earth.",
+    "claims": [
+      "Angels attend God in heaven while guarding on earth."
+    ],
+    "concepts": [
+      "liturgy",
+      "Raphael",
+      "Tobit 12"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1569": {
+    "summary": "Eighth: if an angel can be in a foot-sized place, it can be at both ends of the world's diameter: assuming a foot-long body b and rearranging its infinitely many proportional parts into a line as long as the diameter, the place it occupies remains equal to the original, so the angel occupies it.",
+    "claims": [
+      "Rearranging proportional parts lets an angel span the world."
+    ],
+    "concepts": [
+      "proportional parts",
+      "place of angels",
+      "geometry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1644": {
+    "summary": "Ninth: if an angel is circumscriptively in place, as the soul in the body, whole in the whole and whole in each part, then since God can always make a more perfect angel occupying a larger place, some angel could be everywhere, and since its cognition could be everywhere, so could any angel.",
+    "claims": [
+      "Circumscriptive presence would let an angel be everywhere."
+    ],
+    "concepts": [
+      "definitive presence",
+      "ubiquity",
+      "soul in body"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1687": {
+    "summary": "Sixth principal argument: then some angels would be confirmed and others obstinate (Lombard II d. 7). But grace perfects and does not destroy nature, and freedom to opposites is natural to the angel as a rational power, so nothing supernatural can remove it; demons keep their natural powers intact. If obstinacy needs a created thing determining their will, God would cause obduracy and make creatures worse.",
+    "claims": [
+      "Confirmation and obstinacy seem to destroy natural freedom.",
+      "If obstinacy needs a created cause, God would cause obduracy."
+    ],
+    "concepts": [
+      "confirmation",
+      "obstinacy",
+      "grace perfects nature",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1748": {
+    "summary": "Against Augustine: good angels ministering would continually merit and bad ones demerit, so neither is confirmed or obstinate. Lombard says both have free choice, the good choosing good spontaneously with grace, the bad evil without it; whoever freely chooses good by right reason acts virtuously and, in grace, merits.",
+    "claims": [
+      "According to Lombard, angels act freely after confirmation, so they would merit."
+    ],
+    "concepts": [
+      "merit of angels",
+      "Lombard",
+      "free choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1687"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1787": {
+    "summary": "Third: do demons know they err in tempting men to sin? Long experience shows the multitude of damned increases their misery, so they cannot will men to sin finally, since none can knowingly will what makes him miserable (Anselm).",
+    "claims": [
+      "Demons cannot will what increases their misery."
+    ],
+    "concepts": [
+      "Anselm",
+      "will to misery",
+      "demons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1687"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1809": {
+    "summary": "Fourth: good angels can sin, since they do good either of necessity, so deserve no more praise than for being rational (Anselm), or by choice, so could omit it and abandon their charge against precept.",
+    "claims": [
+      "Good angels either act of necessity or can sin."
+    ],
+    "concepts": [
+      "Anselm",
+      "necessity and praise",
+      "impeccability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1687"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1844": {
+    "summary": "Confirmation from Aristotle (Ethics III): if virtue is in our power, so is vice; if acting is in our power, so is not acting.",
+    "claims": [
+      "According to Aristotle, if virtue is in our power so is vice."
+    ],
+    "concepts": [
+      "Aristotle",
+      "voluntariness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1809"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1874": {
+    "summary": "Fifth: demons choose evil eagerly; of two equal in demerit, if one does many evils today and the other not, either the first is punished more, or a sin goes unpunished and disorder remains, against Anselm.",
+    "claims": [
+      "Demons' ongoing sins would go unpunished or increase punishment."
+    ],
+    "concepts": [
+      "demerit of demons",
+      "Anselm",
+      "disorder"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1687"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1897": {
+    "summary": "Sixth: the devil can desire justice, since he can judge rightly that justice is good and conform his will, his natural powers being intact, so he can have it (Anselm: no one can will rectitude without having it) and repent.",
+    "claims": [
+      "The devil can will justice and so repent."
+    ],
+    "concepts": [
+      "Anselm",
+      "rectitude",
+      "repentance of demons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1687"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1921": {
+    "summary": "Seventh principal argument: then every man would need discernment of spirits, against 1 Corinthians 12, to know when to obey a good angel and resist a bad.",
+    "claims": [
+      "Everyone would need discernment of spirits."
+    ],
+    "concepts": [
+      "discernment of spirits",
+      "1 Corinthians 12"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1937": {
+    "summary": "Eighth: an angel could unite a body to itself and exercise vital operations in it, as in Tobit and the angels eating with Lot, so it could speak, hear, eat, nourish, and generate, which is false.",
+    "claims": [
+      "Assumed bodies would permit angels vital operations."
+    ],
+    "concepts": [
+      "assumed bodies",
+      "Tobit",
+      "Lot's visitors"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1959": {
+    "summary": "Ninth: good angels would have changing thoughts, against Augustine (De trinitate XV; Confessions XII), where the heaven of heaven knows all at once without vicissitude.",
+    "claims": [
+      "According to Augustine, angelic thought is unchanging."
+    ],
+    "concepts": [
+      "Augustine",
+      "heaven of heaven",
+      "simultaneous knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e1983": {
+    "summary": "Further: a new thought about a new charge either diminishes its thought of God, lessening beatitude, or not, so it could add thoughts infinitely, which is infinite power.",
+    "claims": [
+      "Added thoughts either diminish beatitude or imply infinite power."
+    ],
+    "concepts": [
+      "attention",
+      "beatitude",
+      "infinite power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117",
+        "rh-l2q4-d1e1959"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2016": {
+    "summary": "Tenth: then Christ had a guardian angel, since he was made like his brethren in all things (Hebrews 2) and an angel strengthened him (Luke 22); but this would be in vain, since his soul was more blessed than any angel from conception.",
+    "claims": [
+      "Christ would have had a guardian angel in vain."
+    ],
+    "concepts": [
+      "Christ",
+      "Luke 22:43",
+      "Hebrews 2"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2035": {
+    "summary": "For the opposite: Lombard II; Jerome on Matthew 18 ('their angels in heaven'): great is the dignity of souls that each has an angel assigned from birth; Gregory; and Psalm 91, 'he has given his angels charge over you'.",
+    "claims": [
+      "Each soul has a guardian angel from birth."
+    ],
+    "concepts": [
+      "Jerome",
+      "Matthew 18:10",
+      "Psalm 91",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e117"
+      ]
+    }
+  },
+  "rh-l2q4-Dd1e2054": {
+    "summary": "Holcot affirms that confirmed angels are assigned to guard humans, because this was revealed to the holy fathers and confirmed by miracles.",
+    "claims": [
+      "Confirmed angels guard humans, as revealed and confirmed by miracles."
+    ],
+    "concepts": [
+      "guardian angels",
+      "revelation"
+    ],
+    "_metadata": {
+      "level": "responsio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q4-d1e2059"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2059": {
+    "summary": "Answer: yes, because this was revealed to the holy fathers and confirmed by miracles.",
+    "claims": [
+      "Confirmed angels are assigned to guard humans.",
+      "This is known by revelation confirmed by miracles."
+    ],
+    "concepts": [
+      "guardian angels",
+      "revelation",
+      "miracles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2054"
+      ]
+    }
+  },
+  "rh-l2q4-Dd1e2068": {
+    "summary": "In extended replies Holcot develops a broad angelology. A blessed angel could err without loss of beatitude, since creaturely knowledge is inessential to beatitude, though in fact angels do not err. The saints' teachings on angelic cognition are obscure and even contradictory, and Holcot claims to know angels only by faith. Guardians help only conditionally and rejoice in God's just permissions. Angels do not know hidden thoughts only because God withholds concurrence, though he may reveal a charge's prayers to its guardian. Angelic speech is God causing knowledge at the speaker's will, without signs, and superiors illuminate inferiors by co-causing clearer knowledge, against Ockham. Angels are in place definitively. They cannot move instantaneously by themselves but can move successively, since distance alone gives negative resistance, and there is no maximal angelic speed. On confirmation, he weighs the Irishman, Ockham, and Thomas, preferring Thomas or a necessitating habit of grace and glory, with demons hardened by a punitive habit. Whether angels merit or demons demerit cannot be proved; probably good angels act virtuously without new essential reward and demons, outside precept, do not demerit. Angels in bodies only move them locally. Christ had no guardian.",
+    "claims": [
+      "A blessed angel could err without losing beatitude.",
+      "Angels know hidden thoughts only as God concurs.",
+      "Angelic speech is God causing knowledge at the speaker's will.",
+      "Angels are in place definitively and move successively by negative resistance.",
+      "Confirmation and obstinacy are caused by necessitating habits.",
+      "Merit requires a law promising reward, so confirmed angels need not merit."
+    ],
+    "concepts": [
+      "angelic cognition",
+      "angelic speech",
+      "illumination",
+      "angelic motion",
+      "confirmation and obstinacy",
+      "Ockham",
+      "Thomas Aquinas",
+      "the Irishman",
+      "divine concurrence"
+    ],
+    "_metadata": {
+      "level": "responsio ad rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q4-d1e2073",
+        "rh-l2q4-d1e2106",
+        "rh-l2q4-d1e2164",
+        "rh-l2q4-d1e2177",
+        "rh-l2q4-d1e2198",
+        "rh-l2q4-d1e2220",
+        "rh-l2q4-d1e2264",
+        "rh-l2q4-d1e2342",
+        "rh-l2q4-d1e2377",
+        "rh-l2q4-d1e2422",
+        "rh-l2q4-d1e2460",
+        "rh-l2q4-d1e2471",
+        "rh-l2q4-d1e2484",
+        "rh-l2q4-d1e2500",
+        "rh-l2q4-d1e2520",
+        "rh-l2q4-d1e2529",
+        "rh-l2q4-d1e2589",
+        "rh-l2q4-d1e2600",
+        "rh-l2q4-d1e2648",
+        "rh-l2q4-d1e2677",
+        "rh-l2q4-d1e2717",
+        "rh-l2q4-d1e2767",
+        "rh-l2q4-d1e2792",
+        "rh-l2q4-d1e2803",
+        "rh-l2q4-d1e2868",
+        "rh-l2q4-d1e2894",
+        "rh-l2q4-d1e2910",
+        "rh-l2q4-d1e2928",
+        "rh-l2q4-d1e2940",
+        "rh-l2q4-d1e2974",
+        "rh-l2q4-d1e2998",
+        "rh-l2q4-d1e3011",
+        "rh-l2q4-d1e3048",
+        "rh-l2q4-d1e3113",
+        "rh-l2q4-d1e3123",
+        "rh-l2q4-d1e3224",
+        "rh-l2q4-d1e3242",
+        "rh-l2q4-d1e3329",
+        "rh-l2q4-d1e3358",
+        "rh-l2q4-d1e3387",
+        "rh-l2q4-d1e3445",
+        "rh-l2q4-d1e3454",
+        "rh-l2q4-d1e3518",
+        "rh-l2q4-d1e3529",
+        "rh-l2q4-d1e3664",
+        "rh-l2q4-d1e3695",
+        "rh-l2q4-d1e3705",
+        "rh-l2q4-d1e3791",
+        "rh-l2q4-d1e3822",
+        "rh-l2q4-d1e3896",
+        "rh-l2q4-d1e3909",
+        "rh-l2q4-d1e3914",
+        "rh-l2q4-d1e3954",
+        "rh-l2q4-d1e4005",
+        "rh-l2q4-d1e4012",
+        "rh-l2q4-d1e4047",
+        "rh-l2q4-d1e4071",
+        "rh-l2q4-d1e4093",
+        "rh-l2q4-d1e4125",
+        "rh-l2q4-d1e4147",
+        "rh-l2q4-d1e4160",
+        "rh-l2q4-d1e4178",
+        "rh-l2q4-d1e4228",
+        "rh-l2q4-d1e4281",
+        "rh-l2q4-d1e4308",
+        "rh-l2q4-d1e4410",
+        "rh-l2q4-d1e4434",
+        "rh-l2q4-d1e4495",
+        "rh-l2q4-d1e4533",
+        "rh-l2q4-d1e4545",
+        "rh-l2q4-d1e4560",
+        "rh-l2q4-d1e4593",
+        "rh-l2q4-d1e4628",
+        "rh-l2q4-d1e4667",
+        "rh-l2q4-d1e4678",
+        "rh-l2q4-d1e4709",
+        "rh-l2q4-d1e4718",
+        "rh-l2q4-d1e4742",
+        "rh-l2q4-d1e4751",
+        "rh-l2q4-d1e4768",
+        "rh-l2q4-d1e4803",
+        "rh-l2q4-d1e4810",
+        "rh-l2q4-d1e4823",
+        "rh-l2q4-d1e4834",
+        "rh-l2q4-d1e4852",
+        "rh-l2q4-d1e4877",
+        "rh-l2q4-d1e4890",
+        "rh-l2q4-d1e4908",
+        "rh-l2q4-d1e4924",
+        "rh-l2q4-d1e4952",
+        "rh-l2q4-d1e4972",
+        "rh-l2q4-d1e4989",
+        "rh-l2q4-d1e5018",
+        "rh-l2q4-d1e5049",
+        "rh-l2q4-d1e5168",
+        "rh-l2q4-d1e5231",
+        "rh-l2q4-d1e5262",
+        "rh-l2q4-d1e5283",
+        "rh-l2q4-d1e5292",
+        "rh-l2q4-d1e5299",
+        "rh-l2q4-d1e5323",
+        "rh-l2q4-d1e5330",
+        "rh-l2q4-d1e5347",
+        "rh-l2q4-d1e5355",
+        "rh-l2q4-d1e5364",
+        "rh-l2q4-d1e5371",
+        "rh-l2q4-d1e5380",
+        "rh-l2q4-d1e5391",
+        "rh-l2q4-d1e5402",
+        "rh-l2q4-d1e5427",
+        "rh-l2q4-d1e5449",
+        "rh-l2q4-d1e5460",
+        "rh-l2q4-d1e5469",
+        "rh-l2q4-d1e5508",
+        "rh-l2q4-d1e5535",
+        "rh-l2q4-d1e5551",
+        "rh-l2q4-d1e5580",
+        "rh-l2q4-d1e5670",
+        "rh-l2q4-d1e5688",
+        "rh-l2q4-d1e5743",
+        "rh-l2q4-d1e5794",
+        "rh-l2q4-d1e5849",
+        "rh-l2q4-d1e5856",
+        "rh-l2q4-d1e5863",
+        "rh-l2q4-d1e5872",
+        "rh-l2q4-d1e5880",
+        "rh-l2q4-d1e5887",
+        "rh-l2q4-d1e5925",
+        "rh-l2q4-d1e5984",
+        "rh-l2q4-d1e6000",
+        "rh-l2q4-d1e6009",
+        "rh-l2q4-d1e6026",
+        "rh-l2q4-d1e6031",
+        "rh-l2q4-d1e6068",
+        "rh-l2q4-d1e6081",
+        "rh-l2q4-d1e6171",
+        "rh-l2q4-d1e6200",
+        "rh-l2q4-d1e6238",
+        "rh-l2q4-d1e6256",
+        "rh-l2q4-d1e6272",
+        "rh-l2q4-d1e6294",
+        "rh-l2q4-d1e6325",
+        "rh-l2q4-d1e6345",
+        "rh-l2q4-d1e6366",
+        "rh-l2q4-d1e6395",
+        "rh-l2q4-d1e6415",
+        "rh-l2q4-d1e6458",
+        "rh-l2q4-d1e6530",
+        "rh-l2q4-d1e6583",
+        "rh-l2q4-d1e6603",
+        "rh-l2q4-d1e6681",
+        "rh-l2q4-d1e6719",
+        "rh-l2q4-d1e6841",
+        "rh-l2q4-d1e6861",
+        "rh-l2q4-d1e6880",
+        "rh-l2q4-d1e6898",
+        "rh-l2q4-d1e6914",
+        "rh-l2q4-d1e6927",
+        "rh-l2q4-d1e6934",
+        "rh-l2q4-d1e6988",
+        "rh-l2q4-d1e7001",
+        "rh-l2q4-d1e7021",
+        "rh-l2q4-d1e7063",
+        "rh-l2q4-d1e7096",
+        "rh-l2q4-d1e7107",
+        "rh-l2q4-d1e7150",
+        "rh-l2q4-d1e7174",
+        "rh-l2q4-d1e7230",
+        "rh-l2q4-d1e7276",
+        "rh-l2q4-d1e7320",
+        "rh-l2q4-d1e7342"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2073": {
+    "summary": "Reply to the first principal argument, whether error can stand with a creature's beatitude: Holcot grants that a blessed angel or soul could assent to falsehoods and err, though in fact it does not. No knowledge of creatures is so necessary to beatitude that perfect beatitude cannot stand with ignorance of creaturely truths, from the cognition of God alone; God could keep the beatific cognition and add an error, which involves no contradiction.",
+    "claims": [
+      "A blessed creature could err, though in fact it does not.",
+      "Knowledge of creatures is not necessary for beatitude."
+    ],
+    "concepts": [
+      "error of the blessed",
+      "essential beatitude",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e122"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2106": {
+    "summary": "Further: as men naturally desire not to be deceived, so not to be ignorant, yet ignorance of many sciences and of God's administration stands with beatitude. Jerome on Ephesians 3 says the angels did not fully understand the Incarnation before the Passion, as the questions of the lower angels show (Isaiah 63, Psalm 24). Augustine (Confessions V): blessed is he who knows you though ignorant of the rest, and he who knows both is not blessed for them but for you alone.",
+    "claims": [
+      "Angels did not fully understand the Incarnation before the Passion.",
+      "According to Augustine, one is blessed by knowing God alone."
+    ],
+    "concepts": [
+      "Jerome",
+      "Augustine",
+      "angelic ignorance",
+      "Isaiah 63"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2073"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2164": {
+    "summary": "Further: Dionysius says superior angels illuminate inferiors and purge them of nescience, so there is nescience in the blessed, and where there is nescience there can be error about creatures.",
+    "claims": [
+      "According to Dionysius, the blessed angels have nescience."
+    ],
+    "concepts": [
+      "Dionysius",
+      "purgation of nescience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2073"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2177": {
+    "summary": "Further: if God causes in an angel knowledge that the sun will rise tomorrow, God can still prevent sunrise, else he would have created a cognition he could not destroy or change; so the angel would have erred without being less blessed. So the absurdity alleged is at least not impossible.",
+    "claims": [
+      "God can falsify an angel's knowledge of the future without lessening its beatitude."
+    ],
+    "concepts": [
+      "omnipotence",
+      "angelic foreknowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2073"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2198": {
+    "summary": "Second: perhaps angels do not in fact err, since God may not co-act with them to elicit an erroneous judgment. Yet if God, without an angel's will, placed in it a notion a and everything it causes when speaking to b, it would present itself as speaking and err.",
+    "claims": [
+      "Angels perhaps do not err because God does not concur with erroneous judgment."
+    ],
+    "concepts": [
+      "divine concurrence",
+      "angelic speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2073"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2220": {
+    "summary": "Against the first conclusion: Anselm (De similitudinibus) says the just will be filled with perfect wisdom, seeing the nature of all creation in God, knowing all things past and future that God makes knowable, everyone knowing everyone's origin and deeds, even all sins, since God is praised for them. So no ignorance or error in beatitude.",
+    "claims": [
+      "According to Anselm, the blessed know everything God makes knowable."
+    ],
+    "concepts": [
+      "Anselm",
+      "knowledge of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2073"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2264": {
+    "summary": "Reply: Anselm speaks of fact, not necessity, and his claim is very doubtful, since then the least blessed would know as much as Christ's soul and know infinitely many things (Grosseteste: species of numbers and figures are infinite), which a finite intellect cannot. Grosseteste also says intelligences see all knowables in the first light, which may mean they see him through whom they could know all if he willed. The whole matter of angelic cognition is very obscure: philosophers erred, and the saints taught incomprehensible and, in Holcot's judgment, contradictory things, as Augustine on Genesis versus Dionysius.",
+    "claims": [
+      "Anselm's claim about the knowledge of the blessed is doubtful.",
+      "The saints' teachings on angelic cognition are obscure and even contradictory."
+    ],
+    "concepts": [
+      "Anselm",
+      "Grosseteste",
+      "Augustine",
+      "Dionysius",
+      "obscurity of angelology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2220"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2342": {
+    "summary": "To the first form: probably the guardian of a reprobate knows he will be damned, seeing it in the Word, else it could not order itself properly toward him. It does not love him to eternal life, but urges him to fewer evils, resists the bad angel, and promotes good works. This does not avoid the conclusion that a good angel can err, since he believes one will be damned who can be saved; but in fact they are not deceived.",
+    "claims": [
+      "The guardian of a reprobate probably knows his damnation.",
+      "A guardian still restrains its reprobate charge from evil."
+    ],
+    "concepts": [
+      "reprobation",
+      "vision in the Word",
+      "guardianship of reprobates"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e170"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2377": {
+    "summary": "To the second: the angel wills that the reprobate lose grace and sin before death, since it is revealed in the Word that God will permit it, though it does not will to cause his sin. A guardian helps only conditionally, if the man wills to help himself; it is assigned to assist, not to do everything.",
+    "claims": [
+      "The guardian helps only on condition of the charge's cooperation."
+    ],
+    "concepts": [
+      "conditional assistance",
+      "permission of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e192",
+        "rh-l2q4-d1e212"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2422": {
+    "summary": "To the third: good angels are never saddened by what happens to us, since all sadness is repugnant to beatitude, but rejoice with accidental joy in what is done around us, well or badly. As theft is good in one circumstance and bad in another, so the sin of even a predestined man pleases as permitted by God and displeases as loss of grace, without causing sorrow, since they rejoice not in another's evil as evil but as justly permitted.",
+    "claims": [
+      "Good angels are never saddened.",
+      "The same event pleases and displeases under different circumstances."
+    ],
+    "concepts": [
+      "accidental joy",
+      "circumstances",
+      "permission"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e246",
+        "rh-l2q4-d1e268"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2460": {
+    "summary": "To the fourth: the good angel does not always will to prevent the demon's tempting, but only for place and time, as with Raphael, though it is always ready to prevent the demon's victory if the man cooperates.",
+    "claims": [
+      "Guardians prevent the demon's victory, not all temptation."
+    ],
+    "concepts": [
+      "temptation",
+      "Raphael",
+      "cooperation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e287"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2471": {
+    "summary": "To the fifth: denies the inference, since man has free will and the angel helps only if man cooperates in his own salvation.",
+    "claims": [
+      "Human free will limits angelic guardianship."
+    ],
+    "concepts": [
+      "free will",
+      "cooperation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e316"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2484": {
+    "summary": "To the sixth: grants an angel could err in promising something dependent on free will, though perhaps in fact they do not, as Raphael did not and God did not permit it.",
+    "claims": [
+      "Angelic promises about free acts could fail."
+    ],
+    "concepts": [
+      "Raphael",
+      "future contingents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e336"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2500": {
+    "summary": "To the seventh: Thomas says the princes of Persia and Greece were bad angels, the Persian working to keep the Hebrews in bondage, delighting in their afflictions and in the Persians' graver sin, the Greek working to bring all under Greek rule.",
+    "claims": [
+      "According to Thomas, the opposing princes in Daniel were bad angels."
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "Daniel 10"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e360"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2520": {
+    "summary": "Objection: if bad angels can delight, good ones can be saddened, since delight is as repugnant to misery as sadness to beatitude.",
+    "claims": [
+      "Delight in demons would imply sadness in good angels."
+    ],
+    "concepts": [
+      "delight and misery"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2500"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2529": {
+    "summary": "Reply: demons do not properly delight but prefer men to sin and so behave like delighters. Gregory thinks the princes were good angels consulting God's sentence about the peoples they presided over, since they do not grasp his deep judgments. Different merits pointed opposite ways (Daniel's prayers for liberation, the spread of God's name among the Persians against it), and their reports are called resistance. So angels have ignorance, nescience, or doubt while blessed.",
+    "claims": [
+      "According to Gregory, the princes in Daniel were good angels consulting God.",
+      "Blessed angels can have nescience or doubt."
+    ],
+    "concepts": [
+      "Gregory",
+      "angelic ignorance",
+      "Daniel"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2520"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2589": {
+    "summary": "To the eighth: the angel does not err in choosing one of two equally needy charges, since it may prefer whom it wills.",
+    "claims": [
+      "Gratuitous preference between equals is not error."
+    ],
+    "concepts": [
+      "acceptio personarum",
+      "liberty of choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e394"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2600": {
+    "summary": "To the ninth: both should attend and present the soul pro rata; neither is more bound, since neither guarded last. Neither guarded up to the last instant d, yet it does not follow that Socrates was abandoned before d, since after any time before d in which a guarded, b guarded, and vice versa. Neither knew a highest grace before death, but both can know the degree at the time of death.",
+    "claims": [
+      "With alternation over proportional parts, neither guards last, yet the charge is never abandoned."
+    ],
+    "concepts": [
+      "proportional parts",
+      "last instant",
+      "degree at death"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e420",
+        "rh-l2q4-d1e470"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2648": {
+    "summary": "To the tenth: granted neither could say how often each tempter was overcome, but this does not show bad guardianship, since each can say they tempted infinitely often. Or deny the case is possible, since a free man cannot uniformly conquer and act in every proportional part.",
+    "claims": [
+      "Infinite alternation of temptation is either countable as infinite or impossible."
+    ],
+    "concepts": [
+      "proportional parts",
+      "free will",
+      "impossible casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e496"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2677": {
+    "summary": "Reply to the second principal argument, on whether guardians know hidden thoughts: with the doctors commonly, deny the inference. Even without proof, one word blocks it: God does not co-act with angels for such knowledge, since nothing produces an effect without God's concurrence (Augustine). If the saints' reasons for this hiddenness are persuasive, he will consider them.",
+    "claims": [
+      "Angels do not know hidden thoughts because God does not concur with that knowledge."
+    ],
+    "concepts": [
+      "knowledge of hearts",
+      "divine concurrence",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e556"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2717": {
+    "summary": "Thomas (De veritate 8.13): angels do not know thoughts directly, since thinking requires the will joining intention to species, and the will's motion is known by God alone, since angels know by forms that are likenesses of natural things, and the will's motion is not such. The will's command thus obstructs angelic knowledge of thoughts; when an angel wills to manifest its thought, the obstacle is removed, which is angelic speech.",
+    "claims": [
+      "According to Thomas, the will's motion is directly knowable only by God.",
+      "According to Thomas, angelic speech is removing the will's obstacle."
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "De veritate",
+      "angelic speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2677"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2767": {
+    "summary": "Henry of Ghent (Quodlibet III q. 13): in cognition one can consider the act's substance and its direction to an end by the will's intention; angels naturally know the substance but not the will's directing intention unless it affects sensuality.",
+    "claims": [
+      "According to Henry of Ghent, angels know acts but not their intended ends."
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "intention of the will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2677"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2792": {
+    "summary": "Others say only what can enter the mind, God alone, can know hidden thoughts (Augustine, De ecclesiasticis dogmatibus).",
+    "claims": [
+      "According to some, only God, who can enter the mind, knows thoughts."
+    ],
+    "concepts": [
+      "illapsus",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2677"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2803": {
+    "summary": "Against the first two views: the will's intention is as intelligible as an act of intellect. Man often understands without an act of will, else there would be infinite regress of love and knowledge. Entering the mind contributes nothing to cognition. So, granting angels the wide knowledge Augustine does, there seems no reason to deny them natural knowledge of volitions and thoughts, except that God may not concur unless the thinker wills it known. Holcot does not know who can teach the full truth here, but supposes the conclusion that they do not know hidden thoughts.",
+    "claims": [
+      "Thoughts and volitions are intrinsically as knowable as other things.",
+      "Angels lack knowledge of thoughts only because God withholds concurrence."
+    ],
+    "concepts": [
+      "knowability of volitions",
+      "critique of Thomas and Henry",
+      "divine concurrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2677"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2868": {
+    "summary": "To the first form: neither good nor bad angels know the act of will that overcomes temptation except by bodily effects, and there is no first instant of victory, since acts of will are caused successively. So no angel knows when man first merits or demerits, but knows afterward that he began, taking an extrinsic instant before his merit.",
+    "claims": [
+      "Angels know acts of will only through bodily effects.",
+      "There is no first instant of merit, since acts of will are successive."
+    ],
+    "concepts": [
+      "successive volition",
+      "first instant",
+      "bodily signs"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e556"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2894": {
+    "summary": "Or: God co-acts with a good angel to know the hidden thoughts and volitions of its own charge, not of others. Either way, much of a man's goodness would be hidden from his angel until shown by some sign.",
+    "claims": [
+      "God may reveal to a guardian its own charge's thoughts."
+    ],
+    "concepts": [
+      "special concurrence",
+      "guardian angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e556"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2910": {
+    "summary": "To the second: nothing is hidden from the angel once shown by a sign in the imagination; better, God co-acts to cause in the guardian knowledge of its charge's mental prayers and good volitions, by a special familiarity.",
+    "claims": [
+      "God makes the guardian aware of its charge's prayers."
+    ],
+    "concepts": [
+      "mental prayer",
+      "special familiarity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e600"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2928": {
+    "summary": "To the third: thought and grace are equally knowable, but God pleases to cooperate in knowledge of one and not the other, so all such hiddenness is attributed to God.",
+    "claims": [
+      "Hiddenness of thoughts is due to God's choice of concurrence."
+    ],
+    "concepts": [
+      "divine concurrence",
+      "state of grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e610"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2940": {
+    "summary": "To the fourth: perhaps Gabriel saw in the Word the time of the Annunciation and the first instant of the Virgin's consent, though it is doubtful whether there is a first instant of her assent or of the Incarnation, or whether she assented before conceiving. Perhaps at the last instant of producing the assent she conceived, so that the quality of assent was completed and the Incarnation accomplished by the Spirit's operation.",
+    "claims": [
+      "The Virgin's assent was completed at the instant of the Incarnation."
+    ],
+    "concepts": [
+      "Annunciation",
+      "Gabriel",
+      "instants",
+      "Incarnation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2974": {
+    "summary": "So she assented before the Word was incarnate. Angels do not naturally know hidden thoughts, but a guardian has knowledge of its charge's affections and thoughts by God's special cooperation. The two arguments about the double cognition of the blessed angels will be answered shortly.",
+    "claims": [
+      "The Virgin assented before the Incarnation.",
+      "Guardians know their charge's thoughts by God's special cooperation."
+    ],
+    "concepts": [
+      "Virgin's consent",
+      "special concurrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2940"
+      ]
+    }
+  },
+  "rh-l2q4-d1e2998": {
+    "summary": "Reply to the third principal argument, whose conclusion is that a confirmed angel knows God, other angels, and material things, which it needs to order its charge well.",
+    "claims": [],
+    "concepts": [
+      "angelic knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e821"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3011": {
+    "summary": "Grants that an angel somehow knows whatever it needs to guard a wayfarer. To clarify, seven points on angelic cognition: how an angel knows God, itself, other angels, bodies; Augustine's metaphor of morning and evening knowledge; whether it receives knowledge from things; whether it composes, divides, and reasons. He will recite what he finds more probable in others.",
+    "claims": [
+      "Angels know what they need for guardianship."
+    ],
+    "concepts": [
+      "angelic cognition",
+      "structure of inquiry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e821"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3048": {
+    "summary": "First: Lombard (II d. 3) says angels naturally knew that they were made, by whom, and with whom, so knew God naturally; created to praise and serve God, they must know him. Thomists say an angel knows God by knowing its own essence, not by a species; some posit a concreated species of God, midway between the blessed's vision and the wayfarer's imagination; a third view: God caused knowledge of himself concreated with their intellect.",
+    "claims": [
+      "Angels naturally know God.",
+      "Views differ on whether by essence, concreated species, or concreated knowledge."
+    ],
+    "concepts": [
+      "natural knowledge of God",
+      "Lombard",
+      "Thomists",
+      "concreated species"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3011"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3113": {
+    "summary": "Second: an angel commonly is said to know itself through itself, being actually intellect and intelligible and sufficiently present to itself.",
+    "claims": [
+      "An angel knows itself through itself."
+    ],
+    "concepts": [
+      "self-knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3011"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3123": {
+    "summary": "Third: Thomas says angels know other angels by likenesses impressed by the creator; others by habits; Ockham by the things themselves for intuitive cognition, since the thing present and the intellect suffice, by the presence-absence test of causation. For abstractive cognition, one kind accompanies intuition (causes: object, intellect, intuitive cognition), another remains after the object is destroyed (causes: intellect and a habit generated by the concomitant abstractive cognition), as shown by our readiness to form 'this thing was' after its destruction.",
+    "claims": [
+      "According to Ockham, intuitive cognition is caused by the thing and the intellect alone.",
+      "Abstractive cognition after an object's destruction requires a habit."
+    ],
+    "concepts": [
+      "Ockham",
+      "intuitive and abstractive cognition",
+      "habits",
+      "Thomas Aquinas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3011"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3224": {
+    "summary": "Fourth, how angels know material things: Thomas, by concreated species; Henry, by habits; Ockham, by the things themselves for intuitive and first abstractive cognition, and by acquired habits for later abstractive cognition.",
+    "claims": [
+      "Views differ on how angels know material things."
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "Henry of Ghent",
+      "Ockham"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3011"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3242": {
+    "summary": "Fifth, Augustine's morning and evening knowledge (Genesis IV-V) is introduced metaphorically to save the six days of creation without temporal succession. Angelic cognition is 'day', six days are six cognitions ordered by nature. Knowing a thing in its principle, God, is morning knowledge; knowing it through creatures (form, habit, or the thing itself) is evening knowledge. The angel created as light knew itself at once (evening) and referred this to God's praise (morning), so the first day has evening before morning.",
+    "claims": [
+      "Morning and evening knowledge is Augustine's metaphor for knowing in God and in creatures.",
+      "The metaphor saves the six days without temporal succession."
+    ],
+    "concepts": [
+      "Augustine",
+      "De Genesi ad litteram",
+      "morning and evening knowledge",
+      "hexaemeron"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3011"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3329": {
+    "summary": "Sixth: Thomas and the ancients say angels do not acquire knowledge from things. Ockham says they can, though what happens in fact he does not know, nor can anyone naturally know; they can newly acquire incomplex intuitive and abstractive and complex knowledge of contingents and necessities as we do, without senses.",
+    "claims": [
+      "According to Ockham, angels can acquire knowledge from things."
+    ],
+    "concepts": [
+      "Ockham",
+      "Thomas Aquinas",
+      "acquired knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3011"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3358": {
+    "summary": "Seventh: Thomas denies angels compose, divide, or reason, which is surprising since he says they know thoughts only by signs, which is inferential. So probably they compose, divide, and reason. Holcot confesses he knows nothing of angels except by faith in the saints, without which he would attack much of it as dreams.",
+    "claims": [
+      "Angels probably compose, divide, and reason.",
+      "Holcot claims to know about angels only through faith in the saints."
+    ],
+    "concepts": [
+      "discursive angelic thought",
+      "Thomas Aquinas",
+      "fideism",
+      "skepticism about angelology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3011"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3387": {
+    "summary": "To the first form: it seems probable an angel knows some things through the things themselves and its own essence, which is its intellect; these suffice for intuitive cognition, while recollection uses species, habits, and itself. A species is not a natural likeness but a quality causing cognition of a thing in its absence, which can also be called a habit. Michael knows Gabriel not through a species but through Gabriel himself.",
+    "claims": [
+      "Intuitive angelic cognition needs only the thing and the intellect.",
+      "A species is a quality causing absent cognition, also called a habit."
+    ],
+    "concepts": [
+      "intuitive cognition",
+      "species as habit",
+      "parsimony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e821"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3445": {
+    "summary": "To the second: grants that an angel continually has new knowledge of a thing moving locally, else it would not perceive the change.",
+    "claims": [
+      "Angels continually acquire new knowledge of moving things."
+    ],
+    "concepts": [
+      "intuitive cognition of change"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e876"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3454": {
+    "summary": "To the third: species in an angel's mind are qualities apt to cause cognition of others and of themselves; they suffice for apprehension and intuitive cognition of all things, but not for every complex knowledge, as sight alone cannot tell us a wall is stone. A superior angel can illuminate an inferior without creating a new species, by strengthening its light, perhaps by communicating its intellection so that both together cause more perfect knowledge.",
+    "claims": [
+      "Angelic species suffice for apprehension but not for all complex knowledge.",
+      "Illumination may consist in joint causation of knowledge."
+    ],
+    "concepts": [
+      "species",
+      "illumination",
+      "Thomas Aquinas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e929"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3518": {
+    "summary": "Objection: then there would be as many species as knowable things, since one species cannot be the likeness of two dissimilar things.",
+    "claims": [
+      "One species cannot represent dissimilar things."
+    ],
+    "concepts": [
+      "species",
+      "likeness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3454"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3529": {
+    "summary": "Reply: deny the inference; one thing cannot be a perfect likeness of dissimilars, but the intellect can by one thing cause perfect cognition of dissimilars, since species cause cognition not as natural likenesses, which Holcot thinks impossible. They may be called scientific habits; finitely many in act can produce infinitely many cognitions successively. Illumination remains possible since no angel knows all complexes equally. The thing and angel do not suffice for all knowledge, since the angel can remember a destroyed rose. It seems fitting that species be connatural, else a flying fly would continually cause new qualities in heaven and hell, though this must be granted unless angels can be deceived; for intuitive cognition the things themselves co-act, which is accidental perfection, not imperfection, while abstractive cognition after a thing's corruption requires species or habits.",
+    "claims": [
+      "Species cause cognition not by likeness but as habits.",
+      "Finitely many species can produce infinitely many cognitions.",
+      "Intuitive cognition requires the thing's co-action; recollection requires habits."
+    ],
+    "concepts": [
+      "species not likenesses",
+      "scientific habits",
+      "intuitive and abstractive",
+      "alteration of angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3518",
+        "rh-l2q4-d1e860",
+        "rh-l2q4-d1e1108"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3664": {
+    "summary": "Is there a maximum number of things known by an angel at once? It seems so: angels know some things actually and some habitually, and when they newly consider something they drop or remit other considerations; they can understand several at once but not beyond a certain number, since they do not infinitely exceed our intellects, which consider only a few at once.",
+    "claims": [
+      "Angels have a maximum number of simultaneous objects."
+    ],
+    "concepts": [
+      "finite capacity",
+      "actual and habitual knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1046"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3695": {
+    "summary": "Reply to the fourth principal argument: grants speech and illumination among angels.",
+    "claims": [
+      "Angels speak to and illuminate one another."
+    ],
+    "concepts": [
+      "angelic speech",
+      "illumination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3705": {
+    "summary": "To the first form: speech is not in vain, since one angel does not know another's thoughts because God does not co-act for that. Angels speak thus: one desires its concept to be manifest to another, and God, at that volition, causes knowledge of the concept in the other. So one can speak to one, several, or all, at any distance, without speaking to those nearer, and without conventional signs. Likewise our prayers and affections are known to the saints because God causes such knowledge at our desire. An angel can hide its concept by willing it known to none. Each knows the beatific love by which another loves God, which is the chief ground of lovability, so none errs in loving another as much as it should.",
+    "claims": [
+      "Angelic speech is God causing knowledge of a concept at the speaker's will.",
+      "The saints know our prayers because God causes it at our desire.",
+      "Angels know each other's beatific love, the main ground of love."
+    ],
+    "concepts": [
+      "angelic speech",
+      "divine concurrence",
+      "prayers to saints",
+      "occasionalism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1139"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3791": {
+    "summary": "To the second: only finitely many can speak at once on finite matters, and many are understood less distinctly than one, as thinking of two things makes each less distinct, owing to the limited cognitive power; so so many could speak to one that God could not cause distinct knowledge of all, owing to the hearer's limited capacity.",
+    "claims": [
+      "Angelic hearing is limited by finite cognitive capacity."
+    ],
+    "concepts": [
+      "finite capacity",
+      "attention"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1163"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3822": {
+    "summary": "To the third: this is Dionysius' picture of three hierarchical acts, purging, illuminating, perfecting, held by all ancient doctors: superiors purge inferiors of nescience and illuminate them; inferiors speak to but do not illuminate superiors. Differences: speech can concern true or false, illumination only truth; speech can be of what is already known, illumination of what is new; every illuminator speaks but not conversely; illumination is only from superiors; illumination concerns supernatural truths. Ockham objects to Scotus's view that a superior angel's presence strengthens an inferior's intellectual light.",
+    "claims": [
+      "Illumination differs from speech in five ways.",
+      "Only superior angels illuminate inferiors."
+    ],
+    "concepts": [
+      "Dionysius",
+      "hierarchical acts",
+      "illumination and speech",
+      "Scotus",
+      "Ockham"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1184"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3896": {
+    "summary": "Ockham: strengthening is mutual, as a great fire strengthens a small and conversely, so an inferior could illuminate a superior.",
+    "claims": [
+      "According to Ockham, strengthening is mutual."
+    ],
+    "concepts": [
+      "Ockham",
+      "fire analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3822"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3909": {
+    "summary": "Further: then one's beatitude would depend on another strengthening it.",
+    "claims": [
+      "Strengthening would make beatitude depend on others."
+    ],
+    "concepts": [
+      "Ockham",
+      "beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3822"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3914": {
+    "summary": "Further: strengthening is either conserving the intellect or increasing its light, both done by God alone, so a superior acts on an inferior only as an object of intellection and volition, which an inferior can equally be to a superior. Since this opinion denies Dionysius' hierarchical acts and order, though neither side is evident, Holcot prefers to favor the saints.",
+    "claims": [
+      "According to Ockham, angels act on each other only as objects.",
+      "Holcot prefers Dionysius' hierarchy to Ockham's view."
+    ],
+    "concepts": [
+      "Ockham",
+      "Dionysius",
+      "authority of saints"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3822"
+      ]
+    }
+  },
+  "rh-l2q4-d1e3954": {
+    "summary": "To Ockham's first objection: inferiors are in potency to be illuminated by superiors and not conversely, as heavenly bodies conserve elements without being strengthened by them. Strengthening is mutual only between agents of one species; fire in its sphere is conserved by the heavens without strengthening them, and a distinct sensitive soul would be strengthened by the intellective but not conversely, especially on Averroes's view of the possible intellect.",
+    "claims": [
+      "Strengthening between agents of different species is not mutual."
+    ],
+    "concepts": [
+      "celestial influence",
+      "Averroes",
+      "possible intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3896"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4005": {
+    "summary": "To the second: angels are not illuminated by angels in what pertains to essential beatitude.",
+    "claims": [
+      "Essential beatitude does not depend on angelic illumination."
+    ],
+    "concepts": [
+      "essential beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3909"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4012": {
+    "summary": "To the third: as a higher body in the order of place conserves what it contains (Physics IV), a superior angel by natural order can co-act in causing knowledge in an inferior when it wills, producing clearer knowledge than the inferior alone; the inferior is then illuminated and purged not of impurity but of nescience. So 'each speaks to another, so each illuminates another' fails.",
+    "claims": [
+      "A superior angel co-acts to make an inferior's knowledge clearer.",
+      "Speech does not imply illumination."
+    ],
+    "concepts": [
+      "illumination as co-causation",
+      "natural order",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e3914",
+        "rh-l2q4-d1e1184"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4047": {
+    "summary": "To the fourth: angels do not speak by a sign in the speaker, as our speech uses concepts and external sounds, but by the ordination of the will wishing its thought known, and God co-acts to cause that knowledge in the addressee.",
+    "claims": [
+      "Angelic speech uses no signs, only the will and God's concurrence."
+    ],
+    "concepts": [
+      "angelic speech",
+      "signs"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1195"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4071": {
+    "summary": "To the fifth: as a grammarian says 'man' is a noun, an angel can say to another that the word 'man' is a disyllabic noun, the subject being an angelic concept suppositing significatively for the word 'man'.",
+    "claims": [
+      "Angels can speak about words through concepts that signify words."
+    ],
+    "concepts": [
+      "material supposition",
+      "concepts of words"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1265"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4093": {
+    "summary": "To the sixth and seventh: the arguments assume speech by signs in the speaker, which is false; God causes true knowledge that judges another's knowledge as it is, so assertion and recitation are distinguishable.",
+    "claims": [
+      "God's concurrence makes angelic speech free of equivocation and ambiguity."
+    ],
+    "concepts": [
+      "assertion and recitation",
+      "divine concurrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1289",
+        "rh-l2q4-d1e1300"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4125": {
+    "summary": "To the eighth: the speaking angel does not itself cause knowledge in the hearer, so it can speak at any distance. Even causing infinitely many cognitions would not imply infinite intensive power, as a stone would cause infinitely many visions in infinitely many eyes.",
+    "claims": [
+      "Causing infinitely many effects does not imply infinite intensive power."
+    ],
+    "concepts": [
+      "stone and eyes",
+      "infinite power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1311"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4147": {
+    "summary": "To the ninth: a bad angel cannot speak to a good one unless God co-acts for the good one's perfection, and then it cannot deceive it, since the good angel sees its hidden intent with God's help.",
+    "claims": [
+      "A bad angel cannot deceive a good one."
+    ],
+    "concepts": [
+      "demons",
+      "deception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1311"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4160": {
+    "summary": "To the tenth: denies the first inference, since many truths known to one cannot be revealed by him to another, such as 'I am not speaking to you', 'this is apprehended by me and not by you', just as there are true mental propositions one cannot express vocally, like 'I say nothing', 'I am silent'.",
+    "claims": [
+      "Some known truths are inexpressible to others."
+    ],
+    "concepts": [
+      "self-defeating communication",
+      "pragmatic paradox"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1359"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4178": {
+    "summary": "To the eleventh: 'forgetting is in memory' is literally impossible, implying forgetting is a thing. Improperly it may mean the soul knew something it no longer remembers, or that the soul can know its forgetting through opposite and negative intentions, as Holcot knows he has largely forgotten his Donatus, knowing what it would be to recite it and finding he cannot.",
+    "claims": [
+      "Forgetting is not a thing in memory.",
+      "One knows one's forgetting through opposite and negative intentions."
+    ],
+    "concepts": [
+      "forgetting",
+      "Donatus",
+      "negative cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1383"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4228": {
+    "summary": "As blindness is improperly said to be in the eye (Anselm), forgetting is in memory because memory does not recall what it knew; and it is in the image, as the memory knows through intentions that it has forgotten. So an angel can cause in another recollection and knowledge of forgetting. But forgetting is known only if one has some concept of the forgotten thing, and memory cannot at once have and lack distinct knowledge of the same object.",
+    "claims": [
+      "Knowing one's forgetting requires some concept of the forgotten thing."
+    ],
+    "concepts": [
+      "Anselm",
+      "privation",
+      "memory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4178"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4281": {
+    "summary": "Reply to the fifth principal argument on angelic local motion, in six points: how an angel is in place per se, how per accidens when united to a body, whether it can change place instantaneously, whether it can move successively by itself or with a body, whether it can move without traversing the medium, and replies.",
+    "claims": [],
+    "concepts": [
+      "angelic motion",
+      "place"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1420"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4308": {
+    "summary": "Something is in place circumscriptively (with extended parts commensurate to a place), definitively (wholly in the whole and in each part and not outside), indivisibly at a point, or by operating on a body in place. Only the first is imaginable; the second, though beyond imagination, must be believed of God, everywhere by essence, presence, and power; the third and fourth may be defended or denied at will. In the first sense an angel, being indivisible, is not properly in place, as Augustine says spiritual creatures change only in time, and Boethius that the incorporeal is not in place.",
+    "claims": [
+      "Only circumscriptive presence is properly imaginable.",
+      "Angels are not properly in place."
+    ],
+    "concepts": [
+      "circumscriptive and definitive presence",
+      "Augustine",
+      "Boethius",
+      "divine omnipresence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4281"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4410": {
+    "summary": "In the second sense some say an angel is in place by its essence, in each part, naturally in neither a larger nor smaller place though by God's power it could be, as Augustine says the soul is in the body, and some imagine movers of the heavens everywhere in their orbs.",
+    "claims": [
+      "According to some, angels are definitively present in a fixed place."
+    ],
+    "concepts": [
+      "definitive presence",
+      "movers of the heavens"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4308"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4434": {
+    "summary": "In the third sense an angel is in place only intelligibly and indivisibly, as Damascene distinguishes bodily place from intellectual place. Avicenna (Metaphysics III, II) says an indivisible nature with position is a point, without position an intellectual substance, which has no position.",
+    "claims": [
+      "According to Avicenna, intellectual substances have no position."
+    ],
+    "concepts": [
+      "Damascene",
+      "Avicenna",
+      "intellectual place"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4308"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4495": {
+    "summary": "In the fourth sense Thomas says an angel is in place by applying its power to a body in place, equivocally to bodies, which are in place by their quantity. Though Bishop Stephen of Paris once condemned this, the condemnation of Thomas's doctrine was revoked, so it is opinable. One thing is certain: being in place belongs equivocally to angels and bodies, but by what and how is doubtful.",
+    "claims": [
+      "According to Thomas, angels are in place by applying their power.",
+      "Being in place is equivocal between angels and bodies."
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "Condemnation of 1277",
+      "Stephen Tempier",
+      "equivocity of place"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4308"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4533": {
+    "summary": "Some, like Henry and Scotus, say an angel is in place by the limitation of its power, with a maximal place it can occupy but no minimal.",
+    "claims": [
+      "According to Henry and Scotus, angels occupy places limited by their power."
+    ],
+    "concepts": [
+      "Henry of Ghent",
+      "Scotus",
+      "maximum and minimum place"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4308"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4545": {
+    "summary": "Second: when united to a body, some say it is whole in the whole, as the mover of the heavens; others that the heavens' mover is in a determinate part in the east where the equinoctial cuts the horizon.",
+    "claims": [
+      "Views differ on how a moving intelligence is located in its body."
+    ],
+    "concepts": [
+      "mover of the heavens",
+      "east"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4281"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4560": {
+    "summary": "Third: Scotus, the Irishman, and Thomas say instantaneous change of place is either proper, being at an instant in a new place and wholly outside the old, or common, being in a new place while still in the old, as the soul in a growing body. Proper instantaneous motion can be by created or divine power; no created spirit moves itself instantaneously.",
+    "claims": [
+      "No created spirit moves itself instantaneously."
+    ],
+    "concepts": [
+      "Scotus",
+      "Thomas Aquinas",
+      "instantaneous motion",
+      "growth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4281"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4593": {
+    "summary": "God can move an angel or anything instantaneously; the Irishman says God moves the soul to newly generated parts in growth. No finite power can move something between extremes without its passing the middle, but God can annihilate an angel on earth and immediately restore it in heaven.",
+    "claims": [
+      "God can move things without traversing the middle, by annihilation and recreation."
+    ],
+    "concepts": [
+      "annihilation",
+      "divine power",
+      "instantaneous motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4560"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4628": {
+    "summary": "Fourth: can a spirit move itself successively without a body? Scotus says yes, as Christ's soul descended to hell. The Irishman says no: created spirits move locally only per accidens with a body, though God can move any spirit successively without a body. Proved in several ways.",
+    "claims": [
+      "Views differ on whether spirits can move themselves without bodies."
+    ],
+    "concepts": [
+      "Scotus",
+      "descent into hell",
+      "local motion of spirits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4281"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4667": {
+    "summary": "First: without resistance it would move instantaneously, as Aristotle argues about the void.",
+    "claims": [
+      "Motion without resistance would be instantaneous."
+    ],
+    "concepts": [
+      "Aristotle",
+      "void"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4678": {
+    "summary": "Second: if Gabriel moved himself from heaven to earth as fast as possible in time a, and moved a resisting body c in time b, say ten times longer, he could move a body d ten times less resistant in time a, so moving at full power with and without resistance would take the same time, which is unintelligible.",
+    "claims": [
+      "Self-motion and moving a body would have equal speed, which is absurd."
+    ],
+    "concepts": [
+      "proportion of speeds",
+      "resistance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4709": {
+    "summary": "Third: then magnitude would be composed of indivisibles, since motion, time, and magnitude follow each other in divisibility (Physics VI).",
+    "claims": [
+      "Indivisible motion would compose magnitude from indivisibles."
+    ],
+    "concepts": [
+      "Aristotle",
+      "continuum",
+      "indivisibles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4718": {
+    "summary": "Fourth: two angels, stronger and weaker, on earth wish intensely to be in heaven. They do not rest, since nothing impedes them; if they move at different speeds, some body could move as fast as the weaker angel, since fire could be made ever subtler.",
+    "claims": [
+      "Unequal angelic speeds would be matched by bodies."
+    ],
+    "concepts": [
+      "angelic speed",
+      "subtle bodies"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4742": {
+    "summary": "Fifth: Augustine (Genesis) says nothing moves locally by itself unless extended through place, i.e. a body.",
+    "claims": [
+      "According to Augustine, only bodies move locally."
+    ],
+    "concepts": [
+      "Augustine",
+      "local motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4751": {
+    "summary": "Sixth: Augustine (Genesis XII) says the soul leaving the body is borne to corporeal places only with some body or not locally; likewise the angel.",
+    "claims": [
+      "According to Augustine, souls move to places only with bodies."
+    ],
+    "concepts": [
+      "Augustine",
+      "separated soul"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4768": {
+    "summary": "Seventh: Aristotle (Physics VII) proves that whatever moves is moved by another, so an angel does not move itself, and Averroes faults Plato for making angels self-movers, since every mover must have two parts. So the Irishman's view: an angel moves locally per se without a body neither suddenly nor successively, but can be moved suddenly or successively by God or by itself when united to a body.",
+    "claims": [
+      "According to the Irishman, angels move locally only with bodies or by God."
+    ],
+    "concepts": [
+      "Aristotle",
+      "Averroes",
+      "Plato",
+      "self-motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4803": {
+    "summary": "Against this: Christ's soul moved itself to hell, as an article of faith says.",
+    "claims": [
+      "Christ's soul moved itself to hell."
+    ],
+    "concepts": [
+      "descent into hell"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4810": {
+    "summary": "Second: demons continually move without united bodies, since Christ expelled a legion from a man, and had they bodies they would have been in his body, which they were not.",
+    "claims": [
+      "Demons move without bodies."
+    ],
+    "concepts": [
+      "Legion",
+      "possession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4823": {
+    "summary": "Third: demons lead souls to hell (Lombard), and souls lack bodies, so demons can much more move without bodies.",
+    "claims": [
+      "Demons lead bodiless souls to hell."
+    ],
+    "concepts": [
+      "Lombard",
+      "separated souls"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4834": {
+    "summary": "Fourth: a separated soul suffers alteration from the fire of purgatory or hell, and local motion is the first of motions, present wherever others are (Physics VIII), so it can move locally by itself.",
+    "claims": [
+      "Souls that are altered must also be capable of local motion."
+    ],
+    "concepts": [
+      "primacy of local motion",
+      "purgatorial fire"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4852": {
+    "summary": "Fifth: the soul is not moved per accidens with the body, else it would move and rest at once, and move to contrary places, when parts of the body do so.",
+    "claims": [
+      "Per accidens motion with the body yields contradictory motions."
+    ],
+    "concepts": [
+      "per accidens motion",
+      "soul in body"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4877": {
+    "summary": "Sixth: then the soul would move to itself, since the rear half b moving into the place of the front half a carries the soul per accidens to where it already is.",
+    "claims": [
+      "The soul would move to where it already is."
+    ],
+    "concepts": [
+      "per accidens motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4890": {
+    "summary": "Seventh: Anselm says risen bodies will be as agile as angels, moving from heaven to earth faster than speech, so he attributes agility to soul and angel alike.",
+    "claims": [
+      "According to Anselm, glorified bodies have angelic agility."
+    ],
+    "concepts": [
+      "Anselm",
+      "agility of glorified bodies"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4908": {
+    "summary": "Eighth: Augustine says the devil moved the serpent's tongue and secretly prompted Eve inwardly, so was in both at once.",
+    "claims": [
+      "According to Augustine, the devil acted in serpent and Eve at once."
+    ],
+    "concepts": [
+      "temptation of Eve",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4924": {
+    "summary": "Ninth: when good angels leave the bodies in which they ministered, they leave them either in the empyrean, requiring bodies to penetrate the heavens, or below, and then return to heaven by themselves, successively, since not suddenly.",
+    "claims": [
+      "Angels must move themselves after abandoning assumed bodies."
+    ],
+    "concepts": [
+      "assumed bodies",
+      "empyrean"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4628"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4952": {
+    "summary": "Among these views the truth is hard to see; Holcot finds three things probable. First, an angel is in place definitively, not circumscriptively, as commonly said, else it would be no truer that an angel is in the empyrean than in Saturn's heaven, against the Church, nor demons or souls in hell.",
+    "claims": [
+      "Angels are in place definitively."
+    ],
+    "concepts": [
+      "definitive presence",
+      "empyrean"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4281"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4972": {
+    "summary": "Second, neither angel nor soul can change place instantaneously by itself, since that would require infinite power, as infinite velocity argues infinite power (Averroes).",
+    "claims": [
+      "Created spirits cannot move instantaneously."
+    ],
+    "concepts": [
+      "infinite velocity",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4281"
+      ]
+    }
+  },
+  "rh-l2q4-d1e4989": {
+    "summary": "Third, an angel with an assumed body can move itself successively. The last argument persuades: bodies assumed for ministry are formed from elemental matter, so angels must move to them and, leaving them, return through the spheres, since such bodies cannot move through the spheres without dividing them or co-locating.",
+    "claims": [
+      "Angels with assumed bodies move successively.",
+      "Angels must move to and from assumed elemental bodies."
+    ],
+    "concepts": [
+      "assumed bodies",
+      "celestial spheres"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4281"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5018": {
+    "summary": "If it is said God moves them to those bodies, Holcot cannot argue against it as fact, but is more persuaded they can move themselves. That demons and good angels have naturally united bodies seems unreasonable, since they can do all their operations (understanding, willing, moving) without bodily action, and then good angels should have organic glorious bodies.",
+    "claims": [
+      "Angels probably move themselves to assumed bodies.",
+      "Angels do not naturally have bodies."
+    ],
+    "concepts": [
+      "angelic bodies",
+      "parsimony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4989"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5049": {
+    "summary": "Reply to the first argument against self-motion: denies that motion without resistance would be instantaneous. Aristotle (Physics IV) argued against those who held the void the whole cause of successive motion, but begged the question. Resistance is positive (body against body) or negative (distance between the endpoints). If the air were annihilated, a falling body would still pass the midpoint before the surface, so distance alone causes succession. So an angel's motive power needs only spatial distance. Holcot admits he does not understand Aristotle's argument, and turns it against the Irishman, who grants God can move angels successively, though nothing resists God. An angel can traverse space faster or slower as it pleases, succession arising from distance and from its free will.",
+    "claims": [
+      "Distance alone, as negative resistance, suffices for successive motion.",
+      "An angel moves faster or slower at will.",
+      "Aristotle's void argument begs the question."
+    ],
+    "concepts": [
+      "negative resistance",
+      "void",
+      "Aristotle",
+      "freedom of angelic motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4667"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5168": {
+    "summary": "To the second: no body resists an angel's motion positively, since bodies obey it at a nod, so the argument assumes a falsehood. Or there is no maximal speed of an angel, since moving freely it can will to cross in less and less time, with no minimum; this does not argue infinite power, any more than my willing ever greater bodies shows my will infinite. Negative distance prevents instantaneous but not ever faster motion.",
+    "claims": [
+      "There is no maximal angelic speed.",
+      "Unbounded speed does not imply infinite power."
+    ],
+    "concepts": [
+      "no maximum",
+      "angelic speed",
+      "negative resistance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4678"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5231": {
+    "summary": "To the third: the argument tells equally against the Irishman, who lets God move angels successively. Aristotle's reasoning works against indivisibles that touch positionally and are circumscribed by a point, not against an intelligence that does not commensurate itself to a magnitude or occupy any punctual or bodily place.",
+    "claims": [
+      "Aristotle's argument concerns position-bearing indivisibles, not intelligences."
+    ],
+    "concepts": [
+      "indivisibles",
+      "intelligences",
+      "place"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4709"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5262": {
+    "summary": "To the fourth: it falsely assumes one angel is weaker than another at moving itself, as perhaps no blessed body will be more agile than another, else a blessed body could be held captive in a dense enough medium, which seems unfitting.",
+    "claims": [
+      "Perhaps no angel is weaker than another in self-motion."
+    ],
+    "concepts": [
+      "agility of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4718"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5283": {
+    "summary": "To the fifth: Augustine means local motion properly, where the mobile is commensurate with spatial dimensions.",
+    "claims": [
+      "Augustine speaks of proper bodily local motion."
+    ],
+    "concepts": [
+      "Augustine",
+      "proper local motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4742"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5292": {
+    "summary": "To the sixth: the same; Augustine means proper local motion.",
+    "claims": [
+      "Augustine speaks of proper bodily local motion."
+    ],
+    "concepts": [
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4751"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5299": {
+    "summary": "To the seventh: Aristotle also speaks of local motion properly, perhaps knowing no other; or his argument there is hard to sustain. As for Averroes faulting Plato, Plato's authority is greater than Averroes's, so one wishing to oppose Averroes could easily answer his reasons.",
+    "claims": [
+      "Aristotle's mover principle concerns proper local motion.",
+      "Plato's authority exceeds Averroes's."
+    ],
+    "concepts": [
+      "Aristotle",
+      "Averroes",
+      "Plato",
+      "authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4768"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5323": {
+    "summary": "Reply to the first counterargument: Christ's soul was moved successively by the joined divinity.",
+    "claims": [
+      "Christ's soul was moved by the divinity."
+    ],
+    "concepts": [
+      "descent into hell",
+      "hypostatic union"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4803"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5330": {
+    "summary": "To the second: perhaps the legion was in the swine and in nearby air with subtle bodies, or demons have for their punishment subtle invisible bodies united to them.",
+    "claims": [
+      "Demons may have subtle bodies."
+    ],
+    "concepts": [
+      "Legion",
+      "subtle bodies"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4810"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5347": {
+    "summary": "To the third: such souls are moved by God and demons accompany them, so are said to lead them.",
+    "claims": [
+      "God moves souls to hell; demons merely accompany."
+    ],
+    "concepts": [
+      "separated souls"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4823"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5355": {
+    "summary": "To the fourth: granted the soul can be moved locally by God, but it does not follow that, being altered, it can move itself locally in a void.",
+    "claims": [
+      "Being altered does not imply self-motion."
+    ],
+    "concepts": [
+      "alteration and local motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4834"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5364": {
+    "summary": "To the fifth: Scotus grants the conclusion of a spirit wholly in different places at once.",
+    "claims": [
+      "According to Scotus, a spirit can be wholly in several places."
+    ],
+    "concepts": [
+      "Scotus",
+      "multilocation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4852"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5371": {
+    "summary": "To the sixth: denies that the soul moves to itself properly; it moves per accidens to a place, not to itself.",
+    "claims": [
+      "The soul moves per accidens to a place, not to itself."
+    ],
+    "concepts": [
+      "per accidens motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4877"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5380": {
+    "summary": "To the seventh: Anselm means separated souls are moved by God and will move with their bodies as fast as angels now move in assumed bodies.",
+    "claims": [
+      "Glorified bodies will move as fast as angels in assumed bodies."
+    ],
+    "concepts": [
+      "Anselm",
+      "agility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4890"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5391": {
+    "summary": "To the eighth: the devil was alternately in the serpent and in the woman with imperceptible speed, not in both at once.",
+    "claims": [
+      "The devil alternated rapidly between serpent and Eve."
+    ],
+    "concepts": [
+      "temptation of Eve",
+      "rapid alternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4908"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5402": {
+    "summary": "To the ninth, the most moving: if good angels have no naturally united bodies, they are moved successively or suddenly by God to the places of assumed bodies and return to heaven likewise; demons perhaps have bodies united to them by God for their punishment and move successively with them.",
+    "claims": [
+      "Angels may be moved by God to and from assumed bodies.",
+      "Demons may have bodies united for punishment."
+    ],
+    "concepts": [
+      "assumed bodies",
+      "punishment of demons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4924"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5427": {
+    "summary": "Fifth point: can an angel move from place to place without traversing the medium? By its own or any creature's power, no, else it could move instantaneously, which was denied. But as it is in place equivocally with a body, it traverses the medium equivocally, not commensurating itself to the medium's parts.",
+    "claims": [
+      "No creature can move a spirit without traversing the medium."
+    ],
+    "concepts": [
+      "traversal of medium",
+      "equivocity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e4281"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5449": {
+    "summary": "Sixth point: replies to the arguments of the fifth principal argument. The first, from Physics VI, was answered above in the fourth point.",
+    "claims": [],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1420",
+        "rh-l2q4-d1e1444"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5460": {
+    "summary": "To the second: true of what moves with proper local motion and is circumscribed by place.",
+    "claims": [
+      "The traversal principle applies to circumscribed bodies."
+    ],
+    "concepts": [
+      "proper local motion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1453"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5469": {
+    "summary": "To the third: an angel moves successively by itself and can change place suddenly by God. Every local motion is in time, but not every local change. Succession comes from positive resistance or from negative resistance, the distance of termini with the freedom and limitation of the motive power; even infinite motive power could not move itself instantaneously.",
+    "claims": [
+      "Local motion is in time, though local change may be instantaneous by God.",
+      "Negative resistance suffices for succession."
+    ],
+    "concepts": [
+      "motion and change",
+      "negative resistance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1460"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5508": {
+    "summary": "To the fourth: denies that no finite proportion exists between angelic and bodily speeds. There is no proportion in occupying place or commensurating with dimensions, but there is in duration and time, as a moving surface and body could take the same time.",
+    "claims": [
+      "Angelic and bodily motions are comparable in duration."
+    ],
+    "concepts": [
+      "proportion of speeds",
+      "duration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1492"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5535": {
+    "summary": "Or grant the conclusion: there is no proportion between them, being of different kinds, though both are finite, as between uniform and difform velocity.",
+    "claims": [
+      "Incomparable speeds can both be finite."
+    ],
+    "concepts": [
+      "uniform and difform motion",
+      "incommensurability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5508"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5551": {
+    "summary": "To the fifth: motion in a void involves no contradiction, and Aristotle's argument is not demonstrative, omitting resistance from the distance of termini and from the mobile's own magnitude: a two-foot body falling in a void would reach the earth with its lower end before its upper.",
+    "claims": [
+      "Motion in a void is possible and successive.",
+      "Aristotle's void argument is not demonstrative."
+    ],
+    "concepts": [
+      "void",
+      "Aristotle",
+      "extended mobile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1503"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5580": {
+    "summary": "To the sixth: as for a body, the places are contiguous or have a medium. If contiguous, the angel moves when it leaves part of a and acquires part of b, partly in each by division of place, not of the mobile, as a soul remaining definitively in a body's place would, ascending, occupy part of the old and part of the new place. Even in a point there is succession, since between any two points there is a line. To the seventh: the prayer asks that we be protected on earth by those who now minister to God in heaven and always attend him, since though angels do not always stand in heaven enjoying him, they always attend him.",
+    "claims": [
+      "An angel moving between places is partly in each by division of place.",
+      "Angels always attend God even while ministering on earth."
+    ],
+    "concepts": [
+      "definitive presence",
+      "liturgy",
+      "angelic attendance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1527",
+        "rh-l2q4-d1e1540"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5670": {
+    "summary": "Or the demonstrative is general, not singular: may our life be protected by such spirits, some of whom always attend you. Or the Church asks protection mediately through the missions of lower angels.",
+    "claims": [
+      "The prayer may refer to angels generally or to mediated protection."
+    ],
+    "concepts": [
+      "liturgical exegesis",
+      "mediation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5580"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5688": {
+    "summary": "On Raphael's 'I am one of the seven who stand before God': 'assist' is equivocal among the saints. In one sense it excludes ministry to us, as Gregory and Dionysius distinguish assisting and ministering angels, only the first hierarchy assisting, like courtiers who never leave the king, or learning God's will immediately. In another sense it means continually contemplating God's essence, and so all assist always (Gregory: those sent to us always contemplate him). So Raphael's words are understood.",
+    "claims": [
+      "'Assisting' God is equivocal between non-ministry and continual contemplation."
+    ],
+    "concepts": [
+      "Raphael",
+      "Gregory",
+      "Dionysius",
+      "assisting and ministering angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1540"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5743": {
+    "summary": "To the eighth: the argument concludes truly that an angel could be at both ends of the world's diameter in a belt around it, if the angel determines no figure, thickness, or size of place; God could unite a body so rearranged. But not everywhere, since a foot body never occupies more than a foot of space, as parallelograms on the same base between parallels are equal however long.",
+    "claims": [
+      "An angel could span the world but not be everywhere."
+    ],
+    "concepts": [
+      "proportional parts",
+      "parallelograms",
+      "place of angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1569"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5794": {
+    "summary": "To the ninth: the conclusion is not impossible, since if the whole world except a foot of place were annihilated, an angel there would be everywhere. But 'the least angel's cognition can be everywhere, so the least angel can' fails, since cognition, a spiritual act, can be placed in any angel and so be everywhere per accidens, whereas an angel cannot be in place per accidens.",
+    "claims": [
+      "Cognition can be everywhere per accidens; an angel cannot."
+    ],
+    "concepts": [
+      "ubiquity",
+      "per accidens location"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1644"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5849": {
+    "summary": "Reply to the sixth principal argument, on confirmation of the good and obstinacy of the bad.",
+    "claims": [],
+    "concepts": [
+      "confirmation",
+      "obstinacy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1687"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5856": {
+    "summary": "First, the cause of confirmation in the blessed and obstinacy in the damned.",
+    "claims": [],
+    "concepts": [
+      "causes of confirmation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5863": {
+    "summary": "Second, whether the blessed can merit and the damned demerit under present law.",
+    "claims": [],
+    "concepts": [
+      "merit of angels",
+      "demerit of demons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5872": {
+    "summary": "Third, replies to the forms.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5880": {
+    "summary": "On the first, the Irishman on Sentences II.",
+    "claims": [],
+    "concepts": [
+      "the Irishman"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5887": {
+    "summary": "The Irishman: confirmation is caused by the certain knowledge in the Word that they must not act against right reason under pain of eternal damnation, held immutably from revelation as firmly as or more than science (as Aristotle says some hold opinions as firmly as knowledge), so they cannot sin. He says nothing explicit about obstinacy.",
+    "claims": [
+      "According to the Irishman, confirmation comes from certain knowledge of the penalty."
+    ],
+    "concepts": [
+      "the Irishman",
+      "confirmation",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5925": {
+    "summary": "Ockham (II q. 19): in the blessed God alone, as total cause, always causes acts of seeing and loving God, the creature being no partial cause; this love formally excludes any sinful act, and while God conserves it the creature cannot impede it, without coercion, since the will formally loves by it. Likewise God as total cause causes whatever is absolute in the damned's act of hating God, which excludes any good act.",
+    "claims": [
+      "According to Ockham, God alone causes the beatific love that excludes sin.",
+      "According to Ockham, God totally causes the act of hatred in the damned."
+    ],
+    "concepts": [
+      "Ockham",
+      "total causation",
+      "beatific love",
+      "hatred of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e5984": {
+    "summary": "Ockham raises objections, especially that hatred of God cannot be totally caused by God, since Aristotle says some acts, when named, have malice annexed.",
+    "claims": [
+      "Some acts carry inherent malice."
+    ],
+    "concepts": [
+      "Aristotle",
+      "inherent malice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5925"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6000": {
+    "summary": "Second: any act a will can have without sin God can command, so God could command hatred of himself and the will could merit by hating God.",
+    "claims": [
+      "God could command hatred of himself."
+    ],
+    "concepts": [
+      "hatred of God",
+      "divine command"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5925"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6009": {
+    "summary": "Third: the saints say good angels have greater freedom after confirmation than before, when they were free regarding every act.",
+    "claims": [
+      "Confirmation increases freedom, according to the saints."
+    ],
+    "concepts": [
+      "freedom of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5925"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6026": {
+    "summary": "Fourth: then the will would be coerced to such an act.",
+    "claims": [
+      "Total divine causation would coerce the will."
+    ],
+    "concepts": [
+      "coercion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5925"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6031": {
+    "summary": "Ockham's reply to the first: theft, adultery, and the like are bad by circumstance, being against God's precept, and could be done well and meritoriously if commanded. The terms 'theft' and 'adultery' signify such acts connoting that they are done by one bound to the opposite, so they have malice annexed when named.",
+    "claims": [
+      "According to Ockham, acts like adultery are bad only by being against precept.",
+      "Terms like 'theft' connote prohibition."
+    ],
+    "concepts": [
+      "Ockham",
+      "connotative ethical terms",
+      "divine command ethics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5984"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6068": {
+    "summary": "To the second: he grants the conclusion, believing it true, but says causing hatred of God in a will is not sin for God, who is bound to nothing, but is sin for the will, bound to the opposite.",
+    "claims": [
+      "According to Ockham, God can cause hatred of himself without sin."
+    ],
+    "concepts": [
+      "Ockham",
+      "hatred of God",
+      "divine obligation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6000"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6081": {
+    "summary": "To the third: freedom is opposed to servitude of fault, of punishment, of misery, to coercion, and to immutability. Bad angels lack the first three but have the last two for acts not repugnant to the act God necessarily causes in them. Good angels have the first four but not freedom from immutability for acts God totally causes, though they have indifference for other acts. So a wayfarer has more of the fifth freedom, and the good angel more of the fourth, since a wayfarer can be coerced in exterior acts.",
+    "claims": [
+      "According to Ockham, freedom has five senses.",
+      "The blessed lack indifference toward acts God totally causes."
+    ],
+    "concepts": [
+      "Ockham",
+      "five senses of freedom",
+      "indifference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6009"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6171": {
+    "summary": "To the fourth: the will is not coerced in receiving the act from God, since coercion is receiving against natural inclination, and the will could partially cause it and so naturally receives it; but it is necessitated, since it cannot not receive it.",
+    "claims": [
+      "According to Ockham, the will is necessitated but not coerced."
+    ],
+    "concepts": [
+      "necessity and coercion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6026"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6200": {
+    "summary": "Holcot doubts Ockham. If the bad angel necessarily has fault, it has it totally from God, since any act it partially caused it could refrain from; so God would be total cause of a fault, whose fault would it be? If the demon's, the demon is a partial cause.",
+    "claims": [
+      "Total divine causation of fault makes the fault God's or contradicts itself."
+    ],
+    "concepts": [
+      "fault and causation",
+      "critique of Ockham"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5925"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6238": {
+    "summary": "Confirmation: Aristotle shows every virtuous or vicious act is caused by the will. And beatific operation is in second act, caused by first act, the will.",
+    "claims": [
+      "Every moral act is caused by the will."
+    ],
+    "concepts": [
+      "Aristotle",
+      "first and second act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6200"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6256": {
+    "summary": "Confirmation: there is no reason one thing caused by God in the will is called its act more than another unless the will concurs more, so grace and theological virtues would be operations of the soul, which is false.",
+    "claims": [
+      "An act is the will's only if the will concurs in causing it."
+    ],
+    "concepts": [
+      "acts and habits",
+      "grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6200"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6272": {
+    "summary": "Third: if God caused hatred of himself in a wayfarer, he would not be culpable; and an angel could sin at the first instant of creation, or God create an angel actually in sin, against Anselm (never a debtor of justice) and Augustine (never fell from good).",
+    "claims": [
+      "Total divine causation of sin would remove culpability."
+    ],
+    "concepts": [
+      "culpability",
+      "Anselm",
+      "Augustine",
+      "first instant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6200"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6294": {
+    "summary": "Against the Irishman's view: then a wayfarer could make himself impeccable by believing as firmly as 'the whole is greater than its part' that he will be damned if he does this.",
+    "claims": [
+      "Firm belief about penalties would make wayfarers impeccable."
+    ],
+    "concepts": [
+      "critique of the Irishman",
+      "impeccability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5887"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6325": {
+    "summary": "Further: perfect beatitude would depend on cognition of the most wretched creature, since the angel knows it is blessed only by knowing it is confirmed, by the judgment 'if I sin I shall be damned', against Augustine, for whom beatitude depends on knowing God alone.",
+    "claims": [
+      "Beatitude would depend on thinking of misery."
+    ],
+    "concepts": [
+      "Augustine",
+      "beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5887"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6345": {
+    "summary": "Further: if God ordained that no creature be damned eternally, a blessed angel either could sin or would be confirmed by an erroneous judgment.",
+    "claims": [
+      "Confirmation by belief in penalty could rest on error."
+    ],
+    "concepts": [
+      "casus",
+      "erroneous judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5887"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6366": {
+    "summary": "Further: the angel judges 'if I act against reason I shall be damned' either necessary, and errs, since God could make the antecedent true without the consequent, or contingent, and so does not believe it most firmly and could will the antecedent without fear.",
+    "claims": [
+      "The conditional is either falsely judged necessary or not firmly held."
+    ],
+    "concepts": [
+      "necessity of conditionals",
+      "divine power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5887"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6395": {
+    "summary": "Further: if the angel cannot will against right reason only because it cannot will misery, it is confirmed more by hatred of punishment than by love of God, which is unfitting.",
+    "claims": [
+      "Confirmation by fear would make love of God secondary."
+    ],
+    "concepts": [
+      "fear and love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5887"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6415": {
+    "summary": "Thomas's view pleases Holcot more, drawn from Aristotle (Ethics VII): every sin is preceded by error, concupiscence, or negligence, agreeing with Boethius. Since the blessed have universal and particular knowledge and judgment that one must in no way sin, from which they cannot be turned by error or negligence, and God conserves it, they cannot elicit a bad act, which would require a contrary judgment.",
+    "claims": [
+      "Every sin is preceded by error, concupiscence, or negligence.",
+      "The blessed cannot sin because God conserves their right judgment."
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "Aristotle",
+      "Boethius",
+      "confirmation by judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6458": {
+    "summary": "Alternatively, for both confirmation and obstinacy: the will's indifference is finite, so as a habit inclines it, a creatable habit can necessitate it. In the blessed this is confirmed grace, which with clear vision and the light of glory necessitates the will to love God in the manner of nature. In the bad, a habit of hatred and darkness of error with perverse judgment is inflicted as punishment and conserved by God, so they cannot act well. So Lombard says the damned's free will is depressed and corrupted, best understood as a created habit that fixes the will; they deserved it by sinning, and their consequent acts and habits are punishments, though perhaps not new demerits.",
+    "claims": [
+      "The will's finite indifference can be necessitated by a habit.",
+      "Confirmed grace, vision, and light of glory necessitate the blessed.",
+      "A habit of hatred inflicted as punishment causes the obstinacy of demons."
+    ],
+    "concepts": [
+      "necessitating habits",
+      "light of glory",
+      "obstinacy",
+      "Lombard",
+      "depressed free will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6530": {
+    "summary": "Second point: whether guardian angels merit and demons demerit. Neither side can reasonably be proved or disproved. Good angels perform many free virtuous acts in grace, which seems enough for merit; bad ones many free vicious acts, as Raphael could move faster or slower and demons could choose lesser or worse evils. So probably the good merit and the bad demerit.",
+    "claims": [
+      "Whether angels merit or demerit cannot be proved either way.",
+      "Probably good angels merit and demons demerit."
+    ],
+    "concepts": [
+      "merit of angels",
+      "demerit of demons",
+      "Raphael"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6583": {
+    "summary": "Many say they do not progress in beatific cognition or love but in other cognition, which does not pertain to beatitude, as Lombard says. Against: a blessed angel can do as good an act as a wayfarer, who thereby merits increase of essential reward, so the angel too.",
+    "claims": [
+      "If wayfarers merit essential reward, angels would too."
+    ],
+    "concepts": [
+      "essential and accidental reward",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6530"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6603": {
+    "summary": "Easily answered by the first conclusion: strict merit is a free act conforming to a law that promises reward. God can command without promising reward, so 'the angel acts as well as a wayfarer, so merits equally' is not formal; God does not please to reward their acts, as enjoying God is a free virtuous act without further reward. Good angels act virtuously without hope of further merit, being sufficiently rewarded. Demons are cast out of God's household and released from his precept, so their deeds are not demeritorious, as a dog biting a saint does what in a man would be sin; God does not care to inflict new penalties for them.",
+    "claims": [
+      "Merit requires a law promising reward.",
+      "Good angels act virtuously without meriting further essential reward.",
+      "Demons, released from precept, do not demerit."
+    ],
+    "concepts": [
+      "covenantal merit",
+      "divine acceptation",
+      "dog analogy",
+      "demons outside precept"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6583"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6681": {
+    "summary": "The Irishman says they sin but do not properly demerit eternal punishment, not being wayfarers, their acts damnatory rather than demeritorious; Scotus holds they demerit temporal punishment and so sin venially, not mortally, having no precept to avoid and not knowing God's good pleasure, only perhaps his counsel to the contrary. After judgment they will not sin at all, having no freedom.",
+    "claims": [
+      "According to Scotus and the Irishman, demons sin venially, not mortally."
+    ],
+    "concepts": [
+      "Scotus",
+      "the Irishman",
+      "venial sins of demons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6530"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6719": {
+    "summary": "A modern distinguishes sin as act, deformity, or guilt (reatus). Demons are continually in sin in the second and third senses; in the first they sin anew, willing men damned or sinning, against the precept of charity. Necessity does not excuse, since they caused it themselves, like the drunkard (Aristotle), and impotence from fault never excuses (Anselm). So they sin mortally anew until judgment, after which they will have no objects for new evil. Their pain of sense, accidental, increases until judgment, though not their pain of loss; they tempt men preferring lesser punishment now to delay the greater by delaying the number of the elect.",
+    "claims": [
+      "According to a modern, demons sin mortally anew until judgment.",
+      "Self-caused necessity does not excuse.",
+      "Demons tempt to delay the judgment and their greater punishment."
+    ],
+    "concepts": [
+      "three senses of sin",
+      "Aristotle",
+      "Anselm",
+      "pain of sense and loss",
+      "number of the elect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6530"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6841": {
+    "summary": "Against the first view: if they sin venially, either against a precept or not; if not, they do not sin; if so, there seems no reason their precept carries a lesser penalty than a wayfarer's.",
+    "claims": [
+      "Venial sin of demons is incoherent."
+    ],
+    "concepts": [
+      "critique of Scotus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6681"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6861": {
+    "summary": "Further: if they know only God's counsel to the contrary, they do not sin at all, since acting against counsel is not sin, or everyone not following all counsels would sin venially.",
+    "claims": [
+      "Acting against counsel is not sin."
+    ],
+    "concepts": [
+      "precept and counsel"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6681"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6880": {
+    "summary": "The second view seems very probable, except that it does not adequately explain why the damned will not demerit after judgment, saying they will lack objects for new evil works.",
+    "claims": [
+      "The modern view is probable but its account of post-judgment sinlessness is inadequate."
+    ],
+    "concepts": [
+      "evaluation of views"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6719"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6898": {
+    "summary": "Against: every evil work is a work of will, and they will have objects for new bad volitions, since it is implausible they will never have bad volitions after judgment.",
+    "claims": [
+      "The damned will still have objects for bad volitions."
+    ],
+    "concepts": [
+      "bad volitions after judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6880"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6914": {
+    "summary": "Further: willing evil for a year is worse than for a day, so the damned's malice will at least grow continually by the circumstance of time. No man can discern which of these is truer.",
+    "claims": [
+      "The damned's malice grows by duration.",
+      "Human reason cannot settle these questions."
+    ],
+    "concepts": [
+      "duration of malice",
+      "limits of knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e6880"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6927": {
+    "summary": "Third point: replies to the arguments of the principal.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e5849"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6934": {
+    "summary": "To the first: in the good, freedom does not remain toward all acts, so they cannot sin, but toward some goods freedom of indifference remains, so they can merit at least accidental reward. In the bad, natural powers are intact, most splendid by nature (Dionysius), but depressed by vicious habits as to fault. God is direct cause of hardening by infusing the habit, but not first cause in every genus; the sinning creature is in a way prior, since God creates the habit because it deserved punishment. So Augustine's 'God is not the first cause of a creature's becoming worse' is true.",
+    "claims": [
+      "The blessed retain freedom of indifference toward some goods.",
+      "God directly causes the hardening habit, but the sinner is the prior cause."
+    ],
+    "concepts": [
+      "freedom of the blessed",
+      "Dionysius",
+      "obduracy",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1687"
+      ]
+    }
+  },
+  "rh-l2q4-d1e6988": {
+    "summary": "To the second: the inference fails, since despite confirmation the good can merit accidental reward and the bad accidental punishment.",
+    "claims": [
+      "Confirmation is compatible with merit of accidental reward."
+    ],
+    "concepts": [
+      "accidental reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1748"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7001": {
+    "summary": "To the third: they know human damnation increases their misery, but less than it will after judgment, so they choose lesser punishment now to delay the greater.",
+    "claims": [
+      "Demons choose present lesser misery to delay greater."
+    ],
+    "concepts": [
+      "delay of judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1787"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7021": {
+    "summary": "Or: anger and envy give them erroneous judgments, so they prefer harming themselves and others to not harming others. They can will what increases their misery, though not precisely for that end. Anselm's argument concerns the angel before the fall, in the state he calls beatitude, which could not will what would make it miserable; the damned can.",
+    "claims": [
+      "Envy gives demons erroneous judgments.",
+      "Anselm's principle applies to the unfallen angel, not to demons."
+    ],
+    "concepts": [
+      "envy",
+      "Anselm",
+      "will to misery"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1787"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7063": {
+    "summary": "To the fourth: ministering angels do no act to which they are bound by mere freedom of indifference, else they could omit it and sin; but they do some things not obligatory, by counsel or good will, whose omission would not be sin.",
+    "claims": [
+      "Angels act freely only in non-obligatory acts."
+    ],
+    "concepts": [
+      "counsel",
+      "freedom of indifference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1809",
+        "rh-l2q4-d1e1844"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7096": {
+    "summary": "To the fifth: grants all, as said in the second point.",
+    "claims": [
+      "Demons' ongoing sins may increase their punishment."
+    ],
+    "concepts": [
+      "demerit of demons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1874"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7107": {
+    "summary": "To the sixth: the devil is obstinate and God does not co-act with him for any right or good act, so he can do nothing good. Even if he judged it good to have justice, he cannot conform to it justly with good circumstances; he can will to be just to escape punishment, but not will justice justly, his free will being depressed by the hardening habit and the withdrawal of divine cooperation (Lombard).",
+    "claims": [
+      "The devil cannot will justice justly.",
+      "God does not co-act with the devil for good acts."
+    ],
+    "concepts": [
+      "obstinacy",
+      "withdrawal of concurrence",
+      "Lombard",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1897"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7150": {
+    "summary": "Reply to the seventh principal argument: grants every man must discern when a good angel incites and when a bad one; one can have an act of discernment without the habit or gift, and should ask God for it when need and doubt arise.",
+    "claims": [
+      "Everyone needs acts of discernment of spirits, which one should ask of God."
+    ],
+    "concepts": [
+      "discernment of spirits",
+      "act and habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1921"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7174": {
+    "summary": "Reply to the eighth: doctors commonly say vital operations are of two kinds: those like inanimate operations, consisting in local motion or collision of bodies (walking, speaking), and those unlike them (seeing, sensing). Angels seem to do the first but in truth only move bodies locally, causing sounds, so they do not properly walk or speak, these terms connoting a vital principle; the second they in no way do, neither sensing, seeing, nor generating.",
+    "claims": [
+      "Angels in assumed bodies only move bodies locally.",
+      "Angels do not properly walk, speak, sense, or generate."
+    ],
+    "concepts": [
+      "assumed bodies",
+      "vital operations",
+      "connotative terms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1937"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7230": {
+    "summary": "Objection: incubus and succubus demons generate, as Josephus and Genesis 6 report giants born of angels and women, and Augustine (City of God XV) affirms from reliable witnesses. Reply: not by their own seed but by men's, the same demon acting as succubus to a man and incubus to a woman, so the child is the man's son. The same holds of angels' operations.",
+    "claims": [
+      "Demonic generation uses human seed, so the child is human."
+    ],
+    "concepts": [
+      "incubi and succubi",
+      "Genesis 6",
+      "Augustine",
+      "Josephus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e7174"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7276": {
+    "summary": "Reply to the ninth: grants new thoughts in angels regarding knowledge by habits or species; Augustine means there are no changing thoughts concerning beatitude. A new thought of a charge does not remit thought of God, since God so co-acts with the beatific knowledge that it cannot be remitted, and the angel contemplates as distinctly as if thinking nothing else; among other thoughts, one intense thought may remit another.",
+    "claims": [
+      "Beatific knowledge cannot be remitted by other thoughts.",
+      "Non-beatific angelic thoughts can change and compete."
+    ],
+    "concepts": [
+      "beatific vision",
+      "attention",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e1959",
+        "rh-l2q4-d1e1983"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7320": {
+    "summary": "Reply to the tenth: Christ had no guardian angel, needing none, being a comprehensor in soul, and his humanity, united to God, could be neither impeded nor helped. The angel 'strengthened' him not by causing anything in him but by congratulating his fortitude, acting in the manner of one strengthening. This ends Holcot's last question on Book II.",
+    "claims": [
+      "Christ had no guardian angel.",
+      "The angel's 'strengthening' of Christ was congratulation."
+    ],
+    "concepts": [
+      "Christ as comprehensor",
+      "Luke 22:43",
+      "hypostatic union"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068",
+        "rh-l2q4-d1e2016"
+      ]
+    }
+  },
+  "rh-l2q4-d1e7342": {
+    "summary": "Transitional rubric: there follows Holcot's single question on the third book of the Sentences.",
+    "claims": [],
+    "concepts": [
+      "rubric",
+      "Book III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q4-Dd1e2068"
+      ]
+    }
+  }
+}

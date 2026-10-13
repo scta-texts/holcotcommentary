@@ -1,0 +1,218 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-ancestors-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical",
+    "scope": "Ancestors of all four books: Book I (rh-liber1; items rh-l1q1 to rh-l1q5), Book II (rh-liber2; items rh-l2prae, rh-l2q1 to rh-l2q4), Book III (rh-liber3; item rh-l3q1), Book IV (rh-liber4; items rh-l4q1 to rh-l4q8), and the whole work. Missing: rh-l1prin1, rh-l2prin2, rh-l2q5, rh-l4prin4 (no transcription in this repository)."
+  },
+  "rh-liber1": {
+    "summary": "Partial summary of Book I of Robert Holcot's Sentences commentary. It rests on the five questions (q. 1-5) and lacks the opening principium on the object of belief (rh-l1prin1), which has no interpretation. The questions range freely beyond Lombard's topics and are bound together by a covenantal, nominalist theology that sharply limits natural reason. Question 1 (the prologue) argues that belief is not in the will's power: assent follows evidence, testimony, custom, or grace. Merit depends wholly on God's freely established law and acceptance, so no inference to merit is formal, God could reward natural acts or belief in falsehood, and the articles of faith are contrary to natural reason. Question 2 defends the created will's freedom of contradiction. Holcot criticizes Anselm's rectitude-based definition, identifies freedom with the will under different connotations, construes freedom diachronically, makes volition an optative mental sentence produced successively, and treats a long series of insolubilia and perplexity cases with the logic of obligations. Question 3 holds that the wayfarer is bound to enjoy God alone. The precept concerns the good willed rather than intensity, and natural love of God above all is possible but the precept is fulfilled only in grace. Neither God's existence nor the duty to love him is demonstrable, Anselm's ontological argument is a sophism, and invincible error can make enjoying a creature or hating God meritorious. Question 4 affirms the Trinity purely by faith and proposes a distinct 'logic of faith', judging Aristotle's logic formal only for naturally known things. Question 5 holds that God is in the genus of substance as signified by a generic concept, distinguishes non-composition from non-composability, and gives a semantic account of the categories as signs resolved through simple and personal supposition.",
+    "claims": [
+      "Belief is not in the will's free power.",
+      "Merit depends wholly on God's freely established law and acceptance, so no inference to merit is formal.",
+      "The created will is free with freedom of contradiction, understood as power immediately before acting.",
+      "Neither God's existence nor the obligation to love him above all can be demonstrated by natural reason.",
+      "The Trinity is held by faith, and natural logic fails for what is one and three, so there is a logic of faith.",
+      "God is in the genus of substance as signified by a generic concept, and categories are orderings of signs."
+    ],
+    "concepts": [
+      "doxastic involuntarism",
+      "divine acceptation",
+      "pactum",
+      "faith and reason",
+      "freedom of contradiction",
+      "fruitio",
+      "natural theology",
+      "ontological argument",
+      "logica fidei",
+      "categories as signs",
+      "supposition",
+      "insolubilia",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "liber",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q1",
+        "rh-l1q2",
+        "rh-l1q3",
+        "rh-l1q4",
+        "rh-l1q5"
+      ],
+      "partial": true,
+      "coverage": "5 of 6 direct children have interpretations (rh-l1prin1 lacks one)",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-13T00:00:00Z",
+      "source_commit": "3215a79",
+      "source_structure": "~/Projects/scta/scta-projectfiles/rh-projectdata.xml"
+    }
+  },
+  "rh-liber2": {
+    "summary": "Partial summary of Book II of Robert Holcot's Sentences commentary. It rests on the preamble and questions 1-4. It lacks the opening principium on God's causality (rh-l2prin2) and question 5 on the stars as signs (rh-l2q5), neither of which has an interpretation. The preamble links Lombard's account of man's creation for the service and enjoyment of God to the end of Book I on predestination and foreknowledge. Question 1 asks whether God governs the human race justly. Holcot's answer is thoroughly voluntarist and covenantal. In the decisive sense 'just' and 'God wills it' convert, and God is a debtor only by promise and need keep no proportion of merit and reward. God is immediate partial cause of the sinful volition and wills it by good pleasure, but sin is acting against his precept, so he is not its 'author'. Predestination precedes merit while reprobation follows foreseen sin. Question 2 asks whether God knew from eternity that he would produce the world. Holcot denies creatures any eternal being and treats talk of non-existents as improper. He makes spoken propositions true only by convention. He holds the world's eternity undemonstrable, though free creation from eternity is contradictory, and that God can always make a better world. Future contingents are determinately true yet could never have been true, so revealed futures, including scripture's, remain contingent; one can merit by false faith, and God can deceive though he cannot lie. Question 3 holds that the demons sinned freely: angels were created in grace, and the bad enjoyed their own nobility without thanking God, an ingratitude and pride that interpretatively sought equality with God. No error preceded the sin, and the angel could not sin at its first instant. Question 4 affirms guardian angels by revelation and develops a skeptical, concurrence-based angelology. Angels could err without losing beatitude. They know thoughts and speak only as God concurs. They move successively by negative resistance. Confirmation and obstinacy come from necessitating habits, and angelic merit depends on God's law.",
+    "claims": [
+      "God governs justly in the sense that whatever God wills is just; he is a debtor only by promise.",
+      "God is a partial cause of sinful acts, but sin consists in acting against his precept.",
+      "Future contingents are determinately true yet could never have been true, and revealed futures remain contingent.",
+      "Free creation from eternity is contradictory, though the world's eternity is undemonstrable.",
+      "The demons sinned freely through ingratitude and inordinate self-love.",
+      "Angelic cognition, speech, and illumination depend on God's concurrence."
+    ],
+    "concepts": [
+      "divine justice",
+      "voluntarism",
+      "covenant",
+      "divine concurrence",
+      "future contingents",
+      "revelation",
+      "eternity of the world",
+      "fall of the angels",
+      "guardian angels",
+      "angelic cognition",
+      "obligationes"
+    ],
+    "_metadata": {
+      "level": "liber",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2prae",
+        "rh-l2q1",
+        "rh-l2q2",
+        "rh-l2q3",
+        "rh-l2q4"
+      ],
+      "partial": true,
+      "coverage": "5 of 7 direct children have interpretations (rh-l2prin2 and rh-l2q5 lack one)",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-13T00:00:00Z",
+      "source_commit": "3215a79",
+      "source_structure": "~/Projects/scta/scta-projectfiles/rh-projectdata.xml"
+    }
+  },
+  "rh-liber3": {
+    "summary": "Summary of Book III of Robert Holcot's Sentences commentary. In this structure Book III is a single question (rh-l3q1), and this summary rests on it alone. The question asks whether the Son of God could become incarnate, but it answers this only in one closing line: he was incarnate, so he could be. The rest of the book is a disputation. Holcot defends positions he had taken elsewhere against a colleague (socius), across eight articles drawn from three principal arguments. An oath binds at least as much as a vow, being a vow confirmed by divine attestation, and Church penalties and dispensations do not measure obligation. One can, and by right reason should, prefer annihilation to damnation; Augustine, read correctly, agrees, and annihilation can be a penalty. Penalties can necessitate the will, and unmerited necessity excuses. A justly condemned criminal may flee in order to amend, by epieikeia. Adoring the devil disguised as Christ in invincible error is meritorious, not idolatry, and erroneous conscience binds while it lasts. The simple faithful can merit by believing heresy preached to them, through implicit faith. Abraham believed absolutely that he must kill Isaac. God can deceive, meaning cause error, though never unjustly. The book thus has little to do with Lombard's Christology. Its unifying themes are invincible error, the binding force of conscience, and divine power over belief.",
+    "claims": [
+      "The incarnation's possibility is affirmed from its actuality, without further argument.",
+      "Invincible error excuses and can be meritorious, even in worship and faith.",
+      "Oaths bind at least as much as vows.",
+      "Annihilation can be rationally preferred to damnation.",
+      "God can cause error without injustice."
+    ],
+    "concepts": [
+      "incarnation",
+      "disputation with socius",
+      "vow and oath",
+      "annihilation",
+      "necessitation of the will",
+      "epieikeia",
+      "invincible error",
+      "erroneous conscience",
+      "implicit faith",
+      "divine deception"
+    ],
+    "_metadata": {
+      "level": "liber",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l3q1"
+      ],
+      "partial": false,
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-13T00:00:00Z",
+      "source_commit": "3215a79",
+      "source_structure": "~/Projects/scta/scta-projectfiles/rh-projectdata.xml"
+    }
+  },
+  "rh-liber4": {
+    "summary": "Partial summary of Book IV of Robert Holcot's Sentences commentary. It rests on questions 1-8. It lacks the opening principium (rh-l4prin4), which has no interpretation. The questions move through the sacraments to the last things. On sacramental causality, Holcot holds throughout that God alone causes grace at the sacraments' reception and has not bound his power to them, so no sacrament is absolutely necessary, though some are necessary by divine ordination. Q1 treats baptism, with baptism of desire and many canonistic cases. Q2 holds confirmation is a sacrament needed for well-being, not salvation. Q3 holds the Eucharist's real presence on faith in divine power: Christ is present really but not locally. The question uses logical analysis of 'this is my body', a determinate intention to consecrate, and a tentative account of the remaining accidents, and it treats mass obligations; only six of its ten principal arguments are answered. Q4 holds confession is necessary by ordination, the key being authority. Q5 and Q6 take up the friars' privileges and reserved cases. Holcot sides with commissioned friars under Vas electionis and lets positive law yield to charity where reservation would betray a penitent. Q7, on satisfaction for mortal sin, revisits themes also argued in Book III: oaths bind more than vows, the condemned may flee, and annihilation can be chosen over eternal misery. Q8 closes the commentary on beatitude as Anselm's sufficiency of fitting goods. It holds that beatitude is finite and unequal and that the blessed are not certain they cannot fall.",
+    "claims": [
+      "God alone causes grace at the sacraments and has not bound his power to them.",
+      "Sacraments are necessary by divine ordination, not absolutely.",
+      "Christ is present in the Eucharist really but not locally.",
+      "Positive canon law yields to its charitable purpose.",
+      "Beatitude is a finite sufficiency of goods, unequal among the blessed."
+    ],
+    "concepts": [
+      "sacramental causality",
+      "potentia absoluta",
+      "baptism",
+      "Eucharist",
+      "real presence",
+      "penance",
+      "mendicant privileges",
+      "reserved cases",
+      "satisfaction",
+      "annihilation",
+      "beatitude"
+    ],
+    "_metadata": {
+      "level": "liber",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1",
+        "rh-l4q2",
+        "rh-l4q3",
+        "rh-l4q4",
+        "rh-l4q5",
+        "rh-l4q6",
+        "rh-l4q7",
+        "rh-l4q8"
+      ],
+      "partial": true,
+      "coverage": "8 of 9 direct children have interpretations (rh-l4prin4 lacks one)",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-13T00:00:00Z",
+      "source_commit": "3215a79",
+      "source_structure": "~/Projects/scta/scta-projectfiles/rh-projectdata.xml"
+    }
+  },
+  "holcotcommentary": {
+    "summary": "Partial summary of Robert Holcot's Commentarius in libros Sententiarum. All four books are represented, but it rests on the extant questions only (Book I q. 1-5; Book II preamble and q. 1-4; Book III q. 1; Book IV q. 1-8), not the three principia or Book II q. 5. Holcot writes free-standing questions rather than a distinction-by-distinction commentary. He combines an Ockhamist semantics of terms, mental language, connotation, supposition, and exposition with a strong emphasis on divine freedom, covenant, and concurrence. Belief is involuntary and driven by evidence and testimony. Merit, justice, and sacramental efficacy rest on God's freely established law, not on intrinsic proportion. God is a debtor only by promise, causes grace at the sacraments without being bound to them, and concurs as partial cause in every act, including sinful acts and error, while sin is defined against his precept. Natural reason cannot demonstrate God's existence, the Trinity, or the world's beginning, and the Eucharistic mystery is held on faith in divine power. Future contingents are determinately true but contingent even when revealed, and God can deceive, that is, cause error, though not lie or act unjustly. A recurring theme is that invincible error excuses and can merit: in faith, in worship, in conscience, and in Abraham's obedience. Holcot repeatedly argues that annihilation can be rationally preferred to damnation and that oaths bind more than vows (Books III and IV). Paradoxes of obligation, infinity, intention, instants, and self-reference are pressed throughout and resolved by logical analysis, with canonistic casuistry prominent in Books III and IV.",
+    "claims": [
+      "Belief is not in the will's free power.",
+      "Merit, justice, and sacramental efficacy depend on God's freely established law.",
+      "God concurs as partial cause in all acts and can cause error, but never unjustly.",
+      "God's existence, the Trinity, and the world's beginning are not demonstrable by natural reason.",
+      "Invincible error excuses and can be meritorious.",
+      "Future contingents, even revealed ones, are determinately true yet contingent."
+    ],
+    "concepts": [
+      "Sentences commentary",
+      "doxastic involuntarism",
+      "covenantal theology",
+      "voluntarism",
+      "divine concurrence",
+      "faith and reason",
+      "future contingents",
+      "invincible error",
+      "sacramental causality",
+      "annihilation",
+      "nominalist semantics",
+      "casuistry"
+    ],
+    "_metadata": {
+      "level": "work",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-liber1",
+        "rh-liber2",
+        "rh-liber3",
+        "rh-liber4"
+      ],
+      "partial": true,
+      "coverage": "4 of 4 direct children have interpretations, but rh-liber1, rh-liber2 and rh-liber4 are themselves partial",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-13T00:00:00Z",
+      "source_commit": "3215a79",
+      "source_structure": "~/Projects/scta/scta-projectfiles/rh-projectdata.xml"
+    }
+  }
+}

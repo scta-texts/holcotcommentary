@@ -1,0 +1,1952 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l4q1": {
+    "summary": "Opening Book IV, Holcot asks whether baptism duly received confers grace, and answers yes. He treats its form, matter, recipient, minister, and effects in detail and resolves sixteen canonistic and speculative cases, including river and well baptisms, conditional forms, co-baptizers, changelings, and conjoined twins. Theologically he holds that sacraments are not proper efficient causes of grace: God alone causes grace at their reception, and he is not bound to them. Personal merit yields more grace than infant baptism, and sacramental graces may differ in species. Baptism of desire suffices where the sacrament is unavailable. Against Anselm, God orders sin by remitting as well as punishing.",
+    "claims": [
+      "Baptism confers grace, God alone being its cause.",
+      "God has not bound his power to the sacraments.",
+      "Baptism of desire suffices where the sacrament is unavailable.",
+      "God orders sin by remission as well as punishment."
+    ],
+    "concepts": [
+      "baptism",
+      "sacramental causality",
+      "form and matter",
+      "conditional baptism",
+      "baptism of desire",
+      "canon law",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-Dd1e100",
+        "rh-l4q1-Dd1e121",
+        "rh-l4q1-Dd1e627",
+        "rh-l4q1-Dd1e651",
+        "rh-l4q1-Dd1e693",
+        "rh-l4q1-Dd1e959",
+        "rh-l4q1-Dd1e1141",
+        "rh-l4q1-Dd1e1256",
+        "rh-l4q1-Dd1e1313",
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-Dd1e2497"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e100": {
+    "summary": "Opening statement: whether baptism duly received confers grace.",
+    "claims": [],
+    "concepts": [
+      "baptism"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e102"
+      ]
+    }
+  },
+  "rh-l4q1-d1e102": {
+    "summary": "States the question, opening Book IV: whether baptism duly received confers grace on the baptized.",
+    "claims": [],
+    "concepts": [
+      "baptism",
+      "sacramental grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e121": {
+    "summary": "Ten principal arguments challenge baptismal grace. It would equalize unequal merits or make infants unequally rewarded (through natural nobility, confirmation, solemnity, circumcision, angelic rank). It would make sacraments create. It would profit nothing for a catechumen dying on the way, and less for disposed adults than infants. It would leave sin unpunished. Christ would have received grace from it. Requiring intention would make baptism uncertain, while a Church without believers raises the question of faith. Self-baptism would be possible.",
+    "claims": [
+      "Sacramental grace raises puzzles about equality, causation, intention, and faith."
+    ],
+    "concepts": [
+      "infant baptism",
+      "sacramental causality",
+      "intention",
+      "faith of the Church"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e123",
+        "rh-l4q1-d1e191",
+        "rh-l4q1-d1e213",
+        "rh-l4q1-d1e231",
+        "rh-l4q1-d1e240",
+        "rh-l4q1-d1e262",
+        "rh-l4q1-d1e288",
+        "rh-l4q1-d1e317",
+        "rh-l4q1-d1e326",
+        "rh-l4q1-d1e346",
+        "rh-l4q1-d1e418",
+        "rh-l4q1-d1e445",
+        "rh-l4q1-d1e495",
+        "rh-l4q1-d1e522",
+        "rh-l4q1-d1e532",
+        "rh-l4q1-d1e587",
+        "rh-l4q1-d1e607",
+        "rh-l4q1-d1e619"
+      ]
+    }
+  },
+  "rh-l4q1-d1e123": {
+    "summary": "First principal argument: then a baptized infant and a meriting adult could be rewarded equally. The infant's reward comes only from Christ's merit, shared equally by all reborn. Comparing their graces, of one species, the adult's exceeds finitely, so by sinning and repenting with ever less grace, or another adult meriting a third as much, the adult would come to equal the infant, so unequal goods would be equally rewarded.",
+    "claims": [
+      "Sacramental grace would let unequal merits receive equal reward."
+    ],
+    "concepts": [
+      "infant baptism",
+      "merit of Christ",
+      "degrees of grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-d1e191": {
+    "summary": "Second: then two baptized infants could be unequally rewarded, though Christ's merit is shared equally, and Lombard says unbaptized infants have equal punishment and baptized ones equal crowns.",
+    "claims": [
+      "Equally baptized infants should be equally rewarded."
+    ],
+    "concepts": [
+      "Lombard",
+      "infants"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-d1e213": {
+    "summary": "Proof in five ways. First: of two infants unequal in nature, the sacrament acts equally, but acts of agents are received according to the patient's disposition, so the nobler soul receives more grace.",
+    "claims": [
+      "Nobler souls would receive more sacramental grace."
+    ],
+    "concepts": [
+      "receptivity",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121",
+        "rh-l4q1-d1e191"
+      ]
+    }
+  },
+  "rh-l4q1-d1e231": {
+    "summary": "Confirmation: God gave grace to angels at creation according to their natural differences (Lombard II d. 3).",
+    "claims": [
+      "Angelic grace followed natural endowments."
+    ],
+    "concepts": [
+      "Lombard",
+      "angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121",
+        "rh-l4q1-d1e213"
+      ]
+    }
+  },
+  "rh-l4q1-d1e240": {
+    "summary": "Second: of two infants baptized together, one also confirmed, the confirmed has more grace and so more glory.",
+    "claims": [
+      "Confirmation would add grace and glory."
+    ],
+    "concepts": [
+      "confirmation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121",
+        "rh-l4q1-d1e191"
+      ]
+    }
+  },
+  "rh-l4q1-d1e262": {
+    "summary": "Third: an infant baptized by a pagan in necessity without ceremony and one baptized solemnly by a saint in church either receive equal grace, so the ceremonies are in vain, or not.",
+    "claims": [
+      "Ceremonies would be vain if grace were equal."
+    ],
+    "concepts": [
+      "solemnity of baptism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121",
+        "rh-l4q1-d1e191"
+      ]
+    }
+  },
+  "rh-l4q1-d1e288": {
+    "summary": "Fourth: a circumcised and a baptized infant, both saved, either have equal reward, so circumcision conferred as much as baptism, against Lombard, or not, so unequal grace.",
+    "claims": [
+      "Circumcision and baptism would confer equal or unequal grace."
+    ],
+    "concepts": [
+      "circumcision",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121",
+        "rh-l4q1-d1e191"
+      ]
+    }
+  },
+  "rh-l4q1-d1e317": {
+    "summary": "Fifth: a dying infant is raised to the level of some angelic order, so rewarded equally with an angel who merited.",
+    "claims": [
+      "Infants would equal meriting angels."
+    ],
+    "concepts": [
+      "angelic orders"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121",
+        "rh-l4q1-d1e191"
+      ]
+    }
+  },
+  "rh-l4q1-d1e326": {
+    "summary": "Third principal argument: baptism would be an efficient cause of grace, so a creature could create. Either it effects nothing in the soul and so does not cause grace, or something, and so causes it.",
+    "claims": [
+      "Sacramental causation of grace would be creaturely creation."
+    ],
+    "concepts": [
+      "sacramental causality",
+      "creation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-d1e346": {
+    "summary": "Confirmation: baptism creates a character, a real thing. If there is no virtue in new-law sacraments they are no nobler than the old; if there is, it is in the syllables either wholly in each, so the first syllable would cause grace, and 'I baptize you' alone would baptize, or part in part, and then never exists, being successive. And a minister who changes intention midway does not baptize, so the virtue is not in the words.",
+    "claims": [
+      "A virtue in sacramental words is incoherent."
+    ],
+    "concepts": [
+      "virtue in sacraments",
+      "successive words",
+      "intention of minister"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121",
+        "rh-l4q1-d1e326"
+      ]
+    }
+  },
+  "rh-l4q1-d1e418": {
+    "summary": "Fourth principal argument: two catechumens equal in faith and devotion, one dying on the way and the other baptized and dying, are either equally rewarded, so baptism profited nothing, or not, though the unbaptized was not at fault.",
+    "claims": [
+      "Baptism would profit nothing or penalize the blameless."
+    ],
+    "concepts": [
+      "baptism of desire",
+      "catechumens"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-d1e445": {
+    "summary": "Fifth: baptism should profit an adult more than an infant, given his greater disposition, but it profits him less, since the infant is saved from losing the vision of God while the adult desiring baptism is already worthy of eternal life (Cornelius).",
+    "claims": [
+      "Baptism profits infants more than disposed adults."
+    ],
+    "concepts": [
+      "Cornelius",
+      "desire for baptism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-d1e495": {
+    "summary": "Sixth: then baptism would remove guilt and satisfactory punishment, leaving something unpunished and disordered, against Anselm, since a far worse sinner with equal contrition is equally forgiven.",
+    "claims": [
+      "Baptismal remission would leave sin unpunished."
+    ],
+    "concepts": [
+      "Anselm",
+      "remission of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-d1e522": {
+    "summary": "Seventh: then baptism would have conferred grace on Christ's soul.",
+    "claims": [
+      "Christ would have received grace from baptism."
+    ],
+    "concepts": [
+      "baptism of Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-d1e532": {
+    "summary": "Eighth: if the minister's intention is required, no one would know whether he is baptized, and a distracted or drunk priest or children baptizing in play would not baptize. Ninth: if no believer existed in the Church militant and a pagan baptized with proper form and intention, he would baptize, yet Augustine says the word works 'not because it is said but because it is believed'.",
+    "claims": [
+      "Requiring intention makes baptism uncertain.",
+      "Baptism seems to require someone's faith."
+    ],
+    "concepts": [
+      "intention of minister",
+      "Augustine",
+      "faith of the Church"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-d1e587": {
+    "summary": "Confirmation: Lombard says an infant is not baptized without faith; and it is said faith cannot fail in the Church militant (Matthew 28). Against: the whole Church could be three persons who apostatize or are killed, and the synagogue was once the Church and is now wholly changed, so the case is possible.",
+    "claims": [
+      "The whole Church could lose faith."
+    ],
+    "concepts": [
+      "indefectibility of the Church",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121",
+        "rh-l4q1-d1e532"
+      ]
+    }
+  },
+  "rh-l4q1-d1e607": {
+    "summary": "Tenth: then one could meritoriously baptize oneself, as a devout catechumen in danger of death, which is false.",
+    "claims": [
+      "Self-baptism would be possible."
+    ],
+    "concepts": [
+      "self-baptism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-d1e619": {
+    "summary": "For the opposite: Lombard IV and the faith of the universal Church.",
+    "claims": [
+      "Baptism confers grace."
+    ],
+    "concepts": [
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e121"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e627": {
+    "summary": "Holcot affirms that baptism confers grace and outlines eight points.",
+    "claims": [
+      "Baptism confers grace."
+    ],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "divisio quaestionis",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e632"
+      ]
+    }
+  },
+  "rh-l4q1-d1e632": {
+    "summary": "Holcot answers yes and announces eight points: the essentials, the form, the matter, the recipient, the minister, the effects, doubts, and replies.",
+    "claims": [
+      "Baptism duly received confers grace."
+    ],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e627"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e651": {
+    "summary": "Sacraments require matter, form, and an intending minister; for baptism, the Trinitarian form, natural water, intention, faith, and one person immersing and speaking.",
+    "claims": [
+      "Baptism requires form, water, and intention."
+    ],
+    "concepts": [
+      "matter and form"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e656"
+      ]
+    }
+  },
+  "rh-l4q1-d1e656": {
+    "summary": "Every sacrament essentially requires matter, form, and a minister with intention. For baptism: the prescribed form 'I baptize you in the name of the Father and of the Son and of the Holy Spirit', natural water as matter, an intending minister, faith proper or another's, immersion and utterance by one person, following Thomas and others.",
+    "claims": [
+      "Sacraments require matter, form, and an intending minister."
+    ],
+    "concepts": [
+      "matter and form",
+      "intention",
+      "Thomas Aquinas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e651"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e693": {
+    "summary": "Holcot details the baptismal form and how changes in substance, quantity, or order affect validity: changed signification or heretical additions invalidate, while vernacular translation, simple corruption, devout additions, and small interruptions do not.",
+    "claims": [
+      "Changes preserving the form's signification do not invalidate."
+    ],
+    "concepts": [
+      "baptismal form",
+      "alterations"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e698",
+        "rh-l4q1-d1e804",
+        "rh-l4q1-d1e817",
+        "rh-l4q1-d1e867",
+        "rh-l4q1-d1e914"
+      ]
+    }
+  },
+  "rh-l4q1-d1e698": {
+    "summary": "The form is set by Pope Alexander: immersing in the Trinity's name without 'I baptize you' does not baptize. 'Amen' is not essential. It contains invocation of the Trinity, the exercised act 'baptize', the baptizer 'I' (by ecclesiastical institution, omission sinful but not invalidating), and the person 'you'. It must be said wholly by one who also immerses, since sacraments are of unity. Changed signification invalidates, as 'Genitor, Genitus, Flamen' would. Baptism in Christ's name alone was once licit to promote faith. Priests should teach the form in the vernacular, and vernacular forms with a Latin Trinitarian clause are valid if said once.",
+    "claims": [
+      "The baptismal form requires invoking the Trinity and expressing the act.",
+      "The same person must speak and immerse.",
+      "Changed signification invalidates the form."
+    ],
+    "concepts": [
+      "baptismal form",
+      "Alexander III",
+      "unity of sacraments",
+      "vernacular"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e693"
+      ]
+    }
+  },
+  "rh-l4q1-d1e804": {
+    "summary": "Changes to the form occur in substance, quantity, or order of words.",
+    "claims": [
+      "Form changes are of substance, quantity, or order."
+    ],
+    "concepts": [
+      "alterations of form"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e693"
+      ]
+    }
+  },
+  "rh-l4q1-d1e817": {
+    "summary": "In substance: changing the whole wording with the same signification, as in another language, does not harm; changing signification does. Partial corruption that preserves meaning by usage, especially among the simple, is valid, as Pope Zachary held of 'in nomine patria et filia et spiritua sancta'.",
+    "claims": [
+      "Corrupt Latin preserving meaning is valid."
+    ],
+    "concepts": [
+      "Pope Zachary",
+      "linguistic corruption"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e693",
+        "rh-l4q1-d1e804"
+      ]
+    }
+  },
+  "rh-l4q1-d1e867": {
+    "summary": "In quantity: additions intended to change the Church's form or introduce error (as Arius's 'greater Father, lesser Son') invalidate; devout simple additions like 'and of the Blessed Virgin' do not, though better avoided. Voluntary omissions invalidate; involuntary ones, as when the minister dies mid-form, are piously believed supplied by the high priest, and the child if it lives should be rebaptized conditionally.",
+    "claims": [
+      "Heretical additions invalidate; devout ones do not.",
+      "Involuntary omissions may be supplied by Christ."
+    ],
+    "concepts": [
+      "Arius",
+      "conditional baptism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e693",
+        "rh-l4q1-d1e804"
+      ]
+    }
+  },
+  "rh-l4q1-d1e914": {
+    "summary": "In order: transposition from simplicity does not harm, from malice does; small interruptions like a sneeze or the child's name do not, large ones that break the unity of utterance do. So six ways: subtracting, adding, interposing, transposing, commuting, corrupting.",
+    "claims": [
+      "Small interruptions do not invalidate; large ones do."
+    ],
+    "concepts": [
+      "word order",
+      "unity of utterance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e693",
+        "rh-l4q1-d1e804"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e959": {
+    "summary": "Natural water, even loosely mixed, is the matter, not urine, beer, or rosewater, which differ in species. Water's properties symbolize baptism's effects, and Christ could have chosen air.",
+    "claims": [
+      "Natural water is the matter of baptism."
+    ],
+    "concepts": [
+      "water",
+      "mixture",
+      "symbolism"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e964",
+        "rh-l4q1-d1e975",
+        "rh-l4q1-d1e986",
+        "rh-l4q1-d1e995",
+        "rh-l4q1-d1e1009",
+        "rh-l4q1-d1e1055",
+        "rh-l4q1-d1e1102",
+        "rh-l4q1-d1e1118",
+        "rh-l4q1-d1e1129"
+      ]
+    }
+  },
+  "rh-l4q1-d1e964": {
+    "summary": "Natural water is the matter (John 3).",
+    "claims": [
+      "Natural water is baptism's matter."
+    ],
+    "concepts": [
+      "matter of baptism",
+      "John 3"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e959"
+      ]
+    }
+  },
+  "rh-l4q1-d1e975": {
+    "summary": "Objection: water is always mixed with earth (Aristotle, Meteorology II), so baptism is never in elemental water.",
+    "claims": [
+      "Natural water is always mixed."
+    ],
+    "concepts": [
+      "Aristotle",
+      "mixture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e959",
+        "rh-l4q1-d1e964"
+      ]
+    }
+  },
+  "rh-l4q1-d1e986": {
+    "summary": "Further: rosewater has the same accidents (cold, moist, transparent), so is the same species as water.",
+    "claims": [
+      "Rosewater seems the same species as water."
+    ],
+    "concepts": [
+      "rosewater"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e959",
+        "rh-l4q1-d1e964"
+      ]
+    }
+  },
+  "rh-l4q1-d1e995": {
+    "summary": "Further: the water from Christ's side, signifying baptism's matter, was not pure element, since elements do not exist in mixtures.",
+    "claims": [
+      "The water from Christ's side was not elemental."
+    ],
+    "concepts": [
+      "water from Christ's side"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e959",
+        "rh-l4q1-d1e964"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1009": {
+    "summary": "Further: air would be more fitting, being more common. Reply: baptism is the bodily washing in water of a man not reborn nor resisting, by one uttering the due words with due intention. Water fits by transparency (illumination by faith), moistness (cleansing from sin), coldness (cooling concupiscence), aiding generation and growth (spiritual regeneration), and availability (necessity of baptism).",
+    "claims": [
+      "Water's properties signify baptism's effects.",
+      "Baptism is a washing in water with words and intention."
+    ],
+    "concepts": [
+      "definition of baptism",
+      "sacramental symbolism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e959",
+        "rh-l4q1-d1e964"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1055": {
+    "summary": "Reply to the first: mixture properly removes the ingredients' species; loosely it is juxtaposition of parts that keep their species. Water mixed in the second way, like seawater, lye, thermal or sulphur water, suffices; not urine or good beer, where water does not remain.",
+    "claims": [
+      "Water loosely mixed remains valid matter.",
+      "Urine and good beer are not valid matter."
+    ],
+    "concepts": [
+      "proper and loose mixture",
+      "seawater",
+      "beer"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e959",
+        "rh-l4q1-d1e975"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1102": {
+    "summary": "Reply to the second: rosewater differs in species from water, as its distinct operations show, even if some qualities are alike.",
+    "claims": [
+      "Rosewater differs in species from water."
+    ],
+    "concepts": [
+      "species by operations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e959",
+        "rh-l4q1-d1e986"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1118": {
+    "summary": "Reply to the third: some say the water from Christ's side was elemental, miraculously resolved so quickly.",
+    "claims": [
+      "The water from Christ's side was miraculously elemental."
+    ],
+    "concepts": [
+      "miracle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e959",
+        "rh-l4q1-d1e995"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1129": {
+    "summary": "Reply to the fourth: baptism could have been instituted with air had Christ pleased, but air is not so tangible or sensible as water (Albert).",
+    "claims": [
+      "Christ could have chosen air but water is more sensible."
+    ],
+    "concepts": [
+      "Albert the Great",
+      "divine institution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e959",
+        "rh-l4q1-d1e1009"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e1141": {
+    "summary": "Holcot sets out conditions for recipients: an infant at least partly born; the insane treated like infants or by prior intention; sane adults with intention and faith. Coercion invalidates, and mixed will receives the sacrament without its reality.",
+    "claims": [
+      "Recipients need birth or, if adult, intention and faith."
+    ],
+    "concepts": [
+      "recipient of baptism"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e1146"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1146": {
+    "summary": "Recipient: an infant need only be born and separated from the mother wholly or partly; in danger of death, if the head appears it may be baptized, being the principal part, while baptizing a limb is doubtful but harmless, followed by conditional baptism. The sanctified in the womb must be baptized for the character. A child wholly in the womb cannot be baptized, nor through its mother. Perpetually insane adults are as infants; those with lucid intervals require prior intention, and those who opposed it before sleep or madness are not baptized. A sane adult needs intention, faith, and will to receive; absolute coercion yields nothing, but mixed will receives the sacrament without its reality.",
+    "claims": [
+      "An infant must be at least partly born to be baptized.",
+      "Sane adults need intention and faith.",
+      "Mixed will receives the sacrament but not its reality."
+    ],
+    "concepts": [
+      "recipient of baptism",
+      "birth",
+      "insanity",
+      "coercion",
+      "sacramentum and res"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1141"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e1256": {
+    "summary": "Priests ordinarily baptize, but in necessity anyone with the Church's intention, even an unbeliever. Unworthy ministers are to be avoided except in danger of death.",
+    "claims": [
+      "Anyone can baptize in necessity."
+    ],
+    "concepts": [
+      "minister of baptism"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e1261",
+        "rh-l4q1-d1e1290"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1261": {
+    "summary": "Minister: regularly only a priest, and in order of precedence priest, cleric, layman, man before woman; in necessity anyone, good or bad, believer or unbeliever, intending to do as the Church does, even believing nothing, man or woman.",
+    "claims": [
+      "In necessity anyone can baptize with the Church's intention.",
+      "Even an unbeliever can baptize validly."
+    ],
+    "concepts": [
+      "minister of baptism",
+      "intention of the Church"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1256"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1290": {
+    "summary": "Sacraments should not be received from heretics, excommunicates, simoniacs, or notorious fornicators except in danger of death. A bad angel cannot baptize; if a good one did, with the Church's knowledge, it should not be repeated.",
+    "claims": [
+      "Avoid unworthy ministers except in necessity.",
+      "A good angel's baptism would be valid."
+    ],
+    "concepts": [
+      "unworthy ministers",
+      "angelic ministers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1256",
+        "rh-l4q1-d1e1261"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e1313": {
+    "summary": "Baptism remits original and actual sin and its punishment, infuses or increases grace, and impresses a character.",
+    "claims": [
+      "Baptism's effects are remission, grace, and character."
+    ],
+    "concepts": [
+      "effects of baptism"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e1318"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1318": {
+    "summary": "Effects: deletion of original and actual sin, infusion or increase of grace, remission of satisfactory punishment, and impression of the character.",
+    "claims": [
+      "Baptism remits sin and punishment, gives grace, and impresses a character."
+    ],
+    "concepts": [
+      "effects of baptism",
+      "character"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1313"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e1337": {
+    "summary": "Sixteen practical cases are resolved: foundlings, children thrown into rivers or lowered into wells, conditional forms (future conditions invalidate), simultaneous baptism by two, division between a mute and a man without hands (essentials cannot be divided), omission of the cross, payment, souls placed in new bodies (God is not bound to sacraments), unbaptized priests (desire and good faith suffice, God supplies), evidence of baptism, raised martyrs, mistaken persons, simony, changelings, and conjoined twins.",
+    "claims": [
+      "Future conditions invalidate the baptismal form.",
+      "Essential sacramental acts cannot be divided.",
+      "God is not bound to the sacraments.",
+      "Desire for baptism can suffice."
+    ],
+    "concepts": [
+      "casus",
+      "conditional baptism",
+      "baptism of desire",
+      "changelings",
+      "canon law"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e1342",
+        "rh-l4q1-d1e1352",
+        "rh-l4q1-d1e1388",
+        "rh-l4q1-d1e1436",
+        "rh-l4q1-d1e1483",
+        "rh-l4q1-d1e1527",
+        "rh-l4q1-d1e1577",
+        "rh-l4q1-d1e1595",
+        "rh-l4q1-d1e1604",
+        "rh-l4q1-d1e1617",
+        "rh-l4q1-d1e1656",
+        "rh-l4q1-d1e1721",
+        "rh-l4q1-d1e1743",
+        "rh-l4q1-d1e1767",
+        "rh-l4q1-d1e1785",
+        "rh-l4q1-d1e1803",
+        "rh-l4q1-d1e1918",
+        "rh-l4q1-d1e1929",
+        "rh-l4q1-d1e1949",
+        "rh-l4q1-d1e1965",
+        "rh-l4q1-d1e2037",
+        "rh-l4q1-d1e2182",
+        "rh-l4q1-d1e2264",
+        "rh-l4q1-d1e2299",
+        "rh-l4q1-d1e2356",
+        "rh-l4q1-d1e2416",
+        "rh-l4q1-d1e2453"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1342": {
+    "summary": "Seventh article: doubts about possible cases.",
+    "claims": [],
+    "concepts": [
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1352": {
+    "summary": "First: a foundling with no evidence of baptism should be baptized conditionally, out of reverence for the sacrament and to avoid irregularity from rebaptism: 'if you are baptized I do not rebaptize you; if not, I baptize you...'.",
+    "claims": [
+      "Foundlings are baptized conditionally."
+    ],
+    "concepts": [
+      "conditional baptism",
+      "irregularity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1388": {
+    "summary": "Second: someone sees an infant will die before crossing a high bridge, throws it into the water with the form and intent to baptize, and it survives. It is not baptized, since baptism is a washing that covers then uncovers (burial and resurrection), and the throw was not ordered to washing; at least it should be baptized conditionally, and if it died it would probably be saved, God approving what was imperfectly done.",
+    "claims": [
+      "Throwing a child into a river is not a baptismal washing.",
+      "God may approve an imperfect act of necessity."
+    ],
+    "concepts": [
+      "definition of washing",
+      "casus",
+      "divine acceptance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1436": {
+    "summary": "Third: lowering a dying child into a well in a basket and drawing it up with the form and intent baptizes it, since necessity is satisfied and immediate touch is not required; immersion is not necessary, sprinkling suffices, and the amount of water does not matter.",
+    "claims": [
+      "Immersion is not necessary; sprinkling suffices."
+    ],
+    "concepts": [
+      "mode of baptism",
+      "necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1483": {
+    "summary": "Fourth: a dying infant of unbelievers is baptized with 'I baptize you if your father consents'. Is it baptized? Additions not corrupting the form are licit, and the form admits conditions, as in doubtful cases.",
+    "claims": [
+      "Conditional forms are sometimes licit."
+    ],
+    "concepts": [
+      "conditional baptism",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1527": {
+    "summary": "The condition is honest and possible, and impossible or base conditions in marriage are disregarded, so a fortiori in baptism. But if it is baptized, its soul is in heaven, yet the father could later dissent, making it never baptized and never blessed, which is impossible.",
+    "claims": [
+      "A future-dependent condition would let the father undo the child's salvation."
+    ],
+    "concepts": [
+      "matrimonial conditions",
+      "future contingents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1483"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1577": {
+    "summary": "Reply: whatever the father does, the child is not baptized, since when the condition is met the child has left the forum of the Church militant and is no longer capable of the sacrament. Any condition must be compatible with the child's being in the Church militant.",
+    "claims": [
+      "Baptismal conditions must be fulfillable while the recipient lives."
+    ],
+    "concepts": [
+      "forum of the Church militant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1527"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1595": {
+    "summary": "Objection: those who die excommunicate can be absolved after death (X de sent. excomm.).",
+    "claims": [
+      "Posthumous absolution is possible."
+    ],
+    "concepts": [
+      "excommunication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1577"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1604": {
+    "summary": "Reply: jurisdiction and sacraments differ; no one is ordained, baptized, or confirmed after death, though for deeds in life something can be done after death.",
+    "claims": [
+      "Sacraments cannot be received after death."
+    ],
+    "concepts": [
+      "jurisdiction and sacrament"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1595"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1617": {
+    "summary": "Alternatively, no sacrament admits a condition except of the present, for its required certainty. Holcot holds simply that the child is not baptized, since the condition contradicts the form's signification of a present act.",
+    "claims": [
+      "Future conditions contradict the sacramental form's present signification."
+    ],
+    "concepts": [
+      "present tense of form",
+      "certainty of sacraments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1527"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1656": {
+    "summary": "Fifth: two blind priests, John and Peter, simultaneously baptize one child, each saying 'I baptize you if no one else is now baptizing you'. If by both, he is irregular (twice baptized), has two characters, double grace. If by one, which? If by neither, the condition is licit and each says the form.",
+    "claims": [
+      "Simultaneous conditional baptism by two yields paradox."
+    ],
+    "concepts": [
+      "insolubilia",
+      "casus",
+      "character"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1721": {
+    "summary": "Reply to the first version: such a condition corrupts the form's signification here and now, so is contrary to baptism's effect and invalid even if fulfilled, as in marriage with 'if you will always be an adulteress'. So generally for all insolubilia in legal cases.",
+    "claims": [
+      "Self-defeating conditions invalidate the sacrament."
+    ],
+    "concepts": [
+      "insolubilia",
+      "matrimonial conditions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1656"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1743": {
+    "summary": "If both say the form absolutely, the child is baptized; he is not irregular, since this is not repetition of a prior sacrament as the canon intends, and penal canons are not to be extended.",
+    "claims": [
+      "Simultaneous baptism by two is not rebaptism.",
+      "Penal canons are not extended."
+    ],
+    "concepts": [
+      "irregularity",
+      "interpretation of penal law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1656"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1767": {
+    "summary": "Only one character is impressed by God and no more grace given than by one baptizer, since the words are not total efficient causes but only dispositive, and one effect may have two dispositive causes, especially when the principal agent is voluntary.",
+    "claims": [
+      "Sacramental words are dispositive, not efficient, causes."
+    ],
+    "concepts": [
+      "dispositive causality",
+      "character"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1656"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1785": {
+    "summary": "If two intend together to baptize one, each should say 'I baptize you', not 'we baptize', beginning and ending together, else it would be interpretative repetition; but if they said 'we' from simplicity, he is baptized.",
+    "claims": [
+      "Co-baptizers should each say the singular form."
+    ],
+    "concepts": [
+      "form of co-baptism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1656"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1803": {
+    "summary": "Sixth: a mute immerses and a man without hands says the words. It seems not baptism, since the speaker would assert a false act and sacraments of unity must not be divided. Against: Matthew 28 does not require one baptizer, and in Mass, episcopal consecration, and extreme unction one can complete another's imperfect act. Reply: two imperfect sacraments do not make one perfect; what is necessary is not divided, only what is solemn. A priest who said only 'hoc est' should not be completed by another saying 'corpus meum'; the form must be restarted, as shown by the bishop who only laid on hands while a priest blessed, whose ordinands lost their orders.",
+    "claims": [
+      "Essential sacramental parts cannot be divided between ministers.",
+      "Only solemn elements may be completed by another."
+    ],
+    "concepts": [
+      "unity of sacraments",
+      "Eucharistic form",
+      "ordination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1918": {
+    "summary": "Confirmation: asserting an act done by one who did not do it derogates from the sacrament; better the man without hands sprinkle the water himself.",
+    "claims": [
+      "The speaker should also perform the washing."
+    ],
+    "concepts": [
+      "unity of minister"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1803"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1929": {
+    "summary": "Seventh: baptizing with due form and matter but without the sign of the cross is valid, the requirement concerning fittingness, not necessity, as the gloss says.",
+    "claims": [
+      "The sign of the cross is not necessary."
+    ],
+    "concepts": [
+      "sign of the cross",
+      "gloss"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1949": {
+    "summary": "Eighth: if a priest refuses to baptize a dying child without payment, nothing should be given; one should act as if no priest were present.",
+    "claims": [
+      "No payment may be given for baptism."
+    ],
+    "concepts": [
+      "simony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e1965": {
+    "summary": "Ninth: if God put a damned soul in an infant's body, or Peter's soul in Paul's resurrected body, or created a man wholly new, should they be baptized? A new man cannot be reborn, never having been born of Adam; then is he necessarily damned (John 3)? Reply: sacraments are instituted for common propagation; these cases are singular, God has not bound his power to the sacraments and can act or suspend their effects as he pleases, and in such cases we must implore divine counsel (Augustine).",
+    "claims": [
+      "Sacraments are instituted for ordinary propagation, not singular cases.",
+      "God has not bound his power to the sacraments."
+    ],
+    "concepts": [
+      "Deus non alligavit virtutem suam sacramentis",
+      "casus",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2037": {
+    "summary": "Tenth: an unbaptized man ordained priest, believing himself baptized (X de presbytero non baptizato). Is he damned? He is excused by invincible ignorance, though Augustine says a catechumen dying without baptism is not saved unless by martyrdom. Holcot: Augustine means one who does not seek baptism through defect of faith; one who believed himself baptized need not seek it, and desire for baptism suffices for one in a desert. His priestly acts done in good faith are ratified by the high priest, though better to say God, not he, consecrates. If later proved unbaptized he must be baptized and reordained, without irregularity.",
+    "claims": [
+      "Invincible ignorance excuses one wrongly believing himself baptized.",
+      "Desire for baptism can suffice.",
+      "Acts of an unbaptized priest in good faith are supplied by God."
+    ],
+    "concepts": [
+      "baptism of desire",
+      "invincible ignorance",
+      "Ecclesia supplet",
+      "reordination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2182": {
+    "summary": "Eleventh: should an adult claiming baptism without witnesses be believed? For communion and common life, yes, if he answers Catholically, unless to another's prejudice; one witness suffices for baptism, unlike orders. In judicial contexts (deposition, divorce, legacies conditioned on being Christian) one witness does not suffice. Those raised among Christians of Christian parents are presumed baptized.",
+    "claims": [
+      "A single witness suffices for baptism outside litigation.",
+      "Those raised among Christians are presumed baptized."
+    ],
+    "concepts": [
+      "evidence of baptism",
+      "presumption",
+      "canon law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2264": {
+    "summary": "Twelfth: a martyred catechumen miraculously raised should be baptized, because of the Church's precept and Christ's ordinance (John 3), as those sanctified in the womb are, for the character.",
+    "claims": [
+      "A raised martyr must still be baptized."
+    ],
+    "concepts": [
+      "martyrdom",
+      "character"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2299": {
+    "summary": "Thirteenth: one intending to baptize a boy baptizes a girl; or a blind priest intending to baptize John today and William tomorrow is tricked into baptizing William today. Holcot holds that distinct intention of the person is not required, only the intention to baptize, as one ordained by stealth receives orders; in doubt, baptize conditionally.",
+    "claims": [
+      "Intention to baptize need not specify the person."
+    ],
+    "concepts": [
+      "intention of minister",
+      "error of person"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2356": {
+    "summary": "Fourteenth: one knowingly baptized simoniacally. Penance for simony requires renouncing the thing or its exercise, which would mean apostasy. Holcot: such baptism can profit by penance; renunciation is required only for things not necessary for salvation, which baptism and Christian life are not.",
+    "claims": [
+      "Simoniacal baptism can profit through penance.",
+      "Renunciation applies only to things not necessary for salvation."
+    ],
+    "concepts": [
+      "simony",
+      "penance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2416": {
+    "summary": "Fifteenth: changelings, children women say spirits swap. Perhaps the child was stolen from elsewhere, or a bad angel takes a child's likeness for a time, since such children sometimes vanish and do unnatural things. They should be baptized under a double condition: 'if you are not baptized and are capable of baptism'.",
+    "claims": [
+      "Changelings should be baptized under a double condition."
+    ],
+    "concepts": [
+      "changelings",
+      "demons",
+      "conditional baptism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2453": {
+    "summary": "Sixteenth: a two-headed monster. If clearly two rational souls (two heads, chests, necks, so two hearts), baptize as two, preferably separately; if doubtful, baptize one and then the other conditionally, as the Summa confessorum attributes to Thomas, though Holcot doubts it is his.",
+    "claims": [
+      "Conjoined twins with two souls are baptized as two."
+    ],
+    "concepts": [
+      "monsters",
+      "conditional baptism",
+      "Summa confessorum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e1337",
+        "rh-l4q1-d1e1342"
+      ]
+    }
+  },
+  "rh-l4q1-Dd1e2497": {
+    "summary": "Holcot replies to the principal arguments. Grace due to personal merit exceeds infant baptismal grace, and there is a minimal free-standing meritorious act. Sacramental graces may differ in species. Infants are equally rewarded under present law. God alone causes grace, and sacraments do so only metaphorically. The minister's worthiness is irrelevant. Circumcision equally made infants worthy of eternal life. Baptism of desire suffices when the sacrament is unavailable. God orders sin by remitting as well as punishing. John's baptism gave no grace. Infants are baptized in the faith of the Church militant or triumphant.",
+    "claims": [
+      "God alone causes sacramental grace.",
+      "Personal merit gives more grace than infant baptism.",
+      "God orders sin by remitting as well as punishing."
+    ],
+    "concepts": [
+      "sacramental causality",
+      "merit",
+      "baptism of desire",
+      "Anselm",
+      "circumcision"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q1-d1e2502",
+        "rh-l4q1-d1e2505",
+        "rh-l4q1-d1e2585",
+        "rh-l4q1-d1e2622",
+        "rh-l4q1-d1e2643",
+        "rh-l4q1-d1e2707",
+        "rh-l4q1-d1e2716",
+        "rh-l4q1-d1e2740",
+        "rh-l4q1-d1e2758",
+        "rh-l4q1-d1e2780",
+        "rh-l4q1-d1e2822",
+        "rh-l4q1-d1e2842",
+        "rh-l4q1-d1e2862",
+        "rh-l4q1-d1e2880",
+        "rh-l4q1-d1e2896",
+        "rh-l4q1-d1e2912",
+        "rh-l4q1-d1e2958",
+        "rh-l4q1-d1e2967",
+        "rh-l4q1-d1e3026",
+        "rh-l4q1-d1e3046",
+        "rh-l4q1-d1e3088",
+        "rh-l4q1-d1e3130",
+        "rh-l4q1-d1e3173",
+        "rh-l4q1-d1e3257",
+        "rh-l4q1-d1e3270"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2502": {
+    "summary": "Eighth article: replies to the principal arguments.",
+    "claims": [],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2505": {
+    "summary": "Reply to the first: the consequent is not impossible, but one may deny the inference. Any grace due to personal merit exceeds baptismal grace, so a catechumen meriting before baptism has more grace than a baptized infant. Linus cannot repent with ever smaller grace down to the infant's, since contrition merits justification de congruo and there is a minimal per se meritorious act, whose grace exceeds the infant's, though every part of a meritorious act is meritorious.",
+    "claims": [
+      "Grace due to personal merit exceeds infant baptismal grace.",
+      "There is a minimal free-standing meritorious act."
+    ],
+    "concepts": [
+      "meritum de congruo",
+      "minimal meritorious act",
+      "infant grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e123"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2585": {
+    "summary": "Objection: the will can always make a lesser act. Reply: granted, but it would not be meritorious; parts of a meritorious act are meritorious, yet none existing alone would be, as the smallest fire able to heat wood at a foot works through halves that alone would not, or a visible log at a distance.",
+    "claims": [
+      "Parts of a meritorious act are meritorious only within the whole."
+    ],
+    "concepts": [
+      "minima naturalia",
+      "threshold effects"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e2505"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2622": {
+    "summary": "Or one may grant the conclusion: a catechumen might merit before baptism exactly as much grace as an infant receives, or a sinner be so remissly contrite as to have no more.",
+    "claims": [
+      "An adult might merit exactly the infant's grace."
+    ],
+    "concepts": [
+      "remiss contrition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e123"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2643": {
+    "summary": "Or these graces are not comparable, differing in species: Thomas distinguishes baptismal, confirmational, and virtuous graces by their effects, as magnificence differs from liberality; sanctifying grace is a genus whose species are the sacramental graces.",
+    "claims": [
+      "According to Thomas, sacramental graces differ in species."
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "species of grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e123"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2707": {
+    "summary": "Objection: let the adult's grace be ac and the infant's ab; the adult exceeds by bc.",
+    "claims": [
+      "Graces form a single latitude."
+    ],
+    "concepts": [
+      "latitude of forms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e2643"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2716": {
+    "summary": "Reply: the adult can sin and have ever less grace than ac by infinitely many proportional parts of bc, yet never as little as ab; if ab is half of ac he can have a half but not a tenth.",
+    "claims": [
+      "Grace can decrease infinitely without reaching a lower bound."
+    ],
+    "concepts": [
+      "proportional parts",
+      "bounded decrease"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e2707"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2740": {
+    "summary": "Objection: any grace can be halved, so eventually ab is reached. Reply: denied; though there is no minimum, there is some grace that cannot be halved, another that cannot be thirded, and so on.",
+    "claims": [
+      "Grace has no minimum yet not every grace can be halved."
+    ],
+    "concepts": [
+      "maxima and minima",
+      "limits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e2716"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2758": {
+    "summary": "Reply to the second principal argument: the conclusion is not impossible for God, but under present law both consequent and inference are denied.",
+    "claims": [
+      "Infants are equally rewarded under present law."
+    ],
+    "concepts": [
+      "lex statuta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e191"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2780": {
+    "summary": "To the first medium: all souls are equal in perfection, unequal only in bodily disposition. Against this is an article condemned at Paris that it is unfitting to posit some intellects nobler than others, since souls would then be of different species and Christ's soul no nobler than Judas's; Holcot does not believe we must hold that determination in every case.",
+    "claims": [
+      "All rational souls are equal in natural perfection.",
+      "Holcot doubts the force of a Paris condemnation."
+    ],
+    "concepts": [
+      "equality of souls",
+      "Condemnation of 1277"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e213"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2822": {
+    "summary": "Alternatively: the sacrament does not cause grace except metaphorically; God causes grace when the sacrament is freely received, more or less as he pleases, whatever the soul's nobility.",
+    "claims": [
+      "God alone causes sacramental grace."
+    ],
+    "concepts": [
+      "occasionalist sacramental causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e213"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2842": {
+    "summary": "To the second medium: probably the confirmed infant will be more blessed, sharing Christ's merit in more ways, as the gloss on De consecratione d. 5 says.",
+    "claims": [
+      "A confirmed infant may receive more glory."
+    ],
+    "concepts": [
+      "confirmation",
+      "merit of Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e240"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2862": {
+    "summary": "Or confirmational grace is not univocal with baptismal and makes one not worthier of eternal life but stronger in confessing the faith.",
+    "claims": [
+      "Confirmational grace strengthens rather than increases worthiness."
+    ],
+    "concepts": [
+      "species of grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e240"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2880": {
+    "summary": "To the third: infants baptized by a holy bishop or a wicked pagan have equal grace, since the minister's malice does not harm the sacrament.",
+    "claims": [
+      "The minister's worthiness does not affect sacramental grace."
+    ],
+    "concepts": [
+      "ex opere operato",
+      "Donatism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e262"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2896": {
+    "summary": "Or God might, at a holy man's prayers, give one infant more reward, not because his baptism is better but because baptism with a saint's prayer is better.",
+    "claims": [
+      "Holy ministers' prayers may add benefit."
+    ],
+    "concepts": [
+      "intercession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e262"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2912": {
+    "summary": "To the fourth: circumcised and baptized infants rejoice equally; circumcision cleansed infants of original sin as baptism does (De consecratione d. 4). Lombard's claim of greater baptismal grace concerns graces of different species, alike making infants worthy of eternal life, baptismal grace more perfect for moral life and, per Thomas, given to women as well as men.",
+    "claims": [
+      "Circumcision and baptism equally make infants worthy of eternal life.",
+      "Baptism is more perfect, extending to women."
+    ],
+    "concepts": [
+      "circumcision",
+      "Lombard",
+      "Thomas Aquinas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e288"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2958": {
+    "summary": "To the fifth: grants that infants may be raised to equality with some angels.",
+    "claims": [
+      "Infants may equal some angels."
+    ],
+    "concepts": [
+      "angelic orders"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e317"
+      ]
+    }
+  },
+  "rh-l4q1-d1e2967": {
+    "summary": "Reply to the third principal argument: sacraments are not proper efficient causes of grace, God alone is; merits and sacraments are causes metaphorically, since at their completion God causes grace. Properly they effect nothing in the soul. 'Virtue in the sacraments' is improper speech meaning only that God works grace supernaturally at their reception, which does not hold of all old-law sacraments, as circumcision gave Abraham no grace (Gregory, via Lombard).",
+    "claims": [
+      "Sacraments are not proper efficient causes of grace.",
+      "'Virtue in sacraments' means God acts at their reception."
+    ],
+    "concepts": [
+      "sacramental causality",
+      "occasionalism",
+      "sine qua non causality",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e326",
+        "rh-l4q1-d1e346"
+      ]
+    }
+  },
+  "rh-l4q1-d1e3026": {
+    "summary": "Reply to the fourth: the two catechumens are rewarded equally and eternally; it does not follow that baptism is worthless, since one could not have it, and had he contemned it he would not be equal in devotion.",
+    "claims": [
+      "Baptism of desire equals sacramental baptism when the sacrament is unavailable."
+    ],
+    "concepts": [
+      "baptism of desire"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e418"
+      ]
+    }
+  },
+  "rh-l4q1-d1e3046": {
+    "summary": "Reply to the fifth: it depends on the adult's disposition. An adult with grace and faith before baptism profits less, being already worthy of eternal life and able to be saved without it unless he contemns it; the infant cannot. Every non-feigning adult is worthy of eternal life before baptism; to a feigning one it profits nothing.",
+    "claims": [
+      "Non-feigning adults are worthy of eternal life before baptism.",
+      "Baptism profits a feigning adult nothing."
+    ],
+    "concepts": [
+      "fictio",
+      "disposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e445"
+      ]
+    }
+  },
+  "rh-l4q1-d1e3088": {
+    "summary": "Reply to the sixth: God deletes the punishment and accepts Christ's passion as satisfaction. Adults are contrite, so it is ordered. If one with a hundred times the sins and a hundredth the contrition receives full pardon, God orders sin not only by punishing, as Anselm too strictly says, but by remitting it for his honor and goodness; whether he remits or punishes, he orders it well.",
+    "claims": [
+      "God orders sin by remitting as well as punishing.",
+      "Anselm's view of ordering sin is too strict."
+    ],
+    "concepts": [
+      "Anselm",
+      "remission",
+      "divine mercy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e495"
+      ]
+    }
+  },
+  "rh-l4q1-d1e3130": {
+    "summary": "Reply to the seventh: John's baptism conferred no grace. 'Preaching a baptism of repentance for the remission of sins' means John baptized with his own and preached Christ's, or enjoined fruits of repentance leading to remission; his baptism assisted Christ's, given only to adults.",
+    "claims": [
+      "John's baptism conferred no grace."
+    ],
+    "concepts": [
+      "John the Baptist"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e522"
+      ]
+    }
+  },
+  "rh-l4q1-d1e3173": {
+    "summary": "Reply to the eighth: one raised among Christians should not doubt his baptism without strong evidence, though judicial proof can rebut the presumption. A distracted, drunk, or playing minister does not baptize only if he wholly lacks intention to do what the Church does; in good-faith doubt, baptize conditionally. If a reordained priest is later proved baptized after all, he is irregular as rebaptized and needs dispensation.",
+    "claims": [
+      "Presumption of baptism holds absent strong evidence.",
+      "Only total lack of intention invalidates baptism."
+    ],
+    "concepts": [
+      "presumption",
+      "intention",
+      "irregularity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e532"
+      ]
+    }
+  },
+  "rh-l4q1-d1e3257": {
+    "summary": "Reply to the ninth: infants are baptized in the faith of the Church militant or by virtue of the Church triumphant's vision; the offerers' unbelief does not harm.",
+    "claims": [
+      "Infants are baptized in the Church's faith, militant or triumphant."
+    ],
+    "concepts": [
+      "faith of the Church",
+      "Church triumphant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e532",
+        "rh-l4q1-d1e587"
+      ]
+    }
+  },
+  "rh-l4q1-d1e3270": {
+    "summary": "Reply to the tenth: no one can baptize himself; one who does so in necessity is saved by devotion of faith, not by the sacrament, and if he survives must be baptized by another, as in the case of a Jew (X de baptismo, Debitum).",
+    "claims": [
+      "Self-baptism is invalid but devotion may save."
+    ],
+    "concepts": [
+      "self-baptism",
+      "baptism of desire"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q1-Dd1e2497",
+        "rh-l4q1-d1e607"
+      ]
+    }
+  }
+}

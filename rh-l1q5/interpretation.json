@@ -1,0 +1,1229 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l1q5": {
+    "summary": "Holcot asks whether anything absolutely simple is in a genus, which turns chiefly on whether God is. The principal arguments, many from Avicenna and Anselm, deny it. Holcot rejects both Ockham's view that God fails only the proportion-of-perfection condition and Thomas's view that divine simplicity excludes genus. He holds that God is signified by the generic concept 'substance', since 'substance' and 'incorporeal substance' are predicated in quid of God and angels. He distinguishes non-composition, which some creatures have, from non-composability, which only God has. He then defends a thoroughly semantic account of the categories: strictly, only signs are in genera, and all categories in simple supposition are qualities of the mind. He resolves the paradoxes this produces through the theory of supposition. The question closes Holcot's questions on Book I.",
+    "claims": [
+      "God is in the genus of substance as signified by a generic concept.",
+      "Only God is absolutely simple in the sense of being non-composable.",
+      "Categories are orderings of signs.",
+      "The theory of supposition resolves paradoxes of categories as concepts."
+    ],
+    "concepts": [
+      "God in genus",
+      "divine simplicity",
+      "categories as signs",
+      "supposition",
+      "nominalism",
+      "Ockham",
+      "Thomas Aquinas"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q5-Dd1e103",
+        "rh-l1q5-Dd1e115",
+        "rh-l1q5-Dd1e415"
+      ]
+    }
+  },
+  "rh-l1q5-Dd1e103": {
+    "summary": "Opening statement of the question: whether anything absolutely simple is in a genus.",
+    "claims": [],
+    "concepts": [
+      "simplicity",
+      "genus"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q5-d1e105"
+      ]
+    }
+  },
+  "rh-l1q5-d1e105": {
+    "summary": "States the question: whether anything absolutely simple is in a genus.",
+    "claims": [],
+    "concepts": [
+      "simplicity",
+      "genus",
+      "categories"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5"
+      ]
+    }
+  },
+  "rh-l1q5-Dd1e115": {
+    "summary": "The principal arguments deny that God, the only absolutely simple thing, is in a genus. Placing him in substance would make the persons three substances. Being is not a genus and nothing else is common to God and creatures. A genus requires proportion of perfection, and God exceeds all infinitely and is wholly different. God shares only a name with creatures, and a genus would bring a species, a definition, and many gods of one species. Avicenna says the Necessary Being has no genus. For the opposite, Averroes and the Categories place God in the genus of substance.",
+    "claims": [
+      "God is not in a genus.",
+      "Being is not a genus."
+    ],
+    "concepts": [
+      "God and genus",
+      "divine simplicity",
+      "proportion of perfection",
+      "Avicenna",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q5-d1e120",
+        "rh-l1q5-d1e188",
+        "rh-l1q5-d1e223",
+        "rh-l1q5-d1e240",
+        "rh-l1q5-d1e261",
+        "rh-l1q5-d1e277",
+        "rh-l1q5-d1e303",
+        "rh-l1q5-d1e325",
+        "rh-l1q5-d1e347",
+        "rh-l1q5-d1e378",
+        "rh-l1q5-d1e390",
+        "rh-l1q5-d1e401"
+      ]
+    }
+  },
+  "rh-l1q5-d1e120": {
+    "summary": "First principal argument. God alone is absolutely simple, since every creature is composite or composable, so the question reduces to whether God is in a genus. Holcot argues he is not. Suppose only God and one angel a exist and both are in the genus of substance. Since God is three persons, four persons would be in that genus, and by Augustine's argument (via Lombard) that individuals of a species are so many substances, God and a would be four substances, so God would be three substances, i.e. three gods.",
+    "claims": [
+      "Only God is absolutely simple.",
+      "Placing God in the genus of substance would make the three persons three substances."
+    ],
+    "concepts": [
+      "genus of substance",
+      "divine persons",
+      "individuation",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e188": {
+    "summary": "Argues that no genus can contain God. Being is not a genus, since every genus separates and is denied of some difference (Aristotle, Physics VII, Metaphysics III), and nothing else is common to God and creatures. Substance cannot be his genus either, for Anselm says that substance is included in no common treatment of substances.",
+    "claims": [
+      "Being is not a genus.",
+      "There is no genus common to God and creatures."
+    ],
+    "concepts": [
+      "ens non est genus",
+      "genus",
+      "substance",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e223": {
+    "summary": "Argues that things in one genus have a fixed proportion of perfection to each other, whereas God exceeds everything else infinitely.",
+    "claims": [
+      "Things in a genus have a finite proportion of perfection, and God exceeds all infinitely."
+    ],
+    "concepts": [
+      "proportion of perfection",
+      "divine infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e240": {
+    "summary": "Argues that things wholly different agree in nothing, and God and creature differ maximally, more than creature from creature. Dionysius confirms this, saying God is not substance but above substance.",
+    "claims": [
+      "God and creature differ wholly and so share no genus."
+    ],
+    "concepts": [
+      "total difference",
+      "supersubstantiality",
+      "Dionysius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e261": {
+    "summary": "Argues that God shares only a name with creatures, citing Anselm (Monologion 26), and things that share only a name are not in the same genus.",
+    "claims": [
+      "God shares with creatures only a name."
+    ],
+    "concepts": [
+      "equivocity",
+      "Anselm",
+      "names of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e277": {
+    "summary": "Argues that whatever is in a genus is in some species. Any specific concept predicated of God would agree more with every creaturely substance than with God, so it would not be a specific concept of God.",
+    "claims": [
+      "God cannot fall under a specific concept."
+    ],
+    "concepts": [
+      "species",
+      "predication in quid",
+      "specific concept"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e303": {
+    "summary": "Argues that if God were in a genus he could be defined. He cannot be defined by himself, since he lacks intrinsic principles and genus and difference are taken from distinct realities, nor by something added, since what is so defined depends on it.",
+    "claims": [
+      "God cannot be defined.",
+      "Genus and difference come from distinct realities."
+    ],
+    "concepts": [
+      "definition",
+      "genus and difference",
+      "divine simplicity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e325": {
+    "summary": "Cites Avicenna (Metaphysics VIII.4): God is not in a genus because genus is part of species and every species is composite. If the Necessary Being had a genus, the generic intention would be either necessary of itself (then no difference is needed) or not (then the Necessary would be constituted by the non-necessary).",
+    "claims": [
+      "The Necessary Being cannot have a genus."
+    ],
+    "concepts": [
+      "Avicenna",
+      "necesse esse",
+      "genus as part of species"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e347": {
+    "summary": "Argues that a generic concept implies a specific concept, and a species is predicated of many differing only in number, so there would be many gods of one species. Adds Avicenna: the First has no genus, quantity, quality, place, likeness, or contrary.",
+    "claims": [
+      "A generic concept of God would imply many gods of one species.",
+      "The First has no genus."
+    ],
+    "concepts": [
+      "species",
+      "plurality of gods",
+      "Avicenna"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e378": {
+    "summary": "Further Avicenna citation. The Necessary Being is not under genus, definition, or demonstration, and has no like or sharer.",
+    "claims": [
+      "The Necessary Being is not under genus or definition."
+    ],
+    "concepts": [
+      "Avicenna",
+      "necesse esse",
+      "indefinability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e390": {
+    "summary": "For the opposite: Averroes (Metaphysics XII comm.) says that the first, pure and most perfect in the genus of substance, is the prime mover, a principle as form and end.",
+    "claims": [
+      "The prime mover is first in the genus of substance."
+    ],
+    "concepts": [
+      "Averroes",
+      "prime mover",
+      "genus of substance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-d1e401": {
+    "summary": "Further for the opposite: in the Categories substance is the most general genus, divided into corporeal and incorporeal, and the incorporeal includes God, angels, souls, and demons.",
+    "claims": [
+      "Incorporeal substance includes God."
+    ],
+    "concepts": [
+      "Porphyrian tree",
+      "incorporeal substance",
+      "genus generalissimum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e115"
+      ]
+    }
+  },
+  "rh-l1q5-Dd1e415": {
+    "summary": "Holcot sets out Ockham's account of a generic concept and contrasts Ockham with Thomas on why God is not in a genus, then gives his own view through two distinctions. Absolute simplicity is either non-composition or non-composability. Being in a genus is either belonging, as a sign, to a categorial ordering, or being signified by a generic concept. Some creatures, such as angels, are simple in the first sense, and only God in the second. Against Ockham and Thomas, God is in the genus of substance as signified by a generic concept, and neither infinity, necessity, simplicity, nor perfection excludes this. Strictly, only signs are in genera. In the doubts Holcot treats simplicity as a perfection only when it excludes composability, places parts of substance in substance, and denies that being is a genus. He defends at length the nominalist thesis that categories are concepts and so qualities, using the distinction between simple and personal supposition. Finally he allows simple things in a genus but not definable, and reads realist authorities on genus as claims about definitions.",
+    "claims": [
+      "God is in the genus of substance as signified by a generic concept.",
+      "Only God is neither composed nor composable.",
+      "Strictly only signs are in a genus.",
+      "All categories, taken in simple supposition, are qualities.",
+      "Simple things can be in a genus without being properly definable."
+    ],
+    "concepts": [
+      "God in genus",
+      "simplicity",
+      "categories as signs",
+      "supposition",
+      "Ockham",
+      "nominalism",
+      "definition"
+    ],
+    "_metadata": {
+      "level": "responsio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q5-d1e420",
+        "rh-l1q5-d1e444",
+        "rh-l1q5-d1e492",
+        "rh-l1q5-d1e506",
+        "rh-l1q5-d1e523",
+        "rh-l1q5-d1e547",
+        "rh-l1q5-d1e567",
+        "rh-l1q5-d1e589",
+        "rh-l1q5-d1e610",
+        "rh-l1q5-d1e623",
+        "rh-l1q5-d1e662",
+        "rh-l1q5-d1e714",
+        "rh-l1q5-d1e736",
+        "rh-l1q5-d1e811",
+        "rh-l1q5-d1e834",
+        "rh-l1q5-d1e845",
+        "rh-l1q5-d1e850",
+        "rh-l1q5-d1e876",
+        "rh-l1q5-d1e889",
+        "rh-l1q5-d1e898",
+        "rh-l1q5-d1e912",
+        "rh-l1q5-d1e938",
+        "rh-l1q5-d1e949",
+        "rh-l1q5-d1e960",
+        "rh-l1q5-d1e978",
+        "rh-l1q5-d1e996",
+        "rh-l1q5-d1e1032",
+        "rh-l1q5-d1e1066",
+        "rh-l1q5-d1e1099",
+        "rh-l1q5-d1e1121",
+        "rh-l1q5-d1e1128",
+        "rh-l1q5-d1e1141",
+        "rh-l1q5-d1e1177",
+        "rh-l1q5-d1e1206",
+        "rh-l1q5-d1e1235",
+        "rh-l1q5-d1e1255",
+        "rh-l1q5-d1e1277",
+        "rh-l1q5-d1e1314",
+        "rh-l1q5-d1e1353",
+        "rh-l1q5-d1e1369",
+        "rh-l1q5-d1e1402",
+        "rh-l1q5-d1e1478",
+        "rh-l1q5-d1e1487"
+      ]
+    }
+  },
+  "rh-l1q5-d1e420": {
+    "summary": "Sets out Ockham's account of a generic concept. It is predicable in quid of many things differing more than in number, which have a fixed proportion of perfection to one another, none of which is an essential part of another. Each condition distinguishes it from, in turn, denominative concepts, specific concepts, concepts common to God and creatures, and concepts predicated of essential parts.",
+    "claims": [
+      "A generic concept is predicable in quid of many differing more than numerically, with fixed proportion of perfection, none an essential part of another."
+    ],
+    "concepts": [
+      "generic concept",
+      "Ockham",
+      "predication in quid",
+      "proportion of perfection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415"
+      ]
+    }
+  },
+  "rh-l1q5-d1e444": {
+    "summary": "Continues with Ockham's view. An absolutely simple thing such as an angel is per se in a genus. God is not in a genus only because he fails the proportion-of-perfection condition, though this cannot be proved. Simplicity and incomposability do not exclude him. Holcot contrasts Thomas, who holds that God's simplicity, necessity, unity, and infinity exclude him from a genus.",
+    "claims": [
+      "According to Ockham, an angel is per se in a genus.",
+      "According to Ockham, God is excluded from genus only by lack of proportion of perfection.",
+      "Thomas excludes God from genus by his simplicity, necessity, unity, and infinity."
+    ],
+    "concepts": [
+      "Ockham",
+      "Thomas Aquinas",
+      "God and genus",
+      "angelic simplicity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e420"
+      ]
+    }
+  },
+  "rh-l1q5-d1e492": {
+    "summary": "Gives the plan of Holcot's own response: distinctions, conclusions, doubts, and replies to the principal arguments.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415"
+      ]
+    }
+  },
+  "rh-l1q5-d1e506": {
+    "summary": "First distinction. 'Absolutely simple' means either not composed of things, or neither composed nor composable with anything.",
+    "claims": [
+      "Absolute simplicity can mean non-composition or also non-composability."
+    ],
+    "concepts": [
+      "simplicity",
+      "composability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415"
+      ]
+    }
+  },
+  "rh-l1q5-d1e523": {
+    "summary": "Second distinction. To be 'in a genus' means either being part of a categorial ordering, which only words and concepts are since categorial orderings are of predicable signs, or being principally signified by such a concept or word, as Socrates is in substance and color in quality.",
+    "claims": [
+      "Strictly only signs are in a categorial ordering.",
+      "Things are in a genus derivatively, by being signified by a generic concept."
+    ],
+    "concepts": [
+      "categories as signs",
+      "coordinatio praedicamentalis",
+      "signification",
+      "nominalism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415"
+      ]
+    }
+  },
+  "rh-l1q5-d1e547": {
+    "summary": "First conclusion: some creature is absolutely simple in the first sense, composed of no things. An angel is either simple or composed of matter and form; on pain of infinite regress one reaches something uncomposed.",
+    "claims": [
+      "Some creature is composed of no things."
+    ],
+    "concepts": [
+      "angelic simplicity",
+      "hylomorphism",
+      "infinite regress"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e506"
+      ]
+    }
+  },
+  "rh-l1q5-d1e567": {
+    "summary": "Clarifies that the argument excludes only composition from parts of different kinds (potency and act, matter and form). Against those who hold creatures composed of parts of the same kind, such as heat, light, the soul, or the angel, it does not conclude, since every such composite is divisible into components indefinitely.",
+    "claims": [
+      "The regress argument excludes only heterogeneous composition."
+    ],
+    "concepts": [
+      "homogeneous parts",
+      "intensive and extensive parts",
+      "divisibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e547"
+      ]
+    }
+  },
+  "rh-l1q5-d1e589": {
+    "summary": "Raises difficulties for the view of homogeneous parts: God could then cause a single act successively over a thousand years. Also, if points were things, there would be a creature simple in the first sense.",
+    "claims": [
+      "Homogeneous composition of acts implies they could be caused successively."
+    ],
+    "concepts": [
+      "successive causation",
+      "points",
+      "simplicity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e567"
+      ]
+    }
+  },
+  "rh-l1q5-d1e610": {
+    "summary": "Second conclusion: only God is absolutely simple in the second sense. Every creature is composable, an accident with a subject and a substance with accidents, while God is in no way composable.",
+    "claims": [
+      "Only God is neither composed nor composable.",
+      "Every creature is composable with something."
+    ],
+    "concepts": [
+      "divine simplicity",
+      "composability",
+      "substance and accident"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e506"
+      ]
+    }
+  },
+  "rh-l1q5-d1e623": {
+    "summary": "Confirms the second conclusion. The angel receives affections and intentions, and Augustine says nothing mutable is simple, which must concern simplicity excluding composability (the soul is not simple because desire, fear, and sadness differ). Hence Euclid's definition of a point, 'that which has no part', fits God, angel, and soul; it should say a point is a thing with position and no part.",
+    "claims": [
+      "No mutable creature is simple in the sense excluding composability.",
+      "Euclid's definition of the point is inadequate."
+    ],
+    "concepts": [
+      "mutability",
+      "Augustine",
+      "definition of point",
+      "Euclid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e610"
+      ]
+    }
+  },
+  "rh-l1q5-d1e662": {
+    "summary": "Third conclusion: God is in a genus in the second sense, that is, signified by a generic concept. Any concept predicated in quid of God and an angel is generic, since they are not of one species, and 'substance' or 'incorporeal substance' answers 'what is God?'. This does not conflict with his infinity (an infinite log would still be an individual substance), his necessity (a necessary heavenly body would still be substance), his simplicity (the angel is simple and in a genus), or his perfection (no more than 'being' signifying him in common). Nor must there be finite proportion of perfection among all members of a genus.",
+    "claims": [
+      "God is in the genus of substance as signified by a generic concept.",
+      "Infinity, necessity, simplicity, and perfection do not exclude God from a genus.",
+      "Members of a genus need not stand in finite proportion of perfection."
+    ],
+    "concepts": [
+      "God in genus",
+      "generic concept",
+      "substance",
+      "divine infinity",
+      "proportion of perfection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e523",
+        "rh-l1q5-d1e444"
+      ]
+    }
+  },
+  "rh-l1q5-d1e714": {
+    "summary": "Fourth conclusion: in the strict first sense only concepts, words, or other conventionally instituted signs are in a genus, since only categorematic terms that can be subjects and predicates of propositions are ordered in the categories.",
+    "claims": [
+      "Strictly only signs are in a genus.",
+      "Only categorematic terms are ordered in categories."
+    ],
+    "concepts": [
+      "categories as signs",
+      "categorematic terms",
+      "nominalism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e523"
+      ]
+    }
+  },
+  "rh-l1q5-d1e736": {
+    "summary": "Raises doubts. First, simplicity seems a perfection since it is ascribed to God and angels. Second, are the parts of substance in the genus of substance? Boethius says Aristotle set aside matter and form, but Averroes divides substance into matter, form, and composite, and 'intellective soul is substance' and 'part of wood is substance' seem to be predications of superior of inferior. Third, why is 'being', common to God and creatures, not a generic concept?",
+    "claims": [
+      "Simplicity appears to be a perfection.",
+      "Parts of substance appear to be in the genus of substance.",
+      "The concept of being appears to meet the conditions of a genus."
+    ],
+    "concepts": [
+      "simplicity as perfection",
+      "parts of substance",
+      "concept of being",
+      "Averroes",
+      "Boethius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415"
+      ]
+    }
+  },
+  "rh-l1q5-d1e811": {
+    "summary": "Fourth doubt: whether the most general genera are words or concepts, as the fourth conclusion says. Every concept is a quality, so if substance is a most general genus and a concept, substance would be a quality, contrary to the immediate proposition 'no substance is quality'.",
+    "claims": [
+      "If genera are concepts, substance is a quality."
+    ],
+    "concepts": [
+      "genus generalissimum",
+      "concepts as qualities",
+      "immediate propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e714"
+      ]
+    }
+  },
+  "rh-l1q5-d1e834": {
+    "summary": "Second argument of the fourth doubt. If this concept is a quality, quality is predicated of it in quid, and it of Socrates, so quality would be predicated in quid of Socrates.",
+    "claims": [
+      "Quality would be predicated in quid of Socrates."
+    ],
+    "concepts": [
+      "predication in quid",
+      "transitivity of predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e811"
+      ]
+    }
+  },
+  "rh-l1q5-d1e845": {
+    "summary": "Third argument: then propositions like 'animal is a concept' would have to be granted.",
+    "claims": [
+      "Absurd propositions like 'animal is a concept' would be true."
+    ],
+    "concepts": [
+      "predication",
+      "concepts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e811"
+      ]
+    }
+  },
+  "rh-l1q5-d1e850": {
+    "summary": "Fourth argument: if all categories are concepts, all are in the genus of quality, and quality would be both superior and inferior to itself.",
+    "claims": [
+      "Quality would be superior and inferior to itself."
+    ],
+    "concepts": [
+      "categories",
+      "quality",
+      "superior and inferior"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e811"
+      ]
+    }
+  },
+  "rh-l1q5-d1e876": {
+    "summary": "Fifth argument: every category would be an individual of quality, so quantity would be a quality and quantity and substance would be in the soul.",
+    "claims": [
+      "Quantity would be a quality and be in the soul."
+    ],
+    "concepts": [
+      "categories",
+      "quality",
+      "esse in anima"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e811"
+      ]
+    }
+  },
+  "rh-l1q5-d1e889": {
+    "summary": "Sixth argument: the concept 'animal' would be per se both in substance and in quality, and so in two genera.",
+    "claims": [
+      "A concept would be per se in two genera."
+    ],
+    "concepts": [
+      "per se in genere",
+      "concepts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e811"
+      ]
+    }
+  },
+  "rh-l1q5-d1e898": {
+    "summary": "Seventh argument: one most general genus would be superior to another, and quality would be the only most general genus.",
+    "claims": [
+      "Quality would be the only most general genus."
+    ],
+    "concepts": [
+      "genus generalissimum",
+      "quality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e811"
+      ]
+    }
+  },
+  "rh-l1q5-d1e912": {
+    "summary": "Eighth argument: every most general genus is a quality, substance is one, so substance is a quality. Also Anselm calls those who hold universal substances to be mere breaths of voice diabolical heretics, and says God makes all universal and individual natures.",
+    "claims": [
+      "Substance would be a quality.",
+      "Anselm condemns treating universals as mere words."
+    ],
+    "concepts": [
+      "flatus vocis",
+      "universals",
+      "Anselm",
+      "nominalism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e811"
+      ]
+    }
+  },
+  "rh-l1q5-d1e938": {
+    "summary": "Fifth doubt: whether anything simple can be in a genus, since genus and difference are taken from distinct realities, so whatever is in a genus is composed.",
+    "claims": [
+      "Whatever is in a genus is composed of distinct realities."
+    ],
+    "concepts": [
+      "genus and difference",
+      "realities",
+      "simplicity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415"
+      ]
+    }
+  },
+  "rh-l1q5-d1e949": {
+    "summary": "Confirms the fifth doubt with Boethius: genus is matter to the species, passing into species when difference is received, as matter receiving form.",
+    "claims": [
+      "Genus is to species as matter to form."
+    ],
+    "concepts": [
+      "Boethius",
+      "genus as matter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e938"
+      ]
+    }
+  },
+  "rh-l1q5-d1e960": {
+    "summary": "Confirms with Anselm (Monologion 17): man is called body and rational in different respects, neither being the whole man.",
+    "claims": [
+      "Man is body and rational by different respects."
+    ],
+    "concepts": [
+      "Anselm",
+      "composition of definitions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e938"
+      ]
+    }
+  },
+  "rh-l1q5-d1e978": {
+    "summary": "Confirms with Averroes (Metaphysics V): genus is part of the species' form and receives differences as matter does.",
+    "claims": [
+      "Genus is part of the form of the species."
+    ],
+    "concepts": [
+      "Averroes",
+      "genus as part"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e938"
+      ]
+    }
+  },
+  "rh-l1q5-d1e996": {
+    "summary": "Reply to the first doubt. Simplicity excluding only composition from parts is not a perfection, since matter, form, and accident are not more perfect than the composite. Simplicity excluding composability is a perfection and belongs to God. That the opposite of something is an imperfection does not make it a pure perfection, which is what is better to be than not. If God could be composed with a body, something might be more perfect than God.",
+    "claims": [
+      "Simplicity excluding only composition is not a perfection.",
+      "Simplicity excluding composability is a perfection proper to God."
+    ],
+    "concepts": [
+      "simplicity as perfection",
+      "perfectio simpliciter",
+      "composability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e736",
+        "rh-l1q5-d1e610"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1032": {
+    "summary": "Reply to the second doubt. The parts of substance are in the genus of substance, so the description of a generic concept should drop the conditions of proportion of perfection and of no member's being an essential part of another. Objections: the soul would then be an individual in substance and composite, every corporeal individual would be composed of infinitely many individuals, and the soul would be a person, giving Christ two persons.",
+    "claims": [
+      "Parts of substance are in the genus of substance.",
+      "The generic concept need not require proportion of perfection or exclude essential parts."
+    ],
+    "concepts": [
+      "parts of substance",
+      "generic concept",
+      "soul",
+      "person"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e736",
+        "rh-l1q5-d1e420"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1066": {
+    "summary": "Answers the first objection. The soul is an individual in the genus of substance and in the genus 'soul', since 'soul' is predicated in quid of souls that differ more than numerically. Every concept predicable in quid of many differing more than numerically, and apt to distinguish them from others, is generic. Grants that every corporeal individual is composed of infinitely many substances, its parts.",
+    "claims": [
+      "'Soul' is a genus of souls that differ more than in number.",
+      "Every corporeal individual is composed of infinitely many substantial parts."
+    ],
+    "concepts": [
+      "soul as genus",
+      "generic concept",
+      "infinite divisibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e1032"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1099": {
+    "summary": "Answers the objection about person. If a person is an incommunicable substance of rational nature, and incommunicability excludes union as form to matter, the soul is not a person. Under Boethius's 'individual substance of rational nature' taken literally, the soul could be called a person, joined or separated.",
+    "claims": [
+      "The soul is not a person if incommunicability excludes union with matter.",
+      "Literally under Boethius's definition the soul could be a person."
+    ],
+    "concepts": [
+      "person",
+      "incommunicability",
+      "soul",
+      "Boethius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e1032"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1121": {
+    "summary": "Answers the Boethius authority: Aristotle set aside matter and form because composite substances are more manifest.",
+    "claims": [
+      "Aristotle treats composite substances because they are more manifest."
+    ],
+    "concepts": [
+      "Categories",
+      "composite substance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e736"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1128": {
+    "summary": "Reply to the third doubt. A generic concept must in some way distinguish what is in the genus from something else, which is why it appears in definitions; 'being' does not.",
+    "claims": [
+      "A generic concept must distinguish its members from something else.",
+      "The concept of being is not generic."
+    ],
+    "concepts": [
+      "concept of being",
+      "generic concept",
+      "distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e736"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1141": {
+    "summary": "Reply to the fourth doubt. Taken as concepts or words, all categories are in the genus of quality, since they are signs, natural like concepts or conventional like words. If stones were instituted to signify, they would be in substance. Concepts in a categorial ordering can supposit simply, for themselves, or personally, for what they signify, and the arguments are solved by this distinction.",
+    "claims": [
+      "All categories as concepts or words are in the genus of quality.",
+      "Categorial terms can have simple or personal supposition."
+    ],
+    "concepts": [
+      "supposition",
+      "simple supposition",
+      "personal supposition",
+      "natural and conventional signs"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e811"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1177": {
+    "summary": "Reply to the first argument of the fourth doubt. There is no fallacy of the consequent, but the reasoning fails because the minor extreme 'substance' supposits simply in the minor and perhaps personally in the conclusion. Alternatively the conclusion must be distinguished.",
+    "claims": [
+      "The argument fails through a change of supposition in the minor extreme."
+    ],
+    "concepts": [
+      "supposition",
+      "syllogistic validity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e811",
+        "rh-l1q5-d1e1141"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1206": {
+    "summary": "Defends the distinction of supposition against the objection that it applies only to first-intention terms with second-intention predicates. It also applies to predicates common to both intentions, such as 'concept', 'quality', 'sign'. Contrary to some, 'no animal is a genus' and 'animal is a genus' do not conflict, as both are true.",
+    "claims": [
+      "The distinction of supposition applies with predicates common to first and second intentions.",
+      "'No animal is a genus' and 'animal is a genus' are both true."
+    ],
+    "concepts": [
+      "first and second intentions",
+      "supposition",
+      "immediate propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e1177"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1235": {
+    "summary": "Reply to the second argument. The inference to 'quality is predicated in quid of this concept' is invalid, though its consequent is true, and 'quality is predicated in quid of Socrates' does not follow. The concept is predicated in quid of substance when it supposits personally but supposits simply under 'quality'.",
+    "claims": [
+      "Predication in quid is not transitive across changes of supposition."
+    ],
+    "concepts": [
+      "predication in quid",
+      "supposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e834"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1255": {
+    "summary": "Reply to the third argument. Many propositions should be distinguished or denied according to usage. 'Animal is a concept' is false in personal supposition and true in simple supposition, and likewise 'man is a quality'.",
+    "claims": [
+      "'Animal is a concept' is true only in simple supposition."
+    ],
+    "concepts": [
+      "supposition",
+      "linguistic usage"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e845"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1277": {
+    "summary": "Reply to the fourth argument. Grants that all categories, taken in simple supposition, are in the genus of quality, and that it is not absurd for quality to be superior to itself, since in personal supposition it is superior to itself in simple supposition.",
+    "claims": [
+      "Taken in simple supposition, all categories are qualities.",
+      "Quality in personal supposition is superior to itself in simple supposition."
+    ],
+    "concepts": [
+      "supposition",
+      "quality",
+      "self-predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e850"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1314": {
+    "summary": "Replies to the fifth and sixth arguments. Every category is an individual of quality in simple supposition, so in that sense quantity is a quality and substance and 'rational animal' are in the soul, since in simple supposition the terms supposit for intentions in the soul. The concept that is per se in substance under personal supposition is per se in quality under simple supposition.",
+    "claims": [
+      "In simple supposition quantity is a quality and substance is in the soul.",
+      "One concept is per se in different genera under different suppositions."
+    ],
+    "concepts": [
+      "simple supposition",
+      "intentions in the soul",
+      "categories"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e876",
+        "rh-l1q5-d1e889"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1353": {
+    "summary": "Reply to the seventh argument. One most general genus is not, strictly, inferior to another. Only the term of which 'most general genus' is predicated in simple supposition falls under quality.",
+    "claims": [
+      "No most general genus is strictly inferior to another."
+    ],
+    "concepts": [
+      "genus generalissimum",
+      "supposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e898"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1369": {
+    "summary": "Reply to the eighth argument. The syllogism fails since the minor term changes supposition. The conclusion 'substance is a quality' is true in simple supposition, and the major is literally false though equivalent to a true proposition about terms of which 'most general genus' is predicated.",
+    "claims": [
+      "'Substance is a quality' is true in simple supposition.",
+      "The major is literally false but equivalent to a true proposition."
+    ],
+    "concepts": [
+      "supposition",
+      "syllogism",
+      "propositional equivalence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e912"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1402": {
+    "summary": "Reply to the Anselm authority: universal substances are not mere breaths of voice, but they have only simple supposition, being concepts or words predicable of others when personally suppositing. Alternatively, Anselm may mean heavenly bodies with general influence. Reply to the fifth doubt: something simple is in a genus. Concepts signifying composites are properly definable, but those signifying simples are not, since a difference expresses a part of the thing. Not everything in a genus is properly definable, and Boethius's 'genus is matter' means only that in a definition the difference is added to the genus as form to matter.",
+    "claims": [
+      "Universals are concepts or words, not mere breaths of voice.",
+      "Something simple can be in a genus.",
+      "Simple things are not properly definable.",
+      "'Genus is matter' means that genus functions like matter in a definition."
+    ],
+    "concepts": [
+      "universals",
+      "flatus vocis",
+      "definition",
+      "simplicity",
+      "genus as matter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e912",
+        "rh-l1q5-d1e938",
+        "rh-l1q5-d1e949"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1478": {
+    "summary": "Reply to Anselm's Monologion 17: it concerns composites that are definable and in a genus.",
+    "claims": [
+      "Anselm's remark concerns definable composites."
+    ],
+    "concepts": [
+      "Anselm",
+      "definition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e960"
+      ]
+    }
+  },
+  "rh-l1q5-d1e1487": {
+    "summary": "Reply to Averroes. Such authorities are literally false but stand for equivalent true propositions: 'genus is part of species' means genus is part of the definition. Genus 'receives differences' means differences are added to it in the definition as form to matter, with accidental differences substituted when proper ones are lacking. Holcot closes the question and with it his questions on Book I.",
+    "claims": [
+      "Realist-sounding authorities about genus are literally false but equivalent to true claims about definitions.",
+      "Genus is part of the definition, not of the thing."
+    ],
+    "concepts": [
+      "Averroes",
+      "propositional equivalence",
+      "definition",
+      "genus and difference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q5-Dd1e415",
+        "rh-l1q5-d1e978"
+      ]
+    }
+  }
+}

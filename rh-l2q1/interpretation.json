@@ -1,0 +1,4602 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l2q1": {
+    "summary": "Holcot asks whether God governs the human race justly. In answering he develops a thoroughgoing voluntarist and covenantal account of divine justice. Of three senses of 'justly' (doing what one owes, keeping proportion, acting as God wills), God governs justly absolutely only in the third, where 'just' and 'God wills it' convert. He is a debtor only by promise and need keep no proportion between merit and reward or fault and punishment. Against puzzles about punishment and reward, Holcot holds several positions. Pain of loss and pain of sense are incommensurable. Mortal sin is intensively infinite as privation of eternal goods. Rewards above merit wrong no one. Christ's merit is sufficient for all but efficacious for the elect. God orders all to beatitude by capacity and law rather than predestination. Election precedes merit without respect of persons, while reprobation follows foreseen sin. On sin, God is immediate partial and more principal cause of every act, including the sinful volition, and wills it by good pleasure. Sin is acting against his precept, so God is not 'author of sin', and the same act is just from God and unjust from man. One must conform to God's precept rather than his good pleasure, and God may even beneficially feign a will he lacks.",
+    "claims": [
+      "God governs justly in the sense that whatever he wills is just.",
+      "God is a debtor only by his promises.",
+      "God is partial and principal cause of sinful acts, but sin is against his precept.",
+      "Predestination precedes foreseen merit, and reprobation follows foreseen sin.",
+      "Rectitude is conformity to God's precept, not his good pleasure."
+    ],
+    "concepts": [
+      "divine justice",
+      "voluntarism",
+      "covenant",
+      "eternal punishment",
+      "predestination",
+      "divine concurrence",
+      "author of sin",
+      "will of sign and good pleasure"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q1-Dd1e102",
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-Dd1e1860",
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-Dd1e4862",
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-Dd1e5541"
+      ]
+    }
+  },
+  "rh-l2q1-Dd1e102": {
+    "summary": "Opening statement of the question: whether the creator of the human race governs it justly.",
+    "claims": [],
+    "concepts": [
+      "divine justice",
+      "providence"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q1-d1e104"
+      ]
+    }
+  },
+  "rh-l2q1-d1e104": {
+    "summary": "States the question: whether the creator of the human race governs the human race justly.",
+    "claims": [],
+    "concepts": [
+      "divine justice",
+      "providence",
+      "governance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1"
+      ]
+    }
+  },
+  "rh-l2q1-Dd1e119": {
+    "summary": "Seven groups of principal arguments charge God with unjust governance. Punishment seems disproportionate in cases of unequal death times, infants versus adults, venial accumulations, lost grace, pure nature, infinite sins, eternal penalties for finite sins, and purgatory. Rewards seem disproportionate for the Holy Innocents, unequal natures, learned and simple, the extent of Christ's merit, and later merit compared with the good thief. God seems not to govern at all since most men miss their end. He seems a respecter of persons in election without foreseen merits and creating souls for damnation. He seems to will and cause the sins he punishes, through concurrence, the preparation of hell, the beauty of the universe, the Passion, persecutions, and conversions. He fails a just judge's duties by permitting evil, remitting punishment, commuting eternal penalties, and commanding what he does not will. He delays the joy of the blessed and requires perseverance of the reprobate. Wisdom and Augustine are cited for the opposite.",
+    "claims": [
+      "God appears to punish, reward, elect, and concur with sin unjustly."
+    ],
+    "concepts": [
+      "divine justice",
+      "punishment",
+      "predestination",
+      "God as cause of sin",
+      "permission of evil"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q1-d1e124",
+        "rh-l2q1-d1e137",
+        "rh-l2q1-d1e205",
+        "rh-l2q1-d1e231",
+        "rh-l2q1-d1e332",
+        "rh-l2q1-d1e350",
+        "rh-l2q1-d1e391",
+        "rh-l2q1-d1e428",
+        "rh-l2q1-d1e459",
+        "rh-l2q1-d1e485",
+        "rh-l2q1-d1e506",
+        "rh-l2q1-d1e543",
+        "rh-l2q1-d1e550",
+        "rh-l2q1-d1e585",
+        "rh-l2q1-d1e618",
+        "rh-l2q1-d1e654",
+        "rh-l2q1-d1e681",
+        "rh-l2q1-d1e738",
+        "rh-l2q1-d1e777",
+        "rh-l2q1-d1e797",
+        "rh-l2q1-d1e817",
+        "rh-l2q1-d1e867",
+        "rh-l2q1-d1e906",
+        "rh-l2q1-d1e926",
+        "rh-l2q1-d1e939",
+        "rh-l2q1-d1e955",
+        "rh-l2q1-d1e966",
+        "rh-l2q1-d1e997",
+        "rh-l2q1-d1e1018",
+        "rh-l2q1-d1e1057",
+        "rh-l2q1-d1e1070",
+        "rh-l2q1-d1e1083",
+        "rh-l2q1-d1e1112",
+        "rh-l2q1-d1e1141",
+        "rh-l2q1-d1e1158",
+        "rh-l2q1-d1e1214",
+        "rh-l2q1-d1e1253",
+        "rh-l2q1-d1e1288",
+        "rh-l2q1-d1e1336",
+        "rh-l2q1-d1e1369",
+        "rh-l2q1-d1e1394",
+        "rh-l2q1-d1e1416",
+        "rh-l2q1-d1e1441",
+        "rh-l2q1-d1e1454",
+        "rh-l2q1-d1e1472",
+        "rh-l2q1-d1e1503",
+        "rh-l2q1-d1e1513",
+        "rh-l2q1-d1e1531",
+        "rh-l2q1-d1e1551",
+        "rh-l2q1-d1e1567",
+        "rh-l2q1-d1e1591",
+        "rh-l2q1-d1e1604",
+        "rh-l2q1-d1e1651",
+        "rh-l2q1-d1e1677",
+        "rh-l2q1-d1e1701",
+        "rh-l2q1-d1e1735",
+        "rh-l2q1-d1e1744",
+        "rh-l2q1-d1e1755",
+        "rh-l2q1-d1e1817",
+        "rh-l2q1-d1e1828"
+      ]
+    }
+  },
+  "rh-l2q1-d1e124": {
+    "summary": "First principal argument: God punishes and rewards unjustly, so does not govern justly. First the antecedent about punishment is proved in several ways.",
+    "claims": [
+      "God appears to punish and reward unjustly."
+    ],
+    "concepts": [
+      "divine justice",
+      "punishment",
+      "reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e137": {
+    "summary": "Suppose a maximum punishment the finite soul can bear, and two equal unbelievers who sin equally until each deserves it, but Socrates dies a year before Plato. Socrates is punished a year longer and then equally forever, so more gravely for an equal sin, and his extra year is superfluous. Plato's punishment cannot be intensified to compensate, since it is already maximal.",
+    "claims": [
+      "Equal sinners dying at different times would be unequally punished."
+    ],
+    "concepts": [
+      "eternal punishment",
+      "duration",
+      "maximum punishment",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e205": {
+    "summary": "Second: the penalty b of an adult dying in mortal sin exceeds the penalty a of an infant dying in original sin, not infinitely but by some finite ratio, say tenfold. Then an adult who sins ten times less would be punished like the infant, for actual sin as for original sin.",
+    "claims": [
+      "A finite ratio between punishments for original and actual sin leads to absurd equivalence."
+    ],
+    "concepts": [
+      "original sin",
+      "infants",
+      "proportion of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e231": {
+    "summary": "Third: one dying in mortal and venial sin is punished more than for the mortal alone by some finite excess c. Some multiple of c, say a hundredfold, equals the mortal penalty b. So one dying with an equal mortal sin and a hundred venial sins is punished twice as much, as much for the venial sins as for the mortal, making many venial sins as grave as a mortal one.",
+    "claims": [
+      "Accumulated venial sins would equal a mortal sin in punishment."
+    ],
+    "concepts": [
+      "venial and mortal sin",
+      "proportion of punishment",
+      "aggregation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e332": {
+    "summary": "Fourth: Socrates and Plato are in grace, Plato in greater grace; both sin equally and die. Their pain of sense is equal, but Plato loses a greater good, so suffers a greater pain of loss, and equal sinners are punished unequally.",
+    "claims": [
+      "Greater prior grace would mean greater pain of loss for equal sin."
+    ],
+    "concepts": [
+      "poena damni",
+      "poena sensus",
+      "grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e350": {
+    "summary": "Fifth: God creates someone in purely natural condition, who lives an hour without sin or grace and dies. Neither heaven (merit from nature alone) nor the pain of sense (he never sinned) fits, and if the pain of loss, then original sin would carry no punishment of its own, since he would be punished no more if he had it.",
+    "claims": [
+      "A sinless person in pure nature has no just destination."
+    ],
+    "concepts": [
+      "pure nature",
+      "original sin",
+      "limbo",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e391": {
+    "summary": "Sixth: distributive justice requires punishments proportioned like faults, but some sin (Anselm: even slight violence to Christ) is infinitely graver than any other, deserving an infinitely greater punishment no creature can bear.",
+    "claims": [
+      "Some sin is infinitely graver than others but cannot be punished proportionately."
+    ],
+    "concepts": [
+      "distributive justice",
+      "Anselm",
+      "sin against Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e428": {
+    "summary": "Seventh: God inflicts infinite and eternal punishment for sin of finite malice. Sin is failing to render God due honor (Anselm), and the honor owed by man is finite, yet Matthew 25 threatens eternal punishment.",
+    "claims": [
+      "Eternal punishment for finite sin is disproportionate."
+    ],
+    "concepts": [
+      "eternal punishment",
+      "Anselm",
+      "honor due to God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e459": {
+    "summary": "Eighth: two souls equally punished in purgatory, a owed greater eternal glory than b. Through the delay a is deprived of a greater good, so is punished more for equal sin.",
+    "claims": [
+      "Equal purgatorial delay costs more to the one owed greater glory."
+    ],
+    "concepts": [
+      "purgatory",
+      "pain of loss"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e485": {
+    "summary": "Further: prayers of the Church militant for one soul and not another free it sooner or ease it, which is unjust since it merits no more.",
+    "claims": [
+      "Suffrages for some souls but not others are unjust."
+    ],
+    "concepts": [
+      "suffrages for the dead",
+      "purgatory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e506": {
+    "summary": "Further: venial sin punished in purgatory is punished more gravely than mortal sin satisfied by contrition in this life, since losing the vision of God for an hour is worse than losing all earthly delight for a lifetime. This completes the case that God punishes unjustly.",
+    "claims": [
+      "Venial sin in purgatory is punished more than satisfied mortal sin."
+    ],
+    "concepts": [
+      "purgatory",
+      "satisfaction",
+      "beatific vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e124"
+      ]
+    }
+  },
+  "rh-l2q1-d1e543": {
+    "summary": "The second part of the antecedent, that God rewards unjustly, can also be proved in several ways.",
+    "claims": [],
+    "concepts": [
+      "reward",
+      "divine justice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e550": {
+    "summary": "First: God rewards one who never used free will, such as a Holy Innocent, as an adult who merited. If Linus's reward is a finite multiple of the Innocent's, a wayfarer meriting that fraction of Linus would be rewarded exactly like one who never merited.",
+    "claims": [
+      "Rewarding those who never merited makes some merit worthless."
+    ],
+    "concepts": [
+      "Holy Innocents",
+      "merit and reward",
+      "proportion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e543"
+      ]
+    }
+  },
+  "rh-l2q1-d1e585": {
+    "summary": "Second: if Socrates has better natural endowments and Plato greater merit, beatitude does not change nature, so Socrates will love God more, be loved more, and receive more beatitude, though meriting less.",
+    "claims": [
+      "Better natural endowments would yield greater beatitude than greater merit."
+    ],
+    "concepts": [
+      "natural endowments",
+      "beatitude",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e543"
+      ]
+    }
+  },
+  "rh-l2q1-d1e618": {
+    "summary": "Third: two of equal merit, Socrates simple and Plato wise. If rewarded equally, equal cognition added to unequal yields unequal, so Plato remains wiser and they are rewarded unequally.",
+    "claims": [
+      "Equal additions to unequal knowers leave them unequal."
+    ],
+    "concepts": [
+      "knowledge in beatitude",
+      "equality of reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e543"
+      ]
+    }
+  },
+  "rh-l2q1-d1e654": {
+    "summary": "Further: if equal in reward, they are equal in cognition at some degree a; Socrates lacks more of a than Plato, so receives more, and equal reward is unequal giving.",
+    "claims": [
+      "Equalizing beatitude requires giving more to the less endowed."
+    ],
+    "concepts": [
+      "equality of reward",
+      "distributive justice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e618"
+      ]
+    }
+  },
+  "rh-l2q1-d1e681": {
+    "summary": "Fourth: God rewards Christ unjustly. Either less is given to Christ and humanity than Christ merited, wronging him, or exactly as much. If exactly the whole multitude of the saved, then a later child with original sin could not be cleansed by sacrament or Passion, and near the world's end Christ's merit might not suffice for those remaining.",
+    "claims": [
+      "If Christ's merit is matched exactly by the elect, it is exhausted."
+    ],
+    "concepts": [
+      "merit of Christ",
+      "sufficiency of redemption",
+      "sacraments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e543"
+      ]
+    }
+  },
+  "rh-l2q1-d1e738": {
+    "summary": "Fifth: if a wayfarer merits exactly as the good thief, already rewarded for a thousand years, he must receive compensating greater joy for a time, clearer vision and more light of glory, then be reduced to equality, which is absurd for many reasons.",
+    "claims": [
+      "Equal reward for later merit would require temporary greater joy then diminution."
+    ],
+    "concepts": [
+      "good thief",
+      "duration of beatitude",
+      "compensation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e543"
+      ]
+    }
+  },
+  "rh-l2q1-d1e777": {
+    "summary": "First absurdity: the charity of the blessed could diminish, and the blessed would either will that, which seems impossible, or be saddened, or be deceived, believing its beatitude eternal.",
+    "claims": [
+      "Beatitude cannot diminish without sorrow or deception."
+    ],
+    "concepts": [
+      "security of beatitude",
+      "diminution of charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e738"
+      ]
+    }
+  },
+  "rh-l2q1-d1e797": {
+    "summary": "Second: he would remember being more blessed and loving God more, yet must rejoice in everything (Anselm), so would rejoice in loving God less.",
+    "claims": [
+      "The blessed would rejoice in their own diminished love."
+    ],
+    "concepts": [
+      "joy of the blessed",
+      "Anselm",
+      "memory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e738"
+      ]
+    }
+  },
+  "rh-l2q1-d1e817": {
+    "summary": "Third: if the Father assumed a human nature equal to Christ's that merited as much, it would have to be rewarded more intensely than Christ's soul for a time, to compensate for beatitude already enjoyed. Likewise an angel newly created and meriting as the highest could never be justly rewarded.",
+    "claims": [
+      "A later equal merit would require surpassing Christ's soul in joy for a time."
+    ],
+    "concepts": [
+      "Christ's soul",
+      "compensation",
+      "angelic merit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e738"
+      ]
+    }
+  },
+  "rh-l2q1-d1e867": {
+    "summary": "Second principal argument: God does not govern the human race at all. A wise governor orders each to its natural end, which for man is beatitude (Anselm), so God would will by good pleasure every man to be blessed, which is false.",
+    "claims": [
+      "A wise governor would order every man to beatitude."
+    ],
+    "concepts": [
+      "natural end",
+      "beatitude",
+      "voluntas beneplaciti",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e906": {
+    "summary": "Confirmation: God wills a soul to exist for some end; if not for beatitude, he did not make it for that; if for beatitude and it is not blessed, he does not govern it.",
+    "claims": [
+      "Souls not attaining their end show lack of governance."
+    ],
+    "concepts": [
+      "final causality",
+      "creation for beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e867"
+      ]
+    }
+  },
+  "rh-l2q1-d1e926": {
+    "summary": "Further: under a wise governor nothing happens against his intention and no one perishes, yet many perish.",
+    "claims": [
+      "Perishing of many shows absence of divine governance."
+    ],
+    "concepts": [
+      "providence",
+      "reprobation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e867"
+      ]
+    }
+  },
+  "rh-l2q1-d1e939": {
+    "summary": "Further: what nature intends happens always or for the most part (Physics II), but reaching beatitude happens in few, so it is not man's natural end.",
+    "claims": [
+      "Beatitude, reached by few, is not man's natural end."
+    ],
+    "concepts": [
+      "natural ends",
+      "Aristotle",
+      "few saved"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e867"
+      ]
+    }
+  },
+  "rh-l2q1-d1e955": {
+    "summary": "Further: it is unfitting that the noblest creature be governed and frustrated of its end forever, yet most humans are.",
+    "claims": [
+      "Most humans' frustration shows absence of governance."
+    ],
+    "concepts": [
+      "frustration of end",
+      "massa damnata"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e867"
+      ]
+    }
+  },
+  "rh-l2q1-d1e966": {
+    "summary": "Third principal argument: a respecter of persons who accepts one and reprobates another without merit or demerit does not govern justly, as God does ('Jacob I loved, Esau I hated'). Saying he foresaw merits does not help, since Augustine retracted this, holding faith and hope come from grace.",
+    "claims": [
+      "God's election without foreseen merits seems respect of persons."
+    ],
+    "concepts": [
+      "predestination",
+      "acceptio personarum",
+      "Jacob and Esau",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e997": {
+    "summary": "Further: one who freely chooses some for honor and reprobates others for punishment by mere will does not govern justly, and God elected not for foreseen faith and merits.",
+    "claims": [
+      "Election by mere will is not just governance."
+    ],
+    "concepts": [
+      "predestination",
+      "gratuitous election"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e966"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1018": {
+    "summary": "Further: of two born tomorrow, a predestined and b foreknown, when God created b's soul did he order it to eternal life or punishment? Not to neither, since every soul goes to one; if to life, it is not foreknown to damnation; if to punishment, absurdities follow.",
+    "claims": [
+      "The reprobate's soul seems created for damnation."
+    ],
+    "concepts": [
+      "reprobation",
+      "foreknowledge",
+      "creation of souls"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e966"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1057": {
+    "summary": "First absurdity: God would not order every rational nature to final enjoyment of him, against Anselm, so eternal life would not be the end of the rational creature.",
+    "claims": [
+      "Not all rational creatures would be ordered to beatitude."
+    ],
+    "concepts": [
+      "end of rational creature",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1018"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1070": {
+    "summary": "Second: God would freely create this soul, compelled by nothing, for damnation, which shows neither justice nor mercy, though 'all his ways are mercy and truth'.",
+    "claims": [
+      "Creating a soul for damnation shows neither justice nor mercy."
+    ],
+    "concepts": [
+      "justice and mercy",
+      "reprobation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1018"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1083": {
+    "summary": "Further: one who observes no proportion between merit and reward or demerit and punishment does not govern justly. Romans 9: 'he has mercy on whom he wills and hardens whom he wills', like the potter, who governs his vessels neither justly nor unjustly, so God governs merely freely.",
+    "claims": [
+      "According to Romans 9, God like a potter acts freely, neither justly nor unjustly."
+    ],
+    "concepts": [
+      "Romans 9",
+      "potter analogy",
+      "divine freedom",
+      "hardening"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e966"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1112": {
+    "summary": "Further: God from eternity prepared eternal life only for these (the future blessed) and punishment only for those (the damned), and cannot govern against his preordination, so not all men are ordered to the same end.",
+    "claims": [
+      "Preordination fixes different ends for different men."
+    ],
+    "concepts": [
+      "preordination",
+      "predestination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e966"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1141": {
+    "summary": "Fourth principal argument: no just governor punishes subjects for works he wills them to do, but God does. The minor is proved in many ways.",
+    "claims": [
+      "God punishes men for works he wills them to do."
+    ],
+    "concepts": [
+      "divine will and sin",
+      "punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1158": {
+    "summary": "First: whatever God causes as total or partial cause in man he wills, and he causes every human work (Isaiah 26, Acts 17; Augustine: God's will is first cause of all motions), including theft and murder. So he wills the sinful volition and punishes it, and is cause of sin.",
+    "claims": [
+      "God as cause of all motions seems to cause and will sinful acts."
+    ],
+    "concepts": [
+      "divine concurrence",
+      "God as cause of sin",
+      "Augustine",
+      "Isaiah 26"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1214": {
+    "summary": "Second: God wills whatever is necessary for the end he preordained and for what he has provided to last forever. He ordained hell from eternity (Fulgentius, Matthew 25), and without sin hell would be in vain, so he wills those for whom he prepared hell to sin.",
+    "claims": [
+      "Preparing hell implies willing the sins that fill it."
+    ],
+    "concepts": [
+      "hell",
+      "Fulgentius",
+      "necessary means"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1253": {
+    "summary": "Third: God wills whatever serves the beauty of the universe and the manifestation of his justice, and punishment of sins does, which requires sins to be committed. Augustine: evil well ordered commends the good, and God judged it better to bring good out of evil than to permit none.",
+    "claims": [
+      "The beauty of the universe and manifestation of justice require sin."
+    ],
+    "concepts": [
+      "beauty of the universe",
+      "Augustine",
+      "Enchiridion",
+      "felix culpa"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1288": {
+    "summary": "Fourth: what God prefers he wills more. He preferred evils to occur rather than prevent them, and by Augustine whatever is better God has made, so evils happening and being punished is better and willed. If God wills only that evils be punished if they occur, either he wills some punishment absolutely, requiring prior sin, or none.",
+    "claims": [
+      "God's preference for permitting evil amounts to willing it."
+    ],
+    "concepts": [
+      "permission of evil",
+      "Augustine",
+      "conditional willing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1336": {
+    "summary": "Fifth: God authors every punishment (Amos 3), and some sins are punishments of other sins (Gregory, Augustine, Lombard), so some sin is willed by God and he is its author.",
+    "claims": [
+      "Sins that are punishments of sin are willed by God."
+    ],
+    "concepts": [
+      "sin as punishment of sin",
+      "Amos 3",
+      "Gregory",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1369": {
+    "summary": "Sixth: God willed Christ to be killed by the Jews, so he willed the Jews to kill Christ, since the two signify exactly the same, differing only grammatically; and that killing was the greatest sin.",
+    "claims": [
+      "Willing Christ to be killed by the Jews is willing the Jews to kill him."
+    ],
+    "concepts": [
+      "Passion",
+      "active and passive voice",
+      "signification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1394": {
+    "summary": "Seventh: an instrument's work is imputed to the principal agent; persecuting tyrants are God's instruments, God afflicting the good through the wicked, so persecution, a sin, is from God as principal author, which Augustine wants avoided.",
+    "claims": [
+      "Persecutors as God's instruments make God author of persecution."
+    ],
+    "concepts": [
+      "instrumental causality",
+      "persecution",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1416": {
+    "summary": "Confirmation: God predestined some to merit eternal life by patience in persecution, so willed that without which it cannot be, unjust persecution.",
+    "claims": [
+      "Willing martyrs' patience requires willing unjust persecution."
+    ],
+    "concepts": [
+      "martyrdom",
+      "necessary means",
+      "predestination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1394"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1441": {
+    "summary": "Eighth: God from eternity willed Stephen to have the martyr's aureole, so willed the necessary means, the persecutors' evil volition.",
+    "claims": [
+      "Willing Stephen's martyrdom implies willing his persecutors' sin."
+    ],
+    "concepts": [
+      "Stephen",
+      "aureole",
+      "necessary means"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1454": {
+    "summary": "Ninth: God willed the devil to be defeated by Christ in the temptation, so willed the temptation; Jesus was led by the Spirit to be tempted (Matthew 4), and the devil's tempting was vicious.",
+    "claims": [
+      "Willing Christ's victory over temptation implies willing the devil's vicious tempting."
+    ],
+    "concepts": [
+      "temptation of Christ",
+      "Matthew 4",
+      "devil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1472": {
+    "summary": "Tenth: God willed Paul to merit by conversion and penance for persecuting the Church, and willed the necessary means. Some would never be saved without penance and humility for prior sins (Augustine: it profits the proud to fall).",
+    "claims": [
+      "Some salvations require prior sin, which God then wills."
+    ],
+    "concepts": [
+      "Paul's conversion",
+      "Augustine",
+      "fortunate fall"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1503": {
+    "summary": "Fifth principal argument: God does not do all that belongs to a just judge.",
+    "claims": [
+      "God does not do all that belongs to a just judge."
+    ],
+    "concepts": [
+      "just judge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1513": {
+    "summary": "First: a just governor should prevent all evils by subjects that he can, but God permits evils he could prevent (Lombard I d. 46).",
+    "claims": [
+      "God permits preventable evils."
+    ],
+    "concepts": [
+      "permission of evil",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1503"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1531": {
+    "summary": "Confirmation from the Decretum (d. 83): error not resisted is approved; neglecting to disturb the perverse when one can is to foster them.",
+    "claims": [
+      "According to canon law, failing to resist evil when able is complicity."
+    ],
+    "concepts": [
+      "Decretum",
+      "complicity",
+      "duty to prevent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1513"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1551": {
+    "summary": "Second: God remits part or all of punishment and always punishes less than condign, departing from due proportion between fault and penalty.",
+    "claims": [
+      "God always punishes less than condignly."
+    ],
+    "concepts": [
+      "citra condignum",
+      "mercy and justice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1503"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1567": {
+    "summary": "Confirmation from Anselm: to order sin rightly is only to punish it; unpunished it remains disordered; satisfaction must match the measure of sin, or God leaves something disordered in his kingdom.",
+    "claims": [
+      "According to Anselm, unpunished sin leaves disorder."
+    ],
+    "concepts": [
+      "Anselm",
+      "Cur Deus homo",
+      "satisfaction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1551"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1591": {
+    "summary": "Third: if God governed, he would leave nothing disordered (Anselm), yet much is disordered and many sins go unpunished.",
+    "claims": [
+      "Unpunished sins show lack of governance."
+    ],
+    "concepts": [
+      "disorder",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1503"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1604": {
+    "summary": "Fourth: temporal and eternal punishment are as distant either way (Physics III, the road from Athens to Thebes). Commuting Plato's eternal penalty to temporal through penance is as unjust as commuting Socrates' temporal penalty to eternal, departing equally from geometric proportion.",
+    "claims": [
+      "Commuting eternal to temporal punishment is as unjust as the reverse."
+    ],
+    "concepts": [
+      "commutation of punishment",
+      "penance",
+      "geometric proportion",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1503"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1651": {
+    "summary": "Fifth: a just judge commands only what he wills done and forbids only what he wills not done, else he feigns and deceives. God commanded what he did not will done, like Abraham's sacrifice, and forbade the healed to tell what he willed them to tell (Lombard I d. 45).",
+    "claims": [
+      "God commands what he does not will done."
+    ],
+    "concepts": [
+      "voluntas signi",
+      "Abraham",
+      "Lombard",
+      "divine deception"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1503"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1677": {
+    "summary": "Sixth principal argument: no just governor withholds from a subject what is fully owed and merited. The joy owed the souls in heaven, which they will have after the judgment, is sufficiently purchased by their and Christ's merits.",
+    "claims": [
+      "God withholds owed joy from the blessed until the resurrection."
+    ],
+    "concepts": [
+      "delay of full beatitude",
+      "merit of Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1701": {
+    "summary": "Confirmation: under a just governor no one should pay for another's sin. The souls and angels are made to wait because of the sins of the damned living, since otherwise judgment and resurrection would come sooner, and their joy increases after the judgment (Augustine).",
+    "claims": [
+      "The blessed suffer delay because of others' sins."
+    ],
+    "concepts": [
+      "vicarious harm",
+      "general resurrection",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1677"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1735": {
+    "summary": "Confirmation: this loss, suffered without their fault, is never compensated.",
+    "claims": [
+      "The delay suffered by the blessed is never compensated."
+    ],
+    "concepts": [
+      "uncompensated loss"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119",
+        "rh-l2q1-d1e1701"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1744": {
+    "summary": "Seventh: no just governor requires what he does not will done, but God requires final perseverance of the reprobate.",
+    "claims": [
+      "God requires perseverance from the reprobate whom he does not will to persevere."
+    ],
+    "concepts": [
+      "reprobation",
+      "final perseverance",
+      "voluntas signi"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1755": {
+    "summary": "Further: of two damned, God remits more to the worse. If Socrates deserves twelve degrees and Plato six and God always punishes below condign, remitting equal amounts treats Plato more harshly proportionally; remitting equal proportions remits more to the worse Socrates.",
+    "claims": [
+      "Any scheme of remission favors one damned sinner unjustly."
+    ],
+    "concepts": [
+      "remission of punishment",
+      "arithmetic and geometric proportion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1817": {
+    "summary": "For the opposite: Wisdom 14, 'your providence, Father, governs all from the beginning', and God is just in all his ways.",
+    "claims": [
+      "God's providence governs all justly."
+    ],
+    "concepts": [
+      "Wisdom 14",
+      "providence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1828": {
+    "summary": "Further: Augustine says the beginning of piety is to think best of God, as omnipotent, immutable creator of all goods and most just ruler of all he created, which all scripture proclaims.",
+    "claims": [
+      "According to Augustine, God is the most just ruler of all he created."
+    ],
+    "concepts": [
+      "Augustine",
+      "divine justice",
+      "piety"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e119"
+      ]
+    }
+  },
+  "rh-l2q1-Dd1e1860": {
+    "summary": "Opening of the response: the question's title poses no great difficulty.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "responsio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q1-d1e1865"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1865": {
+    "summary": "Begins the response: the question's title poses no great difficulty.",
+    "claims": [],
+    "concepts": [
+      "structure of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1860"
+      ]
+    }
+  },
+  "rh-l2q1-Dd1e1872": {
+    "summary": "Holcot explains the terms: God strictly creates souls, not men, and 'human race' means all men. 'Justly' has three senses: doing what one owes, keeping proportion between merit and reward, and acting as befits God, i.e. as he wills, so 'just' and 'God wills it' convert. God is a true debtor by his promises and owes grace to the disposed, but creation, laws, and sacraments were not owed. In the first two senses God governs justly only sometimes; in the third, absolutely. He replies to the first three principal arguments. There is no absolute maximum of punishment. Pain of loss and pain of sense are incommensurable, so venial sins never equal a mortal sin. God need keep no proportion. He discusses a certain doctor's three conclusions about eternal punishment and argues that mortal sin is intensively infinite as privation of perpetual grace and beatitude, while infinite sins can still differ in gravity. The damned sin by omission but do not demerit without imputation. Rewards above merit wrong no one. Christ's merit is sufficient for all and efficacious for the elect. God orders all to beatitude by capacity and law, not predestination. Predestination is before merits, reprobation after foreseen sin, and gratuitous election is not respect of persons. God's will is divided into good pleasure, antecedent and consequent, and the five signs.",
+    "claims": [
+      "'Just' and 'God wills it' convert in the sense that matters.",
+      "God is a debtor only by promise.",
+      "Mortal sin is intensively infinite as privation of an eternal good.",
+      "Christ's merit is sufficient for all and efficacious for the elect.",
+      "Predestination precedes foreseen merit; reprobation follows foreseen sin.",
+      "Gratuitous election is not respect of persons."
+    ],
+    "concepts": [
+      "senses of justice",
+      "God as debtor",
+      "eternal punishment",
+      "privation",
+      "predestination and reprobation",
+      "voluntas beneplaciti et signi",
+      "sufficiency and efficacy"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q1-d1e1877",
+        "rh-l2q1-d1e1882",
+        "rh-l2q1-d1e1911",
+        "rh-l2q1-d1e1920",
+        "rh-l2q1-d1e1945",
+        "rh-l2q1-d1e2024",
+        "rh-l2q1-d1e2046",
+        "rh-l2q1-d1e2075",
+        "rh-l2q1-d1e2086",
+        "rh-l2q1-d1e2108",
+        "rh-l2q1-d1e2164",
+        "rh-l2q1-d1e2190",
+        "rh-l2q1-d1e2270",
+        "rh-l2q1-d1e2344",
+        "rh-l2q1-d1e2362",
+        "rh-l2q1-d1e2397",
+        "rh-l2q1-d1e2433",
+        "rh-l2q1-d1e2451",
+        "rh-l2q1-d1e2460",
+        "rh-l2q1-d1e2467",
+        "rh-l2q1-d1e2472",
+        "rh-l2q1-d1e2485",
+        "rh-l2q1-d1e2495",
+        "rh-l2q1-d1e2533",
+        "rh-l2q1-d1e2542",
+        "rh-l2q1-d1e2564",
+        "rh-l2q1-d1e2586",
+        "rh-l2q1-d1e2615",
+        "rh-l2q1-d1e2642",
+        "rh-l2q1-d1e2649",
+        "rh-l2q1-d1e2695",
+        "rh-l2q1-d1e2713",
+        "rh-l2q1-d1e2733",
+        "rh-l2q1-d1e2766",
+        "rh-l2q1-d1e2796",
+        "rh-l2q1-d1e2817",
+        "rh-l2q1-d1e2837",
+        "rh-l2q1-d1e2853",
+        "rh-l2q1-d1e2872",
+        "rh-l2q1-d1e2890",
+        "rh-l2q1-d1e2911",
+        "rh-l2q1-d1e2929",
+        "rh-l2q1-d1e2964",
+        "rh-l2q1-d1e2984",
+        "rh-l2q1-d1e2995",
+        "rh-l2q1-d1e3011",
+        "rh-l2q1-d1e3056",
+        "rh-l2q1-d1e3110",
+        "rh-l2q1-d1e3132",
+        "rh-l2q1-d1e3163",
+        "rh-l2q1-d1e3198",
+        "rh-l2q1-d1e3211",
+        "rh-l2q1-d1e3271",
+        "rh-l2q1-d1e3295",
+        "rh-l2q1-d1e3390",
+        "rh-l2q1-d1e3412",
+        "rh-l2q1-d1e3432",
+        "rh-l2q1-d1e3445",
+        "rh-l2q1-d1e3490",
+        "rh-l2q1-d1e3499",
+        "rh-l2q1-d1e3538",
+        "rh-l2q1-d1e3595",
+        "rh-l2q1-d1e3644",
+        "rh-l2q1-d1e3686",
+        "rh-l2q1-d1e3709",
+        "rh-l2q1-d1e3761",
+        "rh-l2q1-d1e3796",
+        "rh-l2q1-d1e3825",
+        "rh-l2q1-d1e3843",
+        "rh-l2q1-d1e3850",
+        "rh-l2q1-d1e3881",
+        "rh-l2q1-d1e3927",
+        "rh-l2q1-d1e3956",
+        "rh-l2q1-d1e3972",
+        "rh-l2q1-d1e4009",
+        "rh-l2q1-d1e4055",
+        "rh-l2q1-d1e4065",
+        "rh-l2q1-d1e4094",
+        "rh-l2q1-d1e4101",
+        "rh-l2q1-d1e4121",
+        "rh-l2q1-d1e4150",
+        "rh-l2q1-d1e4166",
+        "rh-l2q1-d1e4180",
+        "rh-l2q1-d1e4196",
+        "rh-l2q1-d1e4238",
+        "rh-l2q1-d1e4347",
+        "rh-l2q1-d1e4424",
+        "rh-l2q1-d1e4461",
+        "rh-l2q1-d1e4478",
+        "rh-l2q1-d1e4507",
+        "rh-l2q1-d1e4601",
+        "rh-l2q1-d1e4663",
+        "rh-l2q1-d1e4687",
+        "rh-l2q1-d1e4735",
+        "rh-l2q1-d1e4821",
+        "rh-l2q1-d1e4841"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1877": {
+    "summary": "First, the terms of the question are explained.",
+    "claims": [],
+    "concepts": [
+      "terms of the question"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1882": {
+    "summary": "'Creator of the human race' means God, though strictly he creates no man, only souls, so the question taken literally implies a falsehood and should be denied. He is called creator because he creates souls and created the first man's soul and the prime matter of his body. If a man were only prime matter and intellective soul and a whole were its parts, one could grant of any man that he was created by God.",
+    "claims": [
+      "God strictly creates souls, not men.",
+      "Taken literally the question implies a falsehood."
+    ],
+    "concepts": [
+      "creation of souls",
+      "whole and parts",
+      "prime matter",
+      "literal sense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e1877"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1911": {
+    "summary": "By 'human race' he means not a second intention but simply all men.",
+    "claims": [
+      "'Human race' stands for all men, not a second intention."
+    ],
+    "concepts": [
+      "second intentions",
+      "nominalist reading"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e1877"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1920": {
+    "summary": "Distinguishes three senses of 'justly'. First, governing as one ought and is bound, as a man acts justly when he does what his office obliges, in Anselm's sense of willing what one ought and not willing what one ought not.",
+    "claims": [
+      "'Justly' first means doing what one ought and is bound to do."
+    ],
+    "concepts": [
+      "senses of justice",
+      "obligation",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e1877"
+      ]
+    }
+  },
+  "rh-l2q1-d1e1945": {
+    "summary": "Second, governing equally, keeping proportion between merit and reward and fault and penalty, as just judges do in distributive justice. Third, as befits God and suits the creature, i.e. as God wills; 'this is just' and 'God wills this' convert, as Anselm says (Proslogion 11: only what you will is just). In the first sense God governs justly in some operations, such as punishing fault and rewarding good works, where he does what he ought.",
+    "claims": [
+      "'Justly' secondly means keeping proportion of merit and reward.",
+      "'Justly' thirdly means as God wills, and 'just' and 'God wills it' convert.",
+      "In punishing and rewarding God does what he ought."
+    ],
+    "concepts": [
+      "distributive justice",
+      "voluntarism",
+      "Anselm",
+      "Proslogion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e1920"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2024": {
+    "summary": "Likewise when he infuses grace in one disposing himself, increases it for one acting well, and withdraws it from a sinner, God owes these and is bound. But in creating the world, establishing our laws, and ordaining the sacraments as means of salvation he was bound to nothing and did none of these justly in that sense.",
+    "claims": [
+      "God is bound to give grace to the disposed and withdraw it from sinners.",
+      "Creation, law, and sacraments were not owed by God."
+    ],
+    "concepts": [
+      "facere quod in se est",
+      "divine obligation",
+      "covenant",
+      "sacraments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e1945"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2046": {
+    "summary": "It is not unfitting to call God a debtor to creatures. What is true of God is not unfitting to him (Anselm). Whoever enters civic communication with another owes what he promises, and God communicates with men as a lord with servants and promises much, so after the promise he is truly a debtor.",
+    "claims": [
+      "God is truly a debtor to creatures through his promises."
+    ],
+    "concepts": [
+      "God as debtor",
+      "promise",
+      "political analogy",
+      "covenant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2075": {
+    "summary": "Confirmation: fidelity and truth cannot be kept by one who promises and is not a debtor, so they require God's being a debtor.",
+    "claims": [
+      "Divine fidelity requires God's being bound by promise."
+    ],
+    "concepts": [
+      "fidelity",
+      "truthfulness of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2046"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2086": {
+    "summary": "Second: one can merit before God, and to merit is to make something owed to oneself, so meriting makes God one's debtor.",
+    "claims": [
+      "Meriting before God makes God a debtor."
+    ],
+    "concepts": [
+      "merit",
+      "debt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2046"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2108": {
+    "summary": "Third, from Lombard: God 'is not our debtor except perhaps by promise', which by exponible analysis implies he is our debtor by promise. So in the first sense God governs justly in some things (fulfilling promises) and not in others (doing what he does not owe). In the second sense, likewise sometimes and sometimes not: a wicked man rewarded only in this life may receive exactly what he merited.",
+    "claims": [
+      "God is our debtor by promise.",
+      "In the first and second senses God governs justly only sometimes."
+    ],
+    "concepts": [
+      "exponible propositions",
+      "Lombard",
+      "promise",
+      "temporal reward"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2086"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2164": {
+    "summary": "Sometimes too a man is punished in this life exactly as his fault requires, though not commonly. Justice in the second sense is very hard, indeed impossible, to preserve in all divine works, though some incomprehensible reason of justice is to be believed. In the third sense God governs justly absolutely, as befits him and suits men.",
+    "claims": [
+      "Proportional justice cannot be found in all divine works.",
+      "In the sense of what befits God, God governs justly absolutely."
+    ],
+    "concepts": [
+      "incomprehensible justice",
+      "proportional justice",
+      "divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2108"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2190": {
+    "summary": "Reply to the first principal argument. Absolutely there is no maximum punishment human nature can bear, since God can always create a greater afflicting cause; there is a maximum only under given dispositions. Admitting the case, one may deny that Socrates is punished more, since God can punish Plato more intensely until compensated, or deny the case, since Plato will merit or demerit during the year. If Plato were punished equally from death, he would be punished less, but that would not be unjust.",
+    "claims": [
+      "There is no absolute maximum of punishment.",
+      "Unequal duration of punishment for equal sins would not be unjust."
+    ],
+    "concepts": [
+      "maximum punishment",
+      "potentia absoluta",
+      "compensation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e137"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2270": {
+    "summary": "Reply to the second: the infant's penalty a (loss only) and the adult's b (loss and sense) are not of the same kind, so b exceeds a infinitely, like body and surface, and a, a privation, cannot be multiplied. Reply to the third: venial joined to mortal is punished perpetually, since without grace no sin is remitted, and more intensely by an excess c; but no multiplication of c yields b, since eternity is inflicted for mortal sin, and the two are not commensurable. So no number of venial sins is punished as much as one mortal sin.",
+    "claims": [
+      "Pain of loss and pain of sense are incommensurable.",
+      "Venial sin joined to mortal is punished perpetually.",
+      "No number of venial sins equals a mortal sin in punishment."
+    ],
+    "concepts": [
+      "poena damni",
+      "poena sensus",
+      "incommensurability",
+      "venial and mortal sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e205",
+        "rh-l2q1-d1e231"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2344": {
+    "summary": "Reply to the fourth: grants that the one in greater grace is punished more, losing a greater good, but denies injustice, since he is punished as God has established, willing that any mortal sin deprive of grace however intense.",
+    "claims": [
+      "Greater punishment for losing greater grace is just because God so established."
+    ],
+    "concepts": [
+      "pain of loss",
+      "divine ordinance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e332"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2362": {
+    "summary": "Reply to the fifth: under present law we have nothing to say about a man created in pure nature, but God could annihilate him, keep him in eternal life without merit (which does not mean heaven can be merited by nature), put him in hell, or keep him elsewhere forever, and whatever he did would be just in the third sense.",
+    "claims": [
+      "God could dispose of a sinless man in pure nature in any way justly."
+    ],
+    "concepts": [
+      "pure nature",
+      "potentia absoluta",
+      "justice as divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e350"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2397": {
+    "summary": "Reply to the sixth: denies that failing to keep proportion is unjust. Had God placed man in heaven without merit or in perpetual torment at once, he would be guilty of no injustice, and so he is not bound to proportion. Alternatively, what he repays for a fault is proportioned simply because he wills it so. On the claim that some sin, such as harm to Christ, exceeds all others without proportion:",
+    "claims": [
+      "God is not bound to keep proportion between merit and reward.",
+      "God's willing a penalty for a fault makes it proportionate."
+    ],
+    "concepts": [
+      "voluntarism",
+      "proportion of punishment",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e391"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2433": {
+    "summary": "One sin being graver than another can mean two comparable sins of one species exceed each other without proportion, or that the lesser infinitely multiplied would not equal the other while the other is finite, which is contradictory.",
+    "claims": [
+      "A finite sin that infinite multiples of another cannot equal is contradictory."
+    ],
+    "concepts": [
+      "gravity of sin",
+      "proportion",
+      "incommensurability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2397"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2451": {
+    "summary": "Restates the seventh: God inflicts infinite, eternal punishment for sin of finite malice and finite duration.",
+    "claims": [],
+    "concepts": [
+      "eternal punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e428"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2460": {
+    "summary": "A certain doctor answers with three conclusions.",
+    "claims": [],
+    "concepts": [
+      "eternal punishment",
+      "a certain doctor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2451"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2467": {
+    "summary": "First conclusion: sin is in itself a finite evil.",
+    "claims": [
+      "Sin is a finite evil."
+    ],
+    "concepts": [
+      "finitude of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2460"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2472": {
+    "summary": "Second: sin remains perpetually in the damned, as love of God does in the saints, so it deserves punishment infinite in duration.",
+    "claims": [
+      "Sin persists in the damned and so deserves perpetual punishment."
+    ],
+    "concepts": [
+      "persistence of sin",
+      "eternal punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2460"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2485": {
+    "summary": "Third: a mortal sin of finite time deserves punishment finite in time, not infinite.",
+    "claims": [
+      "A temporally finite mortal sin deserves only temporally finite punishment."
+    ],
+    "concepts": [
+      "proportion of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2460"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2495": {
+    "summary": "Proof of the first: sin is as great as the honor withdrawn from God (Anselm), and the honor owed by a finite nature is finite; otherwise a creature would owe God as much honor as God owes himself or the Son the Father, an operation infinitely exceeding its nature.",
+    "claims": [
+      "Sin is as great as the honor it withdraws, which is finite."
+    ],
+    "concepts": [
+      "Anselm",
+      "honor due to God",
+      "finitude of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2467"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2533": {
+    "summary": "Second proof: if sin were intensively infinite, the will's malice would equal God's goodness, which the intellect cannot grasp.",
+    "claims": [
+      "Infinite malice would equal God's goodness."
+    ],
+    "concepts": [
+      "malice and goodness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2467"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2542": {
+    "summary": "Third: otherwise God could not punish it sufficiently. If willing to sin for a day merited intensively infinite punishment, willing to sin forever, infinitely worse, would merit more than nature can bear.",
+    "claims": [
+      "Infinite malice could not be sufficiently punished."
+    ],
+    "concepts": [
+      "sufficiency of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2467"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2564": {
+    "summary": "Proof of the second: the rational will remains bound after death to love God above all, which the damned never do, so they continually sin; the precept is fully kept only in heaven (Augustine).",
+    "claims": [
+      "The damned continually sin by not loving God."
+    ],
+    "concepts": [
+      "sin of the damned",
+      "Augustine",
+      "precept of love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2472"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2586": {
+    "summary": "Further: greater honor is owed God in the next life, so the damned sin more gravely after death. Lombard: the 'outer darkness' may be the malice of hatred that grows in the reprobate.",
+    "claims": [
+      "The damned sin more gravely after death than in life."
+    ],
+    "concepts": [
+      "Lombard",
+      "outer darkness",
+      "malice of the damned"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2472"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2615": {
+    "summary": "The third is asserted to evade the argument: if temporally finite sin deserved temporally infinite punishment, double sin would deserve intensively double, and infinite sin intensively infinite punishment, and by parity the blessed would rejoice as much as God.",
+    "claims": [
+      "Temporally infinite punishment for finite sin leads to intensively infinite punishment."
+    ],
+    "concepts": [
+      "proportion",
+      "infinite joy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2485"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2642": {
+    "summary": "So the argument is answered by denying that temporally finite sin deserves temporally infinite punishment.",
+    "claims": [
+      "Temporally finite sin does not deserve temporally infinite punishment."
+    ],
+    "concepts": [
+      "eternal punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2615"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2649": {
+    "summary": "Against this opinion, first against its first conclusion, though it seems more reasonable: sin is as evil as the good for which it should not be done, and per Anselm it should not be done to save infinitely many worlds, so it is of intensively infinite malice. Also, killing would be no graver than the small honor of keeping 'thou shalt not kill'.",
+    "claims": [
+      "According to Anselm, sin should not be committed to save infinite worlds, so it is infinitely evil."
+    ],
+    "concepts": [
+      "Anselm",
+      "infinite malice",
+      "negative precepts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2467"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2695": {
+    "summary": "The third conclusion seems more dangerous, directly against the saints: Augustine (City of God XXI) argues that eternal punishment is due for momentary mortal sin, citing Cicero's eight kinds of penalties.",
+    "claims": [
+      "According to Augustine, momentary mortal sin deserves eternal punishment."
+    ],
+    "concepts": [
+      "Augustine",
+      "City of God",
+      "eternal punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2485"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2713": {
+    "summary": "Confirmation: just human laws inflict perpetual penalties (exile, mutilation, death) for momentary crimes, so this is not unreasonable for divine judgment; Gregory says it belongs to a just judge that those who never wished to lack sin never lack punishment.",
+    "claims": [
+      "Human laws inflict perpetual penalties for momentary crimes.",
+      "According to Gregory, those who never wished to lack sin never lack punishment."
+    ],
+    "concepts": [
+      "human law",
+      "Gregory",
+      "perpetual penalties"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2695"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2733": {
+    "summary": "Against the second conclusion: if the damned continually sin, the blessed continually merit, and essential beatitude would grow continually, so none would be perfectly blessed. And given a maximum degree a God can give, either Linus has it and cannot merit, or he will reach it in finite time since each day adds a reward.",
+    "claims": [
+      "Continual demerit of the damned implies continual merit of the blessed."
+    ],
+    "concepts": [
+      "merit of the blessed",
+      "maximum degree",
+      "essential beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2472"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2766": {
+    "summary": "Likewise the damned Judas's punishment would reach its maximum in finite time. If punished by eternity rather than intensity, the doctors' difference between venial and mortal sin perishes.",
+    "claims": [
+      "Continual sin of the damned would exhaust maximal punishment."
+    ],
+    "concepts": [
+      "Judas",
+      "maximum punishment",
+      "venial and mortal sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2733"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2796": {
+    "summary": "If mortal sin is punished perpetually because it remains until death, then venial sin remaining until death without mortal would also deserve perpetual punishment, and no saint ever committed mortal sin, since none remained in it until death.",
+    "claims": [
+      "Defining mortal sin by persistence until death is absurd."
+    ],
+    "concepts": [
+      "definition of mortal sin",
+      "persistence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2766"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2817": {
+    "summary": "Further: a contrite person confessing mortal sin would lie, since being contrite he is not in it until death, so it was not mortal.",
+    "claims": [
+      "The persistence account makes confession of mortal sin a lie."
+    ],
+    "concepts": [
+      "confession",
+      "contrition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2796"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2837": {
+    "summary": "Against the claim that the sinful act remains: in one damned for voluntary homicide, neither the will to kill nor the will to have killed remains, since he will grieve, though not virtuously.",
+    "claims": [
+      "The sinful act does not persist in the damned."
+    ],
+    "concepts": [
+      "persistence of acts",
+      "remorse of the damned"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2472"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2853": {
+    "summary": "Further: by parity all bad wills would remain continually. So sin remains not as act but only as guilt (reatus), as Lombard says.",
+    "claims": [
+      "Sin remains in the damned as guilt, not as act."
+    ],
+    "concepts": [
+      "reatus",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2837"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2872": {
+    "summary": "Further: one damned for disordered love and later hatred of a friend (Seneca: insane love and hatred end alike) would love and hate him excessively forever.",
+    "claims": [
+      "Persistent acts would make the damned love and hate the same eternally."
+    ],
+    "concepts": [
+      "Seneca",
+      "contrary acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2837"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2890": {
+    "summary": "Further: one damned for not loving God for himself, if damned for a love of God for his own sake, would keep it forever while hating God like all the damned.",
+    "claims": [
+      "Persistent acts would make the damned love and hate God at once."
+    ],
+    "concepts": [
+      "hatred of God",
+      "contrary acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2837"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2911": {
+    "summary": "Further: some sins of omission involve no act, so in one damned for such nothing would remain; nor does he approve his omission, since that would be a new sin and he will grieve over it.",
+    "claims": [
+      "Sins of omission leave no act to persist."
+    ],
+    "concepts": [
+      "sins of omission",
+      "persistence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2837"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2929": {
+    "summary": "Reply to the arguments for the first conclusion: denies that sin is as evil as the honor withdrawn is good. As universal it is false, as indefinite the argument fails in form. One can withdraw more honor by sinning less: suppose one is bound under venial sin to say Mass today and under mortal sin to say the Lord's Prayer.",
+    "claims": [
+      "Gravity of sin does not track the amount of honor withdrawn."
+    ],
+    "concepts": [
+      "honor due to God",
+      "Mass",
+      "venial and mortal obligations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2495"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2964": {
+    "summary": "If both are omitted, omitting the prayer is the greater sin, so it would withdraw greater honor, implying that saying the Lord's Prayer honors God more than saying Mass, which is false.",
+    "claims": [
+      "Omission gravity would imply the Lord's Prayer honors God more than Mass."
+    ],
+    "concepts": [
+      "counterexample"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2929"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2984": {
+    "summary": "One might reply that obeying a precept to lift a straw honors God more than any counseled good work, such as building a church.",
+    "claims": [
+      "Obeying a precept may honor God more than a counseled work."
+    ],
+    "concepts": [
+      "precept and counsel"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2964"
+      ]
+    }
+  },
+  "rh-l2q1-d1e2995": {
+    "summary": "Against: then Peter honored God more keeping the Sabbath under the law than offering himself to die for the faith. Perhaps instead the honor withdrawn is infinite at least in duration.",
+    "claims": [
+      "Precept-based honor would rank Sabbath-keeping above martyrdom."
+    ],
+    "concepts": [
+      "precept and counsel",
+      "martyrdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2984"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3011": {
+    "summary": "One is bound to keep charity forever, so depriving oneself of charity is privation of a good infinite in duration, and so an intensively infinite evil in the way a privation can be. Grants the honor owed is not intensively infinite, but denies that its withdrawal is not an infinite evil. Nowhere is it said that the Son must honor the Father, since they are one God; the Son owes honor only in his assumed humanity.",
+    "claims": [
+      "Loss of charity is privation of a good infinite in duration.",
+      "Privation of a perpetual good is an intensively infinite evil.",
+      "The Son owes honor to the Father only in his humanity."
+    ],
+    "concepts": [
+      "privation",
+      "infinite evil",
+      "charity",
+      "Trinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2495"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3056": {
+    "summary": "Reply to the second: 'the malice is as great as God's goodness' is amphibolous. Properly it is false, as if malice and goodness were both things, whereas 'malice' is a negative term, no more a thing in the soul than in a stone (Anselm). Improperly, answering 'how great' questions, both are infinite intensively in different ways: God's goodness positively, sin's malice as privation of an infinitely enduring good.",
+    "claims": [
+      "Malice is not a thing but a privation.",
+      "Sin's malice is infinite as privation of an infinite good."
+    ],
+    "concepts": [
+      "privation theory of evil",
+      "amphiboly",
+      "Anselm",
+      "negative terms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2533"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3110": {
+    "summary": "Reply to the third: denies that infinite malice could not be sufficiently punished, and restates its proof about willing to sin for a day or forever.",
+    "claims": [
+      "Infinite malice can be sufficiently punished."
+    ],
+    "concepts": [
+      "sufficiency of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2542"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3132": {
+    "summary": "Denies the minor: willing to sin forever need not be graver than willing to sin for a day. One who resolves today to kill Christ or destroy the Church sins more gravely than one who resolves to hate Socrates forever, since circumstances of the object outweigh infinite time.",
+    "claims": [
+      "Gravity depends more on the object than on intended duration."
+    ],
+    "concepts": [
+      "circumstances of sin",
+      "object of volition",
+      "duration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3110"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3163": {
+    "summary": "Objection: willing to hate God for one, two, three days merits ever greater punishment, so willing it forever merits intensively infinite punishment. Reply: the form is invalid, since endless increase by proportional parts does not reach an infinite quantity, as adding the proportional parts of a foot to another foot never makes two feet.",
+    "claims": [
+      "Endless increase by proportional parts does not yield infinite quantity."
+    ],
+    "concepts": [
+      "proportional parts",
+      "convergent series",
+      "infinite punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3132"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3198": {
+    "summary": "Further objection: willing to sin for one day is of some malice, for two days double, for three triple, so forever infinite.",
+    "claims": [
+      "Malice would grow linearly with intended duration."
+    ],
+    "concepts": [
+      "duration",
+      "infinite malice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3163"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3211": {
+    "summary": "Reply: the antecedent is false, since no sin is simply twice as grave as another as measured by ordained punishment. If eternal punishment a were double b, a would divide into two infinites each equal to b. Being twice as intense is not being twice as great, as Socrates twice as tall need not be twice as large. And since both share the eternity c, a would need another component equal to c, so eternity would not be the chief part of punishment.",
+    "claims": [
+      "No sin is simply twice as grave as another.",
+      "Being twice as intense is not being twice as great."
+    ],
+    "concepts": [
+      "comparison of infinities",
+      "intensity and magnitude",
+      "eternal punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3198"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3271": {
+    "summary": "Objection: what is infinitely greater is more than double, triple, and so on, and Anselm says sin against Christ's person is infinitely graver than any other kind.",
+    "claims": [
+      "According to Anselm, sin against Christ is infinitely graver."
+    ],
+    "concepts": [
+      "Anselm",
+      "sin against Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3211"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3295": {
+    "summary": "Reply: denies the minor; Anselm speaks hyperbolically to stress the honor owed Christ. Killing Christ by invincible error would be no sin, and with venial error only venial. Or Anselm means a hypothetical: if all gravity came from the nobility of the object bodily harmed, harming Christ would be incomparable. 'Infinitely graver in this circumstance, so infinitely graver' is a fallacy secundum quid et simpliciter, as a body infinitely longer than another need not be infinitely larger.",
+    "claims": [
+      "Anselm speaks hyperbolically about sins against Christ.",
+      "Infinite excess in one circumstance does not imply infinite excess simply."
+    ],
+    "concepts": [
+      "hyperbole",
+      "secundum quid et simpliciter",
+      "Anselm",
+      "geometrical examples"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3271"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3390": {
+    "summary": "On the magnitude of mortal sin, the core difficulty: it is probable that every mortal sin is of intensively infinite malice in the way intensive infinity applies to privation. Privation is measured by the habit and evil by the good it deprives, and sin deprives of grace one is bound to keep forever.",
+    "claims": [
+      "Every mortal sin is of intensively infinite malice as a privation."
+    ],
+    "concepts": [
+      "privation",
+      "infinite malice",
+      "grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e428"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3412": {
+    "summary": "Sin also deprives of a beatitude that would be perpetual. Since it deprives of infinitely many goods, it is in some way infinite in malice, not extensively, since it does not last forever, but intensively.",
+    "claims": [
+      "Sin deprives of perpetual beatitude and so is intensively infinite."
+    ],
+    "concepts": [
+      "privation of beatitude",
+      "intensive and extensive infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3390"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3432": {
+    "summary": "Objection: then no sin would be graver than another, which is heretical, and Averroes treats one infinite exceeding another as absurd.",
+    "claims": [
+      "If all sins are infinite, none is graver."
+    ],
+    "concepts": [
+      "Averroes",
+      "comparison of infinities"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3390"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3445": {
+    "summary": "Reply: sin is not to be imagined as a positive infinite. 'Sin' signifies privatively or negatively many things, some finite, some infinite in duration. 'He sins mortally' denotes that he does or omits something against precept and so deprives himself of goods infinite in time. Being intensively infinite means only that 'infinite' must enter the description expressing its quantity; it is not extensively infinite, since the act passes, except as to guilt.",
+    "claims": [
+      "'Sin' is a privative term signifying many things.",
+      "Intensive infinity of sin means 'infinite' enters its quantitative description."
+    ],
+    "concepts": [
+      "privative terms",
+      "nominal definition",
+      "reatus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3432"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3490": {
+    "summary": "To the form of the argument: denies the inference, as an infinite surface is infinitely greater than an infinite line.",
+    "claims": [
+      "One infinite can be greater than another."
+    ],
+    "concepts": [
+      "comparison of infinities",
+      "geometry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3432"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3499": {
+    "summary": "Similarly a surface a foot wide and infinitely long is less than one two feet wide and infinitely long, though equal in length. So two intensively infinite sins need not be equal; one may include more evils or violate a greater precept. Averroes means only that one infinite line or body is not greater than another, and there is equivocation between privative and positive intensity.",
+    "claims": [
+      "Two intensively infinite sins can differ in gravity.",
+      "Averroes's principle concerns positive magnitudes of the same kind."
+    ],
+    "concepts": [
+      "comparison of infinities",
+      "Averroes",
+      "equivocation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3490"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3538": {
+    "summary": "Reply to the argument for the second conclusion: grants the will remains obliged after death, but denies that the damned continually sin in the relevant sense. 'Socrates sins' can mean he does not act as he ought, or that he does not and so merits punishment. In the first sense the damned continually sin, omitting what they are bound to, but not in the second, since God does not impute their deformed acts to demerit, as a man left in pure nature would neither merit nor demerit. Yet demons demerit until judgment day, as Augustine says.",
+    "claims": [
+      "The damned sin in the sense of omitting what they owe, but do not demerit.",
+      "Demerit requires God's imputation of the act."
+    ],
+    "concepts": [
+      "sin of the damned",
+      "imputation",
+      "demerit",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e2564"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3595": {
+    "summary": "Reply to the eighth principal argument: souls in purgatory suffer pain of sense and pain of loss. In pain of sense a and b are punished equally in intensity and extent; in pain of loss equally in extent, but not intensively, since a is delayed from a greater good. Denies injustice, since God wills those with equal debts to be punished equally only in pain of sense.",
+    "claims": [
+      "Purgatorial pain of loss differs intensively with the glory delayed."
+    ],
+    "concepts": [
+      "purgatory",
+      "pain of sense",
+      "pain of loss"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e459"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3644": {
+    "summary": "Reply on prayers: grants the soul prayed for is freed sooner, though it merits no more itself, since by established law wayfarers can merit for those in purgatory, who are also wayfarers. Note: there was never a law giving double punishment for double sin, since sinful nature cannot bear such proportions; one who killed a thousand would deserve a thousandfold temporal penalty that cannot be inflicted, so punitive justice leaves more unpunished.",
+    "claims": [
+      "By established law the living can merit for souls in purgatory.",
+      "Proportional temporal punishment of all sins is impossible."
+    ],
+    "concepts": [
+      "suffrages",
+      "communion of saints",
+      "limits of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e485"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3686": {
+    "summary": "Reply on venial sin in purgatory: God has two courts, this life and the next. He punishes venial sin far more gravely in the future than mortal sin in this life, as the argument shows, but this is not unjust.",
+    "claims": [
+      "God punishes in two courts, this life and the next."
+    ],
+    "concepts": [
+      "two fora",
+      "purgatory",
+      "venial sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e506"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3709": {
+    "summary": "Reply on rewarding the Innocents: grants Linus's reward exceeds the Innocent's by some ratio, but denies that an adult could merit only that fraction. The infant is rewarded through Christ's merit, which the adult also shares through the sacraments; any additional merit is from grace and free will, so the adult necessarily merits more.",
+    "claims": [
+      "Infants and adults share Christ's merit; adults add their own."
+    ],
+    "concepts": [
+      "Holy Innocents",
+      "merit of Christ",
+      "sacraments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e550"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3761": {
+    "summary": "Reply on unequal natural endowments: he who merited more loves more. Those who hold the beatific act caused wholly by God escape easily, but Holcot does not; the act is caused partially, God and creature concurring like the heavens and man in generation, not each producing a part. God co-acts more efficaciously with weaker natures, infusing more light of glory or causing a more intense act.",
+    "claims": [
+      "The beatific act is caused by God and creature concurring.",
+      "God compensates weaker natures with greater light of glory."
+    ],
+    "concepts": [
+      "concurrence",
+      "partial causality",
+      "light of glory",
+      "beatific act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e585"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3796": {
+    "summary": "Reply on the learned and simple: they are rewarded equally, but not necessarily with equal cognition. The wise Plato may receive less cognition, having had more on earth, but is compensated in love. Beatitude consists not only in cognition but in the aggregate of all goods.",
+    "claims": [
+      "Equal reward may combine different shares of cognition and love.",
+      "Beatitude is the aggregate of all goods."
+    ],
+    "concepts": [
+      "beatitude",
+      "knowledge and love",
+      "Boethius's definition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e618",
+        "rh-l2q1-d1e654"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3825": {
+    "summary": "Alternatively, however wise, Plato has no part of beatific cognition, the intuitive cognition of God, so the wisest and simplest can receive equally; earthly cognition is no part of it.",
+    "claims": [
+      "Earthly knowledge is no part of beatific intuitive cognition."
+    ],
+    "concepts": [
+      "intuitive cognition of God",
+      "beatific vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3796"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3843": {
+    "summary": "Reply to the fourth: denies that God rewards Christ unjustly.",
+    "claims": [
+      "God does not reward Christ unjustly."
+    ],
+    "concepts": [
+      "merit of Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e681"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3850": {
+    "summary": "Christ merited by sufficiency salvation for infinitely many, if they believed, though not so many by efficacy. So it is denied that Christ and the human race receive as much as Christ merited by sufficiency, since not all for whom the Passion could suffice are saved; as much as he merited by efficacy is given.",
+    "claims": [
+      "Christ's merit is sufficient for all but efficacious for the saved."
+    ],
+    "concepts": [
+      "sufficiency and efficacy",
+      "merit of Christ",
+      "redemption"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3843"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3881": {
+    "summary": "Reply to the fifth: denies 'they merited equally and are rewarded unequally, so unjustly'. If two earned ten from me and I give one fifteen and the other twenty, I wrong neither, since each gets as much as he earned and more. So each blessed has more than he merited, as in the parable of the vineyard workers (Matthew 20), all receiving the denarius of eternal life at different times and intensities.",
+    "claims": [
+      "Rewarding above merit unequally is not unjust.",
+      "Every blessed person receives more than he merited."
+    ],
+    "concepts": [
+      "vineyard parable",
+      "gratuitous reward",
+      "liberality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e738"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3927": {
+    "summary": "Reply to the second principal argument: God orders man to beatitude either by predestining every man to glory, which he does not do, or by creating human nature capable of beatitude and giving laws by which it can attain it, which he does.",
+    "claims": [
+      "God orders man to beatitude by making him capable and giving laws, not by predestining all."
+    ],
+    "concepts": [
+      "ordination to beatitude",
+      "capacity",
+      "divine law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e867"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3956": {
+    "summary": "Objection: most men do not reach their end, since the wicked outnumber the good ('many are called'), yet nothing violent is perpetual.",
+    "claims": [
+      "Most men lack their end, though nothing violent is perpetual."
+    ],
+    "concepts": [
+      "many are called",
+      "violent and natural"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3927"
+      ]
+    }
+  },
+  "rh-l2q1-d1e3972": {
+    "summary": "Further: Averroes argues disordered motion cannot belong to things for infinite time, else it would be natural; what holds of most supposits most of the time is natural, and for humans that is lacking beatitude.",
+    "claims": [
+      "What happens to most is natural, so lacking beatitude would be natural to man."
+    ],
+    "concepts": [
+      "Averroes",
+      "natural as usual"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3927"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4009": {
+    "summary": "Reply: beatitude is man's end and every man is ordered to it, in that his nature is capable of it. As a generator orders a heavy thing downward by giving it heaviness or removing obstacles, God orders man by creating him capable of beatitude and removing obstacles by fitting laws, not by pushing him like an arrow. Grants most lack beatitude, being free and turning from their end.",
+    "claims": [
+      "Being ordered to an end means having the capacity and means for it.",
+      "Most men freely turn from their end."
+    ],
+    "concepts": [
+      "ordination to end",
+      "heavy body analogy",
+      "free will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3956"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4055": {
+    "summary": "Denies that nothing violent is perpetual, since in hell there will be violent action without corruption.",
+    "claims": [
+      "Violent states can be perpetual, as in hell."
+    ],
+    "concepts": [
+      "violent and natural",
+      "hell"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3956"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4065": {
+    "summary": "Objection: then God orders man to misery, being capable of it. Denied: beatitude, or God, perfects man's nature and suits it supremely, as down suits heavy things though they can be up; and God gives no laws inclining to sin but the contrary.",
+    "claims": [
+      "Capacity for beatitude, unlike capacity for misery, perfects nature."
+    ],
+    "concepts": [
+      "perfection of nature",
+      "end and capacity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e4009"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4094": {
+    "summary": "Reply to Averroes: what happens in most supposits is natural only for non-free natures.",
+    "claims": [
+      "Statistical naturalness applies only to non-free natures."
+    ],
+    "concepts": [
+      "free and natural agents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e3972"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4101": {
+    "summary": "Reply to the confirmation: grants God wills by good pleasure that the soul exist for beatitude, since the will of good pleasure is the efficacious cause of things and wills only what it effects.",
+    "claims": [
+      "The will of good pleasure wills only what it effects."
+    ],
+    "concepts": [
+      "voluntas beneplaciti",
+      "efficacy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e906"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4121": {
+    "summary": "Reply to the wise governor argument: grants nothing happens against God's intention, since his will is done either concerning us or by us (Augustine). His intention is not absolutely that all be saved, but that whoever lives by the established laws be saved.",
+    "claims": [
+      "Nothing happens against God's intention.",
+      "God wills the salvation of whoever keeps his laws, not of all absolutely."
+    ],
+    "concepts": [
+      "divine intention",
+      "Augustine",
+      "conditional will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e926"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4150": {
+    "summary": "Reply to the third: true of nature intending its end only naturally, not of nature that intends both naturally and freely. All men naturally will to be blessed (Augustine), yet few are.",
+    "claims": [
+      "Free natures can fail their natural end in most cases."
+    ],
+    "concepts": [
+      "natural desire for happiness",
+      "Augustine",
+      "freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e939"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4166": {
+    "summary": "Reply to the fourth: denies that it is unfitting for the noblest creature to lack its end forever; it would be unfitting to force it to its end against its own choice.",
+    "claims": [
+      "Forcing the noblest creature to its end against its choice would be unfitting."
+    ],
+    "concepts": [
+      "freedom",
+      "frustration of end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e955"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4180": {
+    "summary": "Reply to the third principal argument requires three inquiries: whether there is a cause of predestination in the predestined, of reprobation in the reprobate, and who is properly a respecter of persons.",
+    "claims": [],
+    "concepts": [
+      "predestination",
+      "reprobation",
+      "acceptio personarum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e966"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4196": {
+    "summary": "Distinguishes senses of 'predestination': active, passive, the gifts themselves (grace, glory, any gift well used for beatitude), and as a term standing for nothing, used for brevity in place of a complex, like 'building', namely 'God wills to give someone eternal life he does not have but will have'.",
+    "claims": [
+      "'Predestination' is equivocal.",
+      "In one sense 'predestination' stands for a proposition, not a thing."
+    ],
+    "concepts": [
+      "predestination",
+      "equivocation",
+      "abstract terms",
+      "nominalist semantics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e4180"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4238": {
+    "summary": "Taken actively, predestination has no cause, being God. In the third sense some effects of predestination (good works) have causes in the predestined, others (creation of the soul) do not, nor does the whole set. In the fourth sense, whether God preordained someone to life because he foreknew his faith and love, the doctors say no, but rather the reverse: because God preordained Peter, Peter would believe and love, as interposition of the earth causes eclipse. Of reprobation they say otherwise: God foreknew Judas damned because Judas would sin, and reprobation is not the cause of his sin.",
+    "claims": [
+      "Predestination has no cause in the predestined, though some of its effects do.",
+      "God's preordination causes the elect's faith, not the reverse.",
+      "Reprobation follows foreknown sin and does not cause it."
+    ],
+    "concepts": [
+      "predestination ante praevisa merita",
+      "reprobation post praevisa demerita",
+      "causal propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e4196"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4347": {
+    "summary": "So Anselm (De casu diaboli): the good angel received perseverance because God gave it; the bad did not receive because he would not accept, not the reverse, as when I offer something and one takes it and another refuses. Anselm distinguishes cause of a thing's being from cause of inferring it, as fire causes burning though burning implies fire. So the doctors grant 'because Peter is predestined he will be saved' but not 'because God reprobated Judas he sinned', rather the converse.",
+    "claims": [
+      "According to Anselm, God's not giving follows the creature's not receiving.",
+      "Cause of being differs from ground of inference.",
+      "Predestination and reprobation are asymmetrical."
+    ],
+    "concepts": [
+      "Anselm",
+      "perseverance",
+      "cause and inference",
+      "asymmetry of predestination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e4238"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4424": {
+    "summary": "A respecter of persons is one who prefers one to another otherwise than he ought. If I owe two equally deserving people nothing and give one ten out of liberality, I am not a respecter of persons, since I take nothing owed from the other. So God is not, in giving eternal life to one infant baptized before death and not to another dying unbaptized, since he owes neither anything.",
+    "claims": [
+      "Respect of persons means preferring otherwise than one ought.",
+      "Gratuitous giving to one and not another is not respect of persons."
+    ],
+    "concepts": [
+      "acceptio personarum",
+      "liberality",
+      "unbaptized infants"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e4180"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4461": {
+    "summary": "To the first form: God predestines before merit and reprobates before demerit, yet without respect of persons, which means preferring otherwise than one ought and withholding what is owed.",
+    "claims": [
+      "God predestines before merit without respect of persons."
+    ],
+    "concepts": [
+      "predestination",
+      "acceptio personarum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e966"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4478": {
+    "summary": "To the second: in the third sense of 'justly' the major is false; in the first two senses the inference holds, since in many acts God does not govern justly in those senses.",
+    "claims": [
+      "Gratuitous election is just in the sense of befitting God, not of obligation or proportion."
+    ],
+    "concepts": [
+      "senses of justice",
+      "election"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e997",
+        "rh-l2q1-d1e1945"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4507": {
+    "summary": "To the third: admitting the case, 'God orders b's soul to eternal life' can mean he predestines it and wills to give it eternal life, which is denied, or that he makes it capable of beatitude and provides means by which it would be saved if it kept them, which is granted. 'God orders b to punishment' is false if it means God wills to be principal cause of b's deserving punishment, granted if it means only he wills to give it punishment. Both orderings are true in some sense, but the latter depends on a future contingent; though God ordered b to punishment, he could never have done so, as the next question will treat.",
+    "claims": [
+      "God orders every soul to life by giving capacity and means.",
+      "God's ordering of the reprobate to punishment depends on a future contingent.",
+      "God is not principal cause of the reprobate's demerit."
+    ],
+    "concepts": [
+      "reprobation",
+      "future contingents",
+      "ordination",
+      "foreknowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e1018"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4601": {
+    "summary": "To the fourth: grants the major and denies the minor. God attends to some proportion between fault and punishment in the reprobate and merit and reward in the elect when he rewards, though causal statements that he elected for future merits are false. Paul's intent in Romans 9: before they were born Jacob was loved and Esau hated, not from works; God has mercy on whom he wills and hardens whom he wills; the potter makes one vessel for honor and another for dishonor.",
+    "claims": [
+      "God observes proportion in rewarding and punishing, though election is not caused by merits."
+    ],
+    "concepts": [
+      "Romans 9",
+      "potter analogy",
+      "election and merit",
+      "hardening"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e1083"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4663": {
+    "summary": "Reply to the fourth principal argument requires four inquiries: how the doctors distinguish God's will; whether the will of good pleasure is always fulfilled; whether God wills sin by good pleasure and is author of sin; whether a wayfarer must will whatever he believes God wills by good pleasure, and whether rectitude consists in that conformity.",
+    "claims": [],
+    "concepts": [
+      "divine will",
+      "author of sin",
+      "conformity of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e1141"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4687": {
+    "summary": "The doctors agree 'will' is said equivocally of God: will of good pleasure and will of sign, the latter in five ways. 'God wills a' can mean it pleases God that a be (good pleasure), or God commands, forbids the opposite, permits, counsels, or operates a (signs), summed up in the verse 'vult, iubet ac prohibet, permittit, consulit, implet'.",
+    "claims": [
+      "God's will is distinguished into good pleasure and five signs."
+    ],
+    "concepts": [
+      "voluntas beneplaciti",
+      "voluntas signi",
+      "Lombard",
+      "precept, prohibition, permission, counsel, operation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e4663"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4735": {
+    "summary": "Will of good pleasure is antecedent or consequent. Antecedent will gives someone natural or antecedent endowments by which he can attain something, with God ready to co-act if he wills, not revealing the contrary, and with precept or counsel permitting him freely to pursue salvation. The clauses exclude Abraham's case (contrary revealed), sinners (not commanded to sin), and the damned. So 'God wills all men to be saved' (1 Timothy 2) means God gives all the means with precept. Consequent will wills something efficaciously by bringing it about (Ockham, I d. 46).",
+    "claims": [
+      "God's antecedent will gives means of salvation to all.",
+      "God's consequent will efficaciously brings about what it wills."
+    ],
+    "concepts": [
+      "antecedent and consequent will",
+      "1 Timothy 2:4",
+      "Ockham",
+      "universal salvific will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e4687"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4821": {
+    "summary": "Doubts: on this account God does not antecedently will infants to be saved, since they lack the endowments and precepts. And the description fits the will of sign better, since its clauses concern operation, precept, and permission.",
+    "claims": [
+      "The antecedent-will account excludes infants and collapses into will of sign."
+    ],
+    "concepts": [
+      "infants",
+      "will of sign"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e4735"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4841": {
+    "summary": "So 'God wills all men to be saved' should be understood of the will of sign: God made all capable of salvation and established precepts by which, if kept, all would be saved. Lombard expounds it as 'no one is saved unless God wills him to be'.",
+    "claims": [
+      "'God wills all to be saved' concerns the will of sign.",
+      "According to Lombard, it means no one is saved whom God does not will saved."
+    ],
+    "concepts": [
+      "voluntas signi",
+      "Lombard",
+      "universal salvific will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e1872",
+        "rh-l2q1-d1e4821"
+      ]
+    }
+  },
+  "rh-l2q1-Dd1e4862": {
+    "summary": "Holcot holds that God's will of good pleasure is always fulfilled, or God would not be omnipotent and could be saddened, as Lombard and Augustine also teach.",
+    "claims": [
+      "God's will of good pleasure is always fulfilled."
+    ],
+    "concepts": [
+      "efficacy of divine will",
+      "omnipotence"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q1-d1e4869",
+        "rh-l2q1-d1e4882",
+        "rh-l2q1-d1e4891",
+        "rh-l2q1-d1e4899"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4869": {
+    "summary": "Second article: the will of good pleasure is always fulfilled, since it denotes God properly willing something, whereas the will of sign denotes willing through a sign.",
+    "claims": [
+      "God's will of good pleasure is always fulfilled."
+    ],
+    "concepts": [
+      "efficacy of divine will",
+      "voluntas beneplaciti"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4862"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4882": {
+    "summary": "Proof: if it could be impeded, God would not be omnipotent or infinitely powerful.",
+    "claims": [
+      "An impedible divine will would contradict omnipotence."
+    ],
+    "concepts": [
+      "omnipotence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4862",
+        "rh-l2q1-d1e4869"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4891": {
+    "summary": "Second: God could be saddened, since every will is saddened when impeded, so God would not be blessed.",
+    "claims": [
+      "An impedible divine will would make God sad."
+    ],
+    "concepts": [
+      "divine beatitude",
+      "impassibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4862",
+        "rh-l2q1-d1e4869"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4899": {
+    "summary": "Third: Lombard says effects agree with God's good pleasure; whatever he wills is done and nothing he does not will; his will is always efficacious, and nothing overcomes it (Augustine). Scripture says the same everywhere.",
+    "claims": [
+      "According to Lombard and Augustine, God's will is always efficacious."
+    ],
+    "concepts": [
+      "Lombard",
+      "Augustine",
+      "efficacy of divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4862",
+        "rh-l2q1-d1e4869"
+      ]
+    }
+  },
+  "rh-l2q1-Dd1e4926": {
+    "summary": "Holcot argues, from the common doctrine that God is immediate partial cause of every produced thing and the view that sin of commission is an act of will, that God causes the sinful volition, is its more principal cause, and wills it by good pleasure. Sin consists in acting against God's will of sign or precept, not his good pleasure. God is not 'author of sin' in Augustine's sense of one who authorizes sin by bad laws, but is author of punishment through penal laws. The same act is just as caused by God and unjust as caused by man, since just and unjust are relative terms. Rectitude is conformity to precept, and divine displeasure is metaphorical.",
+    "claims": [
+      "God is a partial and more principal cause of the sinful volition.",
+      "Sin is acting against God's precept, not his good pleasure.",
+      "God is not author of sin in the sense of authorizing it.",
+      "The same act is just from God and unjust from man."
+    ],
+    "concepts": [
+      "divine concurrence",
+      "author of sin",
+      "will of sign",
+      "relative terms",
+      "partial causality"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q1-d1e4934",
+        "rh-l2q1-d1e4941",
+        "rh-l2q1-d1e4964",
+        "rh-l2q1-d1e5004",
+        "rh-l2q1-d1e5026",
+        "rh-l2q1-d1e5046",
+        "rh-l2q1-d1e5059",
+        "rh-l2q1-d1e5183",
+        "rh-l2q1-d1e5230",
+        "rh-l2q1-d1e5255",
+        "rh-l2q1-d1e5277",
+        "rh-l2q1-d1e5299",
+        "rh-l2q1-d1e5306",
+        "rh-l2q1-d1e5315",
+        "rh-l2q1-d1e5328",
+        "rh-l2q1-d1e5405",
+        "rh-l2q1-d1e5416",
+        "rh-l2q1-d1e5427",
+        "rh-l2q1-d1e5443",
+        "rh-l2q1-d1e5463",
+        "rh-l2q1-d1e5491",
+        "rh-l2q1-d1e5508",
+        "rh-l2q1-d1e5513",
+        "rh-l2q1-d1e5524"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4934": {
+    "summary": "Third article: whether God wills sin to occur and is the author of sin.",
+    "claims": [],
+    "concepts": [
+      "author of sin",
+      "divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4941": {
+    "summary": "This depends on two propositions: whether God is cause and author of everything produced, and whether sin is a thing, as sin of commission is commonly said to be an elicited or commanded act of will, the first sin an elicited act.",
+    "claims": [
+      "Whether God causes sin depends on universal causality and whether sin is a thing."
+    ],
+    "concepts": [
+      "universal causality",
+      "sin as act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926"
+      ]
+    }
+  },
+  "rh-l2q1-d1e4964": {
+    "summary": "On the first: it is the common view of all theologians that God is immediate cause of everything produced, co-acting with every creature, natural or voluntary. God and creature are two partial causes, not each producing part of the effect, as the unlearned imagine, but concurring, as universal and particular causes, or man and the sun, or man and woman in generation. A partial cause is one such that with it and others the thing is produced and with any removed it is not.",
+    "claims": [
+      "God is immediate cause of everything produced.",
+      "God and creature are partial causes concurring in the whole effect.",
+      "A partial cause is one without which, given the others, the effect does not occur."
+    ],
+    "concepts": [
+      "divine concurrence",
+      "partial causality",
+      "definition of partial cause"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e4941"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5004": {
+    "summary": "Support from Anselm (De concordia 11): the will moves itself by its affections as a self-moving instrument, but God more truly does whatever nature or will does, since he makes the instrument of willing with its affections.",
+    "claims": [
+      "According to Anselm, God more truly does what the will does."
+    ],
+    "concepts": [
+      "Anselm",
+      "instrument of willing",
+      "divine causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e4964"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5026": {
+    "summary": "Also Anselm (De casu diaboli 20): God makes each action of a bad will. Supposing God acts in every action of nature and will, and that some sin is a thing, an act of will, it follows necessarily that God is immediate cause of sin, in two forms of argument.",
+    "claims": [
+      "If God causes every act and sin is an act, God causes sin."
+    ],
+    "concepts": [
+      "Anselm",
+      "De casu diaboli",
+      "God as cause of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e4964"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5046": {
+    "summary": "In Darii: God causes every act of will; some sin is an act of will; so God causes some sin. By expository syllogism: God causes this act; this act is a sin; so God causes this sin.",
+    "claims": [
+      "God is cause of some sin, by syllogism."
+    ],
+    "concepts": [
+      "Darii",
+      "expository syllogism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5026"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5059": {
+    "summary": "Similarly God is a more principal cause of sin than the created will, and wills sin to be by his will of good pleasure, since whatever he effects he so wills. How then to answer 'God is author of sin', which Augustine always denies, holding God author of all things but not of evil, since no wise man makes a man worse? Holcot answers: a man sins by acting against the will of sign, not against the will of good pleasure, as all definitions of sin show (Augustine: will to retain or obtain what justice forbids; Ambrose: transgression of divine law; Augustine: deed, word, or desire against God's law, the law being a sign of his will). No one can sin against the will of good pleasure, having a volition God does not cause. On Augustine's argument that authorship of sin is a vice not found in a wise man:",
+    "claims": [
+      "God is the more principal cause of the sinful act and wills it by good pleasure.",
+      "Sin is acting against God's will of sign, not his will of good pleasure.",
+      "No one can have a volition God does not will by good pleasure."
+    ],
+    "concepts": [
+      "author of sin",
+      "will of sign",
+      "definitions of sin",
+      "Augustine",
+      "Ambrose"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5046"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5183": {
+    "summary": "Reply to Augustine: it does not befit a wise man to establish bad, erroneous, or unjust laws inclining people to worse, since that would come from ignorance or malice, both folly. God exceeds all in goodness and wisdom, so establishes nothing that makes man worse. Since lawmakers of iniquitous laws give others license and authority to sin, Augustine calls such a one author of sin, and God is not one in that sense. He is author of punishment (Lombard), since he establishes penal laws.",
+    "claims": [
+      "God establishes no bad laws.",
+      "'Author of sin' means one who gives license to sin by bad laws.",
+      "God is author of punishment by establishing penal laws."
+    ],
+    "concepts": [
+      "author of sin",
+      "Augustine",
+      "lawgiving",
+      "divine wisdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5059"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5230": {
+    "summary": "Three things follow from the article: God is cause of every thing (Augustine); God is cause of the act of volition that is sin; and God should not be called author of sin, as if authorizing laws for sinning.",
+    "claims": [
+      "God causes every thing, including the sinful volition.",
+      "God is not author of sin in the sense of authorizing it."
+    ],
+    "concepts": [
+      "summary",
+      "author of sin",
+      "divine causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5183"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5255": {
+    "summary": "Objection to the second: whatever God does is good and justly done, sin is done by God, so sin is good and just; and since sin is evil and unjust, the same thing would be justice and injustice.",
+    "claims": [
+      "God's causing sin would make the same act just and unjust."
+    ],
+    "concepts": [
+      "justice and injustice",
+      "goodness of God's acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5230"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5277": {
+    "summary": "Further: if God partially and voluntarily causes Judas's will to betray Christ, God wills Judas to will it, so Judas wills as God wills him to will, so rightly (Anselm), and does not sin.",
+    "claims": [
+      "If God wills Judas's sinful volition, Judas wills rightly by Anselm's definition."
+    ],
+    "concepts": [
+      "Judas",
+      "rectitude",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5230"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5299": {
+    "summary": "Further: nothing God wills to exist displeases God, and God wills sin to exist, so sin does not displease him.",
+    "claims": [
+      "Sin willed by God would not displease him."
+    ],
+    "concepts": [
+      "divine displeasure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5230"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5306": {
+    "summary": "Further: God wills some sin to exist and forbids every sin, so wills something he forbids; and whoever does evil is evil.",
+    "claims": [
+      "God would will what he forbids and be evil by doing evil."
+    ],
+    "concepts": [
+      "willing and forbidding"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5230"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5315": {
+    "summary": "Further: no one should repent of what God willed to happen, and God willed this sin, so no one should repent of it.",
+    "claims": [
+      "Repentance for what God willed would be inappropriate."
+    ],
+    "concepts": [
+      "repentance",
+      "divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5230"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5328": {
+    "summary": "Reply to the first: an act's being evil is its being done badly, and just its being done justly. The same act is done justly by God and unjustly by man, since against precept, so it is truly called good and evil, just and unjust; these are relative, not absolute, terms like 'similar' and 'equal'. Augustine says every nature is good and an evil thing is a nature, and Lombard says the dialecticians' rule fails for good and evil. Anselm (De veritate 8) shows the same thing ought and ought not to be: sin ought to be insofar as permitted by wisdom and ought not as conceived by an evil will.",
+    "claims": [
+      "The same act is done justly by God and unjustly by man.",
+      "Good and evil, just and unjust, are relative terms.",
+      "Every nature is good, so an evil thing is also good."
+    ],
+    "concepts": [
+      "relative terms",
+      "good and evil",
+      "Anselm",
+      "Augustine",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5255"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5405": {
+    "summary": "Anselm's first example: Christ ought and ought not to have suffered death, the same thing taking contraries under different considerations.",
+    "claims": [
+      "Christ ought and ought not to have died, under different considerations."
+    ],
+    "concepts": [
+      "Anselm",
+      "Passion",
+      "considerations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5328"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5416": {
+    "summary": "Second: striking a guilty man by one who has no right to strike is right, since he ought to be struck, and not right, since that one ought not strike.",
+    "claims": [
+      "The same blow can be right and not right."
+    ],
+    "concepts": [
+      "Anselm",
+      "punishment",
+      "authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5328"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5427": {
+    "summary": "Third: the nails ought and ought not to have pierced Christ's flesh, and his flesh ought and ought not to have suffered. Though Holcot dislikes this way of speaking, he uses it for his point.",
+    "claims": [
+      "The nails ought and ought not to have pierced Christ."
+    ],
+    "concepts": [
+      "Anselm",
+      "Passion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5328"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5443": {
+    "summary": "So he grants that whatever God does is good and just, since the same volition is caused justly by God and unjustly by man, to whom it is forbidden. The same thing can be justice and injustice, as the same thing is equality and inequality, likeness and unlikeness.",
+    "claims": [
+      "The same volition can be justice and injustice relative to different agents."
+    ],
+    "concepts": [
+      "relative terms",
+      "justice and injustice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5328"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5463": {
+    "summary": "Reply to the second: Judas willed as God willed him to will by good pleasure, but not by will of sign or precept, so he sinned. Rectitude of a created will consists not in willing as God wills it to will by good pleasure but as he commands it to will.",
+    "claims": [
+      "Rectitude consists in conforming to God's precept, not to his good pleasure."
+    ],
+    "concepts": [
+      "rectitude",
+      "will of sign",
+      "Judas",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5277"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5491": {
+    "summary": "Reply to the third: properly nothing displeases God; sin is said to displease him by a figure of speech, since he acts toward the sinner as a man toward one who displeases him, punishing and commanding him not to do it.",
+    "claims": [
+      "Properly nothing displeases God; divine displeasure is metaphorical."
+    ],
+    "concepts": [
+      "divine impassibility",
+      "metaphor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5299"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5508": {
+    "summary": "Reply to the fourth: grants the conclusion that God wills something he forbids.",
+    "claims": [
+      "God wills by good pleasure some things he forbids."
+    ],
+    "concepts": [
+      "willing and forbidding"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5306"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5513": {
+    "summary": "Reply to the fifth: denies that whoever does evil is evil; only one who does evil badly is evil, as only one who does just things justly is just (Ethics VI).",
+    "claims": [
+      "Only one who does evil badly is evil."
+    ],
+    "concepts": [
+      "Aristotle",
+      "moral agency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5306"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5524": {
+    "summary": "Reply to the sixth: one should grieve for what God willed one to do by good pleasure, since he had forbidden it by precept, and his willing one to sin was conditional, because one willed to sin, not by his absolute choice.",
+    "claims": [
+      "One should repent of what God willed conditionally but forbade."
+    ],
+    "concepts": [
+      "repentance",
+      "conditional will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e4926",
+        "rh-l2q1-d1e5315"
+      ]
+    }
+  },
+  "rh-l2q1-Dd1e5541": {
+    "summary": "Without assertion, Holcot holds that the created will is not always bound to conform to God's known good pleasure, since a sinner conforms to it and a precept can require nonconformity. It is always bound to conform to God's precept, actually or habitually, and rectitude arises from this. It must conform to God's absolute, not conditional, good pleasure absent a contrary precept, since God has agreed to co-act with whatever free creatures will. He then replies to the remaining principal arguments. God justly punishes sins he concurs with because he forbade them, and it is in the creature's power whether God co-causes its sin. Hell manifests justice even if empty. A sinless universe would be equally beautiful. Martyrs merit by willing to suffer. God's will is law, so any penalty he wills is condign and satisfaction is what he accepts. He may beneficially feign or deceive, as with Abraham. The delay of the blessed's joy wrongs no one.",
+    "claims": [
+      "One must conform to God's precept, not always to his good pleasure.",
+      "God has covenanted to co-act with whatever free creatures will.",
+      "God's will is law, and any penalty he wills is condign.",
+      "God may beneficially signify a will he does not have."
+    ],
+    "concepts": [
+      "conformity of will",
+      "conditional concurrence",
+      "voluntarism",
+      "condign punishment",
+      "divine deception",
+      "satisfaction"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2q1-d1e5549",
+        "rh-l2q1-d1e5569",
+        "rh-l2q1-d1e5578",
+        "rh-l2q1-d1e5590",
+        "rh-l2q1-d1e5599",
+        "rh-l2q1-d1e5658",
+        "rh-l2q1-d1e5667",
+        "rh-l2q1-d1e5691",
+        "rh-l2q1-d1e5704",
+        "rh-l2q1-d1e5731",
+        "rh-l2q1-d1e5768",
+        "rh-l2q1-d1e5789",
+        "rh-l2q1-d1e5837",
+        "rh-l2q1-d1e5850",
+        "rh-l2q1-d1e5883",
+        "rh-l2q1-d1e5906",
+        "rh-l2q1-d1e5926",
+        "rh-l2q1-d1e5937",
+        "rh-l2q1-d1e5968",
+        "rh-l2q1-d1e6027",
+        "rh-l2q1-d1e6063",
+        "rh-l2q1-d1e6080",
+        "rh-l2q1-d1e6093",
+        "rh-l2q1-d1e6135",
+        "rh-l2q1-d1e6224",
+        "rh-l2q1-d1e6246",
+        "rh-l2q1-d1e6259",
+        "rh-l2q1-d1e6276",
+        "rh-l2q1-d1e6300",
+        "rh-l2q1-d1e6332",
+        "rh-l2q1-d1e6356",
+        "rh-l2q1-d1e6372",
+        "rh-l2q1-d1e6407",
+        "rh-l2q1-d1e6424",
+        "rh-l2q1-d1e6453",
+        "rh-l2q1-d1e6510",
+        "rh-l2q1-d1e6543",
+        "rh-l2q1-d1e6552"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5549": {
+    "summary": "Fourth article: whether the created will must will whatever it believes God wills, and whether rectitude consists in willing all God wills it to will. Distinguishing actual and habitual, general and particular willing, three things may be said without assertion.",
+    "claims": [],
+    "concepts": [
+      "conformity to divine will",
+      "rectitude",
+      "tentative assertion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5569": {
+    "summary": "First: the created will is not always bound to conform to God's will of good pleasure, even when it knows it.",
+    "claims": [
+      "One is not always bound to conform to God's known good pleasure."
+    ],
+    "concepts": [
+      "conformity of will",
+      "voluntas beneplaciti"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5549"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5578": {
+    "summary": "Second: the created will is always bound to conform to God's will of precept, actually or habitually, since affirmative precepts do not bind to constant actual exercise.",
+    "claims": [
+      "One is always bound to conform to God's precept, actually or habitually."
+    ],
+    "concepts": [
+      "will of precept",
+      "affirmative precepts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5549"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5590": {
+    "summary": "Third: the created will is always bound to conform to God's known will of good pleasure, provided it has no contrary precept.",
+    "claims": [
+      "One must conform to God's known good pleasure absent a contrary precept."
+    ],
+    "concepts": [
+      "conformity of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5549"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5599": {
+    "summary": "Proof of the first: when Socrates actually sins, God wills him to sin by good pleasure, co-acting with him, so Socrates conforms to God's good pleasure, yet he is not bound to, or he would not sin; and he believes God co-acts, so believes God's good pleasure is that he sin. So God wills things in two ways: absolutely, or conditionally, by a kind of agreement with the rational creature.",
+    "claims": [
+      "The sinner conforms to God's good pleasure without being bound to.",
+      "God wills some things absolutely and others conditionally by agreement with creatures."
+    ],
+    "concepts": [
+      "absolute and conditional divine will",
+      "concurrence with sin",
+      "covenant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5569"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5658": {
+    "summary": "In the first way God concurs with every agent acting naturally or voluntarily, and does whatever he does by himself alone; all such is absolutely willed and chosen.",
+    "claims": [
+      "God's absolute will covers all he does by himself."
+    ],
+    "concepts": [
+      "absolute will",
+      "concurrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5599"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5667": {
+    "summary": "In the second way God voluntarily concurs with free rational nature, having established that whatever it wills he will co-act with that volition, though it does not always please him that what it signifies happen. If Socrates wills to sin, it pleases God to co-act and not impede him, or if he impedes, by special law. Hence the question of conformity.",
+    "claims": [
+      "God has established that he will co-act with whatever a free creature wills."
+    ],
+    "concepts": [
+      "conditional concurrence",
+      "divine law",
+      "freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5599"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5691": {
+    "summary": "So one must conform to God's absolute good pleasure when known, unless commanded otherwise, but not always to his qualified, conditional good pleasure.",
+    "claims": [
+      "Conformity is owed to God's absolute, not conditional, good pleasure."
+    ],
+    "concepts": [
+      "absolute and conditional will",
+      "conformity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5667"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5704": {
+    "summary": "Further: if God reveals to Plato that Socrates sins, Plato knows God wills it by good pleasure, yet if God commands Plato to will Socrates not to sin, Plato must obey and so not conform to God's good pleasure. So, without assertion: the will is not obliged in every case to conform to whatever it knows or believes to be God's good pleasure.",
+    "claims": [
+      "A precept can oblige one not to conform to God's known good pleasure."
+    ],
+    "concepts": [
+      "precept and good pleasure",
+      "conformity",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5569"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5731": {
+    "summary": "Perhaps the saints in heaven conform to God's will. Second, the created will is always bound to conform to the will of precept, and its rectitude arises from this, since it must avoid sin, impossible without conforming to the precept. Anselm's 'the will is right when it wills as God wills it to will' must be understood of the will of precept, since a sinner wills as God wills by good pleasure but not by precept.",
+    "claims": [
+      "Rectitude arises from conformity to God's precept.",
+      "Anselm's definition of rectitude concerns the will of precept."
+    ],
+    "concepts": [
+      "rectitude",
+      "will of precept",
+      "Anselm",
+      "conformity of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5578"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5768": {
+    "summary": "Third, reasonably the created will is always bound to conform, habitually or actually, to God's known good pleasure absent a contrary precept, regarding what he wills absolutely, not conditionally.",
+    "claims": [
+      "One must conform to God's known absolute good pleasure absent contrary precept."
+    ],
+    "concepts": [
+      "conformity",
+      "absolute will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5590"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5789": {
+    "summary": "Reply to the first form of the fourth principal argument: denies the major understood of good pleasure; God justly punishes because he commanded them not to act. Grants God is highest cause of sin, but the causal 'God wills Socrates to sin because Socrates wills to sin' is true and not the reverse, so Socrates is more the cause of sin, though not a greater or more principal cause. Or: God causes sin supremely, yet it is imputed to the creature, since it was in its power that God cause this sin. Having established that he co-acts with each according to its nature, God as it were serves man's will: 'you have made me serve in your sins'.",
+    "claims": [
+      "God justly punishes sins he concurs with because he forbade them.",
+      "God wills the sin because the sinner wills it, not conversely.",
+      "It is in the creature's power whether God co-causes its sin."
+    ],
+    "concepts": [
+      "concurrence",
+      "imputation",
+      "Isaiah 43:24",
+      "causal priority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1158"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5837": {
+    "summary": "Objection: God cooperates freely, so does not serve. True, the expression is metaphorical. Why does he not withdraw cooperation, so no one would sin? Because he does not will to, since that would impede free choice.",
+    "claims": [
+      "God does not withdraw concurrence lest he impede free choice."
+    ],
+    "concepts": [
+      "divine freedom",
+      "free choice",
+      "metaphor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e5789"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5850": {
+    "summary": "Reply to the second form: grants that God wills them to sin if they will, and when they absolutely will to sin he wills them to sin, yet justly punishes them for acting against precept. Hell would not be in vain without sinners, both because nothing God wills is in vain and because it shows his justice, as a gallows is not in vain though no one hangs on it.",
+    "claims": [
+      "God wills sinners to sin conditionally on their willing.",
+      "Hell manifests justice even if no one were in it."
+    ],
+    "concepts": [
+      "hell",
+      "gallows analogy",
+      "conditional will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1214"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5883": {
+    "summary": "Reply to the third: grants God wills evils to occur, but since he commanded men not to do them, he leaves it to them, and they sin; God's causing the sin is imputed to them. Grants the present perfection of the universe requires that men sinned, but had no one sinned the universe would be no less perfect and beautiful, with another beauty.",
+    "claims": [
+      "The present order of the universe includes sin, but a sinless universe would be equally beautiful."
+    ],
+    "concepts": [
+      "beauty of the universe",
+      "imputation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1253"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5906": {
+    "summary": "Reply to the fourth: grants God preferred evils to occur rather than impede them, and that their occurrence is good, though not good for the evildoer, for whom it is sin; God does not will to impede when it pleases him that they act freely.",
+    "claims": [
+      "Evils occurring is good overall but sin for the doer."
+    ],
+    "concepts": [
+      "permission of evil",
+      "freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1288"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5926": {
+    "summary": "Reply to the fifth: grants one sin is punishment of another; it is sin as against precept and punishment as harming the doer, and generally every sin is a punishment.",
+    "claims": [
+      "Every sin is also a punishment as it harms the doer."
+    ],
+    "concepts": [
+      "sin as punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1336"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5937": {
+    "summary": "Reply to the sixth: grants the inference and both propositions; there is only a grammatical difference, perhaps one mental sentence for both. But denies 'God willed the Jews to kill Christ, so they did not sin', since they had a contrary precept. Christ was killed both justly and unjustly, as Anselm says.",
+    "claims": [
+      "Willing Christ killed by the Jews and willing the Jews to kill him are the same.",
+      "Christ was killed justly and unjustly."
+    ],
+    "concepts": [
+      "mental language",
+      "Passion",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1369"
+      ]
+    }
+  },
+  "rh-l2q1-d1e5968": {
+    "summary": "Reply to the seventh: tyrants are instruments of God's will, not because he necessitates them but because he permits and cooperates with them. Having commanded the opposite, he leaves them unexcused as if they had resisted his good pleasure. Augustine: as far as they are concerned they did what God did not will, but against his omnipotence they could do nothing; Lombard glosses this as acting against God's precept, not his omnipotent will, and says God fulfills his will through bad wills. God does not will all that he commands, or it would happen, since his will cannot be overcome.",
+    "claims": [
+      "Tyrants are God's instruments by permission and cooperation, not necessitation.",
+      "God does not will all he commands, or it would happen."
+    ],
+    "concepts": [
+      "instrumental causality",
+      "Augustine",
+      "Lombard",
+      "will of sign and good pleasure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1394"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6027": {
+    "summary": "Reply to the eighth: God willed Stephen crowned because he willed him to suffer voluntarily. Properly, saints merit not because they suffer for God but because they will to suffer for God, a volition freely caused by them. God co-acts with persecutors and with the saints' accepting volitions, without diminishing merit or demerit.",
+    "claims": [
+      "Martyrs merit by willing to suffer, not by suffering itself.",
+      "God's concurrence does not diminish merit or demerit."
+    ],
+    "concepts": [
+      "martyrdom",
+      "merit of the will",
+      "concurrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1441"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6063": {
+    "summary": "Objection: then one who willed as intensely to suffer as Lawrence could merit as much without suffering. Granted, but he would not have the martyr's aureole.",
+    "claims": [
+      "Willing martyrdom merits as much as martyrdom, but without the aureole."
+    ],
+    "concepts": [
+      "Lawrence",
+      "aureole",
+      "merit of the will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e6027"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6080": {
+    "summary": "Reply to the ninth: God co-acted with the devil's tempting of Christ by good pleasure, but the devil acted for evil viciously and unjustly, God for good justly.",
+    "claims": [
+      "God and the devil concurred in Christ's temptation, justly and unjustly."
+    ],
+    "concepts": [
+      "temptation of Christ",
+      "concurrence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1454"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6093": {
+    "summary": "Reply to the tenth: the same as for others' sins. God preordained Paul's sins to be an occasion of good but never commanded or counseled them, so Paul sinned without acting against God's good pleasure. All this is said for exercise without assertion. Example: a master commands Socrates to pull a ship and forbids Plato; both pull, two partial causes of one act, one justly and one unjustly. So God justly co-acts with tyrant or devil.",
+    "claims": [
+      "One act can be done justly by one partial cause and unjustly by another.",
+      "These positions are offered for exercise without assertion."
+    ],
+    "concepts": [
+      "partial causality",
+      "ship-pulling example",
+      "tentative assertion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1472"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6135": {
+    "summary": "Reply to the fifth principal argument: the inference fails, since one judge may lawfully omit what pertains to another. In the relevant sense the antecedent is denied. God justly permits evils, forbidding them by laws and teaching but not violently impeding free nature in adults, and justly damns unbaptized infants for original sin. The Decretum concerns judges under law, not God, whose will is law and whatever he wills is just.",
+    "claims": [
+      "God justly permits evils without violently impeding freedom.",
+      "God's will is law and whatever he wills is just.",
+      "Canon law on judges does not apply to God."
+    ],
+    "concepts": [
+      "permission of evil",
+      "voluntarism",
+      "unbaptized infants",
+      "Decretum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1503",
+        "rh-l2q1-d1e1513",
+        "rh-l2q1-d1e1531"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6224": {
+    "summary": "Reply to the second form: punishment is condign either as great as the fault, as the sinner merited, or as much as it pleases the just judge to inflict. In the first sense God punishes below condign, in the second not.",
+    "claims": [
+      "Condign punishment is either proportional to fault or what the judge wills."
+    ],
+    "concepts": [
+      "condign punishment",
+      "voluntarism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1551"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6246": {
+    "summary": "Objection: then any punishment could be condign for any fault, and giving Nero Judas's punishment would be condign for both, so Nero is now punished less.",
+    "claims": [
+      "If condignity is what God wills, any penalty fits any fault."
+    ],
+    "concepts": [
+      "condign punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e6224"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6259": {
+    "summary": "Reply: every punishment is condign in the second sense, as much as God pleases, and a lesser punishment is not therefore diminished, since being willed by him it is just and condign.",
+    "claims": [
+      "Whatever punishment God wills is just and condign."
+    ],
+    "concepts": [
+      "voluntarism",
+      "condign punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e6246"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6276": {
+    "summary": "On Anselm's 'to order sin rightly is to punish it': literally false of satisfactory punishment, since God leaves many sins unpunished for a time, awaiting repentance, without leaving disorder. To order sin is to establish penal laws and execute them opportunely, when God pleases.",
+    "claims": [
+      "Ordering sin means establishing and executing penal laws when God pleases."
+    ],
+    "concepts": [
+      "Anselm",
+      "delay of punishment",
+      "penal law"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1567"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6300": {
+    "summary": "On 'satisfaction must match the measure of sin': sin is measured by the law transgressed and satisfaction by the penal law. One satisfies God by undergoing the penalty he pleases to inflict, so any penalty he wills is condign satisfaction. Anselm and the saints speak after the manner of known human judgment, not all properly of the divine judge.",
+    "claims": [
+      "Satisfaction is whatever penalty God wills to accept.",
+      "Anselm speaks on the model of human judgment."
+    ],
+    "concepts": [
+      "satisfaction",
+      "Anselm",
+      "divine and human judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1567"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6332": {
+    "summary": "Reply to the third: grants many things go unpunished, but they are well ordered without punishment, since as God pleases so it happens justly. People wonder because they think God bound to rule by their own heads, which would go badly; when he waits he waits mercifully, when he punishes he punishes justly, and when he remits he remits mercifully and justly.",
+    "claims": [
+      "Unpunished sins are not disorder, since God's pleasure orders them.",
+      "God is not bound to rule by human expectations."
+    ],
+    "concepts": [
+      "providence",
+      "mercy and justice",
+      "delay of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1591"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6356": {
+    "summary": "Reply to the fourth: grants each punishment is infinitely distant from the other, but denies that commuting eternal to temporal punishment is as unjust as the reverse.",
+    "claims": [
+      "Commuting eternal to temporal punishment is not unjust."
+    ],
+    "concepts": [
+      "commutation of punishment",
+      "mercy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1604"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6372": {
+    "summary": "Reply to the fifth: a just judge commands only what he wills permissively. If God commanded and then impeded fulfillment without their fault, he would act unjustly. But some make themselves unfit to execute a precept, and the precept stands though God does not will its execution then, like a servant who gets drunk and cannot serve: the duty remains though the master does not want his service then.",
+    "claims": [
+      "A precept remains binding when the subject makes himself unable to fulfill it."
+    ],
+    "concepts": [
+      "will of permission",
+      "drunken servant analogy",
+      "culpable incapacity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1651"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6407": {
+    "summary": "On Abraham and the healed man, which seem false signs since God commanded what he did not will: some say Abraham only seemed commanded. Holcot says God commanded him to sacrifice his son and did not will it, as the outcome showed.",
+    "claims": [
+      "God commanded Abraham's sacrifice without willing it."
+    ],
+    "concepts": [
+      "Abraham",
+      "will of sign",
+      "false signs"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1651"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6424": {
+    "summary": "Objection: feigning, commanding one thing and willing the opposite, is making a false sign. Reply: it does not conflict with God's justice or wisdom to feign, to signify that he wills something he does not, when it profits the one signified to, as it profited Abraham.",
+    "claims": [
+      "God may feign by signifying a will he does not have, for the recipient's benefit."
+    ],
+    "concepts": [
+      "divine feigning",
+      "false signs",
+      "divine wisdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e6407"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6453": {
+    "summary": "Objection: then he deceived Abraham. Granted, for Abraham's benefit. Or Abraham deceived himself, understanding the command otherwise: 'do this' and 'I will you to do this' differ, and the command meant 'I will you to act as if I willed you to sacrifice'. As for the healed blind man, Christ did not command silence literally but taught him not to seek vainglory, which he could understand from circumstances.",
+    "claims": [
+      "God may beneficially deceive, or the recipient may misread the command.",
+      "A command does not signify the same as 'I will that you do this'.",
+      "Christ's injunction to silence forbade vainglory."
+    ],
+    "concepts": [
+      "divine deception",
+      "imperative and volitive",
+      "Abraham",
+      "messianic secret"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e6424"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6510": {
+    "summary": "Reply to the sixth principal argument: God gives the blessed more than they merited, so does them no injustice; they did not merit their joy absolutely and at once, but when God pleases. The delay does not burden them, since they will what God pleases, and needs no compensation, having been rewarded infinitely beyond what they could merit.",
+    "claims": [
+      "The blessed are not wronged by delay, having received more than they merited."
+    ],
+    "concepts": [
+      "delay of full beatitude",
+      "conformity of the blessed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1677",
+        "rh-l2q1-d1e1701",
+        "rh-l2q1-d1e1735"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6543": {
+    "summary": "Reply to the seventh: grants God requires justice of the reprobate by precept but does not will it by good pleasure, since they do not will it.",
+    "claims": [
+      "God requires by precept what he does not will by good pleasure from the reprobate."
+    ],
+    "concepts": [
+      "reprobation",
+      "will of sign"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1744"
+      ]
+    }
+  },
+  "rh-l2q1-d1e6552": {
+    "summary": "Reply to the argument about remission to two damned: God remits less in quantity to one but an equal proportion, a half or third or whatever he pleases, so neither is wronged and each receives proportioned mercy. This ends the question.",
+    "claims": [
+      "God remits equal proportions of punishment to the damned."
+    ],
+    "concepts": [
+      "remission",
+      "geometric proportion",
+      "mercy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2q1-Dd1e5541",
+        "rh-l2q1-d1e1755"
+      ]
+    }
+  }
+}

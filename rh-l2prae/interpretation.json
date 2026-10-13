@@ -1,0 +1,66 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l2prae": {
+    "summary": "Brief preamble to Book II. After a rubric attributing the questions to Holcot, it connects Lombard's account of man's creation for the service and enjoyment of God with the end of Book I on predestination and foreknowledge, motivating the first question on God's just governance of humankind.",
+    "claims": [
+      "Book II opens by continuing Book I's theme of divine governance of rational creatures."
+    ],
+    "concepts": [
+      "divine governance",
+      "predestination",
+      "creation of man"
+    ],
+    "_metadata": {
+      "level": "praeambulum",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l2prae-d1e100",
+        "rh-l2prae-d1e118"
+      ]
+    }
+  },
+  "rh-l2prae-d1e100": {
+    "summary": "Editorial rubric opening the questions on Book II of the Sentences, attributed to 'master Robert Holcot, a man most subtle', and introducing a preliminary remark.",
+    "claims": [],
+    "concepts": [
+      "incipit",
+      "Book II",
+      "attribution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2prae"
+      ]
+    }
+  },
+  "rh-l2prae-d1e118": {
+    "summary": "Links Book II to Book I. Lombard's first distinction of Book II treats the creation of man, made to serve and enjoy God, while the end of Book I treats God's governance of rational creatures through predestination and foreknowledge. Joining the two, Holcot introduces his first question, on whether God justly governs the human race.",
+    "claims": [
+      "Book II's treatment of creation continues Book I's treatment of divine governance through predestination and foreknowledge.",
+      "Man was created to serve and enjoy God."
+    ],
+    "concepts": [
+      "divine governance",
+      "predestination",
+      "foreknowledge",
+      "creation of man",
+      "continuity of Sentences books"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l2prae"
+      ]
+    }
+  }
+}

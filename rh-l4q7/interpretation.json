@@ -1,0 +1,912 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l4q7": {
+    "summary": "Holcot asks whether a sinner can satisfy God for mortal sin. The question opens with Anselmian arguments that human satisfaction is impossible, given sin's infinite malice and man's prior debt, and develops several side issues. Oaths bind more than vows, since an oath invokes God's truth. A justly condemned man may flee if he harms no one. The body of the question argues against those, citing Augustine, who deny that anyone can will annihilation. Holcot holds that reason, even right reason in the damned, can judge non-being less evil than eternal misery, and that it can then be chosen; he cites his own and others' experience. He reconciles Augustine through his distinctions and through the observation that 'good' said of infinitives names no thing, so one can choose a good while choosing nothing.",
+    "claims": [
+      "One can rationally choose annihilation over eternal misery.",
+      "Oaths bind more than vows.",
+      "The justly condemned may flee if no one is harmed.",
+      "Choosing a good need not be choosing a thing."
+    ],
+    "concepts": [
+      "satisfaction",
+      "Anselm",
+      "annihilation",
+      "Augustine",
+      "vows and oaths",
+      "capital punishment",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q7-Dd1e100",
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-Dd1e813",
+        "rh-l4q7-Dd1e893",
+        "rh-l4q7-Dd1e915",
+        "rh-l4q7-Dd1e1095",
+        "rh-l4q7-Dd1e1175"
+      ]
+    }
+  },
+  "rh-l4q7-Dd1e100": {
+    "summary": "Opening statement: whether a sinner can satisfy God for mortal sin.",
+    "claims": [],
+    "concepts": [
+      "satisfaction"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q7-d1e102"
+      ]
+    }
+  },
+  "rh-l4q7-d1e102": {
+    "summary": "States the question: whether a sinner can satisfy God for mortal sin.",
+    "claims": [],
+    "concepts": [
+      "satisfaction",
+      "mortal sin",
+      "penance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7"
+      ]
+    }
+  },
+  "rh-l4q7-Dd1e112": {
+    "summary": "Anselmian arguments deny that a sinner can satisfy: mortal sin is infinitely evil, satisfaction must exceed restitution, man owes God everything already, only God can satisfy, and culpable impotence does not excuse. Further arguments: if satisfaction were owed in proportion, vow-breaking would be graver than oath-breaking, though Holcot argues oaths bind more since they invoke God's truth. The justly condemned would have to will their execution, though Holcot argues flight is licit if it harms no one and serves a greater good. Contrition would outrank martyrdom. Satisfaction would require preferring annihilation to sin.",
+    "claims": [
+      "Anselm's theory of satisfaction seems to make human satisfaction impossible.",
+      "Oaths bind more than vows.",
+      "The justly condemned may flee if no one is harmed."
+    ],
+    "concepts": [
+      "Anselm",
+      "satisfaction",
+      "vows and oaths",
+      "capital punishment",
+      "annihilation"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q7-d1e117",
+        "rh-l4q7-d1e171",
+        "rh-l4q7-d1e196",
+        "rh-l4q7-d1e227",
+        "rh-l4q7-d1e246",
+        "rh-l4q7-d1e282",
+        "rh-l4q7-d1e306",
+        "rh-l4q7-d1e363",
+        "rh-l4q7-d1e426",
+        "rh-l4q7-d1e442",
+        "rh-l4q7-d1e480",
+        "rh-l4q7-d1e511",
+        "rh-l4q7-d1e534",
+        "rh-l4q7-d1e567",
+        "rh-l4q7-d1e578",
+        "rh-l4q7-d1e589",
+        "rh-l4q7-d1e614",
+        "rh-l4q7-d1e636",
+        "rh-l4q7-d1e682",
+        "rh-l4q7-d1e734",
+        "rh-l4q7-d1e780"
+      ]
+    }
+  },
+  "rh-l4q7-d1e117": {
+    "summary": "First argument, from Anselm: satisfaction must match the measure of sin, and beatitude is given only to one whose debt is paid. Mortal sin is of intensively infinite malice, since it should not be done to save infinite worlds, which would be infinitely good. So satisfaction must be infinitely good, which no man can render.",
+    "claims": [
+      "According to Anselm, satisfaction must match the measure of sin.",
+      "Mortal sin is of infinite malice."
+    ],
+    "concepts": [
+      "Anselm",
+      "Cur Deus homo",
+      "infinite malice",
+      "satisfaction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112"
+      ]
+    }
+  },
+  "rh-l4q7-d1e171": {
+    "summary": "Second proof of the minor: an evil incomparable to any other is infinitely evil, and Anselm says sin, considered as against God's will, is gravest and comparable to no loss.",
+    "claims": [
+      "Sin against God's will is incomparable to any loss."
+    ],
+    "concepts": [
+      "Anselm",
+      "gravity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e117"
+      ]
+    }
+  },
+  "rh-l4q7-d1e196": {
+    "summary": "Third: satisfaction requires restoring to God an honor pleasing him as much as the dishonor displeased him, more than mere restitution (Anselm), which man cannot do, since the dishonor should not be done for an infinite creature.",
+    "claims": [
+      "Satisfaction requires compensation beyond restitution."
+    ],
+    "concepts": [
+      "honor",
+      "restitution",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112"
+      ]
+    }
+  },
+  "rh-l4q7-d1e227": {
+    "summary": "Confirmation: Anselm's whole argument for the necessity of the Incarnation and Christ's death to satisfy for the first sin seems equally to conclude that man cannot satisfy for any mortal sin.",
+    "claims": [
+      "Anselm's argument for the Incarnation implies no man can satisfy for any mortal sin."
+    ],
+    "concepts": [
+      "Cur Deus homo",
+      "necessity of Incarnation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e196"
+      ]
+    }
+  },
+  "rh-l4q7-d1e246": {
+    "summary": "Fourth: an evil is as bad as the good for which it should not be done; sin should be done for no good other than God, so no good but God equals sin's evil, and only God can satisfy (Anselm II.6).",
+    "claims": [
+      "Only God can make satisfaction for sin."
+    ],
+    "concepts": [
+      "Anselm",
+      "satisfaction by God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112"
+      ]
+    }
+  },
+  "rh-l4q7-d1e282": {
+    "summary": "Fifth: one who owes another all he can by reason of benefit has nothing to pay for a fault; man owes God everything for creation and redemption before sinning (Anselm I.20).",
+    "claims": [
+      "Man already owes God everything, so has nothing left for satisfaction."
+    ],
+    "concepts": [
+      "Anselm",
+      "debt of creation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112"
+      ]
+    }
+  },
+  "rh-l4q7-d1e306": {
+    "summary": "Sixth: no one obliged to pay what he cannot pay can satisfy, and the sinner owes God what he cannot pay (Anselm). Anselm excludes the excuse of impotence: if the impotence is itself culpable, it does not excuse. So man is bound to pay and unable to.",
+    "claims": [
+      "Culpable impotence does not excuse.",
+      "The sinner is bound to pay what he cannot."
+    ],
+    "concepts": [
+      "Anselm",
+      "culpable impotence",
+      "ought and can"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112"
+      ]
+    }
+  },
+  "rh-l4q7-d1e363": {
+    "summary": "Second principal argument: if a sinner could satisfy, he would be bound to, and to greater satisfaction for graver sin (Anselm). Then breaking a vow would require more satisfaction than breaking an oath, since a vow is more binding: breaking a vow is infidelity, breaking an oath irreverence, and infidelity is graver.",
+    "claims": [
+      "Vow-breaking would be graver than oath-breaking."
+    ],
+    "concepts": [
+      "vows and oaths",
+      "infidelity and irreverence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112"
+      ]
+    }
+  },
+  "rh-l4q7-d1e426": {
+    "summary": "Further: an obligation made only to God is stronger than one sometimes made to man; vows are made only to God, oaths sometimes to men. Many, including Thomas (II-II q. 89), hold vow-breaking graver.",
+    "claims": [
+      "According to Thomas, breaking a vow is graver than breaking an oath."
+    ],
+    "concepts": [
+      "Thomas Aquinas",
+      "vows"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e363"
+      ]
+    }
+  },
+  "rh-l4q7-d1e442": {
+    "summary": "Against: everything that obliges in a vow is in an oath, namely deliberate consent promising something to God, and the oath adds invocation of God's witness; Jerome says a due oath has judgment, justice, and truth, judgment including deliberation. So an oath binds more.",
+    "claims": [
+      "An oath includes all a vow's obligation plus God's witness."
+    ],
+    "concepts": [
+      "oaths",
+      "Jerome",
+      "deliberation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e363"
+      ]
+    }
+  },
+  "rh-l4q7-d1e480": {
+    "summary": "Further: perjury does God more irreverence, since breaking a licit oath imputes falsity to God, interpretatively blaspheming, as deeds signify truth or falsity like words (Anselm, De veritate 9); breaking a vow signifies only oneself false.",
+    "claims": [
+      "Perjury signifies God as false."
+    ],
+    "concepts": [
+      "perjury",
+      "blasphemy",
+      "Anselm",
+      "deeds as signs"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e363"
+      ]
+    }
+  },
+  "rh-l4q7-d1e511": {
+    "summary": "Further: with equal deliberation and assent about entering religion, one vows, another swears; the oath adds God's witness, so binds equally or more.",
+    "claims": [
+      "An oath binds at least as much as an equal vow."
+    ],
+    "concepts": [
+      "vows and oaths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e363"
+      ]
+    }
+  },
+  "rh-l4q7-d1e534": {
+    "summary": "To the reply that an oath is sometimes to man while a vow is always to God: the oath's binding force arises not from the addressee but from the swearer and from God invoked as witness and truth. So breaking a licit oath is not only irreverence but infidelity, falsifying oneself and God; other things equal an oath binds more.",
+    "claims": [
+      "An oath's obligation derives from God invoked as witness.",
+      "Breaking an oath is infidelity as well as irreverence."
+    ],
+    "concepts": [
+      "oaths",
+      "God as witness",
+      "infidelity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e363"
+      ]
+    }
+  },
+  "rh-l4q7-d1e567": {
+    "summary": "Fourth: a vow binds only from human truth, an oath from divine and human truth, so it binds more, which now seems true to Holcot.",
+    "claims": [
+      "Oaths bind more than vows."
+    ],
+    "concepts": [
+      "divine and human truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e363"
+      ]
+    }
+  },
+  "rh-l4q7-d1e578": {
+    "summary": "Confirmation: one convicted of perjury is infamous and barred from testimony, while another can fulfill one's vow if willing.",
+    "claims": [
+      "Perjury carries infamy; vows can be fulfilled by others."
+    ],
+    "concepts": [
+      "infamy",
+      "vicarious fulfillment of vows"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e363"
+      ]
+    }
+  },
+  "rh-l4q7-d1e589": {
+    "summary": "Third principal argument: then a sinner would be bound to condign satisfaction by the laws, so a thief justly condemned to death would be bound to will his own death, since satisfaction must be voluntary.",
+    "claims": [
+      "The justly condemned would be bound to will their execution."
+    ],
+    "concepts": [
+      "capital punishment",
+      "voluntary satisfaction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112"
+      ]
+    }
+  },
+  "rh-l4q7-d1e614": {
+    "summary": "Some say this is true absolutely: even if he could flee without harming anyone, he must not, since he must not knowingly impede justice; he should rather endure death than consent to flight.",
+    "claims": [
+      "According to some, the justly condemned must not flee."
+    ],
+    "concepts": [
+      "duty not to flee",
+      "justice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e589"
+      ]
+    }
+  },
+  "rh-l4q7-d1e636": {
+    "summary": "Against: a sentence binds no more than a licit vow or oath, which may be commuted to a greater good, as a crusading vow to entering religion. So if he can flee without injury and intends a greater good, such as amending his life or entering religion for the commonwealth's good, he may.",
+    "claims": [
+      "A death sentence may be evaded for a greater good if no one is harmed."
+    ],
+    "concepts": [
+      "commutation of vows",
+      "greater good"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e614"
+      ]
+    }
+  },
+  "rh-l4q7-d1e682": {
+    "summary": "But he may not flee by killing his guard or causing the guard to hang, since evil is not done that good may come (Romans 3). If his death would cause a schism or war, he may flee without injury. He need not wait at the gallows for negligent executioners. Accepting death should carry the implied condition 'unless I can do something else for my sins'. One condemned to starve may eat bread he has, indeed perhaps must, since no one must kill himself; likewise with flight.",
+    "claims": [
+      "Flight is licit if it harms no one.",
+      "Evil may not be done that good may come.",
+      "No one is bound to kill himself."
+    ],
+    "concepts": [
+      "Romans 3:8",
+      "self-preservation",
+      "conditional acceptance of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112",
+        "rh-l4q7-d1e636"
+      ]
+    }
+  },
+  "rh-l4q7-d1e734": {
+    "summary": "Fourth principal argument: remission of guilt would come by contrition, the first part of penance, so the act of contrition would be better than martyrdom or any act in charity, since for it eternal life is given and eternal punishment remitted, two infinite goods.",
+    "claims": [
+      "Contrition would be better than martyrdom."
+    ],
+    "concepts": [
+      "contrition",
+      "martyrdom",
+      "two infinite goods"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112"
+      ]
+    }
+  },
+  "rh-l4q7-d1e780": {
+    "summary": "Fifth principal argument: a satisfying sinner must be contrite, so must prefer annihilation to relapsing into mortal sin, as Anselm teaches one should prefer the world's annihilation to the least sin.",
+    "claims": [
+      "Contrition requires preferring annihilation to sin."
+    ],
+    "concepts": [
+      "annihilation",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e112"
+      ]
+    }
+  },
+  "rh-l4q7-Dd1e813": {
+    "summary": "Some hold, citing Augustine's three arguments in De libero arbitrio III, that one should prefer perpetual misery to non-existence and cannot will not to be, suicides seeking rest rather than nothingness.",
+    "claims": [
+      "According to some, no one can will annihilation."
+    ],
+    "concepts": [
+      "Augustine",
+      "annihilation"
+    ],
+    "_metadata": {
+      "level": "responsio a quibusdam",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q7-d1e818",
+        "rh-l4q7-d1e831",
+        "rh-l4q7-d1e840",
+        "rh-l4q7-d1e853"
+      ]
+    }
+  },
+  "rh-l4q7-d1e818": {
+    "summary": "Some say one should rather choose to sin and remain in perpetual punishment than not to exist at all, which Augustine (De libero arbitrio III) seems to prove three ways.",
+    "claims": [
+      "According to some, existence in misery is preferable to annihilation."
+    ],
+    "concepts": [
+      "annihilation",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e813"
+      ]
+    }
+  },
+  "rh-l4q7-d1e831": {
+    "summary": "First: one who chooses chooses something, but not to be is nothing, so it cannot be chosen.",
+    "claims": [
+      "Non-being, being nothing, cannot be chosen."
+    ],
+    "concepts": [
+      "choice of nothing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e813",
+        "rh-l4q7-d1e818"
+      ]
+    }
+  },
+  "rh-l4q7-d1e840": {
+    "summary": "Second: if you should will not to be rather than be miserable, that would be better, but what is not cannot be better.",
+    "claims": [
+      "Non-being cannot be better."
+    ],
+    "concepts": [
+      "comparison with nothing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e813",
+        "rh-l4q7-d1e818"
+      ]
+    }
+  },
+  "rh-l4q7-d1e853": {
+    "summary": "Third: whoever rightly chooses something becomes better on attaining it, but one who is not cannot be better. So many think Augustine intends that one cannot desire not to be. The example of pagans like Curtius who killed themselves expecting no afterlife is answered by Augustine: they sought rest, so desired to be.",
+    "claims": [
+      "According to many, Augustine holds no one can will annihilation.",
+      "Suicides seek rest, not non-being."
+    ],
+    "concepts": [
+      "Augustine",
+      "suicide",
+      "Curtius",
+      "rest"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e813",
+        "rh-l4q7-d1e818"
+      ]
+    }
+  },
+  "rh-l4q7-Dd1e893": {
+    "summary": "Holcot announces three counter-theses: one can choose annihilation, Augustine himself allows this, and Augustine's sayings can be reconciled.",
+    "claims": [],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "divisio quaestionis",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q7-d1e900"
+      ]
+    }
+  },
+  "rh-l4q7-d1e900": {
+    "summary": "Against this, Holcot proposes three things: that one can deliberately choose annihilation; that this is Augustine's real intention; and an interpretation reconciling Augustine's sayings.",
+    "claims": [
+      "One can deliberately choose annihilation."
+    ],
+    "concepts": [
+      "structure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e893"
+      ]
+    }
+  },
+  "rh-l4q7-Dd1e915": {
+    "summary": "Holcot argues that one can deliberately choose annihilation. Whatever reason, right or erring, judges less evil can be chosen. Even right reason in the damned would judge non-being less evil than eternal pain. Experience, including his own, confirms the preference. One can will annihilation for the common good, temporarily, or as a means to good.",
+    "claims": [
+      "One can rationally choose annihilation over damnation."
+    ],
+    "concepts": [
+      "annihilation",
+      "lesser evil",
+      "free will",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q7-d1e920",
+        "rh-l4q7-d1e970",
+        "rh-l4q7-d1e1027",
+        "rh-l4q7-d1e1043",
+        "rh-l4q7-d1e1073"
+      ]
+    }
+  },
+  "rh-l4q7-d1e920": {
+    "summary": "First: whatever right or erring reason judges better or less evil can be chosen accordingly, since the free will can will what reason dictates. God could cause the judgment that annihilation is less evil than misery, or someone could argue it soundly or sophistically.",
+    "claims": [
+      "Whatever reason judges less evil can be chosen.",
+      "One can judge annihilation less evil than misery."
+    ],
+    "concepts": [
+      "freedom of will",
+      "practical judgment",
+      "annihilation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e915"
+      ]
+    }
+  },
+  "rh-l4q7-d1e970": {
+    "summary": "Second: even by unerring reason, if God willed the damned to be damned forever, they should prefer annihilation. Annihilation's evil is not fault or pain of sense but loss, and damnation's pain is more disagreeable than being is agreeable to them, else they would delight more in being than grieve in pain, which is not believed. So without error they judge non-being less disagreeable, and the lesser evil is more choiceworthy, a first practical principle.",
+    "claims": [
+      "The damned should rationally prefer annihilation.",
+      "The lesser evil is more choiceworthy."
+    ],
+    "concepts": [
+      "damnation",
+      "lesser evil",
+      "practical principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e915"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1027": {
+    "summary": "Confirmed by experience: Holcot has heard many faithful say they would choose not to exist rather than that punishment, and he himself, deliberating, prefers it without difficulty.",
+    "claims": [
+      "Experience shows people prefer non-existence to damnation."
+    ],
+    "concepts": [
+      "experience",
+      "introspection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e915",
+        "rh-l4q7-d1e970"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1043": {
+    "summary": "Further: one can will another's annihilation for the commonwealth's good, so by parity one's own, as pagans did who let themselves be killed for the commonwealth. And one can will to be annihilated for five days rather than be damned forever, so can will annihilation.",
+    "claims": [
+      "One can will annihilation for the common good or temporarily."
+    ],
+    "concepts": [
+      "common good",
+      "temporary annihilation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e915"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1073": {
+    "summary": "Further: annihilation can be apprehended by right reason as good and a means to good, as if God revealed that annihilation for some days would be followed by restoration to eternal life.",
+    "claims": [
+      "Annihilation can be a means to good."
+    ],
+    "concepts": [
+      "means and ends",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e915"
+      ]
+    }
+  },
+  "rh-l4q7-Dd1e1095": {
+    "summary": "Holcot reads Augustine as granting that some truly, though falsely, choose non-being from erroneous opinion, since choice of the impossible is still choice.",
+    "claims": [
+      "Augustine allows false but real choice of non-being."
+    ],
+    "concepts": [
+      "Augustine",
+      "false choice"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q7-d1e1100"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1100": {
+    "summary": "Second: Augustine himself holds one can deliberately choose not to be in body and soul. Choice from an erroneous opinion about the impossible is true choice, as choosing to carry the sun rather than the moon. Augustine says those who killed themselves believing they would be nothing made a 'false choice', choosing nothing, a choice that deceived them; and those who prefer not to be lest they be miserable remain miserable since they cannot not be.",
+    "claims": [
+      "According to Augustine, some truly though falsely chose non-being.",
+      "Choice from erroneous opinion is real choice."
+    ],
+    "concepts": [
+      "Augustine",
+      "false choice",
+      "error and choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e1095"
+      ]
+    }
+  },
+  "rh-l4q7-Dd1e1175": {
+    "summary": "Augustine means that true judgment cannot recommend non-being, given the soul's immortality, and that non-being is chosen only together with an intention of rest. His arguments cut both ways. 'Good' predicated of infinitives stands for no thing, so one can choose a good, even a lesser evil like non-being, while choosing nothing. The question's main issue of satisfaction is left largely to the principal arguments.",
+    "claims": [
+      "One can choose a good while choosing no thing.",
+      "Non-being can be chosen as the lesser evil."
+    ],
+    "concepts": [
+      "equivocation on bonum",
+      "Augustine",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q7-d1e1180",
+        "rh-l4q7-d1e1189",
+        "rh-l4q7-d1e1200",
+        "rh-l4q7-d1e1247",
+        "rh-l4q7-d1e1258",
+        "rh-l4q7-d1e1265",
+        "rh-l4q7-d1e1278"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1180": {
+    "summary": "Third: Augustine's intent can be read as two conclusions.",
+    "claims": [],
+    "concepts": [
+      "interpretation of Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e1175"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1189": {
+    "summary": "First: under the present law of the soul's immortality, no one can by true choice, following true judgment, choose not to be, since the judgment would say the soul is immortal.",
+    "claims": [
+      "Given the soul's immortality, true judgment cannot recommend non-being."
+    ],
+    "concepts": [
+      "immortality of the soul",
+      "true choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e1175",
+        "rh-l4q7-d1e1180"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1200": {
+    "summary": "Second: no one can choose not to be by any opinion unless some other intention is joined, such as rest or absence of pain. Augustine says intolerable sufferings drive some to desire death, with an opinion of total cessation and a natural desire for rest.",
+    "claims": [
+      "Choosing non-being always involves a further intention like rest."
+    ],
+    "concepts": [
+      "Augustine",
+      "desire for rest"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e1175",
+        "rh-l4q7-d1e1180"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1247": {
+    "summary": "Reply to Augustine's first argument: by the same reasoning one could not flee or detest non-being, since to flee is to flee something.",
+    "claims": [
+      "The argument proves too much."
+    ],
+    "concepts": [
+      "parity argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e1175",
+        "rh-l4q7-d1e831"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1258": {
+    "summary": "Likewise: non-being is not worse than being, since it is nothing.",
+    "claims": [
+      "Non-being cannot be worse either."
+    ],
+    "concepts": [
+      "parity argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e1175",
+        "rh-l4q7-d1e840"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1265": {
+    "summary": "Likewise: one who rightly flees something becomes worse on reaching it, so the arguments cut both ways.",
+    "claims": [
+      "Augustine's arguments cut both ways."
+    ],
+    "concepts": [
+      "parity argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e1175",
+        "rh-l4q7-d1e853"
+      ]
+    }
+  },
+  "rh-l4q7-d1e1278": {
+    "summary": "'Good' and 'evil' are equivocal: predicated of things ('this man is good') or of infinitives ('to walk after dinner is good'), where they stand for no thing, as 'running in Gellomont' is no thing. So one can will or choose good and choose nothing, as choosing to sit or stand. Choosing not to be is choosing an evil, the lesser, and in the second sense a good, yet choosing nothing.",
+    "claims": [
+      "'Good' predicated of infinitives stands for no thing.",
+      "One can choose a good without choosing any thing.",
+      "Choosing non-being is choosing a lesser evil."
+    ],
+    "concepts": [
+      "equivocation on bonum",
+      "infinitive predication",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q7-Dd1e1175"
+      ]
+    }
+  }
+}

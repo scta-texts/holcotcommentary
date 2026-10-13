@@ -1,0 +1,341 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l4q2": {
+    "summary": "Holcot asks whether confirmation is a sacrament, and in a brief, largely canonistic question answers yes. Its substance includes chrism as matter, a Trinitarian signing as form, an episcopal minister with right intention, and a willing baptized recipient. Christ instituted it when laying hands on children, though its rite was concealed in the early Church. It is necessary for the well-being of a Christian rather than for salvation itself, and it is ordinarily episcopal but delegable to priests.",
+    "claims": [
+      "Confirmation is a sacrament instituted by Christ.",
+      "It is necessary for well-being, not salvation."
+    ],
+    "concepts": [
+      "confirmation",
+      "sacraments",
+      "chrism",
+      "canon law"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q2-Dd1e103",
+        "rh-l4q2-Dd1e115",
+        "rh-l4q2-Dd1e195",
+        "rh-l4q2-Dd1e235"
+      ]
+    }
+  },
+  "rh-l4q2-Dd1e103": {
+    "summary": "Opening statement: whether confirmation is a sacrament.",
+    "claims": [],
+    "concepts": [
+      "confirmation"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q2-d1e105"
+      ]
+    }
+  },
+  "rh-l4q2-d1e105": {
+    "summary": "States the question: whether confirmation is a sacrament.",
+    "claims": [],
+    "concepts": [
+      "confirmation",
+      "sacraments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2"
+      ]
+    }
+  },
+  "rh-l4q2-Dd1e115": {
+    "summary": "Arguments against confirmation's sacramentality: no Gospel institution, no apostolic form or matter, it would then be necessary for salvation, any confirmed person could confirm, and degraded bishops could confirm. Canon law is cited for the opposite.",
+    "claims": [
+      "Confirmation's sacramental status is questioned on grounds of institution, form, and necessity."
+    ],
+    "concepts": [
+      "confirmation",
+      "institution",
+      "form and matter"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q2-d1e117",
+        "rh-l4q2-d1e130",
+        "rh-l4q2-d1e146",
+        "rh-l4q2-d1e168",
+        "rh-l4q2-d1e177",
+        "rh-l4q2-d1e189"
+      ]
+    }
+  },
+  "rh-l4q2-d1e117": {
+    "summary": "First argument against: every sacrament was instituted by Christ, but confirmation is not read of in the Gospel.",
+    "claims": [
+      "Confirmation's institution by Christ is not recorded in the Gospel."
+    ],
+    "concepts": [
+      "institution of sacraments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q2-d1e130": {
+    "summary": "Further: a sacrament has definite form and matter, but the apostles used no form and no matter, confirming by laying on of hands alone (Acts 8).",
+    "claims": [
+      "The apostles confirmed without form or matter."
+    ],
+    "concepts": [
+      "form and matter",
+      "Acts 8",
+      "laying on of hands"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q2-d1e146": {
+    "summary": "Further: it would be a sacrament of necessity, since Pope Urban (De consecratione d. 5) says all the faithful must receive the Spirit by episcopal imposition of hands after baptism to be full Christians, and being a full Christian is necessary for salvation.",
+    "claims": [
+      "Confirmation would be necessary for salvation."
+    ],
+    "concepts": [
+      "necessity of sacraments",
+      "Urban",
+      "full Christian"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q2-d1e168": {
+    "summary": "Further: anyone confirmed could confirm, having the character of confirmation and so able to cause a like one.",
+    "claims": [
+      "The confirmed could confer confirmation."
+    ],
+    "concepts": [
+      "sacramental character"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q2-d1e177": {
+    "summary": "Further: a degraded bishop could confirm and consecrate, since the character is indelible.",
+    "claims": [
+      "A degraded bishop could still confirm."
+    ],
+    "concepts": [
+      "indelible character",
+      "degradation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q2-d1e189": {
+    "summary": "For the opposite: De consecratione d. 5 throughout.",
+    "claims": [
+      "Canon law treats confirmation as a sacrament."
+    ],
+    "concepts": [
+      "Decretum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q2-Dd1e195": {
+    "summary": "Holcot affirms that confirmation is a sacrament and lists its six substantial requirements: chrism as matter, a Trinitarian signing as form, a bishop with due intention, and a willing baptized recipient.",
+    "claims": [
+      "Confirmation is a sacrament with chrism as matter and a Trinitarian form."
+    ],
+    "concepts": [
+      "chrism",
+      "sacramental form",
+      "minister"
+    ],
+    "_metadata": {
+      "level": "responsio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q2-d1e200"
+      ]
+    }
+  },
+  "rh-l4q2-d1e200": {
+    "summary": "Answer: yes. Six things belong to its substance: matter and form; on the minister's side episcopal dignity and due intention; on the recipient's, devotion or will and prior baptism, the gate of sacraments. The matter is chrism, olive oil mixed with balsam consecrated by a bishop; the form 'I sign you with the sign of the cross and confirm you with the chrism of salvation, in the name of the Father...'.",
+    "claims": [
+      "Confirmation is a sacrament.",
+      "Its matter is episcopally consecrated chrism and its form a Trinitarian signing.",
+      "It requires a bishop, due intention, the recipient's will, and baptism."
+    ],
+    "concepts": [
+      "chrism",
+      "sacramental form",
+      "minister of confirmation",
+      "baptism as gate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e195"
+      ]
+    }
+  },
+  "rh-l4q2-Dd1e235": {
+    "summary": "Christ instituted confirmation by laying hands on children, and its rite was hidden in the early Church to avoid pagan mockery. It is necessary for well-being, not for salvation. Bishops ordinarily confer it but may delegate priests. A degraded bishop remains a bishop. Practical notes on the rite follow.",
+    "claims": [
+      "Christ instituted confirmation.",
+      "Confirmation is necessary for well-being, not salvation."
+    ],
+    "concepts": [
+      "institution",
+      "disciplina arcani",
+      "minister",
+      "rite"
+    ],
+    "_metadata": {
+      "level": "ad rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q2-d1e240",
+        "rh-l4q2-d1e264",
+        "rh-l4q2-d1e271",
+        "rh-l4q2-d1e278",
+        "rh-l4q2-d1e288"
+      ]
+    }
+  },
+  "rh-l4q2-d1e240": {
+    "summary": "Reply to the first: Christ instituted it when he laid hands on children (Matthew 19). Form and matter are not recorded, since matters not necessary for salvation were hidden in the early Church because of pagan mockery, as Dionysius excuses himself from detailing sacramental rites.",
+    "claims": [
+      "Christ instituted confirmation by laying hands on children.",
+      "Sacramental rites were concealed in the early Church."
+    ],
+    "concepts": [
+      "Matthew 19",
+      "disciplina arcani",
+      "Dionysius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e235",
+        "rh-l4q2-d1e117"
+      ]
+    }
+  },
+  "rh-l4q2-d1e264": {
+    "summary": "Reply to the second: the apostles used some form though it was not written.",
+    "claims": [
+      "The apostles used an unwritten form."
+    ],
+    "concepts": [
+      "unwritten tradition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e235",
+        "rh-l4q2-d1e130"
+      ]
+    }
+  },
+  "rh-l4q2-d1e271": {
+    "summary": "Reply to the third: it is necessary not for being but for well-being.",
+    "claims": [
+      "Confirmation is necessary for well-being, not for salvation simply."
+    ],
+    "concepts": [
+      "necessity ad bene esse"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e235",
+        "rh-l4q2-d1e146"
+      ]
+    }
+  },
+  "rh-l4q2-d1e278": {
+    "summary": "Reply to the fourth: commonly only bishops can confer it, though it can be committed to a simple priest (De consecratione d. 5, gloss).",
+    "claims": [
+      "Bishops ordinarily confirm, but priests may be delegated."
+    ],
+    "concepts": [
+      "minister of confirmation",
+      "delegation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e235",
+        "rh-l4q2-d1e168"
+      ]
+    }
+  },
+  "rh-l4q2-d1e288": {
+    "summary": "Reply to the fifth: some say yes, since a degraded bishop remains a bishop. Notes: one must receive confirmation because it strengthens and signifies need of strength; sponsors may be of either sex; the anointed places should be bound with cloth until dry; and the confirmed should keep discipline for seven days for the sevenfold grace of the Spirit.",
+    "claims": [
+      "A degraded bishop remains a bishop.",
+      "Confirmation strengthens the recipient."
+    ],
+    "concepts": [
+      "indelible character",
+      "seven gifts",
+      "rites of confirmation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q2-Dd1e235",
+        "rh-l4q2-d1e177"
+      ]
+    }
+  }
+}

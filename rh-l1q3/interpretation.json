@@ -1,0 +1,4399 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l1q3": {
+    "summary": "Holcot asks whether a wayfarer is bound to enjoy God alone, and answers yes. Following Augustine, he defines enjoyment as loving as ultimate end and use as loving for something else, actually or habitually. Against the principal arguments he holds four positions. The precept binds habitually always but actually only by circumstance. It concerns the good willed and loving God for his own sake, not the intensity of the act. Benefits increase the grounds of obligation, not its measure. The blessed love other creatures more extensively but not intensively than God. The article on enjoyment in this life ranges widely. Natural powers suffice to love God above all, but under present law only grace fulfills the precept. A sin extended in time contains infinitely many sins in potency. Neither God's existence nor the obligation to love him above all can be demonstrated; only the conditional can. He rejects Anselm's ontological argument and argument from truth, holds that the pagans knew God by revelation, and treats 'God' as equivocal. Communication of idioms and invincible error yield paradoxes: one can meritoriously enjoy a creature, hate God, or love and hate the same person.",
+    "claims": [
+      "The wayfarer is bound to enjoy God alone.",
+      "The precept of love concerns the good willed, not intensity.",
+      "One can love God above all by nature, but the precept is fulfilled only in grace under present law.",
+      "God's existence is not demonstrable by natural reason.",
+      "Anselm's ontological argument is sophistical.",
+      "Invincible error can make enjoyment of a creature or hatred of God meritorious."
+    ],
+    "concepts": [
+      "fruitio",
+      "uti et frui",
+      "love of God",
+      "natural theology",
+      "ontological argument",
+      "grace",
+      "invincible ignorance",
+      "communicatio idiomatum",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q3-Dd1e103",
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-Dd1e1145",
+        "rh-l1q3-Dd1e1184",
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-Dd1e4827"
+      ]
+    }
+  },
+  "rh-l1q3-Dd1e103": {
+    "summary": "Opening statement of the question: whether a wayfarer is bound to enjoy God alone.",
+    "claims": [],
+    "concepts": [
+      "fruitio",
+      "obligation"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q3-d1e96"
+      ]
+    }
+  },
+  "rh-l1q3-d1e96": {
+    "summary": "States the question: whether a wayfarer is bound to enjoy God alone.",
+    "claims": [],
+    "concepts": [
+      "fruitio",
+      "enjoyment of God",
+      "viator",
+      "obligation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3"
+      ]
+    }
+  },
+  "rh-l1q3-Dd1e114": {
+    "summary": "Thirteen principal arguments challenge the obligation to enjoy God alone. Duties to neighbors may require setting aside enjoyment, so that one might never be bound to it at any time. Enjoyment would need infinite intensity. The blessed seem to love God and the saints more than God, and their prayers seem pointless or necessitating. The object of enjoyment seems to be 'having God' or happiness. A good enough creature, or Christ's humanity, would merit equal love. Loving one's own enjoyment threatens regress. A finite good could satisfy the finite mind. Loving God above all seems to require willing one's own damnation for his honor. Maximal intensity is impossible. Each new benefit would create unpayable debts of love. Self-love seems natural and mandated. Redemption seems to make Christ's humanity more lovable than God. Invincible error could make enjoyment of a creature meritorious. Lombard and Anselm are cited for the opposite.",
+    "claims": [
+      "The precept to enjoy God alone appears to conflict with love of neighbor, self-love, and the limits of human capacity."
+    ],
+    "concepts": [
+      "fruitio",
+      "love of neighbor",
+      "intensity of love",
+      "intercession of saints",
+      "self-love",
+      "invincible ignorance"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q3-d1e107",
+        "rh-l1q3-d1e136",
+        "rh-l1q3-d1e178",
+        "rh-l1q3-d1e220",
+        "rh-l1q3-d1e254",
+        "rh-l1q3-d1e311",
+        "rh-l1q3-d1e340",
+        "rh-l1q3-d1e385",
+        "rh-l1q3-d1e414",
+        "rh-l1q3-d1e432",
+        "rh-l1q3-d1e457",
+        "rh-l1q3-d1e473",
+        "rh-l1q3-d1e523",
+        "rh-l1q3-d1e565",
+        "rh-l1q3-d1e583",
+        "rh-l1q3-d1e609",
+        "rh-l1q3-d1e648",
+        "rh-l1q3-d1e679",
+        "rh-l1q3-d1e725",
+        "rh-l1q3-d1e784",
+        "rh-l1q3-d1e819",
+        "rh-l1q3-d1e839",
+        "rh-l1q3-d1e909",
+        "rh-l1q3-d1e920",
+        "rh-l1q3-d1e931",
+        "rh-l1q3-d1e975",
+        "rh-l1q3-d1e988",
+        "rh-l1q3-d1e1040",
+        "rh-l1q3-d1e1063",
+        "rh-l1q3-d1e1120"
+      ]
+    }
+  },
+  "rh-l1q3-d1e107": {
+    "summary": "First principal argument. One can meritoriously not will to enjoy God. If Socrates sees Plato in extreme need and can help only with full diligence, he is bound to help, and he cannot do so without setting aside thought of God and so enjoyment of God.",
+    "claims": [
+      "Helping a neighbor in need may require setting aside the enjoyment of God."
+    ],
+    "concepts": [
+      "love of neighbor",
+      "fruitio",
+      "conflict of obligations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e136": {
+    "summary": "Considers the reply that Socrates may set aside enjoyment to help his neighbor, and objects that one would then be bound to abandon the most perfect operation of this life, the one most like that of the blessed, for a less perfect one, which no wise person does.",
+    "claims": [
+      "One should not abandon the most perfect operation for a lesser one."
+    ],
+    "concepts": [
+      "perfection of acts",
+      "fruitio viae",
+      "practical wisdom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e107"
+      ]
+    }
+  },
+  "rh-l1q3-d1e178": {
+    "summary": "Second objection to that reply. A newly baptized adult who lives one day, during each hour of which a neighbor's need demands his full diligence, would never be bound to enjoy God, i.e. to love God above all, in his whole life.",
+    "claims": [
+      "Under the reply, someone could never be obliged to enjoy God."
+    ],
+    "concepts": [
+      "casus",
+      "temporal scope of precepts",
+      "love of God above all"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e136"
+      ]
+    }
+  },
+  "rh-l1q3-d1e220": {
+    "summary": "Confirmation. When is Socrates bound to enjoy God? Not today, not tomorrow, and so never. If on a certain day, then everyone is bound that day, since the precept is given equally to all, yet at any time one may lawfully sleep.",
+    "claims": [
+      "The precept to enjoy God binds at no assignable time."
+    ],
+    "concepts": [
+      "affirmative precepts",
+      "temporal obligation",
+      "sleep"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e178"
+      ]
+    }
+  },
+  "rh-l1q3-d1e254": {
+    "summary": "Second principal argument. One would be bound to an act of infinite intensive perfection, which no one can perform. Cognition of God is infinitely more perfect than cognition of a stone, since cognition is measured by its object. If it exceeded by a finite proportion, God could create a stone a hundred times better, whose cognition would equal cognition of God.",
+    "claims": [
+      "Enjoying God would require an act of infinite intensive perfection.",
+      "Cognition's perfection follows its object's perfection."
+    ],
+    "concepts": [
+      "intensive infinity",
+      "perfection of cognition",
+      "object of cognition",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e311": {
+    "summary": "Third principal argument. The blessed do not enjoy God, since they love more than God what they do not yet have. Taking a, the whole future multitude of the blessed together with God, a blessed soul desires a, so loves a more than any part of it, including God.",
+    "claims": [
+      "The blessed love the whole of God and the saints more than God alone."
+    ],
+    "concepts": [
+      "fruitio patriae",
+      "desire of the blessed",
+      "whole and part"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e340": {
+    "summary": "Further: if the blessed enjoy God, they can will only what they see God wills, so they cannot pray for us. If they pray for what they know God wills, prayer is pointless. If for what they doubt, they are not blessed, since the blessed have whatever they will and will nothing wrongly (Augustine), and they would risk asking for what displeases God.",
+    "claims": [
+      "The blessed cannot meaningfully pray for us if they enjoy God."
+    ],
+    "concepts": [
+      "intercession of saints",
+      "conformity of will",
+      "beatitude",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e311"
+      ]
+    }
+  },
+  "rh-l1q3-d1e385": {
+    "summary": "Further: if the saints pray for us, we are saved by necessity. Peter prays only for what he sees God wills, and 'Peter prayed yesterday for Socrates' salvation' is now necessary. So 'God willed Socrates to be saved' and 'Socrates will be saved' would be necessary.",
+    "claims": [
+      "Saints' prayer would make the salvation prayed for necessary."
+    ],
+    "concepts": [
+      "necessity of the past",
+      "intercession",
+      "predestination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e340"
+      ]
+    }
+  },
+  "rh-l1q3-d1e414": {
+    "summary": "Confirms with Lombard (IV d. 45): the saints are so bound to God's will that they can pray for nothing against it, and when they will our good, God wills it and so it will be.",
+    "claims": [
+      "According to Lombard, the saints can pray for nothing against God's will."
+    ],
+    "concepts": [
+      "intercession",
+      "Lombard",
+      "conformity to divine will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e385"
+      ]
+    }
+  },
+  "rh-l1q3-d1e432": {
+    "summary": "Fourth principal argument. The object of enjoyment is other than God, since it is the same as the object of preceding desire, which is something future such as having or being united to God, and the same as the object of the blessed's delight, which is having God.",
+    "claims": [
+      "The object of enjoyment is having God, not God."
+    ],
+    "concepts": [
+      "object of fruitio",
+      "desire",
+      "delight",
+      "possession of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e457": {
+    "summary": "Confirms with Augustine: all want to be happy and desire this above all and all else for its sake, but being happy is not God.",
+    "claims": [
+      "Happiness, not God, is loved most ardently."
+    ],
+    "concepts": [
+      "desire for happiness",
+      "Augustine",
+      "ultimate end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e432"
+      ]
+    }
+  },
+  "rh-l1q3-d1e473": {
+    "summary": "Fifth principal argument. Something other than God is to be loved equally with God. Socrates' love of God exceeds his due love for the most lovable creature by a finite proportion, say tenfold, and God could create a creature ten times better, deserving equal love. Indeed Christ's soul or humanity, better than any possible creature (Anselm), must be loved equally with God.",
+    "claims": [
+      "A sufficiently good creature would deserve love equal to God's.",
+      "Christ's humanity must be loved equally with God."
+    ],
+    "concepts": [
+      "proportion of love",
+      "humanity of Christ",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e523": {
+    "summary": "Sixth principal argument. Enjoyment itself is to be loved, either by itself, so that God and a creature are loved equally by one act, or by another act, giving an infinite regress of loves or an unloved love. The same applies to will and willing, following Anselm's 'every willer wills his willing'.",
+    "claims": [
+      "Loving one's enjoyment leads to equal love of creature or infinite regress."
+    ],
+    "concepts": [
+      "reflexive love",
+      "infinite regress",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e565": {
+    "summary": "Confirmation: is Socrates bound to love his enjoyment equally with God, or less? If less, he is bound to love God more than to enjoy God, i.e. to love God more than to love God, which is contradictory.",
+    "claims": [
+      "Loving God more than one's enjoyment of God is contradictory."
+    ],
+    "concepts": [
+      "reflexive love",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e523"
+      ]
+    }
+  },
+  "rh-l1q3-d1e583": {
+    "summary": "Second confirmation: if Socrates is bound to love God (a) more than his enjoyment (b), he should prefer whatever is incompatible with b to whatever is incompatible with a. Hatred of God is incompatible with b, so he should rather will to hate God than will to hate God, a contradiction.",
+    "claims": [
+      "Preferring God to one's enjoyment of God leads to contradiction."
+    ],
+    "concepts": [
+      "preference",
+      "hatred of God",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e523"
+      ]
+    }
+  },
+  "rh-l1q3-d1e609": {
+    "summary": "Seventh principal argument. Something other than God can satisfy the appetite, so can be lawfully enjoyed, since it is good to love above all what can satisfy the whole appetite ('our heart is restless until it rests in you'). The mind has finite capacity and so can be satisfied by something finite, and between God, who exceeds it, and bodies, which fall short, there is something equal to it.",
+    "claims": [
+      "A finite good could satisfy the finite human appetite."
+    ],
+    "concepts": [
+      "satiation of appetite",
+      "finite capacity",
+      "Augustine",
+      "restless heart"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e648": {
+    "summary": "Eighth principal argument. If bound to love God above all, I should will whatever I believe more to God's honor. But if it were revealed that God would be more honored by ten others in charity and me outside it, I should will that, which is false.",
+    "claims": [
+      "Loving God above all would require willing one's own damnation for God's greater honor."
+    ],
+    "concepts": [
+      "honor of God",
+      "self-love",
+      "resignation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e679": {
+    "summary": "Ninth principal argument. Is one bound to love God with the highest degree of one's will's effort? If so, one is bound to the impossible, since love depends on organic powers that tire and weaken, and the sick cannot love as intensely as the healthy. If any lower degree suffices, one may love a creature with the same intensity without sin.",
+    "claims": [
+      "No one can be bound to maximal intensity of love.",
+      "Then loving a creature equally intensely would be no sin."
+    ],
+    "concepts": [
+      "intensity of love",
+      "organic powers",
+      "fatigue",
+      "latitude of effort"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e725": {
+    "summary": "Confirmation. Suppose Socrates loves Plato with due love of neighbor and begins at an instant to enjoy God by successive intensification. At that instant he loves Plato infinitely more intensely than God, yet begins meritoriously to enjoy God. So loving a creature more intensely than God is not against the precept.",
+    "claims": [
+      "At the first instant of enjoyment, a creature is loved more intensely than God."
+    ],
+    "concepts": [
+      "first instant",
+      "intensification",
+      "continuity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e679"
+      ]
+    }
+  },
+  "rh-l1q3-d1e784": {
+    "summary": "Tenth principal argument. The precept would necessitate sin. Socrates is bound to love God with his whole heart, as much as he can. When God then grants more grace he is bound to love more, which is impossible, so every divine benefit and every moment of continued existence create an unpayable debt.",
+    "claims": [
+      "The precept would create unpayable debts of love."
+    ],
+    "concepts": [
+      "debt of love",
+      "grace",
+      "impossible obligations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e819": {
+    "summary": "Further: is a human bound to love God more than an angel is? Not less or equally, since God did more for humans, redeeming them (Hebrews 2). If more, humans are bound to the impossible, since angels have better natural endowments.",
+    "claims": [
+      "Humans would owe more love than angels yet can give less."
+    ],
+    "concepts": [
+      "angels and humans",
+      "redemption",
+      "natural endowments"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e784"
+      ]
+    }
+  },
+  "rh-l1q3-d1e839": {
+    "summary": "Further: Christ's soul must owe more love than Socrates', either infinitely or finitely more. If infinitely, Christ's soul is bound to the impossible. If finitely, let Socrates sin and repent repeatedly, each restoration of grace raising his debt more than the last, until it equals Christ's, which he cannot pay. So divine law would bind him to the impossible.",
+    "claims": [
+      "Repeated sin and repentance would raise one's debt of love to Christ's level."
+    ],
+    "concepts": [
+      "debt of love",
+      "relapse",
+      "Christ's soul",
+      "impossible obligations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e784"
+      ]
+    }
+  },
+  "rh-l1q3-d1e909": {
+    "summary": "Eleventh principal argument: one is bound to love oneself more than God, since this is natural and what is natural is instituted by God.",
+    "claims": [
+      "One is bound to love oneself more than God."
+    ],
+    "concepts": [
+      "natural self-love",
+      "natural inclination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e920": {
+    "summary": "Confirms with Aristotle (Ethics IX): friendly relations to another presuppose those to oneself, and a man is most a friend to himself.",
+    "claims": [
+      "According to Aristotle, friendship to others presupposes friendship to self."
+    ],
+    "concepts": [
+      "self-love",
+      "friendship",
+      "Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e909"
+      ]
+    }
+  },
+  "rh-l1q3-d1e931": {
+    "summary": "Further: otherwise one should choose annihilation over mortal sin, as Anselm says (Cur Deus homo I.21) one should let the whole world perish rather than sin slightly against God's will. But the annihilation of Christ's soul or life would be a greater evil than all the sins of the world, so Anselm's dictum is false.",
+    "claims": [
+      "Anselm's claim that one should prefer the world's annihilation to sin is false."
+    ],
+    "concepts": [
+      "annihilation",
+      "sin",
+      "Anselm",
+      "comparative evil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e909"
+      ]
+    }
+  },
+  "rh-l1q3-d1e975": {
+    "summary": "Twelfth principal argument: is one bound to enjoy God equally before and after redemption? If so, 'I am bound to love God above all because he is redeemer' would be false.",
+    "claims": [
+      "Redemption would add no obligation if the obligation to love God were unchanged."
+    ],
+    "concepts": [
+      "redemption",
+      "grounds of obligation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e988": {
+    "summary": "Confirms that we should love Christ's humanity more than God. Anselm says that if a man or angel had redeemed us we would be its servants, owing it as much as or more than God. Gregory says birth profits nothing without redemption, and non-existence is better than damnation, so redemption is a greater benefit than creation. So we owe Christ's humanity more than God.",
+    "claims": [
+      "Redemption is a greater benefit than creation.",
+      "We owe more to Christ's humanity than to God for anything else."
+    ],
+    "concepts": [
+      "redemption",
+      "creation",
+      "humanity of Christ",
+      "Anselm",
+      "Gregory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e975"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1040": {
+    "summary": "Further confirmation: we must love Christ's humanity more than ourselves (Lombard III), and other creatures not more than ourselves, so more than all creatures. So the two natures in Christ together are to be loved more than God.",
+    "claims": [
+      "The two natures of Christ together are to be loved more than God."
+    ],
+    "concepts": [
+      "humanity of Christ",
+      "order of charity",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114",
+        "rh-l1q3-d1e988"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1063": {
+    "summary": "Thirteenth principal argument. Peter, unable to tell Christ from James and taking James for Christ, loves James above all and so enjoys him, meritorious through invincible ignorance. So one can meritoriously enjoy a creature or even a devil disguised as Christ. To the reply that Peter enjoys God, whom he thinks James is: he loves this one above all, and this one is James. Similarly one could meritorially hate and enjoy God at once under different descriptions.",
+    "claims": [
+      "Through invincible ignorance one could meritoriously enjoy a creature.",
+      "One could hate and enjoy God at once under different descriptions."
+    ],
+    "concepts": [
+      "invincible ignorance",
+      "mistaken identity",
+      "intentional object",
+      "devil transfigured"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1120": {
+    "summary": "For the opposite: Lombard (I d. 1) and Anselm. The rational creature was made to love the highest good above all for itself, not for something else, and to love it for another is to love another, which is unjust (Cur Deus homo II.1; Monologion 68).",
+    "claims": [
+      "The rational creature was made to love God above all for his own sake."
+    ],
+    "concepts": [
+      "ultimate end",
+      "love of God",
+      "Anselm",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e114"
+      ]
+    }
+  },
+  "rh-l1q3-Dd1e1145": {
+    "summary": "Sets out the plan: use; enjoyment in this life; enjoyment in heaven; doubts; and replies. Three short articles on use are announced.",
+    "claims": [],
+    "concepts": [
+      "structure of the question",
+      "uti et frui"
+    ],
+    "_metadata": {
+      "level": "divisio quaestionis",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q3-d1e1150"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1150": {
+    "summary": "Gives the plan: on the act of use, on enjoyment in this life, on enjoyment in heaven, doubts, and replies. On use there are three short articles: the difference between enjoyment and use; whether there is an act of will that is neither; whether use is one act or an aggregate of several.",
+    "claims": [],
+    "concepts": [
+      "structure of the question",
+      "uti et frui"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1145"
+      ]
+    }
+  },
+  "rh-l1q3-Dd1e1184": {
+    "summary": "Holcot defines enjoyment as loving something for itself as ultimate end, and use as loving something for the sake of something loved more, actually or habitually, following Augustine.",
+    "claims": [
+      "Enjoyment is loving something as ultimate end.",
+      "Use requires only habitual reference to an end."
+    ],
+    "concepts": [
+      "uti et frui",
+      "ultimate end",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q3-d1e1189",
+        "rh-l1q3-d1e1246",
+        "rh-l1q3-d1e1277"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1189": {
+    "summary": "Both enjoyment and use are acts of will. The will loves something for itself (as a clear vision of God would be loved even if nothing else were), something only for another (as bitter medicine for health), or something both for itself and for another (as wine for its sweetness and for health).",
+    "claims": [
+      "The will loves things for themselves, for another, or both."
+    ],
+    "concepts": [
+      "uti et frui",
+      "ends and means",
+      "acts of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1184"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1246": {
+    "summary": "Loving something for itself is either absolute or loving it as the end the will should love, i.e. as ultimate end. The latter is enjoyment strictly. Augustine: we enjoy what we love for itself; one who rests the end of his joy in heresy truly enjoys it.",
+    "claims": [
+      "Enjoyment strictly is loving something as ultimate end."
+    ],
+    "concepts": [
+      "fruitio",
+      "ultimate end",
+      "Augustine",
+      "De doctrina christiana"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1184",
+        "rh-l1q3-d1e1189"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1277": {
+    "summary": "All other acts of will are use, loving something for another. This happens either when both are actually willed or when the end is willed only habitually, as one who takes medicine without thinking of health, or gives alms for God without actually thinking of God. Enjoyment takes something into the will for itself and rests one's joy in it; use takes it for something loved more, actually or habitually.",
+    "claims": [
+      "Use is loving something for another loved more, actually or habitually.",
+      "Habitual reference to the end suffices for use."
+    ],
+    "concepts": [
+      "usus",
+      "habitual intention",
+      "fruitio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1184",
+        "rh-l1q3-d1e1246"
+      ]
+    }
+  },
+  "rh-l1q3-Dd1e1332": {
+    "summary": "This long article covers use and four difficulties about enjoyment in this life. Every love is use or enjoyment, and one act can love both end and means. One can love God above all by natural powers alone, but under the present law the precept is fulfilled only in grace. Lacking grace, one transgresses every precept broadly but not strictly. Holcot discusses whether one sin contains infinitely many sins, using act and potency, comparison of infinities, and syncategorematic infinity. He argues that neither God's existence nor the categorical 'God is to be loved above all' can be demonstrated, though the conditional 'if God exists he is to be loved above all' can. He rejects Anselm's ontological argument as a de dicto/de re sophism, along with the argument from truth and Damascene's innate knowledge of God. He reads Romans 1 and 2 as presupposing revelation and holds that 'God' is equivocal between Christians and idolaters. No divine person is to be loved more than another. Properly one cannot enjoy one person without the others, but under communication of idioms paradoxes follow. Through invincible error one can meritoriously enjoy a creature, hate God, and love and hate the same person.",
+    "claims": [
+      "One can love God above all by natural powers, but under the present law the precept is fulfilled only in grace.",
+      "God's existence cannot be demonstrated by natural reason.",
+      "Anselm's ontological argument is sophistical.",
+      "The pagans' knowledge of God derived from revelation.",
+      "Through invincible error one can meritoriously enjoy a creature or hate God."
+    ],
+    "concepts": [
+      "natural love of God",
+      "grace",
+      "infinity of sins",
+      "natural theology",
+      "ontological argument",
+      "communicatio idiomatum",
+      "invincible ignorance",
+      "referential opacity"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q3-d1e1340",
+        "rh-l1q3-d1e1347",
+        "rh-l1q3-d1e1358",
+        "rh-l1q3-d1e1383",
+        "rh-l1q3-d1e1405",
+        "rh-l1q3-d1e1443",
+        "rh-l1q3-d1e1465",
+        "rh-l1q3-d1e1478",
+        "rh-l1q3-d1e1485",
+        "rh-l1q3-d1e1532",
+        "rh-l1q3-d1e1558",
+        "rh-l1q3-d1e1582",
+        "rh-l1q3-d1e1613",
+        "rh-l1q3-d1e1622",
+        "rh-l1q3-d1e1651",
+        "rh-l1q3-d1e1676",
+        "rh-l1q3-d1e1689",
+        "rh-l1q3-d1e1721",
+        "rh-l1q3-d1e1747",
+        "rh-l1q3-d1e1763",
+        "rh-l1q3-d1e1792",
+        "rh-l1q3-d1e1824",
+        "rh-l1q3-d1e1840",
+        "rh-l1q3-d1e1856",
+        "rh-l1q3-d1e1863",
+        "rh-l1q3-d1e1881",
+        "rh-l1q3-d1e1901",
+        "rh-l1q3-d1e1915",
+        "rh-l1q3-d1e1957",
+        "rh-l1q3-d1e1968",
+        "rh-l1q3-d1e2003",
+        "rh-l1q3-d1e2023",
+        "rh-l1q3-d1e2058",
+        "rh-l1q3-d1e2088",
+        "rh-l1q3-d1e2108",
+        "rh-l1q3-d1e2149",
+        "rh-l1q3-d1e2171",
+        "rh-l1q3-d1e2264",
+        "rh-l1q3-d1e2284",
+        "rh-l1q3-d1e2316",
+        "rh-l1q3-d1e2353",
+        "rh-l1q3-d1e2362",
+        "rh-l1q3-d1e2395",
+        "rh-l1q3-d1e2413",
+        "rh-l1q3-d1e2452",
+        "rh-l1q3-d1e2466",
+        "rh-l1q3-d1e2479",
+        "rh-l1q3-d1e2495",
+        "rh-l1q3-d1e2504",
+        "rh-l1q3-d1e2586",
+        "rh-l1q3-d1e2632",
+        "rh-l1q3-d1e2673",
+        "rh-l1q3-d1e2689",
+        "rh-l1q3-d1e2698",
+        "rh-l1q3-d1e2718",
+        "rh-l1q3-d1e2766",
+        "rh-l1q3-d1e2794",
+        "rh-l1q3-d1e2826",
+        "rh-l1q3-d1e2883",
+        "rh-l1q3-d1e2925",
+        "rh-l1q3-d1e2954",
+        "rh-l1q3-d1e3004",
+        "rh-l1q3-d1e3017",
+        "rh-l1q3-d1e3042",
+        "rh-l1q3-d1e3061",
+        "rh-l1q3-d1e3113",
+        "rh-l1q3-d1e3174",
+        "rh-l1q3-d1e3192",
+        "rh-l1q3-d1e3229",
+        "rh-l1q3-d1e3256",
+        "rh-l1q3-d1e3267",
+        "rh-l1q3-d1e3289",
+        "rh-l1q3-d1e3332",
+        "rh-l1q3-d1e3365",
+        "rh-l1q3-d1e3381",
+        "rh-l1q3-d1e3426",
+        "rh-l1q3-d1e3504",
+        "rh-l1q3-d1e3511",
+        "rh-l1q3-d1e3524",
+        "rh-l1q3-d1e3529",
+        "rh-l1q3-d1e3538",
+        "rh-l1q3-d1e3563",
+        "rh-l1q3-d1e3600",
+        "rh-l1q3-d1e3609",
+        "rh-l1q3-d1e3627",
+        "rh-l1q3-d1e3669",
+        "rh-l1q3-d1e3682",
+        "rh-l1q3-d1e3731",
+        "rh-l1q3-d1e3768",
+        "rh-l1q3-d1e3800",
+        "rh-l1q3-d1e3844",
+        "rh-l1q3-d1e3876",
+        "rh-l1q3-d1e3885",
+        "rh-l1q3-d1e3893",
+        "rh-l1q3-d1e3922",
+        "rh-l1q3-d1e4044",
+        "rh-l1q3-d1e4208",
+        "rh-l1q3-d1e4226",
+        "rh-l1q3-d1e4246",
+        "rh-l1q3-d1e4258",
+        "rh-l1q3-d1e4274",
+        "rh-l1q3-d1e4372",
+        "rh-l1q3-d1e4437",
+        "rh-l1q3-d1e4468",
+        "rh-l1q3-d1e4542",
+        "rh-l1q3-d1e4559",
+        "rh-l1q3-d1e4579",
+        "rh-l1q3-d1e144",
+        "rh-l1q3-d1e4644",
+        "rh-l1q3-d1e4662",
+        "rh-l1q3-d1e4671",
+        "rh-l1q3-d1e4690",
+        "rh-l1q3-d1e175",
+        "rh-l1q3-d1e4745",
+        "rh-l1q3-d1e4789"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1340": {
+    "summary": "Second article: whether there is an act intermediate between enjoyment and use.",
+    "claims": [],
+    "concepts": [
+      "uti et frui",
+      "intermediate acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1347": {
+    "summary": "Reports the view that there is: something loved for itself but not as ultimate end and not actually referred to another is neither enjoyed nor used.",
+    "claims": [
+      "According to some, there is an act neither of use nor enjoyment."
+    ],
+    "concepts": [
+      "intermediate acts",
+      "love for its own sake"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1358": {
+    "summary": "Argues against it from Augustine (De doctrina christiana I), who asks whether God enjoys or uses us and reasons 'if he neither enjoys nor uses us, I do not find how he loves us', implying every love is enjoyment or use. Holcot accepts this.",
+    "claims": [
+      "Every love is either enjoyment or use."
+    ],
+    "concepts": [
+      "Augustine",
+      "God's love of creatures",
+      "uti et frui"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1347"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1383": {
+    "summary": "Answers the argument: such a love, of something for itself not as ultimate end nor actually referred, is use when the thing is loved for another habitually, since use does not require actual reference. 'For' can express causality of an act or of a habit.",
+    "claims": [
+      "Love referred habitually to another is use."
+    ],
+    "concepts": [
+      "habitual reference",
+      "usus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1347"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1405": {
+    "summary": "Third article: sometimes use involves two acts, the act toward the end partially causing the act toward the means, as willing health causes willing a potion once one learns it is useful, and likewise for God and creatures loved for God. Sometimes one habituated to love neighbor for God elicits a single act loving both, and by that one act loves God more.",
+    "claims": [
+      "Use can be two acts, one causing the other, or a single act loving end and means."
+    ],
+    "concepts": [
+      "unity of acts",
+      "partial causality",
+      "love of neighbor for God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1443": {
+    "summary": "Turns to enjoyment in this life and lists four common difficulties: whether one can love God above all by natural powers; whether it can be demonstrated by natural reason that God is to be loved above all; whether one is bound to love one divine person more than another; whether one can love one person without another.",
+    "claims": [],
+    "concepts": [
+      "fruitio viae",
+      "natural love of God",
+      "divine persons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1465": {
+    "summary": "First difficulty: whether one can love God above all by natural powers alone, without grace or charity. Holcot gives two conclusions.",
+    "claims": [],
+    "concepts": [
+      "natural love of God",
+      "grace",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1443"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1478": {
+    "summary": "First conclusion: one can love God above all by natural powers alone.",
+    "claims": [
+      "One can love God above all by natural powers alone."
+    ],
+    "concepts": [
+      "natural love of God",
+      "ex puris naturalibus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1465"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1485": {
+    "summary": "First proof: whatever the intellect can naturally believe to be supremely lovable, the will can naturally love supremely, since nothing is more in the will's power than itself. One can naturally believe, truly or erroneously, that God is supremely lovable, e.g. by assenting to someone who says God is creator, conserver, and best. So one can love him supremely without an infused habit.",
+    "claims": [
+      "What the intellect naturally believes supremely lovable, the will can naturally love supremely.",
+      "One can believe on testimony that God is supremely lovable."
+    ],
+    "concepts": [
+      "natural love of God",
+      "intellect and will",
+      "testimony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1478"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1532": {
+    "summary": "Second proof: by natural powers one can love God more than Socrates, more than Plato, and so on for everything, which is equivalent to loving him above all. The intellect can judge God better than each, and the free will can love accordingly.",
+    "claims": [
+      "Loving God more than each thing is equivalent to loving him above all."
+    ],
+    "concepts": [
+      "love above all",
+      "intellect's dictate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1478"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1558": {
+    "summary": "Third proof: one can naturally will God to be God and nothing else to be God, so wills God the greatest good and wills no other as much, so loves God more than anything else.",
+    "claims": [
+      "Willing God the greatest good is loving him above all."
+    ],
+    "concepts": [
+      "benevolence",
+      "love above all"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1478"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1582": {
+    "summary": "Fourth proof: one in error can naturally love and enjoy a creature above all, so by parity God. To the reply that God infuses grace as soon as one begins to love him above all: God gives grace freely and could withhold it, and the love would remain in a soul lacking anything supernatural.",
+    "claims": [
+      "If one can naturally enjoy a creature, one can naturally enjoy God.",
+      "Natural love of God would persist even if God withheld grace."
+    ],
+    "concepts": [
+      "natural love of God",
+      "grace",
+      "divine freedom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1478"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1613": {
+    "summary": "Second conclusion: no one can freely fulfill the precept of loving God above all by natural powers alone, under the present law.",
+    "claims": [
+      "Under present law the precept of love cannot be fulfilled by natural powers."
+    ],
+    "concepts": [
+      "precept of charity",
+      "lex statuta",
+      "grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1465"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1622": {
+    "summary": "Proof: the law requires that the commanded act be done in grace and charity. So natural love of God above all does not fulfill the precept according to the lawgiver's intention. As the doctors say, one can fulfill the substance of the precept without grace, but not its circumstances or the intention of the one commanding.",
+    "claims": [
+      "The law requires the commanded act to be done in charity.",
+      "Without grace one fulfills only the substance of the precept."
+    ],
+    "concepts": [
+      "intention of the lawgiver",
+      "substance of the act",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1613"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1651": {
+    "summary": "Second proof from the Church's determination (De consecratione d. 4): anathema to whoever says we can fulfill God's commands by free will without grace, the Pelagian heresy. God could accept a work without grace for eternal life but has established otherwise, as revealed to the Fathers.",
+    "claims": [
+      "Fulfilling the commands without grace is Pelagian.",
+      "God could accept graceless works but has ordained otherwise."
+    ],
+    "concepts": [
+      "Pelagianism",
+      "conciliar authority",
+      "potentia absoluta et ordinata"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1613"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1676": {
+    "summary": "Objection to the first conclusion: one who loves God more would be loved less by God, against Proverbs 8, 'I love those who love me'.",
+    "claims": [
+      "The first conclusion implies God loves less those who love him more."
+    ],
+    "concepts": [
+      "God's love for lovers",
+      "Proverbs 8"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1478"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1689": {
+    "summary": "Proof: one who has acquired a natural habit of love can love God more intensely than one in grace without it, yet the latter is more loved, receiving grace and being saved if he died, while the more intense lover would be damned.",
+    "claims": [
+      "A natural lover may love God more intensely than one in grace yet be damned."
+    ],
+    "concepts": [
+      "acquired habit",
+      "grace",
+      "intensity of love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1676"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1721": {
+    "summary": "Further objection: one could avoid all sin by natural powers, since loving God above all naturally includes willing to conform to all divine precepts, and it is not plausible to sin while that will persists.",
+    "claims": [
+      "Natural love of God would enable avoiding all sin."
+    ],
+    "concepts": [
+      "Pelagianism",
+      "avoidance of sin",
+      "conformity to precepts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1478"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1747": {
+    "summary": "Further: if the greatest commandment (Matthew 22) were naturally achievable, so would the lesser ones be, and grace would be given in vain, but God and nature do nothing in vain.",
+    "claims": [
+      "Grace would be superfluous if the greatest commandment were naturally achievable."
+    ],
+    "concepts": [
+      "superfluity of grace",
+      "greatest commandment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1478"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1763": {
+    "summary": "Objection to the second conclusion: if the precepts must be kept in grace, a thief outside grace also transgresses 'thou shalt not kill', since that precept requires not killing while in grace, and so for every precept.",
+    "claims": [
+      "Requiring grace for every precept makes one sin break all precepts."
+    ],
+    "concepts": [
+      "precepts",
+      "circumstance of grace",
+      "transgression"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1613"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1792": {
+    "summary": "Further: one sinning for a time a would sin infinitely many mortal sins, since in each proportional part of a he is bound to be in grace and is not, each omission being a new mortal sin.",
+    "claims": [
+      "Omission of grace would multiply mortal sins infinitely across proportional parts."
+    ],
+    "concepts": [
+      "proportional parts",
+      "sins of omission",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1613"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1824": {
+    "summary": "Against the reply that it is one continued omission: the omissions b, c, d in successive parts do not coexist, so they are not one sin.",
+    "claims": [
+      "Non-coexisting omissions are not one sin."
+    ],
+    "concepts": [
+      "unity of sin",
+      "temporal parts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1792"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1840": {
+    "summary": "Further: when b is past, d can still be avoided and is future, but b cannot, so they are not one sin.",
+    "claims": [
+      "Past and future omissions differ in avoidability, so they are distinct sins."
+    ],
+    "concepts": [
+      "avoidability",
+      "past and future"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1792"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1856": {
+    "summary": "Further: on that reply, one who omits all his life would commit only one sin of omission.",
+    "claims": [
+      "A lifelong omission would count as one sin."
+    ],
+    "concepts": [
+      "sins of omission",
+      "unity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1792"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1863": {
+    "summary": "Further: if Socrates omitted in the first part, repented in the second, and omitted again in the third, b and d are clearly distinct sins. Since he sins no less gravely when omitting continuously, he commits either one sin of infinite gravity or infinitely many mortal sins.",
+    "claims": [
+      "Interrupted omissions are distinct sins, so continuous omission yields infinite sins or infinite gravity."
+    ],
+    "concepts": [
+      "repentance",
+      "distinct sins",
+      "gravity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1792"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1881": {
+    "summary": "Further: one in mortal sin would commit a new mortal sin at every time when he could repent and does not, which seems very hard.",
+    "claims": [
+      "Each failure to repent when possible would be a new mortal sin."
+    ],
+    "concepts": [
+      "obligation to repent",
+      "sins of omission"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1613"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1901": {
+    "summary": "Further: we would be bound to something not in our power, since grace comes from God alone, obliging us beyond our ability.",
+    "claims": [
+      "Requiring grace obliges beyond human power."
+    ],
+    "concepts": [
+      "ought implies can",
+      "grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1613"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1915": {
+    "summary": "Reply to the objection that the greater lover would be less loved. Neither the inference holds nor is the consequent impossible. From God's giving charity to a and not b it does not follow that he loves a more: he loves a predestined person in mortal sin more than a foreknown person in grace, willing him eternal life while giving him no charity.",
+    "claims": [
+      "God's giving charity does not show he loves more.",
+      "God loves the predestined sinner more than the foreknown just."
+    ],
+    "concepts": [
+      "predestination",
+      "reprobation",
+      "God's love",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1676",
+        "rh-l1q3-d1e1689"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1957": {
+    "summary": "Likewise 'he lacks charity, so if he dies he will be damned' holds only as things now stand, not formally, since God could beatify a person without charity.",
+    "claims": [
+      "Damnation of one without charity follows only by present law, not formally."
+    ],
+    "concepts": [
+      "formal consequence",
+      "ut nunc",
+      "potentia absoluta"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1915"
+      ]
+    }
+  },
+  "rh-l1q3-d1e1968": {
+    "summary": "Nor does it follow that God now loves b more than a because he would beatify b and damn a if they died now. It follows only that he will love b more. A predestined b in mortal sin would be damned if he died now, yet God preordains him to eternal life.",
+    "claims": [
+      "Counterfactual judgment does not measure God's present love."
+    ],
+    "concepts": [
+      "predestination",
+      "counterfactual",
+      "divine love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1915"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2003": {
+    "summary": "The consequent is not absurd: in fact the less loving can be more loved, as the predestined in sin or even asleep is more loved than the foreknown loving God supremely in grace.",
+    "claims": [
+      "The less loving can be more loved by God."
+    ],
+    "concepts": [
+      "predestination",
+      "divine love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1915"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2023": {
+    "summary": "Reply to Proverbs 8. 'Love' in scripture is equivocal: an act of will wishing God good, or persevering life according to the commandments ('he who keeps my commandments'). In the first sense the greater lover need not be more loved, as Christ loved Peter when he denied him more than Judas at his best. In the second it is true.",
+    "claims": [
+      "'Love' of God in scripture can mean persevering obedience.",
+      "Christ loved Peter denying him more than Judas at his best."
+    ],
+    "concepts": [
+      "equivocation on love",
+      "perseverance",
+      "Peter and Judas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1676"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2058": {
+    "summary": "Reply to the claim that natural love would let one avoid all sin. The inference fails, since original sin cannot be avoided. Nor is the consequent absurd, since God could ordain otherwise. Under present law, one who hears of a creator and governor of all and loves it supremely will be provided by God with the way of salvation and given grace, even without baptism or sacraments.",
+    "claims": [
+      "Natural love of God cannot avoid original sin.",
+      "One who naturally loves the creator supremely will be given grace, even without sacraments."
+    ],
+    "concepts": [
+      "original sin",
+      "facere quod in se est",
+      "salvation without sacraments",
+      "natural love of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1721"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2088": {
+    "summary": "Reply to the argument that grace would be in vain. It is not, because it pleases God; whatever exists does so only because it pleases God, and only what displeased him would be in vain.",
+    "claims": [
+      "Grace is not in vain because it pleases God.",
+      "Things exist only because they please God."
+    ],
+    "concepts": [
+      "divine will",
+      "superfluity",
+      "grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1747"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2108": {
+    "summary": "Reply to the first objection to the second conclusion. 'Transgress a precept' is said strictly or broadly. Strictly, transgressing is freely doing the substance of a prohibited act or omitting a commanded one. The act under 'thou shalt not kill' differs from that under 'thou shalt not steal', so the thief does not strictly transgress the former.",
+    "claims": [
+      "Strictly, transgressing one precept does not transgress another."
+    ],
+    "concepts": [
+      "strict and broad transgression",
+      "substance of the act",
+      "precepts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1763"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2149": {
+    "summary": "Broadly, since God commands that every observance be done in grace, one lacking grace observes no precept with due circumstances and so transgresses every precept. In this sense 'whoever offends in one is guilty of all'.",
+    "claims": [
+      "Broadly, one lacking grace transgresses every precept.",
+      "Whoever offends in one is guilty of all."
+    ],
+    "concepts": [
+      "circumstance of grace",
+      "James 2:10",
+      "broad transgression"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2108"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2171": {
+    "summary": "Reply to the infinite-sins argument. The conclusion may be granted in a sense. If the will could have instantaneous acts and a new act at each instant, the conclusion holds, especially for omission. If volition is produced successively by parts of intensity, like heat in wood, there is no first instant of willing badly. As continuous alteration contains infinitely many remiss forms, so a partially produced volition contains infinitely many remiss volitions, each a mortal sin, being parts of one mortal sin, with no minimal mortal sin. So the conclusion is not absurd. The claim about omissions over an hour can be read two ways.",
+    "claims": [
+      "A successively produced bad volition contains infinitely many partial mortal sins.",
+      "There is no minimal mortal sin in such a volition."
+    ],
+    "concepts": [
+      "successive volition",
+      "intension and remission",
+      "continuity",
+      "infinity of sins"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1792"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2264": {
+    "summary": "First reading: infinitely many non-concomitant omissions. This is false, since some proportional part is too small to resist or repent in. But at every time when one could repent before the hour's end and does not, one sins by a new omission.",
+    "claims": [
+      "Omission is a new sin only at times when repentance is possible."
+    ],
+    "concepts": [
+      "proportional parts",
+      "possibility of repentance",
+      "omission"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2171"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2284": {
+    "summary": "Second reading: infinitely many concomitant omissions. Granted, since infinitely many overlapping parts equal to the first half can be taken, so every sin of omission is infinitely many omissions. To sin by omission is just to make true 'he has infinitely often omitted what he ought'.",
+    "claims": [
+      "Every sin of omission contains infinitely many overlapping omissions.",
+      "To sin by omission is to make a certain proposition true."
+    ],
+    "concepts": [
+      "concomitant omissions",
+      "propositional analysis of sin",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2171"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2316": {
+    "summary": "Reply to the forms of the argument. Before the hour's end some proportional part is too small to begin repenting in its first instant, so through it he sins by the old sin, not a new one. Hence not every proportional part has a formally distinct omission, which answers the four short arguments.",
+    "claims": [
+      "Not every proportional part carries a distinct sin of omission."
+    ],
+    "concepts": [
+      "proportional parts",
+      "distinct sins"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1824",
+        "rh-l1q3-d1e1840",
+        "rh-l1q3-d1e1856",
+        "rh-l1q3-d1e1863"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2353": {
+    "summary": "Reply to the third objection: grants that one in mortal sin sins anew whenever he could repent and does not, in the sense explained.",
+    "claims": [
+      "One in mortal sin sins anew when able to repent and failing to."
+    ],
+    "concepts": [
+      "obligation to repent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1881"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2362": {
+    "summary": "Reply to the fourth objection. Being in one's power is either complete and effective or dispositive. By free will one can perform an operation upon which God infuses grace, so grace is in our power dispositively and incompletely, not effectively, as the Philosopher says we can do what we can do through friends.",
+    "claims": [
+      "Grace is in our power dispositively, not effectively.",
+      "What we can do through friends we can do."
+    ],
+    "concepts": [
+      "dispositive power",
+      "grace",
+      "Aristotle",
+      "facere quod in se est"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1901"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2395": {
+    "summary": "Raises objections against the conclusion that every mortal sin of commission or omission is infinitely many mortal sins, since an hour's bad volition is infinitely many bad volitions.",
+    "claims": [],
+    "concepts": [
+      "infinity of sins",
+      "bad volition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2171"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2413": {
+    "summary": "First objection. A mortal sin deserves extensively infinite punishment, so two distinct sins deserve more, which must be intensively more, and infinitely many sins deserve intensively infinite punishment, which God cannot inflict. So every mortal sin would merit intensively infinite eternal punishment.",
+    "claims": [
+      "Infinitely many sins would merit intensively infinite punishment."
+    ],
+    "concepts": [
+      "eternal punishment",
+      "intensive and extensive infinity",
+      "proportion of punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2395"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2452": {
+    "summary": "Second objection: no infinite is greater than another (Averroes, Physics I), so if every sin is infinitely many sins, no multitude of sins and no sin is greater than another.",
+    "claims": [
+      "All sins would be equal if each is infinitely many sins."
+    ],
+    "concepts": [
+      "comparison of infinities",
+      "Averroes",
+      "gravity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2395"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2466": {
+    "summary": "Third objection: Adam, said to have sinned once, would have sinned as often as Nero, Judas, or one who added sin to sin for fifty years.",
+    "claims": [
+      "Adam would have sinned as often as Nero."
+    ],
+    "concepts": [
+      "Adam's sin",
+      "number of sins"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2395"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2479": {
+    "summary": "Fourth objection: knowingly killing Christ would be no greater than a simple theft or lie, against Anselm, for whom even injuring Christ exceeds all conceivable sins.",
+    "claims": [
+      "Killing Christ would be no greater than theft."
+    ],
+    "concepts": [
+      "deicide",
+      "gravity of sin",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2395"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2495": {
+    "summary": "Fifth objection: at the last instant a terminating the alteration, Socrates sins infinitely more gravely than when he began, so he sins by a sin of infinite gravity.",
+    "claims": [
+      "The terminal sin would be of infinite gravity."
+    ],
+    "concepts": [
+      "terminal instant",
+      "gravity of sin"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2395"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2504": {
+    "summary": "Reply. A sin of commission is a bad volition and a sin of omission a bad omission of willing. A bad volition produced successively by alteration involves infinitely many bad volitions before the complete one a. But a can remain after the alteration ends, neither intensified nor remitted. In Aristotle's way of speaking only a form lasting a time unchanged is a form in act, so there are infinitely many volitions in potency and one in act, and likewise infinitely many sins in potency and one in act. For the first objection: wholly distinct sins (not parts of one sin) each deserve extensively infinite punishment, and together more.",
+    "claims": [
+      "A successively produced sin is infinitely many sins in potency and one in act.",
+      "Only a form persisting unchanged is a form in act.",
+      "Distinct sins together deserve more punishment than one."
+    ],
+    "concepts": [
+      "act and potency",
+      "alteration",
+      "Aristotle",
+      "sins in potency",
+      "punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2413"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2586": {
+    "summary": "Reply to the second: grants that every multitude of sins is infinitely many and has no proportion to the finite. All mortal sins are punished with extensively infinite punishment, but more bitterly for graver sins. Two infinite multitudes need not be equally grave, as Socrates' infinite volitions to kill Plato and Cicero's to kill the pope are not. One sin is not 'greater' in extent of punishment but is graver.",
+    "claims": [
+      "Infinite multitudes of sins can differ in gravity.",
+      "Punishment is extensively infinite for all mortal sins but differs in bitterness."
+    ],
+    "concepts": [
+      "gravity of sin",
+      "comparison of infinities",
+      "eternal punishment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2452"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2632": {
+    "summary": "Reply to the third. Literally the argument fails, since it implies each sinned infinitely often, so no comparison applies, yet the argument assumes one. Adam is said to have sinned once perhaps because his omission and disobedient commission can be named together by one name, pride.",
+    "claims": [
+      "Adam's sins can be named together as one, pride."
+    ],
+    "concepts": [
+      "Adam's sin",
+      "pride",
+      "naming of sins"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2466"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2673": {
+    "summary": "Objection: then a grave sinner whose sins scripture distinguishes would have sinned once and not seven times, since Augustine reduces all sins to pride.",
+    "claims": [
+      "Reducing all sins to pride would make every sinner sin once."
+    ],
+    "concepts": [
+      "pride",
+      "Augustine",
+      "counting sins"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2632"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2689": {
+    "summary": "Reply: on the sense given to 'sinned only once', the inference fails, since one can sin only once and yet commit infinitely many sins.",
+    "claims": [
+      "Sinning once is compatible with infinitely many sins."
+    ],
+    "concepts": [
+      "counting sins",
+      "semantics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2673"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2698": {
+    "summary": "Reply to the fourth: the killing of Christ was not greater than theft or a lie but graver. Objection: this contradicts the claim that mortal sins cannot be compared, yet they are compared in that one deserves a graver share of punishment.",
+    "claims": [
+      "Killing Christ was graver, not greater, than theft."
+    ],
+    "concepts": [
+      "gravity of sin",
+      "deicide",
+      "comparison of sins"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2479"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2718": {
+    "summary": "Reply to the fifth: denies the inference. The antecedent means only that there is an infinite progression in gravity: at some part, his sin is not so grave that it could not be twice, thrice, and so on, as grave. 'Infinite' is taken syncategorematically on the subject side and denotes a progression, from which no terminus follows. Taken categorematically on the predicate side the inference holds, but both propositions are false. Yet it may be true at a that Socrates committed infinitely many sins, each infinitely graver than another, with a last gravest.",
+    "claims": [
+      "Infinite progression in gravity does not imply infinite gravity.",
+      "Syncategorematic 'infinite' denotes progression without terminus."
+    ],
+    "concepts": [
+      "syncategorematic and categorematic infinity",
+      "gravity of sin",
+      "logic of infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2495"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2766": {
+    "summary": "Second difficulty on wayfarer's enjoyment: whether natural reason can demonstrate that God is to be loved above all. Two conclusions: the categorical 'God is to be loved above all by man' cannot be proved by natural reason; the conditional 'if God exists, God is to be loved above all' can.",
+    "claims": [
+      "The categorical proposition that God is to be loved above all is indemonstrable.",
+      "The conditional that if God exists he is to be loved above all is demonstrable."
+    ],
+    "concepts": [
+      "natural theology",
+      "demonstration",
+      "love of God",
+      "conditional and categorical"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2794": {
+    "summary": "Proof of the first. 'God is to be loved above all' formally implies 'God exists', which cannot be demonstrated but is held by faith alone (Hebrews 11, 'whoever approaches God must believe that he is'), as an induction over the proofs offered shows.",
+    "claims": [
+      "God's existence cannot be demonstrated and is held by faith alone.",
+      "What formally implies an indemonstrable cannot be demonstrated."
+    ],
+    "concepts": [
+      "existence of God",
+      "fideism",
+      "Hebrews 11",
+      "formal consequence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2766"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2826": {
+    "summary": "Second proof. An affirmative categorical whose subject implies a falsehood is not true, and likewise one whose subject implies something believed cannot be naturally evident ('man is man' is false if no man exists). 'God' implies believed propositions such as 'God is the highest good' and 'God exists', especially when its nominal definition ('infinite being') or the Christian concept is substituted. So 'God is to be loved above all' is not naturally evident.",
+    "claims": [
+      "A proposition whose subject implies a believed proposition cannot be naturally evident.",
+      "'God is the first cause' and 'God is the first mover' are merely believed."
+    ],
+    "concepts": [
+      "existential import",
+      "nominal definition",
+      "concept of God",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2794"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2883": {
+    "summary": "Proof of the second conclusion. Taking 'God' to signify what Christians conceive, one intelligible that freely creates and conserves all, without which nothing exists or can be done, it follows that what is known to be supremely good for a man is to be loved supremely. So if 'God exists' were known, it would be known that he is to be loved supremely.",
+    "claims": [
+      "If God exists as Christians conceive him, he is to be loved supremely.",
+      "What is known to be supremely good for man is to be loved supremely."
+    ],
+    "concepts": [
+      "conditional demonstration",
+      "concept of God",
+      "summum bonum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2766"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2925": {
+    "summary": "Third difficulty: whether one is bound to love one divine person more than another. Two conclusions are proposed: one is not bound to love one person more, and for some reason one is bound to love one person for which one is not bound to love another, e.g. the Son because he redeemed us.",
+    "claims": [
+      "One is not bound to love one divine person more than another."
+    ],
+    "concepts": [
+      "divine persons",
+      "order of love",
+      "redemption"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e2954": {
+    "summary": "The second conclusion is not proved by redemption, since Father and Spirit worked as much in redemption as the Son. It might be proved by communication of idioms: 'I love this humanity, so I love the Son of God' holds, but not 'so I love the Father', as 'this humanity suffered' implies the Son suffered, not the Father.",
+    "claims": [
+      "The persons worked equally in redemption.",
+      "Love of Christ's humanity transfers to the Son by communication of idioms."
+    ],
+    "concepts": [
+      "communicatio idiomatum",
+      "redemption",
+      "humanity of Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2925"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3004": {
+    "summary": "That does not suffice: loving the Son implies loving God and so the Trinity, since the Trinity is God.",
+    "claims": [
+      "Loving the Son implies loving the Trinity."
+    ],
+    "concepts": [
+      "Trinity",
+      "communicatio idiomatum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2954"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3017": {
+    "summary": "So the second conclusion is false and its opposite true: for no reason is one bound to love one person for which one is not bound to love each. The same reason is expressed by different propositions, as 'I love the Son because he redeemed me' and not 'the Father because he redeemed me', but because the Son redeemed me.",
+    "claims": [
+      "There is no reason to love one divine person that is not a reason to love each.",
+      "The same reason is expressed differently for different persons."
+    ],
+    "concepts": [
+      "divine persons",
+      "reasons for love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3004"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3042": {
+    "summary": "The first conclusion is true: one is not bound to love one person more, since all have the same goodness and every reason to love one is a reason to love another.",
+    "claims": [
+      "One is not bound to love one divine person more than another."
+    ],
+    "concepts": [
+      "equality of persons",
+      "divine goodness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2925"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3061": {
+    "summary": "Fourth difficulty: whether one can enjoy one person without enjoying another. Holcot thinks not. As one cannot love Marcus without loving Tullius, even unaware they are the same, so one cannot love the Son without loving God, the Trinity, and each person. Wishing good to the Son is wishing it to God, and by expository syllogism to the Trinity. Yet as 'I love Tullius' is compatible with not knowing it, 'I love the Trinity' is compatible with not knowing that the Trinity is loved by me.",
+    "claims": [
+      "One cannot enjoy one divine person without enjoying all.",
+      "Love reaches its object under any name, known or not."
+    ],
+    "concepts": [
+      "Marcus and Tullius",
+      "referential opacity",
+      "expository syllogism",
+      "Trinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3113": {
+    "summary": "Objection to the first conclusion of the second difficulty. What the ancient philosophers proved can be proved by natural reason, and they knew God is to be loved above all. Romans 1 says the gentiles came to know God through visible creatures, so evidently as to be inexcusable for not worshiping and glorifying him as God, and worshiping something as God is loving it above all.",
+    "claims": [
+      "According to Romans 1, the pagans knew God is to be loved above all."
+    ],
+    "concepts": [
+      "Romans 1",
+      "natural knowledge of God",
+      "pagan philosophers",
+      "inexcusability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2766"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3174": {
+    "summary": "Confirmation: either they knew they should love him above all or it was hidden from them; if hidden, they were excusable.",
+    "claims": [
+      "Ignorance would excuse the pagans."
+    ],
+    "concepts": [
+      "culpable ignorance",
+      "inexcusability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3113"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3192": {
+    "summary": "Further against the premise that 'God exists' is merely believed: either they knew God exists or they were excusable. And the Apostle says the invisible things of God are known through creatures, i.e. predicates like good, powerful, eternal, and even his eternal power and divinity.",
+    "claims": [
+      "According to Romans 1, God's attributes and divinity are knowable from creatures."
+    ],
+    "concepts": [
+      "Romans 1",
+      "natural knowledge of God",
+      "divine attributes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3113"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3229": {
+    "summary": "Further: whatever natural law commands can be shown by natural reason to be reasonable, since obeying without reason is foolish. Loving God above all is commanded by divine law, and divine laws consist in nature (Isidore, Decretum d. 1).",
+    "claims": [
+      "What natural law commands is naturally shown reasonable.",
+      "Loving God above all is commanded by natural law."
+    ],
+    "concepts": [
+      "natural law",
+      "Isidore",
+      "Decretum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2766"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3256": {
+    "summary": "Confirmation: if loving God above all were contrary to natural reason, the divine precept would destroy rather than perfect natural reason.",
+    "claims": [
+      "A precept contrary to natural reason would destroy it."
+    ],
+    "concepts": [
+      "grace perfects nature",
+      "natural reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3229"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3267": {
+    "summary": "Further: natural reason proves that the common divine good is to be loved more than a particular good, since the good of the city is better and more divine than that of one person (Ethics I). So what is supremely divine and most common, God himself, is to be loved supremely.",
+    "claims": [
+      "The common good is more lovable than a private good, so God is supremely lovable."
+    ],
+    "concepts": [
+      "common good",
+      "Aristotle",
+      "political analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2766"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3289": {
+    "summary": "Further: one naturally loves oneself for one's end, and the end is more lovable than what is for the end. God is the ultimate end, moving as loved and desired (Metaphysics XII), so is to be loved most. Averroes says the mover of the heavens, being best, must be desired above all goods.",
+    "claims": [
+      "God as ultimate end is naturally most lovable."
+    ],
+    "concepts": [
+      "ultimate end",
+      "final causality",
+      "prime mover",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2766"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3332": {
+    "summary": "Further: by nature one should love goodness and truth more than oneself. Aristotle says it is holy to honor truth above friends, and one should die for one's friends, else all political order and defense would fail. So a fortiori one should love God, supreme goodness and truth, above all.",
+    "claims": [
+      "One should love truth more than friends and oneself.",
+      "God, as supreme truth and goodness, is to be loved above all."
+    ],
+    "concepts": [
+      "love of truth",
+      "Aristotle",
+      "self-sacrifice",
+      "political order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2766"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3365": {
+    "summary": "Further: Romans 2 says the gentiles without the law do naturally what the law requires, and the Mosaic law commands loving God above all, so they knew this naturally.",
+    "claims": [
+      "According to Romans 2, the gentiles naturally fulfilled the law."
+    ],
+    "concepts": [
+      "Romans 2",
+      "natural law",
+      "gentiles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2766"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3381": {
+    "summary": "Further: objects of rationally evident love are ordered, and since there is no infinite regress in essential causes, reason must arrive at an ultimate end and highest good. Against the middle term that 'God exists' is merely believed: Damascene says knowledge of God's existence is naturally implanted.",
+    "claims": [
+      "Natural reason reaches an ultimate end and highest good.",
+      "According to Damascene, knowledge of God's existence is naturally implanted."
+    ],
+    "concepts": [
+      "no infinite regress",
+      "ultimate end",
+      "John Damascene",
+      "innate knowledge of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2766",
+        "rh-l1q3-d1e2794"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3426": {
+    "summary": "Further: Anselm's Proslogion argument. The fool hears 'that than which nothing greater can be thought' and it is in his intellect. If only there, a greater can be thought; so it exists in reality. Anselm thought it so evident that he could not but understand God exists. Against Gaunilo's lost island Anselm offered to give the island to anyone who found something other than God to which the argument fits.",
+    "claims": [
+      "Anselm's ontological argument purports to demonstrate God's existence."
+    ],
+    "concepts": [
+      "ontological argument",
+      "Anselm",
+      "Proslogion",
+      "Gaunilo",
+      "lost island"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2794"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3504": {
+    "summary": "Further: 'there is necessarily one first mover actually operating' is self-evident.",
+    "claims": [
+      "The existence of a first mover is self-evident."
+    ],
+    "concepts": [
+      "self-evidence",
+      "first mover"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2794"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3511": {
+    "summary": "Further: the existence of truth can be demonstrated, so God's existence can. Anselm (Monologion 18) argues that if there is no truth, it is true that there is no truth, so truth exists.",
+    "claims": [
+      "The existence of truth is demonstrable.",
+      "If truth is demonstrable, God's existence is."
+    ],
+    "concepts": [
+      "argument from truth",
+      "Anselm",
+      "Monologion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2794"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3524": {
+    "summary": "Confirmation: that truth exists follows from either side of a contradiction.",
+    "claims": [
+      "Truth's existence follows from either contradictory."
+    ],
+    "concepts": [
+      "contradiction",
+      "existence of truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3511"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3529": {
+    "summary": "Further: Aristotle in Physics VIII and Metaphysics XII proves God has intensively infinite power and is first cause and first mover.",
+    "claims": [
+      "Aristotle proves a first mover of infinite power."
+    ],
+    "concepts": [
+      "Aristotle",
+      "first mover",
+      "infinite power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2794"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3538": {
+    "summary": "Objections to the fourth difficulty's conclusion that one cannot enjoy one person without the others. The Son could be seen bodily without the Father or Spirit, as the Jews saw him, seeing him only as man by communication of idioms, so he could be loved without them.",
+    "claims": [
+      "The Son could be seen, so loved, without the Father."
+    ],
+    "concepts": [
+      "vision of Christ",
+      "communicatio idiomatum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3061"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3563": {
+    "summary": "Further: one person can be man without another, so one could be enjoyed without another. The Father is prior in origin to the Son, so in that prior he could be loved without the Son. A creature knows the persons by one cognition, and so does not distinguish them, or by two, one of which could be destroyed while the other remains.",
+    "claims": [
+      "Priority of origin and distinct cognitions would allow loving one person alone."
+    ],
+    "concepts": [
+      "priority of origin",
+      "distinct cognitions",
+      "Incarnation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3061"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3600": {
+    "summary": "Reply to the first argument against the indemonstrability conclusion: grants that what philosophers proved is naturally provable, but denies this is such.",
+    "claims": [
+      "The philosophers did not prove that God is to be loved above all."
+    ],
+    "concepts": [
+      "pagan philosophers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3113"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3609": {
+    "summary": "Reply to Romans 1: before the great philosophers came the patriarchs, and the worship of God was revealed, so the philosophers knew it. Some believed it yet worshiped idols from fear of tyrants and to please the crowd, so they were inexcusable.",
+    "claims": [
+      "The philosophers' knowledge of God came from earlier revelation.",
+      "They were inexcusable for worshiping idols against their belief."
+    ],
+    "concepts": [
+      "prisca theologia",
+      "revelation to patriarchs",
+      "idolatry",
+      "Romans 1"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3113"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3627": {
+    "summary": "Objection: the Apostle says the invisible things are known through creatures. Reply: given revelation that God exists, many congruences can be drawn from creatures, but God's existence, taken as Christians conceive 'God', cannot be proved from creatures. An unbeliever who means the sun or an idol by 'God' knows his god exists. The gentiles were inexcusable not because they knew by natural reason that God is to be loved above all, but because, believing through the prophets' revelation, they did not live by that faith.",
+    "claims": [
+      "God's existence as Christians conceive him cannot be proved from creatures.",
+      "Creatures offer congruences only once God's existence is revealed.",
+      "The gentiles' guilt lay in not living by revealed belief."
+    ],
+    "concepts": [
+      "congruences",
+      "concept of God",
+      "idolatry",
+      "revelation",
+      "Romans 1"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3192"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3669": {
+    "summary": "On 'the invisible things': for a believer that God exists, many predicates can be concluded of God by reason from creatures that are not otherwise concluded of God.",
+    "claims": [
+      "For a believer, reason from creatures can conclude divine predicates."
+    ],
+    "concepts": [
+      "natural theology for believers",
+      "divine attributes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3627"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3682": {
+    "summary": "Reply to the third argument. Something is commanded by natural law expressly ('do to others as you would have done to you') or implicitly as following from it. What follows by naturally evident consequence can be shown reasonable; what follows only by believed consequence can only be believed reasonable, such as some Gospel teachings. Natural reason cannot show that coveting another's goods is mortal sin or that one must love God more than oneself.",
+    "claims": [
+      "Natural law commands some things expressly and others implicitly.",
+      "Some implicit precepts are only believed reasonable.",
+      "Natural reason cannot show that one must love God more than oneself."
+    ],
+    "concepts": [
+      "natural law",
+      "Golden Rule",
+      "evident and believed consequence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3229"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3731": {
+    "summary": "Reply to the fourth. If valid, the argument would prove one should love the community more than oneself, even willing annihilation or damnation if revealed to save the community, which is false. Aristotle's dictum perhaps concerns temporal administration and personal labor for the community, and calling something divine is a believed, persuasive word. Natural reason does not prove one should love oneself more than a community one is not part of.",
+    "claims": [
+      "One need not will one's damnation for the community.",
+      "Aristotle's dictum on the common good concerns temporal affairs."
+    ],
+    "concepts": [
+      "common good",
+      "self-love",
+      "Aristotle",
+      "persuasive speech"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3267"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3768": {
+    "summary": "Reply to the fifth. It cannot be demonstrated that man is not his own end. Being ordered to happiness does not make happiness something greater than man, since happiness is an operation of the intellect, and man's end is the whole of himself living happily, which includes him.",
+    "claims": [
+      "It cannot be demonstrated that man is not his own end.",
+      "Man's end is himself living happily."
+    ],
+    "concepts": [
+      "ultimate end",
+      "eudaimonism",
+      "self as end",
+      "happiness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3289"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3800": {
+    "summary": "Reply to the sixth. These claims are merely believed or deduced from beliefs. Philosophers mixed their philosophy with popular practice and their ethics with established laws, seeking reasons for all that laws commanded. If valid, the argument would show one should will misery or annihilation for truth. Aristotle speaks against Plato, perhaps alluding to revelation by prophets and lawgivers; he persuades probably, as he does throughout his ethics, rather than demonstrating.",
+    "claims": [
+      "Philosophical ethics mixes demonstration with law and custom.",
+      "Aristotle's ethics persuades probably rather than demonstrates."
+    ],
+    "concepts": [
+      "probable argument",
+      "Aristotle's ethics",
+      "law and custom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3844": {
+    "summary": "Reply to Romans 2. Gentiles without the Mosaic law, living by natural law, received faith and grace from God and loved God above all, instructed by God, not by natural demonstration. The Apostle meant to curb Jewish pride in supposing grace was given only under the Mosaic law, as the gloss shows.",
+    "claims": [
+      "Gentiles received faith and grace without the Mosaic law.",
+      "Their love of God came from divine instruction, not demonstration."
+    ],
+    "concepts": [
+      "Romans 2",
+      "grace outside the law",
+      "gentiles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3365"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3876": {
+    "summary": "Reply to the eighth: it is true that man is his own end, naturally most loved by himself, and all else for his sake.",
+    "claims": [
+      "Naturally, man is his own end and loves himself most."
+    ],
+    "concepts": [
+      "natural self-love",
+      "self as end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3381"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3885": {
+    "summary": "To the arguments that God's existence is naturally knowable and not merely believed: denied.",
+    "claims": [
+      "God's existence is not naturally knowable."
+    ],
+    "concepts": [
+      "existence of God",
+      "fideism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e2794"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3893": {
+    "summary": "Reply to Damascene. His chapter is titled a demonstration that God exists, which would be pointless if it were self-evident. Taken literally his claim contradicts Aristotle's tabula rasa. Both can be glossed: every human soul is capable of knowing God, though this too is held by faith.",
+    "claims": [
+      "Knowledge of God is not innate.",
+      "The soul's capacity for knowing God is held by faith."
+    ],
+    "concepts": [
+      "John Damascene",
+      "tabula rasa",
+      "innate knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3381"
+      ]
+    }
+  },
+  "rh-l1q3-d1e3922": {
+    "summary": "Reply to Anselm. His argument is sophistical and wrong, as Anselm was much deceived in logic. One understands what the parts of the complex term signify but does not judge that anything satisfies it, so 'that than which nothing greater can be thought is understood by you', with the subject taken significatively, is false, like 'God is understood by you'. Distinguished, it is true de dicto, of the mental or spoken expression, and false de re. The same form would prove something better than God exists. Taken properly such propositions must be denied; taken improperly, as saying the corresponding concept is in the intellect, they are harmless.",
+    "claims": [
+      "Anselm's ontological argument is sophistical.",
+      "The argument equivocates between de dicto and de re readings.",
+      "By parity the argument would prove that something better than God exists."
+    ],
+    "concepts": [
+      "ontological argument",
+      "de dicto and de re",
+      "significative supposition",
+      "Anselm",
+      "parody argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3426"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4044": {
+    "summary": "Reply to the self-evidence of a necessary first mover. No proposition with a complex subject is self-evident unless the predication of its parts is. Anselm tries to prove a unique necessary being, Aristotle a unique first mover. 'That God exists is demonstrated' is a modal proposition with composite and divided senses. In the composite sense, 'that a first cause exists is demonstrated; God is the first cause; so that God exists is demonstrated' is invalid, like inferring that Aristotle demonstrated the empyrean (he held eight spheres). With a modal major and assertoric minor no modal conclusion follows. No philosopher ever proved the Christian's mental proposition 'God exists', nor had that concept: 'God' is equivocal between idol-worshipers and worshipers of the true God.",
+    "claims": [
+      "No complex-subject proposition is self-evident unless its parts' predication is.",
+      "Modal predicates like 'demonstrated' create composite and divided senses.",
+      "No philosopher proved the Christian's proposition that God exists.",
+      "'God' is equivocal between idolaters and true worshipers."
+    ],
+    "concepts": [
+      "self-evidence",
+      "composite and divided sense",
+      "modal syllogism",
+      "concept of God",
+      "equivocation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3504",
+        "rh-l1q3-d1e3529"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4208": {
+    "summary": "Reply to the argument from truth. In the composite sense the inference fails. Anselm's logic is worthless when he argues 'truth does not exist, so it is true that truth does not exist', as 'man is not an ass, so it is true that man is not an ass' does not follow.",
+    "claims": [
+      "'Truth does not exist' does not imply 'it is true that truth does not exist'."
+    ],
+    "concepts": [
+      "argument from truth",
+      "Anselm",
+      "truth-bearers"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3511"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4226": {
+    "summary": "Someone's objection: if no truth exists, either 'no truth exists' is true, so truth exists, or not, so its contradictory 'some truth exists' is true.",
+    "claims": [
+      "Either side of the contradiction implies truth exists."
+    ],
+    "concepts": [
+      "contradiction",
+      "truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4208"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4246": {
+    "summary": "Reply: if no truth exists, 'no truth exists' is not true. It does not follow that its contradictory is true, since perhaps the contradictory does not exist.",
+    "claims": [
+      "A proposition's not being true does not make its contradictory true if the contradictory does not exist."
+    ],
+    "concepts": [
+      "truth-bearers",
+      "existence of propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4226"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4258": {
+    "summary": "Objection: suppose no truth exists but both propositions exist. Reply: the case includes a contradiction. Whether there was any truth from eternity is left for elsewhere.",
+    "claims": [
+      "Supposing no truth while both contradictories exist is contradictory."
+    ],
+    "concepts": [
+      "contradictory casus",
+      "eternal truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4246"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4274": {
+    "summary": "Reply on enjoying one person without another. Enjoying the Son is understood either properly, the Son being the object of an act that is a mental sentence such as 'may this be given highest honor', or by communication of idioms, the object being the humanity united to the Son. In the second sense one can enjoy one person without another, as 'the Son suffered' does not imply the Father did. Peter could enjoy Christ the man and hate God the Father. One could even enjoy the Son of God but not the divine essence, since idiomatic predicates are denied of the essence in the abstract, so 'Peter enjoys God but not the divinity' would be granted.",
+    "claims": [
+      "Enjoyment of the Son is proper or by communication of idioms.",
+      "By communication of idioms one can enjoy one person and not another.",
+      "One can enjoy God without enjoying the divinity, in the idiomatic sense."
+    ],
+    "concepts": [
+      "communicatio idiomatum",
+      "enjoyment as mental sentence",
+      "abstract and concrete terms",
+      "Trinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3061",
+        "rh-l1q3-d1e3538"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4372": {
+    "summary": "Reply to the first objection: the Jews saw and hated God but not the divinity, as they killed God but not the deity. The same holds for essential terms like 'God', 'highest good', 'omnipotent' that receive idiomatic predication ('the omnipotent suffered'). The earlier conclusion concerns enjoyment whose proper object is the Son, not enjoyment by communication of idioms, under which surprising conclusions follow.",
+    "claims": [
+      "The Jews saw and killed God but not the deity.",
+      "The earlier conclusion concerns proper, not idiomatic, enjoyment."
+    ],
+    "concepts": [
+      "communicatio idiomatum",
+      "concrete and abstract",
+      "Passion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4274"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4437": {
+    "summary": "First surprising conclusion: someone can love God above all and by the same love sin mortally. If Christ shows his humanity to John, who enjoys it without knowing it is assumed, John sins mortally by enjoying a creature, yet by communication of idioms loves God above all by that very act.",
+    "claims": [
+      "One act can be both loving God above all and mortal sin."
+    ],
+    "concepts": [
+      "communicatio idiomatum",
+      "enjoyment of creature",
+      "paradox"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4372"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4468": {
+    "summary": "Further paradoxes: John loves this humanity above all, so more than God, so by communication of idioms loves God more than God. Likewise the Jews hated God more than God and saw God more clearly than God. Mary loved the Son less than the Spirit. God loves himself less than himself, and Christ wills that we love him less than we love him.",
+    "claims": [
+      "Communication of idioms over psychological predicates yields paradoxes like loving God more than God."
+    ],
+    "concepts": [
+      "communicatio idiomatum",
+      "paradox",
+      "comparative predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4437"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4542": {
+    "summary": "A possible response: predicates like enjoying, understanding, and loving may belong to the humanity without belonging to the man, so communication of idioms need not apply to them, unlike striking, touching, seeing.",
+    "claims": [
+      "Psychological predicates may not be communicated, unlike physical ones."
+    ],
+    "concepts": [
+      "communicatio idiomatum",
+      "scope of predicates"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4468"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4559": {
+    "summary": "Against the first response, in the case posed John enjoys this humanity yet loves no man. Many predicates of the assumed nature are not communicated to the Son, as 'this nature is united to the Son of God' does not give 'the Son is united to the Son'.",
+    "claims": [
+      "Not every predicate of the assumed nature is communicated to the Son."
+    ],
+    "concepts": [
+      "communicatio idiomatum",
+      "union"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4542"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4579": {
+    "summary": "Similarly 'this nature is created', 'differs really from the divine essence', 'began to be' are not communicated. The saints held only that the natures exchange their properties, such as being born, hungering, thirsting, dying. If enjoyment and being loved or seen are not communicated, the first conclusion fails. If they are, 'God loved himself less than himself' means he loved himself less according to his human nature than his divine.",
+    "claims": [
+      "Communication of idioms covers natural properties like birth and death.",
+      "Paradoxes are resolved by reduplication according to each nature."
+    ],
+    "concepts": [
+      "communicatio idiomatum",
+      "reduplication",
+      "two natures"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4559"
+      ]
+    }
+  },
+  "rh-l1q3-d1e144": {
+    "summary": "Second conclusion: one can lawfully and meritoriously enjoy any creature. If Peter, by invincible error, takes James for Christ, wills him to be God, and loves him above all, he enjoys a creature meritoriously. The same holds of a devil transfigured, or any creature.",
+    "claims": [
+      "One can meritoriously enjoy any creature through invincible error."
+    ],
+    "concepts": [
+      "invincible ignorance",
+      "enjoyment of creature",
+      "mistaken identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e1063"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4644": {
+    "summary": "Third conclusion: under present law one can meritoriously hate God supremely. If by invincible ignorance someone believes Christ is the worst of men and a subverter of morals, and is commanded to hate and pursue such a man, he hates Christ while loving God.",
+    "claims": [
+      "Under present law one can meritoriously hate Christ through invincible ignorance."
+    ],
+    "concepts": [
+      "hatred of God",
+      "invincible ignorance",
+      "erroneous conscience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e144"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4662": {
+    "summary": "Fourth conclusion: a man meritoriously enjoys himself and deifies himself, as Christ in fact does.",
+    "claims": [
+      "Christ meritoriously enjoys himself."
+    ],
+    "concepts": [
+      "Christ's self-enjoyment",
+      "deification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4671": {
+    "summary": "Fifth conclusion: one can meritoriously enjoy and use the same thing at once. Peter loves God above all and sees Christ believing him to be James, so he loves this man for God's sake and uses him.",
+    "claims": [
+      "One can use and enjoy the same thing at once."
+    ],
+    "concepts": [
+      "uti et frui",
+      "mistaken identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4690": {
+    "summary": "Continues: Peter also loves this man above all, so both uses and enjoys him, both meritoriously, since invincible error excuses.",
+    "claims": [
+      "Invincible error makes simultaneous use and enjoyment meritorious."
+    ],
+    "concepts": [
+      "invincible ignorance",
+      "uti et frui"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4671"
+      ]
+    }
+  },
+  "rh-l1q3-d1e175": {
+    "summary": "Sixth conclusion: by invincible error Peter could meritoriously enjoy what he hates. If he loves Christ supremely and hates Judas by God's command, but cannot recognize either, and takes Judas for Christ, he meritoriously loves Judas above all and supremely hates Judas at once. Apprehending the same thing under different intentions without knowing they are of one thing is not absurd.",
+    "claims": [
+      "One can meritoriously love and hate the same person at once under different intentions."
+    ],
+    "concepts": [
+      "intentional object",
+      "referential opacity",
+      "invincible ignorance",
+      "love and hatred"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e4690"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4745": {
+    "summary": "Reply to the first objection. If predicates like 'loved' and 'understood' are not communicated from the assumed nature to the person, one cannot enjoy the Son without the Father. If they are, the Son can be loved by a love by which neither the essence nor the other persons are loved. Which predicates are communicated belongs to Book III.",
+    "claims": [
+      "Whether one person can be enjoyed alone depends on the scope of communication of idioms."
+    ],
+    "concepts": [
+      "communicatio idiomatum",
+      "Book III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3538"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4789": {
+    "summary": "Denies the inference, since vision of the Son, properly, clearly or obscurely, terminates at the divine essence. Grants that the Father is prior in the sense that the Son is from the Father, but denies that in that prior the Father can be seen without the Son, since the prior is only the Father, who is seen only when the Son is. A creature sees the persons by one vision, and one cognition can distinguish them, as it distinguishes man from man and white from black.",
+    "claims": [
+      "Proper vision of the Son terminates at the divine essence.",
+      "One cognition can distinguish several objects."
+    ],
+    "concepts": [
+      "vision of God",
+      "priority of origin",
+      "unity of cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e1332",
+        "rh-l1q3-d1e3538",
+        "rh-l1q3-d1e3563"
+      ]
+    }
+  },
+  "rh-l1q3-Dd1e4827": {
+    "summary": "The article on enjoyment in heaven is deferred to Book IV. Holcot affirms that the wayfarer is bound to enjoy God alone (Matthew 22) and replies to the principal arguments. The precept binds always as to habit but at no particular time as to act, and loving a neighbor for God includes enjoying God. Nothing wholly unknown can be willed. Infinite excess does not imply infinite perfection. The blessed love the multitude more extensively but not intensively than God. Anselm's claims about the multiplied joy of the blessed are hyperbole. Saints' prayers are effective by divine ordination without necessitating salvation. The object of enjoyment is God. Love can exceed in intensity, in the good willed, in firmness, or in preference, and the precept concerns the good willed, not intensity. One act can enjoy God and use itself, without infinite regress. Only God can effectively satisfy the mind. 'Love God above all' must be expounded. One should prefer one's own grace to that of others, and annihilation to sin. Benefits multiply the grounds of obligation, not its measure.",
+    "claims": [
+      "The wayfarer is bound to enjoy God alone.",
+      "The precept of love binds habitually always and actually at no fixed time.",
+      "The precept concerns the good willed, not the intensity of the act.",
+      "The blessed love creatures more extensively but not intensively than God."
+    ],
+    "concepts": [
+      "fruitio",
+      "habitual and actual love",
+      "degrees of love",
+      "beatitude",
+      "intercession",
+      "reflexive acts"
+    ],
+    "_metadata": {
+      "level": "articulus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q3-d1e4832",
+        "rh-l1q3-d1e4845",
+        "rh-l1q3-d1e4863",
+        "rh-l1q3-d1e4934",
+        "rh-l1q3-d1e4964",
+        "rh-l1q3-d1e5008",
+        "rh-l1q3-d1e5060",
+        "rh-l1q3-d1e5073",
+        "rh-l1q3-d1e5102",
+        "rh-l1q3-d1e5118",
+        "rh-l1q3-d1e5143",
+        "rh-l1q3-d1e5159",
+        "rh-l1q3-d1e5188",
+        "rh-l1q3-d1e5199",
+        "rh-l1q3-d1e5212",
+        "rh-l1q3-d1e5221",
+        "rh-l1q3-d1e5344",
+        "rh-l1q3-d1e5360",
+        "rh-l1q3-d1e5381",
+        "rh-l1q3-d1e5414",
+        "rh-l1q3-d1e5456",
+        "rh-l1q3-d1e5489",
+        "rh-l1q3-d1e5516",
+        "rh-l1q3-d1e5586",
+        "rh-l1q3-d1e5628",
+        "rh-l1q3-d1e5654",
+        "rh-l1q3-d1e5712",
+        "rh-l1q3-d1e5743",
+        "rh-l1q3-d1e5770",
+        "rh-l1q3-d1e5792",
+        "rh-l1q3-d1e5810",
+        "rh-l1q3-d1e5882",
+        "rh-l1q3-d1e5915",
+        "rh-l1q3-d1e5926",
+        "rh-l1q3-d1e5940",
+        "rh-l1q3-d1e5993",
+        "rh-l1q3-d1e6009",
+        "rh-l1q3-d1e6064",
+        "rh-l1q3-d1e6110",
+        "rh-l1q3-d1e6123",
+        "rh-l1q3-d1e6183",
+        "rh-l1q3-d1e6232",
+        "rh-l1q3-d1e6284",
+        "rh-l1q3-d1e6358",
+        "rh-l1q3-d1e6367",
+        "rh-l1q3-d1e6387",
+        "rh-l1q3-d1e6401",
+        "rh-l1q3-d1e6417",
+        "rh-l1q3-d1e6424",
+        "rh-l1q3-d1e6450",
+        "rh-l1q3-d1e6472",
+        "rh-l1q3-d1e6530",
+        "rh-l1q3-d1e6562",
+        "rh-l1q3-d1e6580",
+        "rh-l1q3-d1e6591",
+        "rh-l1q3-d1e6609",
+        "rh-l1q3-d1e6631",
+        "rh-l1q3-d1e6644",
+        "rh-l1q3-d1e6665",
+        "rh-l1q3-d1e6674",
+        "rh-l1q3-d1e6685"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4832": {
+    "summary": "Third article, on enjoyment in heaven, is deferred to the end of Book IV. To the question: yes, from Matthew 22, 'Love the Lord your God'.",
+    "claims": [
+      "The wayfarer is bound to enjoy God alone."
+    ],
+    "concepts": [
+      "fruitio patriae",
+      "greatest commandment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4845": {
+    "summary": "Reply to the first principal argument: grants in the composite sense that one cannot merit by an act incompatible with one to which one is bound, and turns to the case of Socrates enjoying God and seeing a neighbor in need.",
+    "claims": [
+      "One cannot merit by an act incompatible with an obligatory act."
+    ],
+    "concepts": [
+      "composite sense",
+      "conflict of obligations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e107"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4863": {
+    "summary": "Either Socrates is bound at that time to attend to God in an act of worship, such as a priest at consecration who must continue by the Church's precept, in which case the argument fails, or he contemplates voluntarily and may set aside actual enjoyment to help his neighbor. The argument wrongly assumes one cannot enjoy God while helping a neighbor: helping in an ordered way is helping for God's sake, so loving God more. The precept 'love the Lord your God' binds always as to habit but not always as to act, so one can love God habitually or remissly while caring for a neighbor.",
+    "claims": [
+      "The precept of love binds always habitually but not always actually.",
+      "Helping a neighbor in an ordered way is loving God.",
+      "Voluntary contemplation may be set aside for a neighbor's need."
+    ],
+    "concepts": [
+      "affirmative precepts",
+      "habitual love",
+      "love of neighbor",
+      "contemplation and action"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e4845"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4934": {
+    "summary": "Reply to the objection about abandoning the most perfect operation. An operation can be the most perfect possible in some circumstances and vicious in others; sometimes the active life is more perfect, sometimes the contemplative. In the case given Socrates does not abandon the more perfect for the less, but the reverse.",
+    "claims": [
+      "Perfection of an operation depends on circumstances.",
+      "Sometimes the active life is more perfect than the contemplative."
+    ],
+    "concepts": [
+      "active and contemplative life",
+      "circumstances of acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e136"
+      ]
+    }
+  },
+  "rh-l1q3-d1e4964": {
+    "summary": "Reply to the claim that a wayfarer might never be bound to enjoy God. The case is possible, e.g. if someone loses the use of reason at the first instant he should use it. But in the case of the baptized man it is impossible to help a neighbor virtuously except for God, and in loving the neighbor for God he loves God for himself, so he enjoys God anew each time. The argument proves the opposite, though in some cases one must interrupt or remit the act of enjoyment.",
+    "claims": [
+      "Virtuous help of neighbor for God's sake includes enjoyment of God.",
+      "One may sometimes be bound to interrupt actual enjoyment."
+    ],
+    "concepts": [
+      "love of neighbor for God",
+      "fruitio",
+      "use of reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e178"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5008": {
+    "summary": "Reply to 'at what time is one bound?'. The antecedent 'not today nor tomorrow, and so on' is either a copulative or has a copulated extreme. As a copulative the inference fails; with a copulated extreme the antecedent is false. One is bound to enjoy God at some time, as a debtor is bound to pay ten shillings at some time but at no particular time. The precept binds at a definite time only in particular circumstances, such as when sin can be avoided only by thinking of and enjoying God.",
+    "claims": [
+      "One is bound to enjoy God at some time but at no particular time.",
+      "The precept binds at a set time only through circumstances."
+    ],
+    "concepts": [
+      "copulative propositions",
+      "temporal obligation",
+      "debt analogy",
+      "scope ambiguity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e220"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5060": {
+    "summary": "Similarly one who has never loved God and has only an hour to live is bound to love God in that hour, accidentally, by the circumstance that he has no more time.",
+    "claims": [
+      "Circumstances can fix the time of the obligation to love God."
+    ],
+    "concepts": [
+      "temporal obligation",
+      "deathbed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5008"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5073": {
+    "summary": "Is one bound to enjoy God actually whenever one thinks of him? Holcot thinks not; habitual enjoyment suffices. Actual enjoyment is forming mental sentences like 'may God have the highest honor'. Objection: this implies nothing is actually willed unless known, against Augustine and Lombard, who say actively turning away from what is in memory is just not thinking of it, so one wills about something without thinking of it.",
+    "claims": [
+      "Habitual enjoyment of God suffices.",
+      "Actual enjoyment consists in forming mental sentences honoring God."
+    ],
+    "concepts": [
+      "habitual and actual enjoyment",
+      "mental sentences",
+      "willing the unknown"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5102": {
+    "summary": "Further objection: an adult created and living three days without food would be hungry, and hunger is appetite for hot and dry, so he would desire food though knowing none.",
+    "claims": [
+      "Hunger shows desire without cognition."
+    ],
+    "concepts": [
+      "appetite",
+      "hunger",
+      "willing the unknown"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5073"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5118": {
+    "summary": "Further: if love presupposes cognition, the most intense love could be lost as quickly as the most remiss, since one with little cognition can love God intensely. Also, one can love more than one knows, so the excess is of something unknown.",
+    "claims": [
+      "Love can exceed cognition, so something unknown is loved."
+    ],
+    "concepts": [
+      "love and cognition",
+      "intensity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5073"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5143": {
+    "summary": "Further: the first angel desired equality with God. Either this was shown to his will as good, by a right intellect (so no sin) or an erring one (so error and punishment preceded sin), or not, so he willed the unknown.",
+    "claims": [
+      "The angel's sin implies willing the unknown or prior error."
+    ],
+    "concepts": [
+      "fall of the angels",
+      "error and sin",
+      "willing the unknown"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5073"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5159": {
+    "summary": "Reply: one cannot will something wholly unknown, as Augustine says. His remark means only that turning away is not thinking, not that willing to turn away is the same.",
+    "claims": [
+      "Nothing wholly unknown can be willed."
+    ],
+    "concepts": [
+      "nihil volitum nisi praecognitum",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5073"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5188": {
+    "summary": "Reply to the hunger case: he would languish, but would desire nothing by an elicited act of will. 'Appetite' is equivocal between hunger and an act of will.",
+    "claims": [
+      "'Appetite' is equivocal between natural hunger and an act of will."
+    ],
+    "concepts": [
+      "natural and elicited appetite",
+      "equivocation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5102"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5199": {
+    "summary": "Replies: grants that one act may be lost as quickly as another. 'More' can qualify the object loved or the act of loving; one can love more than one knows only in the first sense.",
+    "claims": [
+      "Loving more than one knows holds of the object, not the act."
+    ],
+    "concepts": [
+      "comparative qualification",
+      "love and knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5118"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5212": {
+    "summary": "Reply about the angel: he desired equality with God, sufficiently represented by knowing God and himself; more elsewhere.",
+    "claims": [
+      "The angel's sinful desire was based on knowledge of God and himself."
+    ],
+    "concepts": [
+      "fall of the angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5143"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5221": {
+    "summary": "Reply to the second principal argument. Denies 'cognition of God is infinitely more perfect than of a stone, so it is of infinite perfection'. Counterinstances: Socrates is infinitely more perfect than a plant without being infinitely perfect; a body exceeds its surface infinitely without being infinite; perhaps no fly is so perfect that God could not make a better. Likewise the sun moves infinitely faster than a body continuously slowing over an hour, though neither speed is infinite, since no fixed proportion holds and there is no maximum slowness.",
+    "claims": [
+      "Infinite excess does not imply infinite perfection.",
+      "Comparisons across species can be infinite while both terms are finite."
+    ],
+    "concepts": [
+      "infinite excess",
+      "incommensurability",
+      "kinematics",
+      "intensive infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e254"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5344": {
+    "summary": "Reply to the third principal argument. The blessed do enjoy God. Denies that a blessed soul loves a (God with all the blessed) more than God, whether the comparison concerns the act or the good willed: neither is a loved more intensely nor is a greater good willed to it.",
+    "claims": [
+      "The blessed do not love the whole of God and the saints more than God."
+    ],
+    "concepts": [
+      "fruitio patriae",
+      "comparative love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e311"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5360": {
+    "summary": "Objection: the good b willed to God is part of the good c willed to a, so less than c, so Plato wills God a lesser good than he wills a.",
+    "claims": [
+      "The good willed to God is a part of the good willed to the whole."
+    ],
+    "concepts": [
+      "whole and part",
+      "goods willed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5344"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5381": {
+    "summary": "Reply: Plato wills more goods to a but not a greater good, since in willing God to be God he wills an infinite good, and to each saint a certain degree. Averroes distinguishes parts according to fact and according to imagination; in the latter sense an infinite can be a part with other infinites without the whole being greater.",
+    "claims": [
+      "Willing more goods differs from willing a greater good.",
+      "An infinite part need not be less than its whole."
+    ],
+    "concepts": [
+      "infinite wholes",
+      "Averroes",
+      "extensive and intensive comparison"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5360"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5414": {
+    "summary": "Alternatively, 'Plato loves a more than God, so he does not love God above all' fails, since 'above all' as commanded means above all things other than God. Literally 'Socrates loves God above all' is impossible, since 'above' and 'more than' confuse their terms, so it would imply he loves God more than God.",
+    "claims": [
+      "'Love God above all' means above all things other than God.",
+      "Taken literally, 'love God above all' implies loving God more than God."
+    ],
+    "concepts": [
+      "confused supposition",
+      "literal and intended sense",
+      "love above all"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5344"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5456": {
+    "summary": "Objection: the blessed must love more whatever gives them more delight, and the whole multitude gives more delight than God alone, since everyone rejoices in another's joy.",
+    "claims": [
+      "The multitude of the blessed causes more delight than God alone."
+    ],
+    "concepts": [
+      "joy in others' joy",
+      "causes of delight"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5414"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5489": {
+    "summary": "Further: if Peter and Linus are beatified equally, each unaware of others, and then learn of Paul's new beatitude, either their joy increases, so God and Paul together beatify them more than God alone, or it does not, against Anselm and the Church's teaching.",
+    "claims": [
+      "Learning of another's beatitude increases joy, so creatures add to beatitude."
+    ],
+    "concepts": [
+      "accidental beatitude",
+      "Anselm",
+      "communion of saints"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5456"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5516": {
+    "summary": "Further: the blessed have all they will, but the separated soul does not, having a natural inclination to govern its body that retards its full beatitude, as Augustine (Genesis XII) says. So the body is a partial cause of essential beatitude, and the soul must love God and its body more than God alone. Lombard says the joy of the blessed will be greater after the resurrection.",
+    "claims": [
+      "The separated soul's desire for its body retards its beatitude.",
+      "The body would be a partial cause of essential beatitude."
+    ],
+    "concepts": [
+      "separated soul",
+      "resurrection",
+      "Augustine",
+      "Lombard",
+      "essential beatitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5456"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5586": {
+    "summary": "Reply: 'the blessed love a more than God' can be extensive, willing more goods to a, which is granted. Or it can be intensive, by intensity of the act or by the greatness of the good willed, which is denied, since neither is more firmly or a better good willed to a.",
+    "claims": [
+      "The blessed love the multitude more extensively but not intensively than God."
+    ],
+    "concepts": [
+      "extensive and intensive love",
+      "goods willed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5456"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5628": {
+    "summary": "Reply to the argument from the causes of delight: more extensively but not intensively, since God is the whole cause; other causes concur only because God makes them, and all is imputed to him.",
+    "claims": [
+      "God is the whole cause of beatitude, so creatures concur only through him."
+    ],
+    "concepts": [
+      "total cause",
+      "concurrent causes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5456",
+        "rh-l1q3-d1e5489"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5654": {
+    "summary": "Reply to the third: 'blessed is he who has whatever he wills' is false of acts of will, or one could beatify oneself by willing only that God exist. It must mean whatever one habitually and naturally desires, and in that sense the separated soul is not perfectly blessed. Doctors distinguish essential beatitude (vision, enjoyment, delight in God with security of eternity) from accidental beatitude (delight occasioned by creatures), which can increase. The comparative 'more' must be distinguished extensively and intensively.",
+    "claims": [
+      "The definition of beatitude concerns habitual desire, not acts of will.",
+      "Essential beatitude is distinct from accidental beatitude, which can increase."
+    ],
+    "concepts": [
+      "essential and accidental beatitude",
+      "definition of beatitude",
+      "separated soul"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5516"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5712": {
+    "summary": "Objection from Anselm (Proslogion 24): if you loved another as yourself and he had the same beatitude, your joy would double, and in perfect charity, where no one loves another less than himself, each rejoices for all others as for himself. Holcot confesses he does not understand this authority.",
+    "claims": [
+      "According to Anselm, the joy of each blessed person multiplies with the joy of all."
+    ],
+    "concepts": [
+      "Anselm",
+      "Proslogion",
+      "joy of the blessed",
+      "perfect charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5743": {
+    "summary": "Argues against Anselm's premise that no one in heaven loves another less than himself. Nothing belonging to the order of charity in this life is destroyed in heaven, and that order requires loving oneself more than another (Lombard III d. 29), since glory perfects and does not destroy nature.",
+    "claims": [
+      "The order of charity, loving oneself more, persists in heaven."
+    ],
+    "concepts": [
+      "order of charity",
+      "glory perfects nature",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5712"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5770": {
+    "summary": "Further: Lombard says justice remains and is perfected in heaven, and justice requires rejoicing more in one more blessed, since goodness is the whole reason for joy.",
+    "claims": [
+      "Justice in heaven requires rejoicing more in greater goodness."
+    ],
+    "concepts": [
+      "justice in heaven",
+      "proportion of joy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5743"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5792": {
+    "summary": "Confirmation: Paul's joy known to Peter naturally causes joy in Peter as a partial cause acting as it can, so Peter rejoices more in Paul's greater joy than in Linus's.",
+    "claims": [
+      "Greater joy known causes greater joy in the knower."
+    ],
+    "concepts": [
+      "joy as cause",
+      "partial causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5770"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5810": {
+    "summary": "Further against Anselm's conditional: seeing another with greater beatitude would cause more joy than one's own, and one's own beatitude comes from seeing God, so creatures would cause more joy than God. If Peter sees a thousand others beatified, each adding a joy equal to his own, he would rejoice a thousandfold more in creatures than in God, contrary to Anselm's own statement that the blessed rejoice incomparably more in God.",
+    "claims": [
+      "Anselm's principle implies rejoicing more in creatures than in God."
+    ],
+    "concepts": [
+      "joy of the blessed",
+      "reductio",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5712"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5882": {
+    "summary": "Further: if each blessed person loved every other as much as self, the will of the blessed would not conform to God's known will. God loves the Virgin more than any saint, so if she loves Linus as herself, knowing God loves him less, she knowingly diverges from God's will and loves inordinately.",
+    "claims": [
+      "Loving every saint as oneself would diverge from God's known will."
+    ],
+    "concepts": [
+      "conformity of will",
+      "Blessed Virgin",
+      "ordered love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5712"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5915": {
+    "summary": "Confirmation: she rejoices that it is just to love her as God loves her, and sees God loves some blessed less than her, so it is just to love them less.",
+    "claims": [
+      "It is just to love as God loves."
+    ],
+    "concepts": [
+      "justice of love",
+      "conformity of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5882"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5926": {
+    "summary": "Further: if she wills Linus as much as herself while seeing God wills him less blessed, her will would be wholly contrary to God's eternal ordering of the blessed.",
+    "claims": [
+      "Equal love would oppose God's ordering of the blessed."
+    ],
+    "concepts": [
+      "divine ordering",
+      "conformity of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5882"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5940": {
+    "summary": "Holcot reads Anselm's intention as rousing the soul to devotion by contemplating future joy. Since that joy is ineffable, Anselm speaks hyperbolically, not to the exact measure of truth. Reply to the third principal argument: whatever of the first inference, the second fails. The blessed may doubt a proposition without lessened joy, but they need not ask for what they doubt. They ask for what they see God wills done for us, and not in vain, since God has ordained that his will be fulfilled through the saints' prayers.",
+    "claims": [
+      "Anselm speaks hyperbolically about the joy of the blessed.",
+      "Saints' prayers are not in vain because God ordains his will to be fulfilled through them."
+    ],
+    "concepts": [
+      "hyperbole",
+      "intercession of saints",
+      "secondary causes",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e5712",
+        "rh-l1q3-d1e340"
+      ]
+    }
+  },
+  "rh-l1q3-d1e5993": {
+    "summary": "Reply to 'if they pray for us we are saved necessarily'. Denied: 'Peter prayed for Socrates' is now necessary, but 'Peter sees God wills Socrates saved' does not follow as necessary, since its truth depends on a future contingent, so the consequent is contingent.",
+    "claims": [
+      "Saints' past prayer does not make salvation necessary.",
+      "Truths depending on future contingents remain contingent."
+    ],
+    "concepts": [
+      "future contingents",
+      "necessity of the past",
+      "intercession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e385"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6009": {
+    "summary": "Reply to the fourth principal argument. The object of desire is God or nothing, since 'seeing God' is no thing. 'Object' is equivocal: what I will to enjoy is God, as is what I will to have. If 'object' means what properly answers 'what do you desire?', it is having or seeing God. But 'what do you enjoy?' is answered 'God', not 'having God', so desire and enjoyment differ in object in this sense. Many wrongly think an object is as necessary for loving and understanding as for external sensation, but one can love when no thing is the object loved.",
+    "claims": [
+      "The object of enjoyment is God, not having God.",
+      "'Object' is equivocal.",
+      "Love and understanding do not require an existing object as sensation does."
+    ],
+    "concepts": [
+      "object of enjoyment",
+      "equivocation on obiectum",
+      "intentionality",
+      "objectless acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e432"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6064": {
+    "summary": "Reply to the fifth principal argument. Denies that something other than God is to be loved equally. One can love one thing more than another in four ways: by a more intense act, by willing a greater good, by loving more firmly, or by preferring to keep its love if one love had to be given up.",
+    "claims": [
+      "Loving more has four senses: intensity, greater good willed, firmness, and preference."
+    ],
+    "concepts": [
+      "degrees of love",
+      "order of charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e473"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6110": {
+    "summary": "No creature is to be loved supremely in this life in the first, third, or fourth sense.",
+    "claims": [
+      "No creature is to be loved supremely by intensity, firmness, or preference."
+    ],
+    "concepts": [
+      "order of charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6064"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6123": {
+    "summary": "In the second sense the creature to be loved most is Christ's humanity, more than the Virgin, since the greatest good willable to a creature is due it. Comparing love of God (c) with love of that creature (b): by intensity c need exceed b only finitely, or not at all; by the greatness of the good willed it exceeds infinitely; by firmness it need not exceed, since love of self is naturally firmest in this life; by preference it exceeds infinitely, since no one should give up love of God for anything.",
+    "claims": [
+      "Christ's humanity is the creature to be willed the greatest good.",
+      "Love of God exceeds love of creatures infinitely in good willed and in preference, but not necessarily in intensity."
+    ],
+    "concepts": [
+      "humanity of Christ",
+      "degrees of love",
+      "preference",
+      "intensity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6064"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6183": {
+    "summary": "On intensity, the conclusion is granted: one need not love God more intensely than a creature in this life, and may love God as remissly as one likes provided one wills him the highest honor. As to the good willed, the precept requires that love of God be for his own sake and love of creatures for another, circumstances that differ in species, so no multiplication of the latter reaches the former. Christ's humanity is to be loved above all creatures as to the good willed.",
+    "claims": [
+      "One need not love God more intensely than a creature.",
+      "Love of God for his own sake differs in species from love of creatures for another."
+    ],
+    "concepts": [
+      "intensity of love",
+      "species of acts",
+      "propter se and propter aliud"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6123",
+        "rh-l1q3-d1e1040"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6232": {
+    "summary": "Reply to the sixth principal argument. In 'enjoyment is to be enjoyed' the ablative can express object or formal cause. As object it is false of created enjoyment, which is loved for God; as formal cause it is true but the inference fails. From 'I love enjoyment by enjoyment' it does not follow that I enjoy enjoyment, as 'I love God by use' does not imply using God. By one and the same love I enjoy God and use my enjoyment, so one love is enjoyment and use with respect to different objects.",
+    "claims": [
+      "The same act can be enjoyment of God and use of itself.",
+      "'Enjoyment is to be enjoyed' is ambiguous between object and formal cause."
+    ],
+    "concepts": [
+      "reflexive love",
+      "uti et frui",
+      "ablative construction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e523"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6284": {
+    "summary": "Reply to the confirmations. One should love God more than one's act of enjoyment, but it does not follow that one is bound to love God more than to enjoy God. Socrates is bound to love a more than b, but it does not follow that he should rather will whatever opposes b than what opposes a, since some things, like hatred of God, oppose both. If enjoyment is loved by another act there is no infinite regress: some love is not loved by a distinct act, and after three or four reflexive acts awareness of the first fades, owing to the finitude of the cognitive power.",
+    "claims": [
+      "Loving God more than one's enjoyment does not imply loving God more than enjoying God.",
+      "Reflexive acts stop after a few iterations because cognitive power is finite."
+    ],
+    "concepts": [
+      "reflexive acts",
+      "infinite regress",
+      "finite cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e565",
+        "rh-l1q3-d1e583"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6358": {
+    "summary": "Reply to the seventh principal argument: nothing other than God can satisfy the appetite effectively.",
+    "claims": [
+      "Only God can effectively satisfy the human appetite."
+    ],
+    "concepts": [
+      "satiation of appetite",
+      "efficient causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e609"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6367": {
+    "summary": "On the mind's finite capacity: if 'by' denotes final cause, the mind can be satisfied by something finite, since the light of glory, the beatific act received in the mind, is finite. If it denotes efficient cause, it cannot be satisfied by anything finite.",
+    "claims": [
+      "The mind is satisfied formally by a finite act but effectively only by God."
+    ],
+    "concepts": [
+      "light of glory",
+      "final and efficient cause",
+      "finite capacity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6358"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6387": {
+    "summary": "Objection: every finite effect can be produced by a finite cause. Reply: false, since many finite effects such as grace, the soul, and angels can be produced only by an infinite power.",
+    "claims": [
+      "Some finite effects require infinite power."
+    ],
+    "concepts": [
+      "creation",
+      "infinite power",
+      "grace"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6367"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6401": {
+    "summary": "Reply to the other form: from God exceeding the mind and body being exceeded by it, it does not follow that something equal to the mind can satisfy it. Something is equal to the mind, namely itself, but that does not satisfy it.",
+    "claims": [
+      "Equality to the mind does not imply power to satisfy it."
+    ],
+    "concepts": [
+      "satiation",
+      "equality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e609"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6417": {
+    "summary": "Reply to the eighth principal argument: neither the antecedent is true nor the inference valid.",
+    "claims": [],
+    "concepts": [
+      "honor of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e648"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6424": {
+    "summary": "The antecedent is false: otherwise one would be bound to love God more than God and oneself, and to love all things, including demons and animals, and God more than all. So 'Socrates must love God above all' is false literally and must be expounded as 'above all things Socrates should love', among which God is not.",
+    "claims": [
+      "'Love God above all' is literally false and must be expounded."
+    ],
+    "concepts": [
+      "exposition of propositions",
+      "love above all",
+      "literal sense"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6417"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6450": {
+    "summary": "The consequent is false too: one is not bound to will a thousand others in charity and oneself without rather than the reverse. In many cases one should choose what one believes less to God's honor, since God commands that one should rather will oneself in grace than a thousand others.",
+    "claims": [
+      "One should prefer one's own grace to that of a thousand others.",
+      "One may be bound to choose what is less to God's honor."
+    ],
+    "concepts": [
+      "order of charity",
+      "self-love",
+      "honor of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6417"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6472": {
+    "summary": "The inference also fails, its antecedent being true in a good sense and its consequent false. Reply to the ninth principal argument: given a latitude of effort, one may love God at any degree. It may be granted that one may love a creature at any degree, since the precept on the greatness of love concerns not intensity but the good willed and its circumstance, that God's due good be willed for himself. One beginning to enjoy God may love God infinitely less intensely than Plato and yet infinitely more as to the good willed.",
+    "claims": [
+      "The precept concerns the good willed, not the intensity of the act.",
+      "One may love God less intensely yet infinitely more as to the good willed."
+    ],
+    "concepts": [
+      "latitude of effort",
+      "intensity",
+      "good willed",
+      "first instant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e679",
+        "rh-l1q3-d1e725"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6530": {
+    "summary": "Reply to the tenth principal argument. The precept does not necessitate sin. Later one is bound to the same thing by more causes: God requires that one will him the highest honor, owed by precept and by benefit, and asks for benefits nothing beyond what he imposes by precept. Continuous existence is a great benefit that creates new obligations, but not to love more, since one was already bound with one's whole heart.",
+    "claims": [
+      "Benefits add new grounds for the same obligation, not greater obligation."
+    ],
+    "concepts": [
+      "grounds of obligation",
+      "benefit and precept",
+      "debt of love"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e784"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6562": {
+    "summary": "Reply on humans and angels: a human is bound more, i.e. by more causes, but not to love more in this life, only as much as he can. In heaven a human may love God more than an angel. Objection: the angel has better natural endowments.",
+    "claims": [
+      "Humans are bound by more causes, not to greater love, than angels."
+    ],
+    "concepts": [
+      "angels and humans",
+      "grounds of obligation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e819"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6580": {
+    "summary": "Reply: human nature will be aided more by the light of grace and God's cooperation; as the Virgin is exalted above all angels, she loves God more intensely than any of them.",
+    "claims": [
+      "Grace can raise humans above angels in love.",
+      "The Virgin loves God more than any angel."
+    ],
+    "concepts": [
+      "light of grace",
+      "Blessed Virgin",
+      "angels"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6562"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6591": {
+    "summary": "Reply on Christ's soul: it is bound more, but Socrates could not, by sinning and being forgiven infinitely, come to owe as much as Christ's soul, since these debts are not of the same kind.",
+    "claims": [
+      "Debts of love from forgiveness and from Christ's grace are not commensurable."
+    ],
+    "concepts": [
+      "Christ's soul",
+      "debt of love",
+      "incommensurability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e839"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6609": {
+    "summary": "Reply to the eleventh principal argument. If 'more' concerns the good willed or the circumstance of willing, one is not bound to love oneself more than God. Aristotle's dictum is true as to knowledge, not as to the greatness of what is willed.",
+    "claims": [
+      "One is not bound to love oneself more than God as to the good willed.",
+      "Aristotle's priority of self-love concerns knowledge."
+    ],
+    "concepts": [
+      "self-love",
+      "Aristotle",
+      "good willed"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e909",
+        "rh-l1q3-d1e920"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6631": {
+    "summary": "Objection: is a saint bound to love God more than a newborn? Not by intensity, nor by greater good willed, nor by circumstance; none of these can be said.",
+    "claims": [
+      "No sense of 'more' fits a saint's greater obligation."
+    ],
+    "concepts": [
+      "degrees of obligation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6609"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6644": {
+    "summary": "Reply: 'Socrates is bound to love God more than Plato is' is amphibolous, since 'more' can modify 'bound' (true: by more causes) or 'love' (false: one is bound to love equally).",
+    "claims": [
+      "'Bound to love more' is amphibolous between more grounds and more love."
+    ],
+    "concepts": [
+      "amphiboly",
+      "scope of comparatives"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e6631"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6665": {
+    "summary": "Reply to the annihilation argument: yes, one should prefer annihilation to mortal sin.",
+    "claims": [
+      "One should prefer annihilation to mortal sin."
+    ],
+    "concepts": [
+      "annihilation",
+      "sin",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e931"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6674": {
+    "summary": "Reply to the twelfth principal argument: one is not bound equally before and after redemption; and we should not love Christ's humanity more than God.",
+    "claims": [
+      "Redemption increases the grounds of obligation.",
+      "Christ's humanity is not to be loved more than God."
+    ],
+    "concepts": [
+      "redemption",
+      "humanity of Christ"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e975",
+        "rh-l1q3-d1e988"
+      ]
+    }
+  },
+  "rh-l1q3-d1e6685": {
+    "summary": "Reply to the thirteenth: the conclusion is granted.",
+    "claims": [
+      "One can meritoriously enjoy a creature through invincible ignorance."
+    ],
+    "concepts": [
+      "invincible ignorance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q3-Dd1e4827",
+        "rh-l1q3-d1e1063",
+        "rh-l1q3-d1e144"
+      ]
+    }
+  }
+}

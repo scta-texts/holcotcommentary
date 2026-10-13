@@ -1,0 +1,993 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l1q4": {
+    "summary": "Holcot asks whether God is three distinct persons. The principal arguments raise logical objections, including expository syllogisms, conversion, and plural predication, and metaphysical ones, including finite or infinite distinction, constitution, simplicity, and procession. Holcot affirms the Trinity purely as revealed faith and declines to prove it. In the replies he argues that natural logic fails for a thing that is one and three. He proposes a distinct logic of faith whose rules restrict plural predication of absolute terms and block identity inferences where relational opposition intervenes. He concludes that Aristotelian logic is formal only for naturally known things, not in every matter.",
+    "claims": [
+      "God is three persons, known by faith and not by natural reason.",
+      "There is a logic of faith distinct from natural logic.",
+      "Aristotelian logic is not formally valid in every matter.",
+      "The divine essence does not generate."
+    ],
+    "concepts": [
+      "Trinity",
+      "faith and reason",
+      "logica fidei",
+      "expository syllogism",
+      "formal logic",
+      "personal distinction"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q4-Dd1e103",
+        "rh-l1q4-Dd1e110",
+        "rh-l1q4-Dd1e498",
+        "rh-l1q4-Dd1e562"
+      ]
+    }
+  },
+  "rh-l1q4-Dd1e103": {
+    "summary": "Opening statement of the question: whether God is three distinct persons.",
+    "claims": [],
+    "concepts": [
+      "Trinity",
+      "divine persons"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q4-d1e103"
+      ]
+    }
+  },
+  "rh-l1q4-d1e103": {
+    "summary": "States the question: whether God is three distinct persons.",
+    "claims": [],
+    "concepts": [
+      "Trinity",
+      "divine persons",
+      "unity of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4"
+      ]
+    }
+  },
+  "rh-l1q4-Dd1e110": {
+    "summary": "The principal arguments press logical and metaphysical objections against the Trinity. Anselm's 'that than which nothing greater can be thought' would yield three gods. The persons must differ either finitely or infinitely. Constitution by paternity would introduce composition and a quaternity. An expository syllogism appears to show that the essence generates. Convertible terms and Christological predications appear to yield contradictions. Procession from two principles appears impossible. Simplicity, perfection, degrees of unity, and Augustine's plural ideas raise further difficulties. 1 John 5 is cited for the opposite.",
+    "claims": [
+      "Trinitarian doctrine appears to violate standard logical forms such as expository syllogism and conversion.",
+      "The Trinity appears incompatible with divine simplicity and equality."
+    ],
+    "concepts": [
+      "Trinity",
+      "expository syllogism",
+      "personal distinction",
+      "divine simplicity",
+      "procession",
+      "divine ideas"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q4-d1e115",
+        "rh-l1q4-d1e139",
+        "rh-l1q4-d1e329",
+        "rh-l1q4-d1e345",
+        "rh-l1q4-d1e364",
+        "rh-l1q4-d1e386",
+        "rh-l1q4-d1e397",
+        "rh-l1q4-d1e408",
+        "rh-l1q4-d1e430",
+        "rh-l1q4-d1e453",
+        "rh-l1q4-d1e463",
+        "rh-l1q4-d1e474",
+        "rh-l1q4-d1e492"
+      ]
+    }
+  },
+  "rh-l1q4-d1e115": {
+    "summary": "First principal argument against the Trinity. If each person is that than which nothing greater can be thought, then by Anselm's form of reasoning each is a god, so three persons are three gods and the one God cannot be three persons.",
+    "claims": [
+      "If three persons are each that than which nothing greater can be conceived, they are three gods."
+    ],
+    "concepts": [
+      "id quo maius cogitari non potest",
+      "plurality of gods",
+      "Anselmian argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e139": {
+    "summary": "A long cluster of objections. The persons must differ either finitely (putting something finite in God) or infinitely (making them differ more than God and the devil). Also: whatever it is better to be is God, and essential and personal identity is better than non-identity, so God and Trinity are one in every way. A constituted person implies composition of essence and paternity, yielding four things in God. The essence generates by expository syllogism ('this Father generates; this Father is this essence'), so it generates another God. 'Of the substance of the Father' implies the substance generates. The incommunicable Father cannot be the communicable essence. The case of Christ ('this man is not non-man') would make the essence a man. Finally 'God generates God' and 'God does not generate God' would both be true.",
+    "claims": [
+      "The persons must differ either finitely or infinitely, and both options are absurd.",
+      "The divine essence generates, by an expository syllogism.",
+      "Trinitarian predication yields contradictories."
+    ],
+    "concepts": [
+      "personal distinction",
+      "finite and infinite distinction",
+      "constitution of persons",
+      "expository syllogism",
+      "communicability",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e329": {
+    "summary": "Further logical objection. 'That which is the Son' and 'Son' are convertible, and the Father is that which is the Son, so the Father is the Son. Likewise, whatever is the Son is non-Father, and the essence is the Son, so the essence is not the Father.",
+    "claims": [
+      "Convertible terms let one infer that the Father is the Son."
+    ],
+    "concepts": [
+      "convertibility",
+      "identity of essence and person",
+      "trinitarian logic"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e345": {
+    "summary": "Objects that the Holy Spirit cannot proceed from Father and Son. Following Averroes, one thing cannot be generated by two agents, either equally or unequally, and unequal procession would make one of them not God.",
+    "claims": [
+      "One thing cannot proceed from two agents equally or unequally."
+    ],
+    "concepts": [
+      "procession of the Holy Spirit",
+      "Filioque",
+      "plurality of agents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e364": {
+    "summary": "Further objections on procession. If the Spirit proceeds both temporally and eternally by one procession, then since he proceeds temporally from himself he proceeds eternally from himself; if by two, he is mutable. Father and Son as principle of the Spirit are either two principles (two gods) or one (one person).",
+    "claims": [
+      "Temporal and eternal procession cannot be either identical or distinct.",
+      "Father and Son must be either two principles or one person."
+    ],
+    "concepts": [
+      "temporal procession",
+      "eternal procession",
+      "principle of spiration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e386": {
+    "summary": "Objects that if a Trinity of persons were compatible with supreme simplicity, then by parity four or infinitely many persons would be too.",
+    "claims": [
+      "If three persons are compatible with simplicity, so are infinitely many."
+    ],
+    "concepts": [
+      "divine simplicity",
+      "number of persons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e397": {
+    "summary": "Objects that having a Son is a perfection belonging to the Father, which the Son lacks, so the persons are unequal in perfection.",
+    "claims": [
+      "Having a son is a perfection the Son lacks."
+    ],
+    "concepts": [
+      "perfectio simpliciter",
+      "equality of persons",
+      "paternity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e408": {
+    "summary": "Confirms the preceding objection. Comparing 'having a son' with 'not having a son' shows Father and Son unequal. Since being able to generate is better than not, and whatever is better to be belongs to the highest nature, the divine essence can generate.",
+    "claims": [
+      "Being able to generate is better than not, so it belongs to the divine essence."
+    ],
+    "concepts": [
+      "Anselmian rule of perfections",
+      "power to generate",
+      "divine essence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110",
+        "rh-l1q4-d1e397"
+      ]
+    }
+  },
+  "rh-l1q4-d1e430": {
+    "summary": "Objects that the Son is generated by some being, which must be a substance and not a creature, so the divine essence generates.",
+    "claims": [
+      "The Son is generated by the divine substance, so the essence generates."
+    ],
+    "concepts": [
+      "generation",
+      "substance and accident",
+      "divine essence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e453": {
+    "summary": "Objects that 'the Trinity is one God' makes the Trinity a unity which is neither Father, Son, nor Spirit, and so a fourth thing in God.",
+    "claims": [
+      "The Trinity would be a fourth thing in God."
+    ],
+    "concepts": [
+      "Trinity as unity",
+      "quaternity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e463": {
+    "summary": "Objects that personal unity, which excludes all plurality, is greater than the unity of the Trinity, so the Trinity is not supremely one.",
+    "claims": [
+      "Personal unity is greater than trinitarian unity."
+    ],
+    "concepts": [
+      "degrees of unity",
+      "divine simplicity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e474": {
+    "summary": "Objects from Augustine's doctrine of ideas. The ideas are the divine essence yet differ really but not personally, so there would be several divine essences.",
+    "claims": [
+      "Really distinct divine ideas would multiply the divine essence."
+    ],
+    "concepts": [
+      "divine ideas",
+      "real distinction",
+      "divine essence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-d1e492": {
+    "summary": "Argument for the opposite: the authority of 1 John 5, 'There are three who bear witness'.",
+    "claims": [],
+    "concepts": [
+      "scriptural authority",
+      "Trinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-Dd1e498": {
+    "summary": "Holcot affirms the Trinity as revealed Catholic faith and refuses to prove it, judging such attempts beyond natural reason, presumptuous and foolish. With Hilary and Anselm he counsels humble inquiry that gives thanks for understanding and venerates where understanding fails.",
+    "claims": [
+      "God is three persons.",
+      "The Trinity cannot be proved by natural reason."
+    ],
+    "concepts": [
+      "faith and reason",
+      "Trinity",
+      "fides quaerens intellectum"
+    ],
+    "_metadata": {
+      "level": "responsio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q4-d1e503"
+      ]
+    }
+  },
+  "rh-l1q4-d1e503": {
+    "summary": "Holcot's determination. God is three persons because this is the Catholic faith revealed to the Fathers and set out in the creeds. Proving it exceeds natural reason, and trying to prove it is presumptuous and foolish. With Hilary (via Lombard) he holds that faith's measure is fixed and boldness must be restrained. With Anselm he holds that a Catholic should humbly seek understanding, give thanks if it comes, and bow the head in veneration if it does not.",
+    "claims": [
+      "God is three persons.",
+      "The Trinity is held by faith and cannot be proved by natural reason.",
+      "Attempting to demonstrate the Trinity is presumptuous and foolish.",
+      "The believer should humbly seek reasons but submit where understanding fails."
+    ],
+    "concepts": [
+      "faith and reason",
+      "Trinity",
+      "limits of natural reason",
+      "fides quaerens intellectum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4",
+        "rh-l1q4-Dd1e110"
+      ]
+    }
+  },
+  "rh-l1q4-Dd1e562": {
+    "summary": "The replies resolve the objections mostly through a theory of trinitarian logic. Absolute names are predicated of the persons only in the singular. Anselm's form of argument is shown invalid by the case of God together with a creature. Personal distinction is minimal and indivisible, neither finite nor infinite. Constitution language is metaphorical. The essence does not generate, and the expository syllogism fails where the thing pointed to is one and three. Holcot argues for a 'logic of faith' distinct from natural logic. Aristotle's logic is formal only relative to naturally known things, not in every matter. A singular logic of reduplication is needed for Christ. The remaining replies hold that the Spirit proceeds equally from Father and Son as one principle, that relational properties are not pure perfections, that the Trinity is not a fourth thing, and that the divine idea is one.",
+    "claims": [
+      "There is a logic of faith distinct from natural logic.",
+      "Aristotelian logic is not formal in every matter.",
+      "Personal distinction is minimal and indivisible.",
+      "The divine essence does not generate."
+    ],
+    "concepts": [
+      "logica fidei",
+      "expository syllogism",
+      "formal logic",
+      "personal distinction",
+      "plural predication",
+      "Christology"
+    ],
+    "_metadata": {
+      "level": "responsio ad rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l1q4-d1e567",
+        "rh-l1q4-d1e615",
+        "rh-l1q4-d1e637",
+        "rh-l1q4-d1e670",
+        "rh-l1q4-d1e689",
+        "rh-l1q4-d1e707",
+        "rh-l1q4-d1e718",
+        "rh-l1q4-d1e727",
+        "rh-l1q4-d1e746",
+        "rh-l1q4-d1e762",
+        "rh-l1q4-d1e787",
+        "rh-l1q4-d1e796",
+        "rh-l1q4-d1e807",
+        "rh-l1q4-d1e825",
+        "rh-l1q4-d1e862",
+        "rh-l1q4-d1e904",
+        "rh-l1q4-d1e953",
+        "rh-l1q4-d1e975",
+        "rh-l1q4-d1e1022",
+        "rh-l1q4-d1e1046",
+        "rh-l1q4-d1e1057",
+        "rh-l1q4-d1e1068",
+        "rh-l1q4-d1e1080",
+        "rh-l1q4-d1e1085",
+        "rh-l1q4-d1e1092",
+        "rh-l1q4-d1e1099",
+        "rh-l1q4-d1e1108",
+        "rh-l1q4-d1e1121",
+        "rh-l1q4-d1e1133"
+      ]
+    }
+  },
+  "rh-l1q4-d1e567": {
+    "summary": "Reply to the first argument. 'Three persons are three gods' is false, and the inference to 'one God is not three persons' holds only by reason of the matter, not formally (compare three pieces of wood that are three substances). Absolute names said of God cannot be predicated in the plural of the persons. From 'three are such that nothing greater can be thought' it follows only that the three are one God.",
+    "claims": [
+      "Three persons are not three gods.",
+      "Absolute divine names are not predicated of the persons in the plural.",
+      "The inference holds only by reason of the matter, not formally."
+    ],
+    "concepts": [
+      "formal and material consequence",
+      "absolute names",
+      "plural predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e115"
+      ]
+    }
+  },
+  "rh-l1q4-d1e615": {
+    "summary": "Counter-objection using Anselm's Proslogion argument. The persons are those than which greater cannot be thought; either they exist in the intellect alone, so that greater can be thought, or also in reality, in which case they are gods.",
+    "claims": [
+      "Anselm's argument applied in the plural yields several gods."
+    ],
+    "concepts": [
+      "ontological argument",
+      "Proslogion",
+      "in intellectu et in re"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e567"
+      ]
+    }
+  },
+  "rh-l1q4-d1e637": {
+    "summary": "Replies that Anselm's form of argument is invalid in the singular and even less valid in the plural. Pointing to any creature together with God, 'these are such that greater cannot be thought' is true, since anything greater than both would be greater than God, yet they are not gods. The same holds for a finite and an infinite body.",
+    "claims": [
+      "Anselm's form of argument is not formally valid.",
+      "A collective of God and a creature satisfies the description without being a god."
+    ],
+    "concepts": [
+      "ontological argument",
+      "validity",
+      "collective reference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e615"
+      ]
+    }
+  },
+  "rh-l1q4-d1e670": {
+    "summary": "Replies to the argument as applied to the divine persons. The inference to 'they are gods' fails because they are one God, not essentially distinct. Alternatively, the antecedent read properly is false, since the persons are one great thing, not several great things.",
+    "claims": [
+      "The persons are one great thing, not several great things."
+    ],
+    "concepts": [
+      "essential unity",
+      "plural predication",
+      "magnitude"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e615"
+      ]
+    }
+  },
+  "rh-l1q4-d1e689": {
+    "summary": "Counter-objection. The persons are good, so by Augustine's rule that in spiritual things greater is better they are great persons; and coequal persons are equal in greatness.",
+    "claims": [
+      "Coequal persons are several great persons."
+    ],
+    "concepts": [
+      "greatness as goodness",
+      "coequality",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e670"
+      ]
+    }
+  },
+  "rh-l1q4-d1e707": {
+    "summary": "Counter-objection. The Athanasian Creed seems contradictory, denying three eternals while affirming three coeternal persons.",
+    "claims": [
+      "The Athanasian Creed appears to affirm and deny three eternals."
+    ],
+    "concepts": [
+      "Athanasian Creed",
+      "coeternity",
+      "plural predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562"
+      ]
+    }
+  },
+  "rh-l1q4-d1e718": {
+    "summary": "Declines to answer the last arguments separately, since the earlier solutions and attention to connotation resolve them.",
+    "claims": [
+      "The counter-arguments are resolved by prior distinctions and connotation."
+    ],
+    "concepts": [
+      "connotation",
+      "trinitarian predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e689",
+        "rh-l1q4-d1e707"
+      ]
+    }
+  },
+  "rh-l1q4-d1e727": {
+    "summary": "Reply to the second argument. Father and Son can be said to be distinguished by an infinite distinction, since each is distinguished by himself, who is infinite.",
+    "claims": [
+      "The Father is distinguished from the Son by an infinite distinction, namely himself."
+    ],
+    "concepts": [
+      "personal distinction",
+      "infinity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e139"
+      ]
+    }
+  },
+  "rh-l1q4-d1e746": {
+    "summary": "Continues: the distinction is the divine essence and so infinite, but it does not follow that the persons are distinguished infinitely, just as being distinguished by a distinction that is the essence does not make them distinguished essentially.",
+    "claims": [
+      "Being distinguished by an infinite distinction does not imply being infinitely distinguished."
+    ],
+    "concepts": [
+      "adverbial and nominal predication",
+      "personal distinction",
+      "divine essence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e727"
+      ]
+    }
+  },
+  "rh-l1q4-d1e762": {
+    "summary": "Gives the common view of the doctors. Personal distinction is minimal and incomparable to distinctions among creatures, so Father and Son are infinitely less distinct than Socrates and Plato (like a point compared with a line). Hence they are distinguished neither finitely nor infinitely but indivisibly.",
+    "claims": [
+      "Personal distinction is minimal and incomparable to creaturely distinction.",
+      "The persons are distinguished indivisibly, neither finitely nor infinitely."
+    ],
+    "concepts": [
+      "minimal distinction",
+      "indivisible distinction",
+      "incommensurability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e139"
+      ]
+    }
+  },
+  "rh-l1q4-d1e787": {
+    "summary": "Objection: the persons are distinguished either more or less than Socrates and Plato; if less or equally, then finitely. Reply: less, but it does not follow that it is finitely.",
+    "claims": [
+      "Being less distinct than Socrates and Plato does not imply finite distinction."
+    ],
+    "concepts": [
+      "degrees of distinction",
+      "finite distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e762"
+      ]
+    }
+  },
+  "rh-l1q4-d1e796": {
+    "summary": "Further objection: what is less distinct than finitely distinct things is finitely distinct. Denied for things that are infinitely less distinct.",
+    "claims": [
+      "Things infinitely less distinct than finitely distinct things need not be finitely distinct."
+    ],
+    "concepts": [
+      "infinitely lesser distinction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e787"
+      ]
+    }
+  },
+  "rh-l1q4-d1e807": {
+    "summary": "Reply to the third argument. Denies that whatever belongs to the Father is better to be than not. Anselm says only that whatever belongs to God apart from relation is better to be than not.",
+    "claims": [
+      "Anselm's rule of pure perfections applies only to non-relational attributes."
+    ],
+    "concepts": [
+      "perfectio simpliciter",
+      "relations",
+      "Anselm"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e139"
+      ]
+    }
+  },
+  "rh-l1q4-d1e825": {
+    "summary": "Reply to the fourth argument on composition. Grants that a constituent differs from what it constitutes, but denies that the Father is constituted by paternity. The doctors' language of constitution is metaphorical and follows our imperfect way of understanding: paternity would constitute the Father only if essence and paternity were two things like matter and form. Nothing there is elicitive of operation except a person.",
+    "claims": [
+      "The Father is not constituted by paternity.",
+      "Talk of constitution in God is metaphorical and follows our mode of understanding.",
+      "Only a person is elicitive of operation in God."
+    ],
+    "concepts": [
+      "constitution of persons",
+      "paternity",
+      "modus intelligendi",
+      "divine simplicity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e139"
+      ]
+    }
+  },
+  "rh-l1q4-d1e862": {
+    "summary": "Reply to the fifth argument. Denies that the essence generates. There is no valid expository syllogism where the thing pointed to is one and three: 'this God creates, this God is the Trinity' with true premises is no good form. Natural logic may fail in matters of faith, just as faith posits creation, which natural philosophy cannot reach, and principles that moral science does not grant.",
+    "claims": [
+      "The divine essence does not generate.",
+      "Expository syllogism fails where the thing pointed to is one and three.",
+      "Natural logic may fail in matters of faith."
+    ],
+    "concepts": [
+      "expository syllogism",
+      "logic of faith",
+      "limits of natural logic",
+      "creation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e139"
+      ]
+    }
+  },
+  "rh-l1q4-d1e904": {
+    "summary": "Develops a distinct 'logic of faith'. Following Averroes, there is a universal logic and a logic proper to each science, so there must be a logic of faith, as there is a distinct logic of obligations. The philosophers never saw a thing that is one and three, so their rules omit it. The logic of faith's rules: absolute terms are predicated of the three in the singular, not the plural; and unity carries its consequence except where relational opposition blocks it. Hence a valid-looking third-figure syllogism ('this essence is the Father, this essence is the Son, so the Son is the Father') has its conclusion denied.",
+    "claims": [
+      "There is a logic of faith distinct from natural logic.",
+      "Absolute terms are predicated of the three persons only in the singular.",
+      "Inferences through identity fail where relational opposition intervenes."
+    ],
+    "concepts": [
+      "logica fidei",
+      "syllogism",
+      "relational opposition",
+      "obligationes",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e862"
+      ]
+    }
+  },
+  "rh-l1q4-d1e953": {
+    "summary": "Asks whether Aristotle's logic is formal. If formal logic means logic that holds in every matter, as Averroes says a per se conclusive argument must, then no. If it means logic that admits no counterinstance from natural inquiry into things known by sense, then yes.",
+    "claims": [
+      "Aristotelian logic is not formal in the sense of holding in every matter.",
+      "Aristotelian logic is formal relative to naturally known things."
+    ],
+    "concepts": [
+      "formal logic",
+      "Aristotelian logic",
+      "counterinstance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e904"
+      ]
+    }
+  },
+  "rh-l1q4-d1e975": {
+    "summary": "Replies to the sixth and seventh arguments. Nothing is properly communicated in God, since communication is to another; the essence is called communicable only because it is the same in three persons. In arguments about Christ a singular logic is needed: contradictories may be granted of one suppositum according to different natures, so 'this man is non-man' is true of the divine nature and false of the human, as Lombard grants that the same man is mortal and immortal.",
+    "claims": [
+      "Nothing is properly communicated in God.",
+      "Contradictory predicates hold of Christ according to different natures."
+    ],
+    "concepts": [
+      "communicability",
+      "Christology",
+      "communicatio idiomatum",
+      "reduplication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e139"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1022": {
+    "summary": "Reply to the eighth argument. 'God generates' and 'God does not generate' are not contradictories since they are verified for different supposita. If taken as contradictories, the negative is false: the inferences 'the Son does not generate, so God does not' and 'the essence does not generate, so God does not' are invalid.",
+    "claims": [
+      "'God generates' and 'God does not generate' are not contradictories.",
+      "From the Son's or the essence's not generating it does not follow that God does not generate."
+    ],
+    "concepts": [
+      "contradiction",
+      "supposition",
+      "trinitarian predication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e139"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1046": {
+    "summary": "Reply to the ninth argument. Denies that 'that which is the Son' and 'Son' are convertible, since the former is true of the Father, of whom 'Son' is not.",
+    "claims": [
+      "'That which is the Son' is not convertible with 'Son'."
+    ],
+    "concepts": [
+      "convertibility",
+      "supposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e329"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1057": {
+    "summary": "Reply to the tenth argument. The Spirit proceeds equally from Father and Son, and Averroes's dictum is irrelevant because Father and Son are not agent causes.",
+    "claims": [
+      "The Holy Spirit proceeds equally from Father and Son.",
+      "Father and Son are not agent causes of the Spirit."
+    ],
+    "concepts": [
+      "procession",
+      "Filioque",
+      "causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e345"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1068": {
+    "summary": "Replies that temporal procession is not eternal: 'proceeds temporally' and 'proceeds eternally' are not convertible.",
+    "claims": [
+      "Temporal procession is not eternal procession."
+    ],
+    "concepts": [
+      "temporal procession",
+      "eternal procession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e364"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1080": {
+    "summary": "Replies that Father and Son are one principle of the Spirit.",
+    "claims": [
+      "Father and Son are one principle of the Holy Spirit."
+    ],
+    "concepts": [
+      "principle of spiration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e364"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1085": {
+    "summary": "Reply to the eleventh argument. Grants the conditional that if there were infinitely many persons they would be compatible with supreme simplicity.",
+    "claims": [
+      "If there were infinite persons, they would be compatible with supreme simplicity."
+    ],
+    "concepts": [
+      "divine simplicity",
+      "counterfactual conditional"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e386"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1092": {
+    "summary": "Reply to the twelfth argument. Neither having nor not having a son is a pure perfection.",
+    "claims": [
+      "Neither having a son nor not having one is better simpliciter."
+    ],
+    "concepts": [
+      "perfectio simpliciter",
+      "relations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e397",
+        "rh-l1q4-d1e408"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1099": {
+    "summary": "Reply to the argument from 'of the substance of the Father'. Following Lombard, it means 'from the Father, who is the substance'.",
+    "claims": [
+      "'Of the substance of the Father' means 'from the Father who is the substance'."
+    ],
+    "concepts": [
+      "generation de substantia",
+      "Lombard"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e139",
+        "rh-l1q4-d1e430"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1108": {
+    "summary": "Reply to the quaternity objection. The Trinity is not a fourth thing but these three things, roughly as a composite of a, b, c is not a fourth thing, though the example is imperfect.",
+    "claims": [
+      "The Trinity is the three persons, not a fourth thing."
+    ],
+    "concepts": [
+      "Trinity",
+      "quaternity",
+      "whole and parts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e453"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1121": {
+    "summary": "Denies that personal unity is greater. It excludes some plurality, but not plurality compatible with supreme simplicity.",
+    "claims": [
+      "Personal unity is not greater than the unity of the Trinity."
+    ],
+    "concepts": [
+      "degrees of unity",
+      "divine simplicity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e463"
+      ]
+    }
+  },
+  "rh-l1q4-d1e1133": {
+    "summary": "Reply to the argument from ideas. There is only one idea, the divine essence, and Augustine speaks of ideas only to show that God knows all things. Some hold that Aristotle's contradictories are not verified of Father and Son, since 'the Son is non-Father' is false if it denies the essence and true if it denies only the relation.",
+    "claims": [
+      "The divine idea is one, the divine essence.",
+      "Augustine's ideas show God's knowledge of all things, not real plurality.",
+      "'The Son is non-Father' is true only as denying the relation."
+    ],
+    "concepts": [
+      "divine ideas",
+      "divine knowledge",
+      "contradiction",
+      "relation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l1q4-Dd1e562",
+        "rh-l1q4-d1e474"
+      ]
+    }
+  }
+}

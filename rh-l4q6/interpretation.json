@@ -1,0 +1,788 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-13T00:00:00Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "3215a79",
+    "generation_method": "hierarchical"
+  },
+  "rh-l4q6": {
+    "summary": "Holcot asks whether any priest can absolve anyone from any sin. He answers that absolution outside necessity requires both power of order and power of jurisdiction, and surveys the canonists' reserved cases and the cases permitting another confessor. He takes the anticlerical and pastoral objections seriously, especially that reserving occult sins can force breaches of the seal and expose penitents to danger. In such cases he holds that the priest should absolve and seek later ratification, since positive law yields to its charitable purpose.",
+    "claims": [
+      "Absolution requires order and jurisdiction outside necessity.",
+      "Reservation of occult sins yields when it would betray the penitent.",
+      "Positive law must not militate against charity."
+    ],
+    "concepts": [
+      "absolution",
+      "jurisdiction",
+      "reserved cases",
+      "seal of confession",
+      "canon law",
+      "epikeia"
+    ],
+    "_metadata": {
+      "level": "question",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q6-Dd1e103",
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-Dd1e781"
+      ]
+    }
+  },
+  "rh-l4q6-Dd1e103": {
+    "summary": "Opening statement: whether any priest can absolve anyone from any sin.",
+    "claims": [],
+    "concepts": [
+      "absolution"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q6-d1e105"
+      ]
+    }
+  },
+  "rh-l4q6-d1e105": {
+    "summary": "States the question: whether any priest can absolve anyone from any sin.",
+    "claims": [],
+    "concepts": [
+      "absolution",
+      "jurisdiction",
+      "reserved cases"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6"
+      ]
+    }
+  },
+  "rh-l4q6-Dd1e115": {
+    "summary": "Arguments that any priest can absolve anyone: the keys contain full power of order; jurisdiction seems an invention for temporal gain; power over Christ's true body includes power over the mystical body; the apostles needed no human jurisdiction; jurisdiction concerns only public matters. Hard cases are raised in which reserving occult sins forces priests to betray the seal or harm penitents. Canon law on episcopal reservations is cited for the opposite.",
+    "claims": [
+      "Requiring jurisdiction and reserving sins seem unwarranted and harmful."
+    ],
+    "concepts": [
+      "power of order",
+      "jurisdiction",
+      "reserved cases",
+      "seal of confession"
+    ],
+    "_metadata": {
+      "level": "rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q6-d1e120",
+        "rh-l4q6-d1e131",
+        "rh-l4q6-d1e176",
+        "rh-l4q6-d1e205",
+        "rh-l4q6-d1e217",
+        "rh-l4q6-d1e246",
+        "rh-l4q6-d1e253",
+        "rh-l4q6-d1e264",
+        "rh-l4q6-d1e280",
+        "rh-l4q6-d1e302",
+        "rh-l4q6-d1e381",
+        "rh-l4q6-d1e405",
+        "rh-l4q6-d1e425",
+        "rh-l4q6-d1e436"
+      ]
+    }
+  },
+  "rh-l4q6-d1e120": {
+    "summary": "First argument for: whoever has the keys has the whole power of order, which suffices to absolve from any sin.",
+    "claims": [
+      "The keys suffice to absolve from any sin."
+    ],
+    "concepts": [
+      "power of the keys",
+      "power of order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q6-d1e131": {
+    "summary": "Common reply: absolution in the forum of conscience requires both power of order and power of jurisdiction, by which someone is subjected to a priest by commission. An archdeacon may have jurisdiction without orders, and a priest orders without jurisdiction; a priest without cure of souls or privilege has jurisdiction only in danger of death, his keys bound for lack of subject matter.",
+    "claims": [
+      "Absolution requires both order and jurisdiction.",
+      "Without jurisdiction a priest's keys are bound except at death."
+    ],
+    "concepts": [
+      "power of jurisdiction",
+      "forum of conscience",
+      "articulus mortis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e120"
+      ]
+    }
+  },
+  "rh-l4q6-d1e176": {
+    "summary": "Against the reply: this power of jurisdiction seems introduced by those seeking temporal gain more than souls. A power ordered to two subordinate effects that can do the greater can do the lesser, and the priest's power over Christ's true body is infinitely greater than over his mystical body in absolving.",
+    "claims": [
+      "Jurisdiction seems a self-interested invention.",
+      "Power over Christ's true body implies power over the mystical body."
+    ],
+    "concepts": [
+      "anticlericalism",
+      "true and mystical body",
+      "greater includes lesser"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e131"
+      ]
+    }
+  },
+  "rh-l4q6-d1e205": {
+    "summary": "Confirmation: neither Testament mentions power of jurisdiction; any levitical priest could cleanse any leper.",
+    "claims": [
+      "Scripture knows no separate jurisdiction."
+    ],
+    "concepts": [
+      "levitical priesthood",
+      "leprosy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e176"
+      ]
+    }
+  },
+  "rh-l4q6-d1e217": {
+    "summary": "Further: Christ gave the power to absolve to apostles and disciples (John 20), and the ordained receive as much now, else the sacrament would be weaker; they awaited no further jurisdiction from men, so neither should priests now.",
+    "claims": [
+      "The apostles needed no further human jurisdiction."
+    ],
+    "concepts": [
+      "John 20",
+      "apostolic power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e131"
+      ]
+    }
+  },
+  "rh-l4q6-d1e246": {
+    "summary": "Confirmation: no one has jurisdiction over the pope, yet he can sin and be absolved.",
+    "claims": [
+      "The pope's absolution shows jurisdiction is not required."
+    ],
+    "concepts": [
+      "papal confession"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e217"
+      ]
+    }
+  },
+  "rh-l4q6-d1e253": {
+    "summary": "Further: jurisdiction extends only to public matters subject to judicial sentence, so in occult matters any priest can absolve anyone.",
+    "claims": [
+      "In occult sins any priest can absolve."
+    ],
+    "concepts": [
+      "occult and public sins"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q6-d1e264": {
+    "summary": "Confirmation: sacramental absolution does not derogate from a public judge's process, which restores justice and punishes public scandal rather than correcting conscience.",
+    "claims": [
+      "Sacramental absolution does not interfere with public justice."
+    ],
+    "concepts": [
+      "two fora",
+      "scandal"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e253"
+      ]
+    }
+  },
+  "rh-l4q6-d1e280": {
+    "summary": "Common reply: not every priest or curate can absolve his subject even in occult matters, since jurisdiction comes from a superior who can restrict it and reserve cases to deter crimes, sending penitents to the bishop or his penitentiary.",
+    "claims": [
+      "Superiors can reserve even occult sins."
+    ],
+    "concepts": [
+      "reserved cases",
+      "episcopal penitentiary"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e253"
+      ]
+    }
+  },
+  "rh-l4q6-d1e302": {
+    "summary": "Against: the seal of confession must be kept even at the cost of death. If the bishop reserves five publicly known cases and John confesses one, sending him to the bishop reveals to neighbors that he committed one of them. A servant or unemancipated son who robbed a church cannot ask leave to go to the bishop without becoming suspect, accused, imprisoned, and defamed, all because his priest cannot absolve him of occult sins, and he may meet neighbors on the way.",
+    "claims": [
+      "Reserving occult sins can force breaches of the seal."
+    ],
+    "concepts": [
+      "seal of confession",
+      "reserved cases",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e280"
+      ]
+    }
+  },
+  "rh-l4q6-d1e381": {
+    "summary": "Further: a noblewoman who cannot travel without a retinue, a non-exempt religious under a restrictive superior, or a wife bound to her husband face the same problem, or the priest may judge that sending them would betray an occult crime. So occult sins should not be so generally reserved.",
+    "claims": [
+      "General reservation of occult sins is inexpedient."
+    ],
+    "concepts": [
+      "practical hardship",
+      "reserved cases"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e302"
+      ]
+    }
+  },
+  "rh-l4q6-d1e405": {
+    "summary": "Further: the bishop reserves voluntary homicide. a kills b, who before dying says someone of the parish killed him; a, a servant whose master would kill him if he learned of it, confesses. What should the priest do?",
+    "claims": [
+      "A hard case about a reserved homicide."
+    ],
+    "concepts": [
+      "homicide",
+      "casus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e280"
+      ]
+    }
+  },
+  "rh-l4q6-d1e425": {
+    "summary": "If he absolves, he cannot, the case being reserved; if he sends him, he betrays the crime and causes his death and becomes irregular; if neither, he wrongs a subject to whom he owes the sacraments.",
+    "claims": [
+      "Every option in the reserved homicide case is wrong."
+    ],
+    "concepts": [
+      "perplexity",
+      "irregularity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115",
+        "rh-l4q6-d1e405"
+      ]
+    }
+  },
+  "rh-l4q6-d1e436": {
+    "summary": "For the opposite: common usage of the Church and law determine that a bishop can reserve crimes, as for arsonists (Causa 23).",
+    "claims": [
+      "Bishops can reserve crimes."
+    ],
+    "concepts": [
+      "Decretum",
+      "arson"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e115"
+      ]
+    }
+  },
+  "rh-l4q6-Dd1e454": {
+    "summary": "Holcot answers no: absolution outside necessity requires jurisdiction. He catalogues, after Raymond of Peñafort and Hostiensis, eight cases reserved to superiors and eight in which a penitent may confess to another priest. He insists that one must never confess to a soliciting priest and that positive law does not extend beyond its charitable intention.",
+    "claims": [
+      "Absolution outside necessity requires jurisdiction.",
+      "Positive law does not bind against its charitable intention."
+    ],
+    "concepts": [
+      "reserved cases",
+      "choice of confessor",
+      "Hostiensis",
+      "epikeia"
+    ],
+    "_metadata": {
+      "level": "responsio",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q6-d1e459",
+        "rh-l4q6-d1e490",
+        "rh-l4q6-d1e518",
+        "rh-l4q6-d1e524",
+        "rh-l4q6-d1e531",
+        "rh-l4q6-d1e547",
+        "rh-l4q6-d1e623",
+        "rh-l4q6-d1e630",
+        "rh-l4q6-d1e656",
+        "rh-l4q6-d1e643",
+        "rh-l4q6-d1e677",
+        "rh-l4q6-d1e688",
+        "rh-l4q6-d1e695",
+        "rh-l4q6-d1e711",
+        "rh-l4q6-d1e716",
+        "rh-l4q6-d1e721",
+        "rh-l4q6-d1e727",
+        "rh-l4q6-d1e734"
+      ]
+    }
+  },
+  "rh-l4q6-d1e459": {
+    "summary": "Answer: no. A priest licensed by neither bishop nor curate, with no subject matter for jurisdiction, cannot absolve from any mortal sin outside necessity. For curates and licensed confessors two things must be examined: in which cases a parish priest must send his subject to a superior, and in which a subject may leave his curate for another priest.",
+    "claims": [
+      "Not every priest can absolve anyone; jurisdiction is required outside necessity."
+    ],
+    "concepts": [
+      "jurisdiction",
+      "licensed confessors"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454"
+      ]
+    }
+  },
+  "rh-l4q6-d1e490": {
+    "summary": "On the first: formerly a priest could absolve all but five cases (Raymond of Peñafort), but Hostiensis lists eight.",
+    "claims": [
+      "Canonists list reserved cases."
+    ],
+    "concepts": [
+      "Raymond of Peñafort",
+      "Hostiensis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e459"
+      ]
+    }
+  },
+  "rh-l4q6-d1e518": {
+    "summary": "First: where solemn penance must be imposed.",
+    "claims": [
+      "Solemn penance is reserved."
+    ],
+    "concepts": [
+      "solemn penance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e490"
+      ]
+    }
+  },
+  "rh-l4q6-d1e524": {
+    "summary": "Second: those excommunicated by canon, whom the bishop can sometimes absolve and sometimes not.",
+    "claims": [
+      "Canonical excommunication is reserved."
+    ],
+    "concepts": [
+      "excommunication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e490"
+      ]
+    }
+  },
+  "rh-l4q6-d1e531": {
+    "summary": "Third: irregularity, in which the bishop can dispense or send to the pope, for clerics seeking orders; but a priest can absolve the sin that caused it.",
+    "claims": [
+      "Irregularity is reserved, not the underlying sin."
+    ],
+    "concepts": [
+      "irregularity",
+      "dispensation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e490"
+      ]
+    }
+  },
+  "rh-l4q6-d1e547": {
+    "summary": "Fourth: arsonists, defined as those who on their own authority maliciously burn cities, houses, or crops, or aid them. Burning churches or sacred places incurs automatic excommunication reserved to the pope; other arson is to be excommunicated and absolvable by the bishop. Burning in a just war under a prince is licit. Where custom makes all arsonists excommunicate ipso facto (as in Germany) with prelates' approval, it holds. Breakers of churches are likewise excommunicate and reserved to the pope.",
+    "claims": [
+      "Church arson is reserved to the pope.",
+      "Arson in a just war is licit."
+    ],
+    "concepts": [
+      "arson",
+      "excommunication latae sententiae",
+      "just war",
+      "custom"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e490"
+      ]
+    }
+  },
+  "rh-l4q6-d1e623": {
+    "summary": "Fifth: public crime, such as blasphemy.",
+    "claims": [
+      "Public blasphemy is reserved."
+    ],
+    "concepts": [
+      "blasphemy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e490"
+      ]
+    }
+  },
+  "rh-l4q6-d1e630": {
+    "summary": "Sixth: broken vows.",
+    "claims": [
+      "Broken vows are reserved."
+    ],
+    "concepts": [
+      "vows"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e490"
+      ]
+    }
+  },
+  "rh-l4q6-d1e656": {
+    "summary": "Seventh: if the bishop himself heard a subject's confession, an inferior cannot punish it.",
+    "claims": [
+      "What a bishop heard cannot be judged by an inferior."
+    ],
+    "concepts": [
+      "hierarchy of jurisdiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e490"
+      ]
+    }
+  },
+  "rh-l4q6-d1e643": {
+    "summary": "Eighth: where custom reserves crimes to the bishop, such as mothers overlaying children, homicide, forgery, sacrilege, violation of churches and liberties, sorcery, sodomy and bestiality, incest, violation of nuns, restitution, perjury, clandestine marriage; bishops sometimes send these to Rome for enormity. So say the jurists.",
+    "claims": [
+      "Custom reserves many grave crimes to bishops or Rome."
+    ],
+    "concepts": [
+      "customary reservations",
+      "jurists"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e490"
+      ]
+    }
+  },
+  "rh-l4q6-d1e677": {
+    "summary": "Second inquiry: when may someone other than one's own priest absolve? Eight cases, the first when the priest is indiscreet.",
+    "claims": [
+      "An indiscreet priest may be bypassed."
+    ],
+    "concepts": [
+      "choice of confessor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e459"
+      ]
+    }
+  },
+  "rh-l4q6-d1e688": {
+    "summary": "Second: vagabonds without fixed domicile, under no determinate jurisdiction.",
+    "claims": [
+      "Vagabonds may confess anywhere."
+    ],
+    "concepts": [
+      "vagabonds",
+      "domicile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e677"
+      ]
+    }
+  },
+  "rh-l4q6-d1e695": {
+    "summary": "Third: one who has changed domicile or is travelling; for pilgrims some say any parish priest is their own.",
+    "claims": [
+      "Travelers may confess to any parish priest."
+    ],
+    "concepts": [
+      "pilgrims",
+      "domicile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e677"
+      ]
+    }
+  },
+  "rh-l4q6-d1e711": {
+    "summary": "Fourth: by reason of the offense, as when excommunication is incurred.",
+    "claims": [
+      "Excommunication may require another confessor."
+    ],
+    "concepts": [
+      "excommunication"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e677"
+      ]
+    }
+  },
+  "rh-l4q6-d1e716": {
+    "summary": "Fifth: by reason of study, as students.",
+    "claims": [
+      "Students may confess away from home."
+    ],
+    "concepts": [
+      "students"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e677"
+      ]
+    }
+  },
+  "rh-l4q6-d1e721": {
+    "summary": "Sixth: in time of necessity.",
+    "claims": [
+      "Necessity permits any confessor."
+    ],
+    "concepts": [
+      "necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e677"
+      ]
+    }
+  },
+  "rh-l4q6-d1e727": {
+    "summary": "Seventh: according to Hostiensis, if a parish priest trusts in another's prayers.",
+    "claims": [
+      "A priest may defer to another's ministry."
+    ],
+    "concepts": [
+      "Hostiensis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e677"
+      ]
+    }
+  },
+  "rh-l4q6-d1e734": {
+    "summary": "Eighth: if the priest reveals confessions or solicits to evil. In these cases one should ask one's own priest's leave except in danger of death, and may go elsewhere if refused; travelers and merchants without leave can be absolved by others only in necessity. One must never confess to a soliciting priest, which is like having no priest; this does not transgress the Church's precept, since positive law does not extend beyond its maker's intention, and what was instituted for charity must not militate against charity.",
+    "claims": [
+      "One must not confess to a priest who solicits to evil.",
+      "Positive law does not extend beyond the lawgiver's intention.",
+      "What is instituted for charity must not militate against charity."
+    ],
+    "concepts": [
+      "solicitation",
+      "epikeia",
+      "intention of the lawgiver",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e454",
+        "rh-l4q6-d1e677"
+      ]
+    }
+  },
+  "rh-l4q6-Dd1e781": {
+    "summary": "Power over Christ's true body is immediate, while power over the mystical body requires jurisdiction, which the apostles received from Peter. In hard cases where reservation would expose an occult sin, the priest should absolve and ask for later ratification, since the sacrament's essence and the penitent's reputation take precedence and what is instituted for charity must not militate against charity.",
+    "claims": [
+      "Jurisdiction mediates power over the mystical body.",
+      "Reservation yields when it would betray the penitent."
+    ],
+    "concepts": [
+      "order and jurisdiction",
+      "seal of confession",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "responsio ad rationes principales",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "rh-l4q6-d1e786",
+        "rh-l4q6-d1e815",
+        "rh-l4q6-d1e826"
+      ]
+    }
+  },
+  "rh-l4q6-d1e786": {
+    "summary": "Reply to the first: absolution requires order and jurisdiction. 'What can do the greater can do the lesser' holds only where the power is equally immediately ordered to both. Power over Christ's true body is given immediately with priesthood, over the mystical body only secondarily, so it cannot act on the latter without prior jurisdiction.",
+    "claims": [
+      "Power over the true body is immediate, over the mystical body mediated by jurisdiction."
+    ],
+    "concepts": [
+      "order and jurisdiction",
+      "true and mystical body"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e781",
+        "rh-l4q6-d1e120",
+        "rh-l4q6-d1e176"
+      ]
+    }
+  },
+  "rh-l4q6-d1e815": {
+    "summary": "Reply to the second: the apostles received jurisdiction from Peter, though this is not recorded.",
+    "claims": [
+      "The apostles received jurisdiction from Peter."
+    ],
+    "concepts": [
+      "Petrine jurisdiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e781",
+        "rh-l4q6-d1e217"
+      ]
+    }
+  },
+  "rh-l4q6-d1e826": {
+    "summary": "On reservation of occult sins: whatever positive human law says, what belongs to the sacrament's essence must be observed principally. In the cases alleged, which occur in fact, the priest should absolve his subject and enjoin him, if ever he can come to the bishop, to reveal it and seek ratification, since the priest must strive to conceal occult crime and protect his subject's reputation. In such cases reservation is void, since what is instituted for charity must not militate against charity.",
+    "claims": [
+      "In hard cases a priest should absolve reserved occult sins and seek later ratification.",
+      "Reservation is void where it would betray the penitent.",
+      "The seal and the penitent's reputation take precedence over reservation."
+    ],
+    "concepts": [
+      "seal of confession",
+      "epikeia",
+      "reserved cases",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "rh-l4q6-Dd1e781",
+        "rh-l4q6-d1e302",
+        "rh-l4q6-d1e381",
+        "rh-l4q6-d1e405"
+      ]
+    }
+  }
+}
